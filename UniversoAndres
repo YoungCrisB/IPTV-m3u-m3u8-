@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1,∞ DEJAR CARGAR EL CANAL PARA QUE DE HD Y PROSPERO AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR 
+#EXTINF:-1,∞ DEJAR CARGAR EL CANAL PARA QUE DE HD Y PROSPERO AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR
 FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
 pastebin.com/raw/uZWjGXav
 raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres
+https://cdn.eso.org/images/screen/eso1329d.jpg
 #EXTINF:-1,CARACOL
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1,TV AGRO
@@ -19,6 +20,10 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1,CANALA U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,TNT HD
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/503.ts
+#EXTINF:-1,LA 2
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/546.ts
 #EXTINF:-1,LA SEXTA  
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1,NOVA
@@ -81,20 +86,28 @@ http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/589.ts
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,TELEMAX  
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,M. ESTRENOS
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/536.ts
 #EXTINF:-1,GOLDEN PREMIER SD
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
 #EXTINF:-1,CLAN
 http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/569.ts
 #EXTINF:-1,MILENIO
 http://189.216.247.113/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
+#EXTINF:-1,A1HD
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/526.ts
 #EXTINF:-1,ANTI TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,A HD
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/528.ts
 #EXTINF:-1,CANAL+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 canal+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
 #EXTINF:-1,SPACE
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1,TELEMICRO 5
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+#EXTINF:-1,PARAMOUNT
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/511.ts
 #EXTINF:-1,GALA TV
 http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 #EXTINF:-1,TEN HD
@@ -107,12 +120,16 @@ http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/554.ts
 http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/508.ts
 #EXTINF:-1,CANAL TNT
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/584.ts
 #EXTINF:-1,TATA
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
 #EXTINF:-1,SUPER INDIAN
 http://130.185.144.63:8000/live/indian/indian/191.ts
 #EXTINF:-1,ONE DUBAI TV  
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1,M. SeriesXtraHD
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/531.ts
 #EXTINF:-1,AZTECA 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1,AZTECA HONDURAS
@@ -131,10 +148,14 @@ http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1,UNICANAL
 http://strm.unicanal.com.py/live/unicanal_src.m3u8
+#EXTINF:-1,CRIMEN INVESTIGACION
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/565.ts
 #EXTINF:-1,FORO
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,NASA
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+#EXTINF:-1,CANAL ODISEA
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/574.ts
 #EXTINF:-1,ANIMAUX
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,Animal Planet
@@ -235,6 +256,8 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklis
 http://109.226.105.33:4022/udp/232.0.1.18:1234
 #EXTINF:-1,Dance/EDM
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1,CLASSICA
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/568.ts
 #EXTINF:-1,Hip-Hop And R&B
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
 #EXTINF:-1,Hit List
@@ -263,6 +286,10 @@ http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/557.ts
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1,RAI SPORTS HD
 http://originstream12.rai.it/italy/raisport1_1800/chunklist.m3u8
+#EXTINF:-1,TELEDEPORTE
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/504.ts
+#EXTINF:-1,GOL
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/551.ts
 #EXTINF:-1,SOBRE RUEDAS
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
 #EXTINF:-1,M. MOTOGP
@@ -311,7 +338,9 @@ http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/8.ts
 http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/9.ts
 #EXTINF:-1,Andr
 http://185.186.244.80:8080/movie/www.janberyan.com-/jano/1138.mp4
-#EXTINF:-1,======BeIN Sports HD1=======
+#EXTINF:-1,ABUDHABI SPORTS
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,BeIN Sports HD1
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1084.ts
 #EXTINF:-1,BeINSPORTS News
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/996.ts
@@ -337,7 +366,7 @@ http://185.186.244.80:8080/live/www.janberyan.com-/jano/1005.ts
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1006.ts
 #EXTINF:-1,BeINSPORTS 10HD
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1007.ts
-#EXTINF:-1,========BeIN Sports HD2=========
+#EXTINF:-1,BeIN Sports HD2
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1499.ts
 #EXTINF:-1,Bein 1
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1491.ts
@@ -355,9 +384,7 @@ http://185.186.244.80:8080/live/www.janberyan.com-/jano/1496.ts
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1497.ts
 #EXTINF:-1,Bein 8
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1498.ts
-#EXTINF:-1,ABUDHABI SPORTS
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,======BeIN SPORTS SD=======
+#EXTINF:-1,BeIN SPORTS SD
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1435.ts
 #EXTINF:-1,BEIN SPORTS 1SD
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1436.ts
@@ -371,7 +398,7 @@ http://185.186.244.80:8080/live/www.janberyan.com-/jano/1439.ts
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1440.ts
 #EXTINF:-1,BEIN SPORTS 6SD
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1441.ts
-#EXTINF:-1,========BeIN Sports 2G=========
+#EXTINF:-1,BeIN Sports 2G
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1487.ts
 #EXTINF:-1,BEIN SPORTS 1 2G
 http://185.186.244.80:8080/live/www.janberyan.com-/jano/1481.ts
