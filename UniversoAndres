@@ -298,6 +298,8 @@ http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/533.ts
 http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/Stream(06)/index.m3u8
 #EXTINF:-1,CLARO_SPORTS
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:-1,BARCA TV
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/582.ts
 #EXTINF:-1,REAL MADRID
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1,REDBULL
