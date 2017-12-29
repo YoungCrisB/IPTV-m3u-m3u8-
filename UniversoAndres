@@ -20,10 +20,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1,CANALA U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1,TNT HD
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/503.ts
-#EXTINF:-1,LA 2
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/546.ts
 #EXTINF:-1,LA SEXTA  
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1,NOVA
@@ -58,18 +54,12 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1,A1 Film
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/549.ts
 #EXTINF:-1,TELEMUNDO ORIGINAL
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1,AXN
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/585.ts
 #EXTINF:-1,MEDITERRANEO
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
 #EXTINF:-1,CLASICOS ACS
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
-#EXTINF:-1,TCM
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/507.ts
 #EXTINF:-1,Extremo
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,ACTION
@@ -80,56 +70,34 @@ http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1,ANTIESTRES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,A&E
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/589.ts
 #EXTINF:-1,MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,TELEMAX  
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,M. ESTRENOS
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/536.ts
 #EXTINF:-1,GOLDEN PREMIER SD
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1,CLAN
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/569.ts
 #EXTINF:-1,MILENIO
 http://189.216.247.113/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
-#EXTINF:-1,A1HD
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/526.ts
 #EXTINF:-1,ANTI TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,A HD
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/528.ts
 #EXTINF:-1,CANAL+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
 #EXTINF:-1,SPACE
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1,TELEMICRO 5
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
-#EXTINF:-1,PARAMOUNT
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/511.ts
 #EXTINF:-1,GALA TV
 http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 #EXTINF:-1,TEN HD
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
-#EXTINF:-1,FOXLIFE
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/553.ts
-#EXTINF:-1,FOX
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/554.ts
-#EXTINF:-1,SYFY HD
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/508.ts
 #EXTINF:-1,CANAL TNT
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/584.ts
 #EXTINF:-1,TATA
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
 #EXTINF:-1,SUPER INDIAN
 http://130.185.144.63:8000/live/indian/indian/191.ts
 #EXTINF:-1,ONE DUBAI TV  
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1,M. SeriesXtraHD
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/531.ts
 #EXTINF:-1,AZTECA 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1,AZTECA HONDURAS
@@ -148,28 +116,18 @@ http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1,UNICANAL
 http://strm.unicanal.com.py/live/unicanal_src.m3u8
-#EXTINF:-1,CRIMEN INVESTIGACION
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/565.ts
 #EXTINF:-1,FORO
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,NASA
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
-#EXTINF:-1,CANAL ODISEA
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/574.ts
 #EXTINF:-1,ANIMAUX
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,Animal Planet
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
-#EXTINF:-1,NAT GEO
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/516.ts
 #EXTINF:-1,NAT GEO WILD
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1,NAT
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/519.ts
 #EXTINF:-1,RT DOC
 http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
-#EXTINF:-1,HISTORIA
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/550.ts
 #EXTINF:-1,1KD
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,SENAL COLOMBIA
@@ -178,26 +136,12 @@ http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
 #EXTINF:-1,VALERIAN FULL HD
 https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
-#EXTINF:-1,PANDA
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/572.ts
 #EXTINF:-1,Rai Yoyo  
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 #EXTINF:-1,Rai Gulp  
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1,BOING
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/578.ts
-#EXTINF:-1,NICK JR  
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/515.ts
-#EXTINF:-1,NICKELODEON
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/514.ts
 #EXTINF:-1,Tacho Pistacho
 http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
-#EXTINF:-1,Disney 1
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/562.ts
-#EXTINF:-1,Disney
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/561.ts
-#EXTINF:-1,Disney XD
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/560.ts
 #EXTINF:-1,El Chavo Animado  
 http://3.sendvid.com/y00xutjl.mp4
 #EXTINF:-1,Карусель karrucel
@@ -256,8 +200,6 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklis
 http://109.226.105.33:4022/udp/232.0.1.18:1234
 #EXTINF:-1,Dance/EDM
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1,CLASSICA
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/568.ts
 #EXTINF:-1,Hip-Hop And R&B
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
 #EXTINF:-1,Hit List
@@ -278,28 +220,16 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 #EXTINF:-1,ESPN3
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/556.ts
-#EXTINF:-1,EUROSPORT 2
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/557.ts
 #EXTINF:-1,NBA
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1,RAI SPORTS HD
 http://originstream12.rai.it/italy/raisport1_1800/chunklist.m3u8
-#EXTINF:-1,TELEDEPORTE
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/504.ts
-#EXTINF:-1,GOL
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/551.ts
 #EXTINF:-1,SOBRE RUEDAS
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
-#EXTINF:-1,M. MOTOGP
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/533.ts
 #EXTINF:-1,F1 HD
 http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/Stream(06)/index.m3u8
 #EXTINF:-1,CLARO_SPORTS
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
-#EXTINF:-1,BARCA TV
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/582.ts
 #EXTINF:-1,REAL MADRID
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1,REDBULL
