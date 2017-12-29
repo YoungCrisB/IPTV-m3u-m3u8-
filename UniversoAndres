@@ -287,38 +287,40 @@ http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/557.ts
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1,RAI SPORTS HD 
 http://originstream12.rai.it/italy/raisport1_1800/chunklist.m3u8
-#EXTINF:-1,BeinSport 1  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/38.ts
-#EXTINF:-1,BeinSport 2  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/39.ts
-#EXTINF:-1,SkySport 1  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/51.ts
-#EXTINF:-1,SkySport 2  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/52.ts
-#EXTINF:-1,Sky Bundersliga 1  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/56.ts
-#EXTINF:-1,Sky Bundersliga 2  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/55.ts
-#EXTINF:-1,KujtesaSport 1  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/35.ts
-#EXTINF:-1,KujtesaSport 2  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/36.ts
-#EXTINF:-1,BeinSport 3  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/40.ts
-#EXTINF:-1,BeinSport 4  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/41.ts
-#EXTINF:-1,BeinSport 5  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/42.ts
-#EXTINF:-1,ArenaSport 1  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/53.ts
-#EXTINF:-1,ArenaSport 2  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/54.ts
-#EXTINF:-1,TringSport 1  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/3.ts
-#EXTINF:-1,SuperSport 1  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/8.ts
-#EXTINF:-1,SuperSport 2  
-http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/9.ts
+#EXTINF:-1,SkySport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/51.ts
+#EXTINF:-1,SkySport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/52.ts
+#EXTINF:-1,Sky Bundersliga 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/56.ts
+#EXTINF:-1,Sky Bundersliga 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/55.ts
+#EXTINF:-1,KujtesaSport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/35.ts
+#EXTINF:-1,KujtesaSport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/36.ts
+#EXTINF:-1,BeinSport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/38.ts
+#EXTINF:-1,BeinSport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/39.ts
+#EXTINF:-1,BeinSport 3
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/40.ts
+#EXTINF:-1,BeinSport 4
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/41.ts
+#EXTINF:-1,BeinSport 5
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/42.ts
+#EXTINF:-1,ArenaSport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/53.ts
+#EXTINF:-1,ArenaSport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/54.ts
+#EXTINF:-1,TringSport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/3.ts
+#EXTINF:-1,TringSport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/4.ts
+#EXTINF:-1,SuperSport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/8.ts
+#EXTINF:-1,SuperSport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/9.ts
 #EXTINF:-1,SOBRE RUEDAS
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
 #EXTINF:-1,F1 HD 
