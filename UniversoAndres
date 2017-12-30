@@ -6,73 +6,74 @@ raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres
 #EXTGRP:ADMIN 
 http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1,CARACOL
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1,TV AGRO
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:-1,RCN
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1,TELECAFE
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 #EXTINF:-1,CNC
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
 #EXTINF:-1,TELEANTIOQUIA
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 #EXTINF:-1,TELEMEDELLIN
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1,CANALA U
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 #EXTINF:-1,TELE CARIBE
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
 #EXTINF:-1,CANAL TRO
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,CALI 
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8, Telecafe | SD
 #EXTINF:-1,TELE ISLAS
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1,Teleenvigado
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 #EXTINF:-1,Red+
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
 #EXTINF:-1,Canal 1
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
 #EXTINF:-1,LA SEXTA  
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1,NOVA
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1,ANTENA 3
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-1,TV5MONDE
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:-1,RAI PREMIUM
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1,RAI MOVIE
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
 #EXTINF:-1,1KD
 #EXTGRP:NIÑOS KIDS
+#EXTGRP:VARIEDAD VARIETY 
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,CLASICOS ACS
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1,WOW TV
 #EXTGRP:NIÑOS KIDS
@@ -114,7 +115,7 @@ http://stream.latino-webtv.com/series/simpsons.mp4
 #EXTGRP:NIÑOS KIDS
 http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 #EXTINF:-1,CANAL 26 Argentina
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:-1,DW
 #EXTGRP:NOTICIAS NEWS
@@ -135,109 +136,109 @@ http://api.new.livestream.com/accounts/13988764/events/4133355/live.m3u8
 #EXTGRP:NOTICIAS NEWS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 #EXTINF:-1,FASHION 
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:-1,FASHION EN 4K
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://persik.by/stream/176/296165/10317.m3u8
 #EXTINF:-1,LIFE
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:-1,15 tv
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1,TC CANAL
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1,A1 Film
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
 #EXTINF:-1,TELEMUNDO ORIGINAL
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1,CDN
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
 #EXTINF:-1,MEDITERRANEO
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
 #EXTINF:-1,Extremo
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,ACTION
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,TELE UNO
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1,Neox
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1,ANTIESTRES
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,MEGA
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,TELEMAX  
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,GOLDEN PREMIER SD
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
 #EXTINF:-1,ANTI TV
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,CANAL+
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
 #EXTINF:-1,SPACE
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1,TEN HD
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
 #EXTINF:-1,CANAL TNT
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
 #EXTINF:-1,TATA
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://130.185.144.63:8000/live/indian/indian/191.ts
 #EXTINF:-1,SUPER INDIAN
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
 #EXTINF:-1,ONE DUBAI TV  
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1,AZTECA 13
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1,AZTECA HONDURAS
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,AZTECA PLUS
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ESTRELLAS
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1,VMAS TV
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 #EXTINF:-1,Senal Institucional
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
 #EXTINF:-1,Tec TV
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 #EXTINF:-1,ADN TV
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1,UNICANAL
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://strm.unicanal.com.py/live/unicanal_src.m3u8
 #EXTINF:-1,FORO
-#EXTGRP:DE TODO ALL 
+#EXTGRP:VARIEDAD VARIETY 
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,NASA
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
