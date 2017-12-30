@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1,∞ DEJAR CARGAR EL CANAL PARA QUE DE HD Y PROSPERO AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR
 FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
-pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres
+pastebin.com/raw/uZWjGXav
+raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres
 https://cdn.eso.org/images/screen/eso1329d.jpg
 #EXTINF:-1,CARACOL
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
@@ -90,11 +91,93 @@ http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 #EXTINF:-1,TEN HD
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
 #EXTINF:-1,CANAL TNT
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
 #EXTINF:-1,TATA
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
-#EXTINF:-1,SUPER INDIAN
 http://130.185.144.63:8000/live/indian/indian/191.ts
+#EXTINF:-1,HBO HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/181.ts
+#EXTINF:-1,HBO 3 HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/183.ts
+#EXTINF:-1,HBO 2 HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/182.ts
+#EXTINF:-1,Fox Life HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/159.ts
+#EXTINF:-1,FOX LIFE
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/186.ts
+#EXTINF:-1,Fox HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/121.ts
+#EXTINF:-1,Fox Crime HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/77.ts
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/188.ts
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/187.ts
+#EXTINF:-1,Cinestar Fantasy
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/191.ts
+#EXTINF:-1,Cinemax HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/189.ts
+#EXTINF:-1,Cinemax 2 HD
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/190.ts
+#EXTINF:-1,MBC ACTION
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1036.ts
+#EXTINF:-1,MBC BOLLYWOOD
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1039.ts
+#EXTINF:-1,MBC DRAMA
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1037.ts
+#EXTINF:-1,MBC DRAMA HD
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1038.ts
+#EXTINF:-1,MBC MAX
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1035.ts
+#EXTINF:-1,CBC DRAMA
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1471.ts
+#EXTINF:-1,UNIVERS
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1125.ts
+#EXTINF:-1,Star-Movies
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1446.ts
+#EXTINF:-1,OSN:WWE HD
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1134.ts
+#EXTINF:-1,OSN:STAR WORLD HD
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1132.ts
+#EXTINF:-1,OSN:On Demand Horror
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1136.ts
+#EXTINF:-1,OSN:Fox Movie HD
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1133.ts
+#EXTINF:-1,OSN:ART AFLAM 2
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1127.ts
+#EXTINF:-1,OSN:ART AFLAM 1
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1126.ts
+#EXTINF:-1,OSN-Musalsalat2
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1447.ts
+#EXTINF:-1,OSN-Musalsalat1
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1480.ts
+#EXTINF:-1,OSN-Movies-Premiere2
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1460.ts
+#EXTINF:-1,OSN-Movies-Premiere
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1459.ts
+#EXTINF:-1,OSN-Movies-First
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1458.ts
+#EXTINF:-1,OSN-Movies-Festival
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1456.ts
+#EXTINF:-1,OSN-Movies-Drama
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1461.ts
+#EXTINF:-1,OSN-Movies-Comedy
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1457.ts
+#EXTINF:-1,OSN-Movies-Action2
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1455.ts
+#EXTINF:-1,OSN_Animal_Planet
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1519.ts
+#EXTINF:-1,osn yahalahd
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1128.ts
+#EXTINF:-1,OSN MOVIES+2
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1454.ts
+#EXTINF:-1,OSN MOVIES
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1453.ts
+#EXTINF:-1,OSN FOX ACTION HD
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1137.ts
+#EXTINF:-1,OSN FIRST HBO
+http://185.186.244.80:8080/live/www.janberyan.com-/jano/1131.ts
+#EXTINF:-1,SUPER INDIAN
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
 #EXTINF:-1,ONE DUBAI TV  
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1,AZTECA 13
@@ -119,6 +202,8 @@ http://strm.unicanal.com.py/live/unicanal_src.m3u8
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,NASA
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+#EXTINF:-1,Discovery Science 
+http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/204.ts
 #EXTINF:-1,ANIMAUX
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,Animal Planet
@@ -129,6 +214,8 @@ http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m
 http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 #EXTINF:-1,1KD
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,CDN
+http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
 #EXTINF:-1,SENAL COLOMBIA
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,CANAL 5
@@ -147,12 +234,14 @@ http://3.sendvid.com/y00xutjl.mp4
 http://5.137.208.250:1234/udp/225.54.205.136:5000
 #EXTINF:-1,LOS SIMPSONS
 http://stream.latino-webtv.com/series/simpsons.mp4
+#EXTINF:-1,GAMERS SHOWS
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 #EXTINF:-1,Europa Plus TV
 http://213.178.36.198:4022/udp/232.1.4.2:1235
 #EXTINF:-1,1MUSIC
 http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1,MUSIC BOX TV
-http://109.126.45.247:4022/udp/224.3.28.167:1234
+#EXTINF:-1,1HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
 #EXTINF:-1,Rock
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
 #EXTINF:-1,Metal
@@ -177,8 +266,8 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
 #EXTINF:-1,HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1,MCM Top
-http://5.137.205.100:1234/udp/233.7.70.3:5000
+#EXTINF:-1,TOP MUSIC
+http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/428.ts
 #EXTINF:-1,MTV INDIA
 http://130.185.144.63:8000/live/indian/indian/153.ts
 #EXTINF:-1,INDI MUSIC
