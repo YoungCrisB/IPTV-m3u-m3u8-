@@ -68,22 +68,9 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1,RAI MOVIE
 #EXTGRP:VARIEDAD VARIETY 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
-#EXTINF:-1,1KD
-#EXTGRP:NIÑOS KIDS
-#EXTGRP:VARIEDAD VARIETY 
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,CLASICOS ACS
 #EXTGRP:VARIEDAD VARIETY 
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
-#EXTINF:-1,WOW TV
-#EXTGRP:NIÑOS KIDS
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,NIU TV
-#EXTGRP:NIÑOS KIDS
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:-1,Locomotion
-#EXTGRP:NIÑOS KIDS
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1,SENAL COLOMBIA
 #EXTGRP:NIÑOS KIDS
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
@@ -108,6 +95,18 @@ http://3.sendvid.com/y00xutjl.mp4
 #EXTINF:-1,Disney 
 #EXTGRP:NIÑOS KIDS
 http://176.107.177.139:25500/Disney 
+#EXTINF:-1,1KD
+#EXTGRP:NIÑOS KIDS
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,WOW 
+#EXTGRP:NIÑOS KIDS
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,NIU 
+#EXTGRP:NIÑOS KIDS
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,LOCOMOTION
+#EXTGRP:NIÑOS KIDS
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1,LOS SIMPSONS
 #EXTGRP:NIÑOS KIDS
 http://stream.latino-webtv.com/series/simpsons.mp4
