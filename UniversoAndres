@@ -80,17 +80,9 @@ http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
 #EXTINF:-1,ANTI TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,CANAL+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
 #EXTINF:-1,SPACE
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1,TELEMICRO 5
-http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
-#EXTINF:-1,GALA TV
-http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
-#EXTINF:-1,TEN HD
-http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
-#EXTINF:-1,CANAL TNT
+#EXTINF:-1,THT
 http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
 #EXTINF:-1,TATA
 http://130.185.144.63:8000/live/indian/indian/191.ts
@@ -118,64 +110,6 @@ http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/191.ts
 http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/189.ts
 #EXTINF:-1,Cinemax 2 HD
 http://radiomocvara.ddns.net:8000/live/olxpikfrree/fkWQ0pG4el/190.ts
-#EXTINF:-1,MBC ACTION
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1036.ts
-#EXTINF:-1,MBC BOLLYWOOD
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1039.ts
-#EXTINF:-1,MBC DRAMA
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1037.ts
-#EXTINF:-1,MBC DRAMA HD
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1038.ts
-#EXTINF:-1,MBC MAX
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1035.ts
-#EXTINF:-1,CBC DRAMA
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1471.ts
-#EXTINF:-1,UNIVERS
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1125.ts
-#EXTINF:-1,Star-Movies
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1446.ts
-#EXTINF:-1,OSN:WWE HD
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1134.ts
-#EXTINF:-1,OSN:STAR WORLD HD
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1132.ts
-#EXTINF:-1,OSN:On Demand Horror
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1136.ts
-#EXTINF:-1,OSN:Fox Movie HD
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1133.ts
-#EXTINF:-1,OSN:ART AFLAM 2
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1127.ts
-#EXTINF:-1,OSN:ART AFLAM 1
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1126.ts
-#EXTINF:-1,OSN-Musalsalat2
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1447.ts
-#EXTINF:-1,OSN-Musalsalat1
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1480.ts
-#EXTINF:-1,OSN-Movies-Premiere2
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1460.ts
-#EXTINF:-1,OSN-Movies-Premiere
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1459.ts
-#EXTINF:-1,OSN-Movies-First
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1458.ts
-#EXTINF:-1,OSN-Movies-Festival
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1456.ts
-#EXTINF:-1,OSN-Movies-Drama
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1461.ts
-#EXTINF:-1,OSN-Movies-Comedy
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1457.ts
-#EXTINF:-1,OSN-Movies-Action2
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1455.ts
-#EXTINF:-1,OSN_Animal_Planet
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1519.ts
-#EXTINF:-1,osn yahalahd
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1128.ts
-#EXTINF:-1,OSN MOVIES+2
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1454.ts
-#EXTINF:-1,OSN MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1453.ts
-#EXTINF:-1,OSN FOX ACTION HD
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1137.ts
-#EXTINF:-1,OSN FIRST HBO
-http://185.186.244.80:8080/live/www.janberyan.com-/jano/1131.ts
 #EXTINF:-1,SUPER INDIAN
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
 #EXTINF:-1,ONE DUBAI TV  
