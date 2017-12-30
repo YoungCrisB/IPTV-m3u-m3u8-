@@ -3,7 +3,7 @@
 FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
 pastebin.com/raw/uZWjGXav
 raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres
-https://static.vix.com/es/sites/default/files/e/el_origen_del_universo.jpg
+http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1,CARACOL
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1,TV AGRO
@@ -20,6 +20,20 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1,CANALA U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,Telecaribe
+https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
+#EXTINF:-1,Canal TRO
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Cali TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8, Telecafe | SD
+#EXTINF:-1,Tele Islas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1,Teleenvigado
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1,Red+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
+#EXTINF:-1,Canal 1
+http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
 #EXTINF:-1,LA SEXTA  
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1,NOVA
@@ -36,6 +50,12 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,CLASICOS ACS
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:-1,WOW TV | SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,NIU TV
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1,SENAL COLOMBIA
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,CANAL 5
@@ -51,7 +71,9 @@ http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
 #EXTINF:-1,El Chavo Animado  
 http://3.sendvid.com/y00xutjl.mp4
 #EXTINF:-1,Карусель karrucel
-http://5.137.208.250:1234/udp/225.54.205.136:5000
+http://176.107.177.139:25500/Retro 
+#EXTINF:-1,Disney 
+http://176.107.177.139:25500/Disney 
 #EXTINF:-1,LOS SIMPSONS
 http://stream.latino-webtv.com/series/simpsons.mp4
 #EXTINF:-1,GAMERS SHOWS
@@ -63,16 +85,18 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://secure-streams.akamaized.net/rt-esp/index2500.m3u8
 #EXTINF:-1,France 24
-http://5.137.208.250:1234/udp/233.7.70.30:5000
-#EXTINF:-1,France 24 ING
-http://109.226.105.33:4022/udp/232.0.1.63:1235
+http://79.172.66.222:4022/udp/239.255.10.45:5500 
 #EXTINF:-1,CNN CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+#EXTINF:-1,NTN24
+http://api.new.livestream.com/accounts/13988764/events/4133355/live.m3u8
 #EXTINF:-1,CANAL EL TIEMPO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,FASHION EN 4K
+http://persik.by/stream/176/296165/10317.m3u8
 #EXTINF:-1,LIFE
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
-#EXTINF:-1,ENERGIA
+#EXTINF:-1,15 tv
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1,TC CANAL
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
@@ -100,18 +124,12 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&r
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,GOLDEN PREMIER SD
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1,MILENIO
-http://189.216.247.113/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
 #EXTINF:-1,ANTI TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,CANAL+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
 #EXTINF:-1,SPACE
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1,TELEMICRO 5
-http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
-#EXTINF:-1,GALA TV
-http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 #EXTINF:-1,TEN HD
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
 #EXTINF:-1,CANAL TNT
@@ -203,7 +221,7 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8?JoCaRo
 #EXTINF:-1,MTV CHINA
 http://203.170.145.201:9981/stream/channelid/1646557078
 #EXTINF:-1,MTV LIVE
-http://31.28.50.65:4022/udp/232.0.2.51:1234
+http://176.107.177.139:25500/MTVHits 
 #EXTINF:-1,R&B Soul
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
 #EXTINF:-1,Bridge DANCE
@@ -220,8 +238,20 @@ https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 http://listaiptv.brcs.ml:8080/HD_ESPN/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa  
 #EXTINF:-1,ESPN Brasil HD
 http://listaiptv.brcs.ml:8080/HD_ESPN_BRASIL/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF:-1,Матч! Футбол 1 HD FULL HD  1080P
+#EXTINF:-1,MONSTER TRUK
+http://158.140.214.11:9981/stream/channelid/413245407?ticket=6ED1CB15E15DF14B5C76A4173141D93D803D9039&profile=pass
+#EXTINF:-1,Матч! Футбол 1 HD HD FULL HD  1080P
 http://persik.by/stream/176/296165/10266.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://persik.by/stream/176/296165/10267.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://persik.by/stream/176/296165/10268.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://persik.by/stream/176/296165/33.m3u8
+#EXTINF:-1,Матч! Футбол 2 
+http://persik.by/stream/176/296165/10217.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://persik.by/stream/176/296165/770.m3u8
 #EXTINF:-1,Футбол 2
 http://62.16.23.8:34040/udp/239.2.66.77:1234
 #EXTINF:-1,ESPN
@@ -234,6 +264,32 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1,RAI SPORTS HD
 http://originstream12.rai.it/italy/raisport1_1800/chunklist.m3u8
+#EXTINF:-1,Eurosport 1
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,Pac-12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,Pac-12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,Pac-12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,Pac-12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,Pac-12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1,Pac-12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,Rugby TV
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Telecaribe Deportes
+https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
+#EXTINF:-1,WAPA 2
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@176092/master.m3u8
+#EXTINF:-1,NBC Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,SOBRE RUEDAS
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
 #EXTINF:-1,F1 HD
