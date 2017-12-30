@@ -72,6 +72,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
 #EXTGRP:NIÑOS KIDS
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,CLASICOS ACS
+#EXTGRP:DE TODO ALL 
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1,WOW TV
 #EXTGRP:NIÑOS KIDS
@@ -371,6 +372,7 @@ http://persik.by/stream/176/296165/10268.m3u8
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/33.m3u8
 #EXTINF:-1,Матч! Футбол 2 
+#EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10217.m3u8
 #EXTINF:-1,Матч! Футбол 3
 #EXTGRP:DEPORTES SPORTS
@@ -484,6 +486,7 @@ http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/42.ts
 #EXTGRP:DEPORTES SPORTS
 http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/53.ts
 #EXTINF:-1,ArenaSport 2
+#EXTGRP:DEPORTES SPORTS
 http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/54.ts
 #EXTINF:-1,TringSport 1
 #EXTGRP:DEPORTES SPORTS
@@ -534,6 +537,7 @@ http://185.186.244.80:8080/live/www.janberyan.com/jano55/1003.ts
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com/jano55/1004.ts
 #EXTINF:-1,BeINSPORTS 8
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com/jano55/1005.ts
 #EXTINF:-1,BeINSPORTS 9
 #EXTGRP:DEPORTES SPORTS
@@ -566,6 +570,7 @@ http://185.186.244.80:8080/live/www.janberyan.com/jano55/1496.ts
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com/jano55/1497.ts
 #EXTINF:-1,Bein 8
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com/jano55/1498.ts
 #EXTINF:-1,BeIN SPORTS SD
 #EXTGRP:DEPORTES SPORTS
