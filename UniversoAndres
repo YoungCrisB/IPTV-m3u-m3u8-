@@ -73,7 +73,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
 #EXTINF:-1,RAI MOVIE HD
 #EXTGRP:VARIEDAD VARIETY 
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
-#EXTINF:-1,EURO CHANNEL
+#EXTINF:-1,4
 #EXTGRP:VARIEDAD VARIETY 
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1,TF1 
@@ -124,22 +124,19 @@ http://persik.by/stream/176/296165/32.m3u8
 #EXTINF:-1,El Chavo Animado  
 #EXTGRP:NIÑOS KIDS
 http://3.sendvid.com/y00xutjl.mp4
-#EXTINF:-1,KARRU 
-#EXTGRP:NIÑOS KIDS
-http://109.248.87.156:3371/udp/239.195.32.20:1234
 #EXTINF:-1,1KD
 #EXTGRP:NIÑOS KIDS
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,WOW 
 #EXTGRP:NIÑOS KIDS
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,NIU 
-#EXTGRP:NIÑOS KIDS
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1,LOCOMOTION
 #EXTGRP:NIÑOS KIDS
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1,LOS SIMPSONS
+#EXTINF:-1,LOS SIMPSONS NIU
+#EXTGRP:NIÑOS KIDS
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,LOS SIMPSONS 
 #EXTGRP:NIÑOS KIDS
 http://stream.latino-webtv.com/series/simpsons.mp4
 #EXTINF:-1,GAMERS SHOWS
@@ -217,10 +214,7 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 #EXTINF:-1,Extremo
 #EXTGRP:VARIEDAD VARIETY 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,ACTION
-#EXTGRP:VARIEDAD VARIETY 
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/170.ts
-#EXTINF:-1,ACTION 2
+#EXTINF:-1,ACTION 
 #EXTGRP:VARIEDAD VARIETY 
 http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,TELE UNO
@@ -256,7 +250,7 @@ http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b
 #EXTINF:-1,CANAL TNT
 #EXTGRP:VARIEDAD VARIETY 
 http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
-#EXTINF:-1,TATA
+#EXTINF:-1,TATA SKY
 #EXTGRP:VARIEDAD VARIETY 
 http://130.185.144.63:8000/live/indian/indian/191.ts
 #EXTINF:-1,SUPER INDIAN
@@ -274,7 +268,7 @@ http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&r
 #EXTINF:-1,AZTECA PLUS
 #EXTGRP:VARIEDAD VARIETY 
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESTRELLAS
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
 #EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1,VMAS TV
@@ -283,9 +277,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 #EXTINF:-1,Senal Institucional
 #EXTGRP:VARIEDAD VARIETY 
 http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
-#EXTINF:-1,Discovery Science 
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.40/280/2/index.m3u8
 #EXTINF:-1,Tec TV
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
@@ -349,12 +340,19 @@ http://tv.105.net:1935/live/virgin1/index.m3u8
 #EXTINF:-1,Bridge Classic
 #EXTGRP:MUSIC
 http://37.9.150.230:4022/udp/232.0.1.27:1234
-#EXTINF:-1,VH1 Classic
+#EXTINF:-1,CLASSIC OTTO
+http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+#EXTINF:-1,ROCK LATINO
 #EXTGRP:MUSIC
-http://109.126.45.247:4022/udp/224.3.24.18:1234
-#EXTINF:-1,TOP 80s
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
+#EXTINF:-1,TVPop
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+#EXTINF:-1,SUPER RETRO
 #EXTGRP:MUSIC
-http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/277.ts
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
+#EXTINF:-1,Planeta
+#EXTGRP:MUSIC
+http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:-1,90s
 #EXTGRP:MUSIC
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
@@ -403,9 +401,6 @@ http://176.107.177.139:25500/MTVHits
 #EXTINF:-1,R&B Soul
 #EXTGRP:MUSIC
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1,Bridge DANCE
-#EXTGRP:MUSIC
-http://109.226.105.33:4022/udp/232.0.1.18:1234
 #EXTINF:-1,Dance/EDM
 #EXTGRP:MUSIC
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
@@ -418,15 +413,6 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklis
 #EXTINF:-1,JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:O, ESPN Brasil  
-#EXTGRP:DEPORTES SPORTS
-http://listaiptv.brcs.ml:8080/HD_ESPN/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa  
-#EXTINF:-1,ESPN Brasil HD
-#EXTGRP:DEPORTES SPORTS
-http://listaiptv.brcs.ml:8080/HD_ESPN_BRASIL/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF:-1,MONSTER TRUK
-#EXTGRP:DEPORTES SPORTS
-http://158.140.214.11:9981/stream/channelid/413245407?ticket=6ED1CB15E15DF14B5C76A4173141D93D803D9039&profile=pass
 #EXTINF:-1,Матч! Футбол 1 HD HD FULL HD  1080P
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10266.m3u8
@@ -577,54 +563,15 @@ http://185.186.244.80:8080/movie/www.janberyan.com-/jano/1138.mp4
 #EXTINF:-1,Bein Sport 2
 #EXTGRP:DEPORTES SPORTS
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/3.ts
-#EXTINF:-1,Bein Sport 3
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/4.ts
-#EXTINF:-1,Bein sport 1 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/59.ts
 #EXTINF:-1,Bein sport 2 
 #EXTGRP:DEPORTES SPORTS
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/59.ts
-#EXTINF:-1,BEIN SPORT 5
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/8.ts
-#EXTINF:-1,BEIN SPORT 7
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/11.ts
-#EXTINF:-1,BEIN SPORT 8
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/12.ts
-#EXTINF:-1,AD Sports HD
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/164.ts
-#EXTINF:-1,AD Sports 2 HD 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/165.ts
-#EXTINF:-1,ARENA SPORT 1
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/27.ts
-#EXTINF:-1,ARENA SPORT 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/28.ts
-#EXTINF:-1,ARENA SPORT 3
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/29.ts
 #EXTINF:-1,ABUDHABI SPORTS
 #EXTGRP:DEPORTES SPORTS
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,ABUDHABI 2 SPORTS
 #EXTGRP:DEPORTES SPORTS
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,BeIN Sports 1
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1084.ts
-#EXTINF:-1,BeINSPORTS News
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/996.ts
-#EXTINF:-1,BeINSPORTS Global
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/997.ts
 #EXTINF:-1,BeINSPORTS 1
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com/jano55/998.ts
@@ -899,9 +846,6 @@ http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
 #EXTINF:-1,30 DIAS DE NOCHE 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/30%20Days%20of%20Night%20%282007%29/30%20Days%20Of%20Night%20%282007%29%20%281%29.mkv
-#EXTINF:-1,ASESINO DE LA CARRETERA 
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
 #EXTINF:-1,EL ORFANATO 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol/El%20Orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol.mkv
@@ -938,9 +882,6 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014
 #EXTINF:-1,CARRIE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
-#EXTINF:-1,CARRIE (2013)
-#EXTGRP:PELICULAS MOVIES
-http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/Carrie%20%282013%29%20Alternate%20Ending%20%281%29.mkv
 #EXTINF-1,CHUCKY EL MUÑECO DIABOLICO 
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
@@ -959,9 +900,6 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Seed%20of%20Chucky%20%282004%
 #EXTINF-1,LA MALDICION DE CHUCKY 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/Curse%20Of%20Chucky%20%282013%29%20Unrated%20%281%29.mkv
-#EXTINF:-1,DESTINO FINAL 
-#EXTGRP:PELICULAS MOVIES
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
 #EXTINF:-1,DESTINO FINAL 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
@@ -1090,27 +1028,6 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20%282009
 #EXTINF:-1, La Casa
 #EXTGRP:PELICULAS MOVIES
 http://cinevall.com/videos/la_casa.m4v
-#EXTINF:-1, CORRE QUE TE ALCANZO
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
-#EXTINF:-1,Asesino de La Carretera
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
-#EXTINF:-1,Hallowen
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
-#EXTINF:-1,El dia del apocalipsis
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
-#EXTINF:-1,La Marca de la Bestia
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
-#EXTINF:-1,Horas de oscuridad
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4
-#EXTINF:-1,El mensajero de la oscuridad
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4
 #EXTINF:-1,Volver Al Futuro
 #EXTGRP:PELICULAS MOVIES
 https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4
@@ -1135,12 +1052,6 @@ http://cecegeek@goo.gl/UWWRe5
 #EXTINF:-1,Harry Potter Y El Prisionero De Azkaban
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/NKgGxD
-#EXTINF:-1,Chucky El Muñeco Diabolico
-#EXTGRP:PELICULAS MOVIES
-http://cecegeek@goo.gl/YowBkJ
-#EXTINF:-1,Chucky El Muñeco Diabolico II 
-#EXTGRP:PELICULAS MOVIES
-http://cecegeek@goo.gl/xnNiv2
 #EXTINF:-1,Luna De Miel En Familia
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/zWzJ9v
@@ -1153,24 +1064,9 @@ http://cecegeek@goo.gl/NmTmoq
 #EXTINF:-1,Los Hermanos Grimm 
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
-#EXTINF:-1,Mary Poppins (1964)
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/s/t0/9nqyk_480p.mp4
 #EXTINF:-1,Alexander Y Un Dia Terrible, Horrible, Malo...
 #EXTGRP:PELICULAS MOVIES
 https://ia600508.us.archive.org/16/items/ALEXANDERYSUDIAMALOMUYMALO...HORRIBLE/ALEXANDER%20Y%20SU%20DIA%20MALO%2C%20MUY%20MALO...%20HORRIBLE.mp4
-#EXTINF:-1,Mios, Tuyos Y Nuestros 
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/o/r0/lvhyk_360p.mp4
-#EXTINF:-1,Mi Novia Es Un Fantasma 
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/j/r0/2uhyk_360p.mp4
-#EXTINF:-1,Una Chica Sin Limites
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/j/r0/3uhyk_360p.mp4
-#EXTINF:-1,Un Seductor Irresistible
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/l/j0/pghyk_360p.mp4
 #EXTINF:-1,Triste San Valentin 
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
@@ -1625,9 +1521,6 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014
 #EXTINF:-1,CARRIE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
-#EXTINF:-1,CARRIE (2013)
-#EXTGRP:PELICULAS MOVIES
-http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/Carrie%20%282013%29%20Alternate%20Ending%20%281%29.mkv
 #EXTINF-1,CHUCKY EL MUÑECO DIABOLICO 
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
@@ -1774,30 +1667,6 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20
 #EXTINF:-1,VIERNES 13 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20%282009%29%20Extended/Friday%20The%2013th%20%282009%29%20Extended%20%281%29.mkv
-#EXTINF:-1, La Casa
-#EXTGRP:PELICULAS MOVIES
-http://cinevall.com/videos/la_casa.m4v
-#EXTINF:-1, CORRE QUE TE ALCANZO
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
-#EXTINF:-1,Asesino de La Carretera
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
-#EXTINF:-1,Hallowen
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
-#EXTINF:-1,El dia del apocalipsis
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
-#EXTINF:-1,La Marca de la Bestia
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
-#EXTINF:-1,Horas de oscuridad
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4
-#EXTINF:-1,El mensajero de la oscuridad
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4
 #EXTINF:-1,Volver Al Futuro
 #EXTGRP:PELICULAS MOVIES
 https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4
@@ -1840,24 +1709,9 @@ http://cecegeek@goo.gl/NmTmoq
 #EXTINF:-1,Los Hermanos Grimm 
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
-#EXTINF:-1,Mary Poppins (1964)
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/s/t0/9nqyk_480p.mp4
 #EXTINF:-1,Alexander Y Un Dia Terrible, Horrible, Malo...
 #EXTGRP:PELICULAS MOVIES
 https://ia600508.us.archive.org/16/items/ALEXANDERYSUDIAMALOMUYMALO...HORRIBLE/ALEXANDER%20Y%20SU%20DIA%20MALO%2C%20MUY%20MALO...%20HORRIBLE.mp4
-#EXTINF:-1,Mios, Tuyos Y Nuestros 
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/o/r0/lvhyk_360p.mp4
-#EXTINF:-1,Mi Novia Es Un Fantasma 
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/j/r0/2uhyk_360p.mp4
-#EXTINF:-1,Una Chica Sin Limites
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/j/r0/3uhyk_360p.mp4
-#EXTINF:-1,Un Seductor Irresistible
-#EXTGRP:PELICULAS MOVIES
-http://media-es-am.crackle.com/1/l/j0/pghyk_360p.mp4
 #EXTINF:-1,Triste San Valentin 
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
