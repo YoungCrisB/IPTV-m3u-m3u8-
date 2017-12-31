@@ -341,11 +341,13 @@ http://tv.105.net:1935/live/virgin1/index.m3u8
 #EXTGRP:MUSIC
 http://37.9.150.230:4022/udp/232.0.1.27:1234
 #EXTINF:-1,CLASSIC OTTO
+#EXTGRP:MUSIC
 http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
 #EXTINF:-1,ROCK LATINO
 #EXTGRP:MUSIC
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
 #EXTINF:-1,TVPop
+#EXTGRP:MUSIC
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1,SUPER RETRO
 #EXTGRP:MUSIC
