@@ -424,7 +424,7 @@ http://persik.by/stream/176/296165/10267.m3u8
 http://persik.by/stream/176/296165/10268.m3u8
 #EXTINF:-1,Матч! Футбол 1
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/176/296165/33.m3u8
+http://185.107.242.227:34040/udp/230.3.4.61:5678
 #EXTINF:-1,Матч! Футбол 2 
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10217.m3u8
