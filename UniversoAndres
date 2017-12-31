@@ -427,15 +427,6 @@ http://listaiptv.brcs.ml:8080/HD_ESPN_BRASIL/video.m3u8?token=97b2dc2c54a7dfd538
 #EXTINF:-1,MONSTER TRUK
 #EXTGRP:DEPORTES SPORTS
 http://158.140.214.11:9981/stream/channelid/413245407?ticket=6ED1CB15E15DF14B5C76A4173141D93D803D9039&profile=pass
-#EXTINF:-1,Матч Футбол 1
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/24.ts
-#EXTINF:-1,Матч Футбол 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/25.ts
-#EXTINF:-1,Матч Футбол 3
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/26.ts
 #EXTINF:-1,Матч! Футбол 1 HD HD FULL HD  1080P
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10266.m3u8
