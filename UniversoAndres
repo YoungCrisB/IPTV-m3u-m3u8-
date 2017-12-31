@@ -73,24 +73,9 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
 #EXTINF:-1,RAI MOVIE HD
 #EXTGRP:VARIEDAD VARIETY 
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
-#EXTINF:-1,EURO CHANNEL
+#EXTINF:-1,EL 4
 #EXTGRP:VARIEDAD VARIETY 
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1,TF1 
-#EXTGRP:VARIEDAD VARIETY 
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/36.ts
-#EXTINF:-1,HD1
-#EXTGRP:VARIEDAD VARIETY 
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/38.ts
-#EXTINF:-1,LCI
-#EXTGRP:VARIEDAD VARIETY 
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/39.ts
-#EXTINF:-1,C8 --www.ipmagtv.com
-#EXTGRP:VARIEDAD VARIETY 
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/183.ts
-#EXTINF:-1,M6--www.ipmagtv.com
-#EXTGRP:VARIEDAD VARIETY 
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/139.ts
 #EXTINF:-1,CLASICOS ACS
 #EXTGRP:VARIEDAD VARIETY 
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
@@ -157,9 +142,6 @@ http://persik.by/stream/176/296165/597.m3u8
 #EXTINF:-1,Nick Jr
 #EXTGRP:NIÑOS KIDS
 http://persik.by/stream/176/296165/946.m3u8
-#EXTINF:-1,Canal + ORIGINAL
-#EXTGRP:NIÑOS KIDS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/141.ts
 #EXTINF:-1,CANAL 26 Argentina
 #EXTGRP:VARIEDAD VARIETY 
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
@@ -220,9 +202,6 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 #EXTINF:-1,Extremo
 #EXTGRP:VARIEDAD VARIETY 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,ACTION
-#EXTGRP:VARIEDAD VARIETY 
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/170.ts
 #EXTINF:-1,ACTION 2
 #EXTGRP:VARIEDAD VARIETY 
 http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
@@ -292,9 +271,6 @@ http://185.231.160.40/280/2/index.m3u8
 #EXTINF:-1,Tec TV
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:-1,Discovery SC
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/138.ts
 #EXTINF:-1,ADN TV
 #EXTGRP:VARIEDAD VARIETY 
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
@@ -319,9 +295,6 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 #EXTINF:-1,NAT GEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1,NAT GEO 
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/128.ts
 #EXTINF:-1,RT DOC
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
@@ -430,15 +403,6 @@ http://listaiptv.brcs.ml:8080/HD_ESPN_BRASIL/video.m3u8?token=97b2dc2c54a7dfd538
 #EXTINF:-1,MONSTER TRUK
 #EXTGRP:DEPORTES SPORTS
 http://158.140.214.11:9981/stream/channelid/413245407?ticket=6ED1CB15E15DF14B5C76A4173141D93D803D9039&profile=pass
-#EXTINF:-1,Матч Футбол 1
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/24.ts
-#EXTINF:-1,Матч Футбол 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/25.ts
-#EXTINF:-1,Матч Футбол 3
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/26.ts
 #EXTINF:-1,Матч! Футбол 1 HD HD FULL HD  1080P
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10266.m3u8
@@ -460,12 +424,6 @@ http://persik.by/stream/176/296165/770.m3u8
 #EXTINF:-1,Футбол 2
 #EXTGRP:DEPORTES SPORTS
 http://62.16.23.8:34040/udp/239.2.66.77:1234
-#EXTINF:-1,Fox Sports 1
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/166.ts
-#EXTINF:-1,Fox Sports 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/167.ts
 #EXTINF:-1,ESPN
 #EXTGRP:DEPORTES SPORTS
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
@@ -484,30 +442,6 @@ http://originstream12.rai.it/italy/raisport1_1800/chunklist.m3u8
 #EXTINF:-1,Eurosport 1
 #EXTGRP:DEPORTES SPORTS
 http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1,Eurosport 1 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/174.ts
-#EXTINF:-1,Eurosport 2  -www.ipmagtv.com
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/175.ts
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE -www.ipmagtv.com
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/181.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/180.ts
-#EXTINF:-1,SKY SPORTS GOLF
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/179.ts
-#EXTINF:-1,SKY SPORTS CRICKET
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/178.ts
-#EXTINF:-1,SKY SPORTS ACTION
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/177.ts
-#EXTINF:-1,Sky Sport Arena HD 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/176.ts
 #EXTINF:-1,MLB
 #EXTGRP:DEPORTES SPORTS
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
@@ -532,18 +466,9 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1,Rugby TV
 #EXTGRP:DEPORTES SPORTS
 http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
-#EXTINF:-1,Canal + Sports  -www.ipmagtv.com
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/142.ts
 #EXTINF:-1,Telecaribe Deportes
 #EXTGRP:DEPORTES SPORTS
 https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
-#EXTINF:-1,digisport 1 HD -www.ipmagtv.com
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/153.ts
-#EXTINF:-1,digisport 2 HD 
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/151.ts
-#EXTINF:-1,digisport 3 HD
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/152.ts
 #EXTINF:-1,WAPA 2
 #EXTGRP:DEPORTES SPORTS
 https://dcunilive14-lh.akamaihd.net/i/dclive_1@176092/master.m3u8
@@ -622,66 +547,6 @@ http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/9.ts
 #EXTINF:-1,Andr
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/movie/www.janberyan.com-/jano/1138.mp4
-#EXTINF:Bein Sport 1 -www.ipmagtv.com
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/2.ts
-#EXTINF:-1,Bein Sport 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/3.ts
-#EXTINF:-1,Bein Sport 3
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/4.ts
-#EXTINF:-1,Bein sport 1 HD -www.ipmagtv.com
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/59.ts
-#EXTINF:-1,Bein Sport 1
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/5.ts
-#EXTINF:-1,Bein sport 2 HD
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/60.ts
-#EXTINF:-1,BEIN SPORT 2 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/6.ts
-#EXTINF:-1,Bein sport 3 HD
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/61.ts
-#EXTINF:-1,BEIN SPORT 3 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/9.ts
-#EXTINF:-1,BEIN SPORT 4
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/7.ts
-#EXTINF:-1,BEIN SPORT 5
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/8.ts
-#EXTINF:-1,BEIN SPORT 6
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/10.ts
-#EXTINF:-1,AR: BEIN SPORT
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/11.ts
-#EXTINF:-1,BEIN SPORT 8
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/12.ts
-#EXTINF:-1,AD Sports HD
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/164.ts
-#EXTINF:-1,AD Sports 2 HD 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/165.ts
-#EXTINF:-1,BT SPORT 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/145.ts
-#EXTINF:-1,ARENA SPORT 1
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/27.ts
-#EXTINF:-1,ARENA SPORT 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/28.ts
-#EXTINF:-1,ARENA SPORT 3
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3012-www.ipmagtv.com/HGGjjjKKjjjiiiji/29.ts
 #EXTINF:-1,ABUDHABI SPORTS
 #EXTGRP:DEPORTES SPORTS
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
@@ -1070,11 +935,9 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual
 #EXTINF-1,LA NOCHE DEL DEMONIO: CAPITULO 2 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-
 #EXTINF-1,LA NOCHE DEL DEMONIO: CAPITULO 3
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
-
 #EXTINF-1,PESADILLA EN LA CALLE DEL INFIERNO 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%281984%29/A%20Nightmare%20On%20Elm%20Street%20%281984%29.mkv
