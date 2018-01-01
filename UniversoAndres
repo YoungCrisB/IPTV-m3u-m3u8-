@@ -136,6 +136,9 @@ http://persik.by/stream/176/296165/946.m3u8
 #EXTINF:-1,Cartoon Network
 #EXTGRP:NIÑOS KIDS
 http://persik.by/stream/176/296165/32.m3u8
+#EXTINF:-1,PAQUE RADIO
+#EXTGRP:NIÑOS KIDS
+http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1,El Chavo Animado  
 #EXTGRP:NIÑOS KIDS
 http://3.sendvid.com/y00xutjl.mp4
@@ -253,9 +256,15 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&r
 #EXTINF:-1,TELEMAX  
 #EXTGRP:VARIEDAD VARIETY 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,GOLDEN PREMIER SD
+#EXTINF:-1,GOLDEN PLUS SD
 #EXTGRP:VARIEDAD VARIETY 
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,TNT
+#EXTGRP:VARIEDAD VARIETY 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,TNT HD
+#EXTGRP:VARIEDAD VARIETY 
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
 #EXTINF:-1,ANTI TV
 #EXTGRP:VARIEDAD VARIETY 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
@@ -1633,3 +1642,925 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+#EXTINF:-1,EN PRUEBA Fox
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/16.ts
+#EXTINF:-1,EN PRUEBA Fox Action
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/66.ts
+#EXTINF:-1,EN PRUEBA Fox Classics
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/69.ts
+#EXTINF:-1,EN PRUEBA Gala TV
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/11.ts
+#EXTINF:-1,EN PRUEBA Glitz
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/34.ts
+#EXTINF:-1,EN PRUEBA Golden
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/72.ts
+#EXTINF:-1,EN PRUEBA Golden Edge
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/79.ts
+#EXTINF:-1,EN PRUEBA GolTV
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/260.ts
+#EXTINF:-1,EN PRUEBA H2
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/140.ts
+#EXTINF:-1,EN PRUEBA HBO 2
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/125.ts
+#EXTINF:-1,EN PRUEBA HBO FAMILY
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/124.ts
+#EXTINF:-1,EN PRUEBA HBO
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/123.ts
+#EXTINF:-1,EN PRUEBA HBO PLUS
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/126.ts
+#EXTINF:-1,EN PRUEBA HBO PLUS OESTE
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/122.ts
+#EXTINF:-1,EN PRUEBA (ES) Antena 3 Internacional
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12938.ts
+#EXTINF:-1,EN PRUEBA (ES) Axn White HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12939.ts
+#EXTINF:-1,EN PRUEBA (ES) Barca TV
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12940.ts
+#EXTINF:-1,EN PRUEBA (ES) Bein Sport ES HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12941.ts
+#EXTINF:-1,EN PRUEBA (ES) BOING
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12967.ts
+#EXTINF:-1,EN PRUEBA (ES) Calle 13 Spain
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12942.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal   Accion HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12944.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal   Comedia HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12947.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Cocina
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12946.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Cuatro HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12948.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Dcine
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12949.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  de las Estrellas
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12950.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Deportes HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12951.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Estrenos HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12952.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Fox HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12953.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Futpol
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12954.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Golf
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12955.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12956.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Serie Xtra
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12959.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Series
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12960.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal  Toros
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12961.ts
+#EXTINF:-1,EN PRUEBA (ES) Canal Decasa
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12963.ts
+#EXTINF:-1,EN PRUEBA CANAL 4 azteka
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,EN PRUEBA Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,EN PRUEBA CANAL tnt
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:-1,EN PRUEBA TNT
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,EN PRUEBA SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1,EN PRUEBA TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,EN PRUEBA INFANTILES:DISNEY JR
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1,EN PRUEBA INFANTILES:LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,EN PRUEBA NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
+#EXTINF:-1,EN PRUEBA NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1,EN PRUEBA 
+http://www.xtremostereo.net/wp-content/uploads/2015/05/espn-logo.png"
+#EXTINF:-1,EN PRUEBA ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,EN PRUEBA UNIVISION
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+#EXTINF:-1,EN PRUEBA Panamericana TV (Alt) | SD
+https://cdnh15.iblups.com/hls/ptv.m3u8
+#EXTINF:-1,EN PRUEBA ATV | SD
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+#EXTINF:-1,EN PRUEBA Willax
+http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,EN PRUEBA NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1,EN PRUEBA 
+http://i.imgur.com/esSKT1T.jpg?Tvninjaxd"
+
+#EXTINF:-1,EN PRUEBA CANAL 5 chv
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA 
+http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png"
+
+#EXTINF:-1,EN PRUEBA 
+https://imgur.com/axvewxY.png"
+
+#EXTINF:-1,EN PRUEBA Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=oN
+
+#EXTINF:-1,EN PRUEBA A3S
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?
+
+#EXTINF:-1,EN PRUEBA ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA AMC
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA 
+http://i.imgur.com/Kkj5IF9.png"
+
+#EXTINF:-1,EN PRUEBA 
+http://www.toplatino.net/wp-content/uploads/2011/06/logo_toplatino_horiz_300x131.jpg"
+
+#EXTINF:-1,EN PRUEBA MUSIC JAPAN TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL 9 teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL 11 radio virgin
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:-1,EN PRUEBA tele musica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL 6
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1,EN PRUEBA Chelsea tv
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+
+#EXTINF:-1,EN PRUEBA Deport tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8?
+
+#EXTINF:-1,EN PRUEBA Madird tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,EN PRUEBA 
+http://3.bp.blogspot.com/-MxFVv8kb3V4/VOY5A8D-VaI/AAAAAAAAAPA/hsjTaa44_3s/s1600/icon.png"
+
+#EXTINF:-1,EN PRUEBA 
+http://i.imgur.com/XPEodnr.png"
+
+#EXTINF:-1,EN PRUEBA 
+http://4.bp.blogspot.com/-N2JWj9sGY3g/VM0ud4XFH6I/AAAAAAAAACI/d_CFWzH9pVQ/s1600/europaeuropa.png"
+
+#EXTINF:-1,EN PRUEBA 
+http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg"
+
+#EXTINF:-1,EN PRUEBA MEXICO:AZTECA A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,EN PRUEBA LATINOS:TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,EN PRUEBA Espa&ntilde;a:LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,EN PRUEBA Espa&ntilde;a:MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,EN PRUEBA FOX SPORT
+http://5g.iptvmanagerpro.com/stream_102_d0f8ecbae19153181e4c89ecd48244d7_1513214025.m3u8
+
+#EXTINF:-1,EN PRUEBA FOX SPORT 2
+http://5g.iptvmanagerpro.com/stream_77_764d9424af1ae308c12ac1813427c9f4_1513214025.m3u8
+
+#EXTINF:-1,EN PRUEBA ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA ESPN 2
+http://5g.iptvmanagerpro.com/stream_35_57d28d7bd35a8da64778cd086d49137f_1513214025.m3u8
+
+#EXTINF:-1,EN PRUEBA ESPN 3
+http://5g.iptvmanagerpro.com/stream_36_a14a3aae769585beb7e7cf25b994becc_1513214025.m3u8
+
+#EXTINF:-1,EN PRUEBA 
+http://i.imgur.com/21gsJZo.png"
+
+#EXTINF:-1,EN PRUEBA All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1,EN PRUEBA 
+https://listaiptvbrasil.com/logo/realmadrid.jpg?"
+
+#EXTINF:-1,EN PRUEBA 
+http://i.imgur.com/p7DAIKG.png"
+
+#EXTINF:-1,EN PRUEBA DEPORTV (ARG)
+http://ar.watcha.live/ch8/full.m3u8
+
+#EXTINF:-1,EN PRUEBA 
+https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg"
+
+#EXTINF:-1,EN PRUEBA 
+http://i.imgur.com/TbJa96g.png"
+
+#EXTINF:-1,EN PRUEBA 
+https://yt3.ggpht.com/-XuijP7vSFXM/AAAAAAAAAAI/AAAAAAAAAAA/30jUG_h7MHE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+
+#EXTINF:-1,EN PRUEBA sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8?
+
+#EXTINF:-1,EN PRUEBA Ep
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+
+#EXTINF:-1,EN PRUEBA ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+
+#EXTINF:-1,EN PRUEBA RTV ESPAÑOLA
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL 13 ESPAÑA
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+
+#EXTINF:-1,EN PRUEBA TV ESPAÑA
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+
+#EXTINF:-1,EN PRUEBA TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1,EN PRUEBA ANTENA 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+#EXTINF:-1,EN PRUEBA MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+
+#EXTINF:-1,EN PRUEBA TV MEDELLIN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL TRO COL
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL CDN CH
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,EN PRUEBA TELEFE
+http://coninfo.net:1935/13max/live/chunklist.m3u8
+
+#EXTINF:-1,EN PRUEBA TV ABERTA BR
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/chunklist_w2062126202.m3u8
+
+#EXTINF:-1,EN PRUEBA TV BR
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,EN PRUEBA UNICANAL
+http://strm.unicanal.com.py/live/unicanal_src.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,EN PRUEBA UNI+
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+
+#EXTINF:-1,EN PRUEBA (ES) Canal Deportes 2
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12962.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Caza Y Pesca
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12964.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Clan TVE
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12965.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Comedy Central
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12966.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Cuatro
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/13000.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Disney Chaneel
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12969.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Disney Junior
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12968.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Disney XD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12970.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Fox Life
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12972.ts
+
+#EXTINF:-1,EN PRUEBA (ES) History
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12973.ts
+
+#EXTINF:-1,EN PRUEBA (ES) La 1
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12976.ts
+
+#EXTINF:-1,EN PRUEBA (ES) La 2
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12977.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Movi Star F1
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12978.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Movis Star Moto Gp
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12979.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Taquilla 1
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12983.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Taquilla 3
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12986.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Taquilla 4
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12987.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Taquilla 5
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12988.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Taquilla 6
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12989.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Taquilla 8
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12991.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Taquilla 9
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12992.ts
+
+#EXTINF:-1,EN PRUEBA (ES) TCM
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12993.ts
+
+#EXTINF:-1,EN PRUEBA (ES) TELECINCO HD
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/13001.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Teledeportes
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12994.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Teleticino
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12995.ts
+
+#EXTINF:-1,EN PRUEBA (ES) TNT
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12996.ts
+
+#EXTINF:-1,EN PRUEBA (ES) Viajar
+http://tvhdglobal.dynu.com:6969/live/sofia/sofia/12998.ts
+
+#EXTINF:-1,EN PRUEBA FOX Comedy
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/150.ts
+
+#EXTINF:-1,EN PRUEBA FOX Deportes
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/240.ts
+
+#EXTINF:-1,EN PRUEBA FOX Family
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/210.ts
+
+#EXTINF:-1,EN PRUEBA Fox Life
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/35.ts
+
+#EXTINF:-1,EN PRUEBA Fox Series
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/65.ts
+
+#EXTINF:-1,EN PRUEBA Fox Sports Argentina HD
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/292.ts
+
+#EXTINF:-1,EN PRUEBA Fox Sports 2 Argentina HD
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/493.ts
+
+#EXTINF:-1,EN PRUEBA Fox Sports Uruguay HD
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/958.ts
+
+#EXTINF:-1,EN PRUEBA AMC
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA NICK JR
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/515.ts
+
+#EXTINF:-1,EN PRUEBA DISNEY CH HD
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/562.ts
+
+#EXTINF:-1,EN PRUEBA 
+http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png"
+
+#EXTINF:-1,EN PRUEBA ATRESERIES HD ESP
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA NOTICIAS:DW Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA BEIN SPORTS
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/579.ts
+
+#EXTINF:-1,EN PRUEBA FOX HD
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/554.ts
+
+#EXTINF:-1,EN PRUEBA Deportes:CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL 5 chv
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA Mexico:Las Estrellas -2hrs
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1,EN PRUEBA SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA INFANTILES:DISNEY JR
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,EN PRUEBA ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA SPACE HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL tnt
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+
+#EXTINF:-1,EN PRUEBA A3S
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA CANAL 4 azteka
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1,EN PRUEBA Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1,EN PRUEBA INFANTILES:LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1,EN PRUEBA NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA 
+http://www.xtremostereo.net/wp-content/uploads/2015/05/espn-logo.png"
+
+#EXTINF:-1,EN PRUEBA ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA UNIVISION
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+
+#EXTINF:-1,EN PRUEBA ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA ESPN 2
+http://5g.iptvmanagerpro.com/stream_35_57d28d7bd35a8da64778cd086d49137f_1513214025.m3u8
+
+#EXTINF:-1,EN PRUEBA ESPN 3
+http://5g.iptvmanagerpro.com/stream_36_a14a3aae769585beb7e7cf25b994becc_1513214025.m3u8
+
+#EXTINF:-1,EN PRUEBA 13 MAX DIGITAL
+http://coninfo.net:1935/13max/live/chunklist_w1212589458.m3u8
+
+#EXTINF:-1,EN PRUEBA NICK JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1,EN PRUEBA 
+http://strevista.com/wp-content/uploads/2017/03/hh_placeholder.jpg"
+
+#EXTINF:-1,EN PRUEBA HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:-1,EN PRUEBA La Tele Tuya
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,EN PRUEBA UNICANAL
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+
+#EXTINF:-1,EN PRUEBA Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF:-1,EN PRUEBA Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA INFORMACION TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
+
+#EXTINF:-1,EN PRUEBA A3 SERIES TV
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?
+
+#EXTINF:-1,EN PRUEBA CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+
+#EXTINF:-1,EN PRUEBA TDC FIRMAT
+http://painel.serveron.com.br:1935/8166/8166/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA Todo Deportes Tv
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1,EN PRUEBA Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA Megavision Canal 21 El Salvador
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA TV Uno (Costa Rica)
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8#erwin
+
+#EXTINF:-1,EN PRUEBA Deport Tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8#erwin
+
+#EXTINF:-1,EN PRUEBA REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on#erwin
+
+#EXTINF:-1,EN PRUEBA All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8#erwin
+
+#EXTINF:-1,EN PRUEBA ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+#EXTINF:-1,EN PRUEBA LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1,EN PRUEBA NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:-1,EN PRUEBA ATV Televisión Peruana
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u8
+
+#EXTINF:-1,EN PRUEBA Canal 13: RBC Televisión
+http://184.154.28.210:1935/rbc-tv/rbc-tv/chunklist_w1117896829.m3u8
+
+#EXTINF:-1,EN PRUEBA Cool Hd
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA TV PERU
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,EN PRUEBA SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1,EN PRUEBA RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL ONCE MEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA A+ AZTECA
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA VE PLUS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+
+#EXTINF:-1,EN PRUEBA ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8?480
+
+#EXTINF:-1,EN PRUEBA RADIO NUMBER ONE TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:-1,EN PRUEBA CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_398_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA Canal Local » El popular
+http://186.0.180.11:1935/festival/mp4:festival/chunklist_w2052245235.m3u8
+
+#EXTINF:-1,EN PRUEBA COLOSOAL
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w747068544.m3u8
+
+#EXTINF:-1,EN PRUEBA PortalFoxMix Tv En Vivo Online
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+
+#EXTINF:-1,EN PRUEBA TV Sur Canal 14 Costa Rica
+http://205.164.56.130:1935/tvsur81/tvsur81/chunklist_w982668593.m3u8
+
+#EXTINF:-1,EN PRUEBA S.P.S.S MEXICO
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+
+#EXTINF:-1,EN PRUEBA BRASIL 1
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w2125144796.m3u8
+
+#EXTINF:-1,EN PRUEBA BRASIL 2
+http://177.73.84.49/hls/live/live.m3u8
+
+#EXTINF:-1,EN PRUEBA azteca america
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA Milenio Televisión
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1,EN PRUEBA Uestv
+http://cl.origin.grupoz.cl/uestv/live/chunklist_w694016780.m3u8
+
+#EXTINF:-1,EN PRUEBA Ocho TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EN PRUEBA PELICULAS 2
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1030817124.m3u8
+
+#EXTINF:-1,EN PRUEBA CNN CHILE
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
+#EXTINF:-1,EN PRUEBA RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/chunklist_w1272640725.m3u8
+
+#EXTINF:-1,EN PRUEBA U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+
+#EXTINF:-1,EN PRUEBA WORLD FHASHION
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA RADIO MONTECARLO
+http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8
+
+#EXTINF:-1,EN PRUEBA LANCELOT
+http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
+
+#EXTINF:-1,EN PRUEBA Once Tv IPN
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1519828749_b1300000_slesp.m3u8
+
+#EXTINF:-1,EN PRUEBA Pat Bolivia
+http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w2032844291.m3u8
+
+#EXTINF:-1,EN PRUEBA Canal Capital (PER)
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,EN PRUEBA Portalfoxmix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1995358866.m3u8
+
+#EXTINF:-1,EN PRUEBA Niu Media
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w375247139_b750000_slesp.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL 10
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w180897103.m3u8
+
+#EXTINF:-1,EN PRUEBA TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
+
+#EXTINF:-1,EN PRUEBA CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
+
+#EXTINF:-1,EN PRUEBA CITY TV
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,EN PRUEBA TELEFE
+http://ar.watcha.live/ch6/hi.m3u8?www.tecnotv.info
+
+#EXTINF:-1,EN PRUEBA VIA TELEVISION
+http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA RETRO CARTOON
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA 24 TV PERU
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA PANAMERICANA TV PERU
+http://cdnh15.iblups.com/hls/ptv.m3u8
+
+#EXTINF:-1,EN PRUEBA WILLAX TV (Lima
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
+
+#EXTINF:-1,EN PRUEBA 88 STEREO COSTA RICA
+http://k3.usastreams.com/CableLatino/88stereo/chunklist_w1494400424.m3u8
+
+#EXTINF:-1,EN PRUEBA RADIO SENTIDOS
+http://62.210.167.140:8058/;
+
+#EXTINF:-1,EN PRUEBA 12 MADRYD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1897151/e/1_2yqsgxqj/sd/6000/t/NuYL4ms8KUQM69Sc1u_KLg/index-s32.m3u8
+
+#EXTINF:-1,EN PRUEBA Nuevo Tiempo
+http://stream.novotempo.com:1935/tv/smil:tvnuevotiempo.smil/chunklist_w2029792624_b2128000_slspa.m3u8
+
+#EXTINF:-1,EN PRUEBA RANCHENATO TV
+http://181.51.57.21:1935/live/ranchenatotv/chunklist_w341880605.m3u8
+
+#EXTINF:-1,EN PRUEBA TV PERÚ HD (Lima - Perú)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1,EN PRUEBA DJ LONCHO TV (Señal Rock) Calama
+http://stmv2.srvstm.com/alonso3439/alonso3439/playlist.m3u8
+
+#EXTINF:-1,EN PRUEBA ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+
+#EXTINF:-1,EN PRUEBA Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+
+#EXTINF:-1,EN PRUEBA Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,EN PRUEBA One.by
+http://rtmp.one.by:1200
+
+#EXTINF:-1,EN PRUEBA One.by HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1,EN PRUEBA One.by
+http://rtmp.one.by:2200
+
+#EXTINF:-1,EN PRUEBA One.by
+http://rtmp.one.by:2300
+
+#EXTINF:-1,EN PRUEBA 
+http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg"
+
+#EXTINF:-1,EN PRUEBA 
+https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+
+#EXTINF:-1,EN PRUEBA 
+https://3.bp.blogspot.com/-TV9bFojvv3w/V1YUoSQ6aHI/AAAAAAAA0xk/fgz13awlu1Ull6Ad3qPVDYNp1gRHZYCkACLcB/s1600/WIPR%2BTV.PNG"
+
+#EXTINF:-1,EN PRUEBA 
+http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png"
+
+#EXTINF:-1,EN PRUEBA 
+http://puu.sh/nvqIf/75fd708f8a.png"
+
+#EXTINF:-1,EN PRUEBA 
+http://puu.sh/nvqHL/e383619f72.png"
+
+#EXTINF:-1,EN PRUEBA 
+https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+
+#EXTINF:-1,EN PRUEBA 
+http://puu.sh/nvrur/ef232e1ab5.png"
+
+#EXTINF:-1,EN PRUEBA 
+http://imgur.com/SVFUP73.jpeg"
+
+#EXTINF:-1,EN PRUEBA 
+http://centroradialhn.net/wp-content/uploads/2011/10/TV-CENTRO-300x239.png"
+#EXTINF:-1,EN PRUEBA 
+http://www.tencanal10.tv/wp-content/uploads/2017/08/ThumbnailTEN1.jpg"
+#EXTINF:-1,EN PRUEBA VIRGIN MUSIC
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1,EN PRUEBA 
+https://i.imgur.com/IYAUy9V.png"
+#EXTINF:-1,EN PRUEBA boing
+https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
+#EXTINF:-1,EN PRUEBA 
+https://i0.wp.com/i.imgur.com/EuQiOf1.png"
+#EXTINF:-1,EN PRUEBA 
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,EN PRUEBA MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:-1,EN PRUEBA Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1,EN PRUEBA FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8
+#EXTINF:-1,EN PRUEBA Real Madrid TV
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_0450_av-p.m3u8
+#EXTINF:-1,EN PRUEBA Real Madrid TV
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_0700_av-p.m3u8
+#EXTINF:-1,EN PRUEBA Real Madrid TV
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1,EN PRUEBA Real Madrid TV*
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1,EN PRUEBA Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,EN PRUEBA Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1,EN PRUEBA Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1,EN PRUEBA ADN40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8
+#EXTINF:-1,EN PRUEBA ANTENA 3 LELAY
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,EN PRUEBA AYV
+http://gghdlive-lh.akamaihd.net/i/ayvtv5_1@323148/master.m3u8
+#EXTINF:-1,EN PRUEBA Antena 3 Spain HD by
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,EN PRUEBA A3S SERIES unknown42
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-1,EN PRUEBA 
+http://revistasenal.com/wp-content/uploads/2014/08/azteca-presento-nuevo-portafolio-de-canales-internacionales.jpg",
+#EXTINF:-1,EN PRUEBA MÉXICO: AZTECA A +
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,EN PRUEBA LATINOS: TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,EN PRUEBA Espa & ntilde; a: MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,EN PRUEBA 
+http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png"
+#EXTINF:-1,EN PRUEBA FUSION TV
+http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/index.m3u8
+#EXTINF:-1,EN PRUEBA BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1,EN PRUEBA UNIVISION_TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1,EN PRUEBA NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1,EN PRUEBA GOLDEN
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1,EN PRUEBA TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1,EN PRUEBA Canal 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
+#EXTINF:-1,EN PRUEBA ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,EN PRUEBA Fox Sports
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/87.ts
+#EXTINF:-1,EN PRUEBA Fox Sports 2
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/88.ts
+#EXTINF:-1,EN PRUEBA Fox Sports 3
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/278.ts
+#EXTINF:-1,EN PRUEBA FOX SPORTS SUR (CHILE)
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/121.ts
+#EXTINF:-1,EN PRUEBA FOX SPORTS 2 SUR
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/127.ts
+#EXTINF:-1,EN PRUEBA FX
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/20.ts
+#EXTINF:-1,EN PRUEBA FX SD
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/30.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR  DEPORTES 1
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/159.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR ACCION
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/156.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR COMEDIA
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/335.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR DCINE
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/334.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR DEPORTES 2
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/333.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR ESTRENOS
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/332.ts
+#EXTINF:-1,EN PRUEBA ES: Movistar F1
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/189.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR FUTBOL HD
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/158.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR GOLF
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/157.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR MOTO GP
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/331.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR SERIES
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/330.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR SERIES XTRA
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/329.ts
+#EXTINF:-1,EN PRUEBA ES: MOVISTAR XTRA
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/328.ts
+#EXTINF:-1,EN PRUEBA ES: NAT GEO
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/327.ts
+#EXTINF:-1,EN PRUEBA ES: NAT GEO WILD
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/326.ts
+#EXTINF:-1,EN PRUEBA ES: NICKELODEON
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/325.ts
+#EXTINF:-1,EN PRUEBA ES: ANDALUCIA TV
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/315.ts
+#EXTINF:-1,EN PRUEBA ES: LA 1
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/337.ts
+#EXTINF:-1,EN PRUEBA ES: LA 1 HD op2
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/3578.ts
+#EXTINF:-1,EN PRUEBA ES: LA 2
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/336.ts
+#EXTINF:-1,EN PRUEBA ES: #O
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/349.ts
+#EXTINF:-1,EN PRUEBA ES: A&E
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/316.ts
+#EXTINF:-1,EN PRUEBA ES: AMC
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/348.ts
+#EXTINF:-1,EN PRUEBA ES: ANTENA 3 HD op2
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/3579.ts
+#EXTINF:-1,EN PRUEBA ES: AXN
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/347.ts
+#EXTINF:-1,EN PRUEBA ES: BARCA TV
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/882.ts
+#EXTINF:-1,EN PRUEBA ES: B31N La Liga HD
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/264.ts
+#EXTINF:-1,EN PRUEBA ES: B31N Sp0rts SPAIN HD
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/160.ts
+#EXTINF:-1,EN PRUEBA ES: BOING
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/345.ts
+#EXTINF:-1,EN PRUEBA ES: CALLE 13
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/344.ts
+#EXTINF:-1,EN PRUEBA ES: COCINA
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/343.ts
+#EXTINF:-1,EN PRUEBA ES: COMEDY CENTRAL
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/342.ts
+#EXTINF:-1,EN PRUEBA ES: COSMO
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/341.ts
+#EXTINF:-1,EN PRUEBA ES: FDF
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/307.ts
+#EXTINF:-1,EN PRUEBA ES: FOX LIFE
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/339.ts
+#EXTINF:-1,EN PRUEBA ES: GOL
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/265.ts
+#EXTINF:-1,EN PRUEBA ES: HOLLYWOOD
+http://fullpremiumvip.com:8000/live/elvia1/elvia1/338.ts
