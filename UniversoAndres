@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,∞ DEJAR CARGAR EL CANAL PARA QUE DE HD Y PROSPERO AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR
 FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - ipmagtv - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
-pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres 
+pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres Donaciones a paypal.me/Andres632 link vivo link live sugerencias andresbio8613@gmail.com o aportes
 #EXTGRP:SERVIDOR 
 http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1,CARACOL
@@ -56,8 +56,10 @@ http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
 #EXTGRP:VARIEDAD VARIETY
 http://cdnh15.iblups.com/hls/ptv.m3u8
 #EXTINF:-1,TELEFE ARGENTINA
+#EXTGRP:VARIEDAD VARIETY
 http://coninfo.net:1935/13max/live/chunklist.m3u8
 #EXTINF:-1,LA TELE VENEZUELA
+#EXTGRP:VARIEDAD VARIETY
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,Canal 1
 #EXTGRP:VARIEDAD VARIETY
@@ -66,6 +68,7 @@ http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d
 #EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1,ONCE TV MEX
+#EXTGRP:VARIEDAD VARIETY
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1519828749_b1300000_slesp.m3u8
 #EXTINF:-1,CANAL 11
 #EXTGRP:VARIEDAD VARIETY
@@ -106,7 +109,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
 #EXTINF:-1,RAI MOVIE HD
 #EXTGRP:SERIES & MOVIES 
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
-#EXTINF:-1,U 
+#EXTINF:-1,CANAL U
 #EXTGRP:SERIES & MOVIES
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 #EXTINF:-1,4
@@ -152,6 +155,7 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
 #EXTINF:-1,BOING
+#EXTGRP:VARIEDAD VARIETY
 https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
 #EXTINF:-1,PAQUE RADIO
 #EXTGRP:NIÑOS KIDS
@@ -160,6 +164,7 @@ http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
 #EXTINF:-1, tooncast
+#EXTGRP:VARIEDAD VARIETY
 http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
 #EXTINF:-1,Nickelodeon
 #EXTGRP:NIÑOS KIDS
@@ -243,7 +248,7 @@ http://api.new.livestream.com/accounts/13988764/events/4133355/live.m3u8
 #EXTGRP:NOTICIAS NEWS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 #EXTINF:-1,MILENIO
-#EXTGRP:NOTICIAS NEWS 
+#EXTGRP:NOTICIAS NEWS
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1,abc news 
 #EXTGRP:NOTICIAS NEWS
@@ -513,6 +518,7 @@ http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8
 #EXTGRP:MUSIC
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w747068544.m3u8
 #EXTINF:-1,13 RBC
+#EXTGRP:MUSIC
 http://184.154.28.210:1935/rbc-tv/rbc-tv/chunklist_w1117896829.m3u8
 #EXTINF:-1,Pop Latino
 #EXTGRP:MUSIC
@@ -1147,6 +1153,9 @@ http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/26.ts
 #EXTINF:-1, La Era De Hielo I 
 #EXTGRP:KIDS NIÑOS PELICULAS MOVIES 
 http://cecegeek@goo.gl/MkZTcH
+#EXTINF:-1,Frozen Adventure FULL HD
+#EXTGRP:NIÑOS KIDS PELICULAS MOVIES
+https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
 #EXTINF:-1, La Era De Hielo III : El Origen De Los Dinosaurios 
 #EXTGRP:KIDS NIÑOS PELICULAS MOVIES 
 http://cecegeek@goo.gl/3heZnV
@@ -1651,9 +1660,6 @@ https://archive.org/download/e27tSRREGIO/e27tSRREGIO.mkv
 #EXTINF:-1,60 Minutos Para Morir
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/60mipamoSRREGIO/60mipamoSRREGIO.mkv
-#EXTINF:-1,Olaf Frozen Adventure
-#EXTGRP:NIÑOS KIDS PELICULAS MOVIES
-https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
 #EXTINF:-1,Dunkerke
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/DunSRREGIO/DunSRREGIO.mkv
@@ -1789,6 +1795,14 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+
+
+
+
+
+
+
+
 
 
 
