@@ -5,49 +5,49 @@ pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/m
 #EXTGRP:SERVIDOR 
 http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1,CARACOL
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1,TV AGRO
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:-1,RCN
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1,TELECAFE
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 #EXTINF:-1,CNC
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
 #EXTINF:-1,TELEANTIOQUIA
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 #EXTINF:-1,TELEMEDELLIN
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1,CANALA U
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 #EXTINF:-1,TELE CARIBE
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
 #EXTINF:-1,CANAL TRO
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,TELEENVIGADO
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 #EXTINF:-1,CALI 
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1,CANAL 10 MEX
 #EXTGRP:VARIEDAD VARIETY
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w180897103.m3u8
 #EXTINF:-1,TELE ISLAS
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1,RED+
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
 #EXTINF:-1,Willax
 #EXTGRP:VARIEDAD VARIETY
@@ -60,39 +60,39 @@ http://coninfo.net:1935/13max/live/chunklist.m3u8
 #EXTINF:-1,LA TELE VENEZUELA
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,Canal 1
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
 #EXTINF:-1,LA SEXTA  
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1,ONCE TV MEX
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1519828749_b1300000_slesp.m3u8
 #EXTINF:-1,CANAL 11
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
 #EXTINF:-1,NOVA
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1,13 MAX DIGITAL
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://coninfo.net:1935/13max/live/chunklist_w1212589458.m3u8
 #EXTINF:-1,ANTENA 3
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-1,TRAVEL 
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
 #EXTINF:-1,TV PERU
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,PAT BOLIVIA
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w2032844291.m3u8
 #EXTINF:-1,LANCELOT
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
 #EXTINF:-1,TV5MONDE
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:-1,RAI PREMIUM
 #EXTGRP:SERIES & MOVIES 
@@ -110,22 +110,22 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
 #EXTGRP:SERIES & MOVIES
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 #EXTINF:-1,4
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1,TF1 
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/36.ts
 #EXTINF:-1,HD1
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/38.ts
 #EXTINF:-1,LCI
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/39.ts
 #EXTINF:-1,M6
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/139.ts
 #EXTINF:-1,CLASICOS ACS
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1,SENAL COLOMBIA
 #EXTGRP:NIÑOS KIDS
@@ -213,7 +213,7 @@ http://stream.latino-webtv.com/series/simpsons.mp4
 #EXTGRP:NIÑOS KIDS
 http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 #EXTINF:-1,CANAL 26 Argentina
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:-1,DW
 #EXTGRP:NOTICIAS NEWS
@@ -267,34 +267,34 @@ http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/88.ts
 #EXTGRP:NOTICIAS NEWS
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/89.ts
 #EXTINF:-1,WORLD FHASHION
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
 #EXTINF:-1,FASHION 
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:-1,FASHION EN 4K
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://persik.by/stream/176/296165/10317.m3u8
 #EXTINF:-1,LIFE
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:-1,15 tv
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1,TC CANAL
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1,A1 Film
 #EXTGRP:SERIES & MOVIES 
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
 #EXTINF:-1,TELEMUNDO ORIGINAL
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1,CDN
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
 #EXTINF:-1,MEDITERRANEO
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
 #EXTINF:-1,Extremo
 #EXTGRP:SERIES & MOVIES 
@@ -303,16 +303,16 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTGRP:SERIES & MOVIES 
 http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,TELE UNO
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1,Neox
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1,MEGA
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,TELEMAX  
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,ANTIESTRES
 #EXTGRP:SERIES & MOVIES 
@@ -363,46 +363,46 @@ http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoI
 #EXTGRP:SERIES & MOVIES 
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1,TEN HD
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
 #EXTINF:-1,CANAL TNT
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
 #EXTINF:-1,TATA SKY
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://130.185.144.63:8000/live/indian/indian/191.ts
 #EXTINF:-1,SUPER INDIAN
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
 #EXTINF:-1,ONE DUBAI TV  
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1,AZTECA 13
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1,AZTECA HONDURAS
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,AZTECA PLUS
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1,VMAS TV
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 #EXTINF:-1,Senal Institucional
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
 #EXTINF:-1,ADN TV
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1,UNICANAL
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://strm.unicanal.com.py/live/unicanal_src.m3u8
 #EXTINF:-1,FORO
-#EXTGRP:VARIEDAD VARIETY 
+#EXTGRP:VARIEDAD VARIETY
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,NASA
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
@@ -845,7 +845,7 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/150.m3u8
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12398.m3u8
 #EXTINF:-1,Liverpool FC TV 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12120.m3u8
 #EXTINF:-1,beIN Sports 1 
 #EXTGRP:DEPORTES SPORTS
@@ -878,22 +878,22 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/1043.m3u8
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1044.m3u8
 #EXTINF:-1,beIN Sports 11 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1045.m3u8
 #EXTINF:-1,beIN Sports 12 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1046.m3u8
 #EXTINF:-1,beIN MAX 5 
-#EXTGRP:DEPORTES SPORTS(FR)
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29543.m3u8
 #EXTINF:-1,beIN MAX 6 
-#EXTGRP:DEPORTES SPORTS(FR)
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29542.m3u8
 #EXTINF:-1,beIN MAX 7 
-#EXTGRP:DEPORTES SPORTS(FR)
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29541.m3u8
 #EXTINF:-1,beIN MAX 8 
-#EXTGRP:DEPORTES SPORTS(FR)
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29540.m3u8
 #EXTINF:-1,beIN MAX 9 
 #EXTGRP:DEPORTES SPORTS
@@ -905,19 +905,19 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/29538.m3u8
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/7738.m3u8
 #EXTINF:-1,Fox Sports 2 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5539.m3u8
 #EXTINF:-1,Fox Sports 3 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5540.m3u8
 #EXTINF:-1,Fox Sports 4 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5541.m3u8
 #EXTINF:-1,Fox Sports 5 
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5542.m3u8
 #EXTINF:-1,Fox Sports 3 F
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5546.m3u8
 #EXTINF:-1,Sport.TV2 
 #EXTGRP:DEPORTES SPORTS
@@ -950,7 +950,7 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
 #EXTINF:-1,Futbol 2 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20949.m3u8
 #EXTINF:-1,Eleven Sports 
 #EXTGRP:DEPORTES SPORTS
@@ -983,10 +983,10 @@ http://163.172.19.242:80/live/555555555/555555555/1043.ts
 #EXTGRP:DEPORTES SPORTS
 http://163.172.19.242:80/live/555555555/555555555/1044.ts
 #EXTINF:-1,beIN Sports 11 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://163.172.19.242:80/live/555555555/555555555/1045.ts
 #EXTINF:-1,beIN Sports 12 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://163.172.19.242:80/live/555555555/555555555/1046.ts
 #EXTINF:-1,Andr
 #EXTGRP:DEPORTES SPORTS
@@ -1058,10 +1058,10 @@ http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/3.ts
 #EXTGRP:DEPORTES SPORTS
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/4.ts
 #EXTINF:-1,Bein sport 1 HD
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/59.ts
 #EXTINF:-1,Bein Sport 1 
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/5.ts
 #EXTINF:-1,Bein sport 2 HD 
 #EXTGRP:DEPORTES SPORTS
@@ -1789,6 +1789,15 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+
+
+
+
+
+
+
+
+
 
 
 
