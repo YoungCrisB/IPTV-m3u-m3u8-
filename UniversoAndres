@@ -55,6 +55,15 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3
 #EXTINF:-1,Willax
 #EXTGRP:VARIEDAD VARIETY
 http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,REPRETEL CANAL 11
+#EXTGRP:VARIEDAD VARIETY
+http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
+#EXTINF:-1,REPRETEL CANAL 6
+#EXTGRP:VARIEDAD VARIETY
+http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_sles.m3u8
+#EXTINF:-1,ORO MAR
+#EXTGRP:VARIEDAD VARIETY
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
 #EXTINF:-1,PANAMERICANA PERU
 #EXTGRP:VARIEDAD VARIETY
 http://cdnh15.iblups.com/hls/ptv.m3u8
@@ -361,6 +370,95 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,GOLDEN PLUS SD
 #EXTGRP:SERIES & MOVIES 
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,OSN
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1125.ts
+#EXTINF:-1,Star-Movies
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1446.ts
+#EXTINF:-1,Animal_Planet
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1519.ts
+#EXTINF:-1,WWE HD
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1134.ts
+#EXTINF:-1,STAR WORLD HD
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1132.ts
+#EXTINF:-1,On Demand Horror
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1136.ts
+#EXTINF:-1,Fox Movie HD
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1133.ts
+#EXTINF:-1,ART AFLAM 2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1127.ts
+#EXTINF:-1,ART AFLAM 1
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1126.ts
+#EXTINF:-1,Musalsalat2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1447.ts
+#EXTINF:-1,Movies-Premiere2
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1460.ts
+#EXTINF:-1,Movies-Premiere
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1459.ts
+#EXTINF:-1,Movies-First
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1458.ts
+#EXTINF:-1,Movies-Festival
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1456.ts
+#EXTINF:-1,Movies-Drama
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1461.ts
+#EXTINF:-1,Movies-Comedy
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1457.ts
+#EXTINF:-1,Movies-Action2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1455.ts
+#EXTINF:-1,YAHALAHD
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1128.ts
+#EXTINF:-1,MOVIES+2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1454.ts
+#EXTINF:-1,MOVIES
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1453.ts
+#EXTINF:-1,FOX ACTION HD
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1137.ts
+#EXTINF:-1,FIRST HBO
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1131.ts
+#EXTINF:-1,E!
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1135.ts
+#EXTINF:-1,Cinema 2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1130.ts
+#EXTINF:-1,Cinema 1
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1129.ts
+#EXTINF:-1,beIN_Drama
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1462.ts
+#EXTINF:-1,BEIN MOVES4
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1452.ts
+#EXTINF:-1,BEIN MOVES3
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1451.ts
+#EXTINF:-1,BEIN MOVES2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1450.ts
+#EXTINF:-1,BEIN MOVES1
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1449.ts
 #EXTINF:-1,TNT
 #EXTGRP:SERIES & MOVIES 
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
@@ -1081,39 +1179,50 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,ABUDHABI 2 SPORTS
 #EXTGRP:DEPORTES SPORTS
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,BeINSPORTS 1
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/998.ts
-#EXTINF:-1,BeINSPORTS 2
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/999.ts
-#EXTINF:-1,BeINSPORTS 3
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1000.ts
-#EXTINF:-1,BeINSPORTS 4
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1001.ts
-#EXTINF:-1,BeINSPORTS 5
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1002.ts
-#EXTINF:-1,BeINSPORTS 6
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1003.ts
-#EXTINF:-1,BeINSPORTS 7
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1004.ts
-#EXTINF:-1,BeINSPORTS 8
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1005.ts
-#EXTINF:-1,BeINSPORTS 9
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1006.ts
-#EXTINF:-1,BeINSPORTS 10
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1007.ts
-#EXTINF:-1,BeIN Sports 2
-#EXTGRP:DEPORTES SPORTS
-http://185.186.244.80:8080/live/www.janberyan.com/jano55/1499.ts
+#EXTINF:-1,======BeIN Sports HD1=======
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1084.ts
+#EXTINF:-1,BeINSPORTS News
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/996.ts
+#EXTINF:-1,BeINSPORTS Global
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/997.ts
+#EXTINF:-1,BeINSPORTS 1HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/998.ts
+#EXTINF:-1,BeINSPORTS 2HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/999.ts
+#EXTINF:-1,BeINSPORTS 3HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1000.ts
+#EXTINF:-1,BeINSPORTS 4HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1001.ts
+#EXTINF:-1,BeINSPORTS 5HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1002.ts
+#EXTINF:-1,BeINSPORTS 6HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1003.ts
+#EXTINF:-1,BeINSPORTS 7HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1004.ts
+#EXTINF:-1,BeINSPORTS 8HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1005.ts
+#EXTINF:-1,BeINSPORTS 9HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1006.ts
+#EXTINF:-1,BeINSPORTS 10HD
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1007.ts
+#EXTINF:-1,========BeIN Sports HD2=========
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1499.ts
+#EXTINF:-1,Bein 1
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1491.ts
+#EXTINF:-1,Bein 2
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1492.ts
+#EXTINF:-1,Bein 3
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1493.ts
+#EXTINF:-1,Bein 4
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1494.ts
+#EXTINF:-1,Bein 5
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1495.ts
+#EXTINF:-1,Bein 6
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1496.ts
+#EXTINF:-1,Bein 7
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1497.ts
+#EXTINF:-1,Bein 8
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1498.ts
 #EXTINF:-1,Fox Sports 1 
 #EXTGRP:DEPORTES SPORTS
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/166.ts
