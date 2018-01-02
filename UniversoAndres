@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,∞ DEJAR CARGAR EL CANAL PARA QUE DE HD Y PROSPERO AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR
 FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - ipmagtv - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
-pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres Donaciones a paypal.me/Andres632  sugerencias andresbio8613@gmail.com o aportes
+pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres Donaciones a paypal.me/Andres632 sugerencias andresbio8613@gmail.com o aportes
 #EXTGRP:SERVIDOR 
 http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1,CARACOL
@@ -208,6 +208,15 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1,LOCOMOTION
 #EXTGRP:NIÑOS KIDS
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,Мульт
+#EXTGRP:NIÑOS KIDS
+http://195.88.52.102:8000/play/a05j 
+#EXTINF:-1,MAMA
+#EXTGRP:NIÑOS KIDS
+http://185.231.160.35:5000//60/2/index.m3u8
+#EXTINF:-1,Карусель
+#EXTGRP:NIÑOS KIDS
+http://195.88.52.102:8000/play/a04a 
 #EXTINF:-1,LOS SIMPSONS NIU
 #EXTGRP:NIÑOS KIDS
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
@@ -292,6 +301,12 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1,A1 Film
 #EXTGRP:SERIES & MOVIES 
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
+#EXTINF:-1,VIP-Premiere HD
+#EXTGRP:SERIES & MOVIES 
+http://185.231.160.35:5000//72/3/index.m3u8
+#EXTINF:-1,VIP MEGA HIT
+#EXTGRP:SERIES & MOVIES 
+http://185.231.160.35:5000//71/3/index.m3u8
 #EXTINF:-1,TELEMUNDO ORIGINAL
 #EXTGRP:VARIEDAD VARIETY
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
@@ -601,6 +616,47 @@ http://persik.by/stream/176/296165/10217.m3u8
 #EXTINF:-1,Матч! Футбол 3
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/770.m3u8
+#EXTINF:-1,MOTO GP HD 
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//652/1/index.m3u8
+#EXTINF:-1,FORMULA 1
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//651/1/index.m3u8
+#EXTINF:-1,TVP SPORT HD
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//588/1/index.m3u8 
+#EXTINF:-1,Матч! Футбол 1 
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//29/3/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 
+#EXTGRP:DEPORTES SPORTS
+http://195.88.52.102:8000/play/a042 
+#EXTINF:-1,Матч! Футбол 2
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//23/3/index.m3u8
+#EXTINF:-1,Матч! Футбол 3
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//24/3/index.m3u8
+#EXTINF:-1,Спорт 1 Ukraina
+#EXTGRP:DEPORTES SPORTS
+http://178.172.245.155:8121/sport1
+#EXTINF:-1,Футбол 
+#EXTGRP:DEPORTES SPORTS
+http://195.88.52.102:8000/play/a05u 
+#EXTINF:-1,Kronehit HD
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1,SKY SPORT 1 HD LIVE
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//786/1/index.m3u8
+#EXTINF:-1,SkySport Bundesliga
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//773/2/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD 
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//1027/3/index.m3u8
+#EXTINF:-1,EUROSPORT 2 HD 
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//77/1/index.m3u8
 #EXTINF:-1,Футбол 2
 #EXTGRP:DEPORTES SPORTS
 http://62.16.23.8:34040/udp/239.2.66.77:1234
@@ -1795,6 +1851,15 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+
+
+
+
+
+
+
+
+
 
 
 
