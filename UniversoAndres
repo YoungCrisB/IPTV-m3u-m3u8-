@@ -43,168 +43,6 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 #EXTINF:-1,CALI 
 #EXTGRP:VARIEDAD VARIETY
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/82Vrd6", Pica Pau 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/Pica-Pau/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/YKPpy1", Dragon Ball Clássico 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
- http://69.30.196.250/DragonBall/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/BEfGKU", Dragon Ball Z 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
- http://69.30.196.250/DragonBall-Z/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/rcXCWY", Dragon Ball GT 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
- http://69.30.196.250/dragon-ball-gt/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/34yKYk", Dragon Ball Kai 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
- http://69.30.196.250/dragon-ball-kai/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/isNQ6T", Naruto 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
- http://69.30.196.250/naruto/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/NsMimL", Os Simpsons 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
- http://69.30.196.250/ossimpsons/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/cWJ3Mp", Corrida Maluca 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/Corrida-Maluca/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/tGMCQc", Bob Esponja 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/bobesponja/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/nYf3CV",Scooby doo 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/scooby-doo/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/1FDhv1",Liga da Justica 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/liga-da-justica/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7Pgbu5", Turma do Pateta 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/turma-do-pateta/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7HLtMb", Os Vingadores 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/vingadores/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/5bhMPx", Pernalonga 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/Pernalonga/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/zVQXkB", Fundêncio 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/fudencio/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/U7S1L5", A Pantera cor de rosa 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/pantera-cor-de-rosa/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/X3aYa9", Wolverine X Men 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/wolverine-X-Men/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/AuGZ7x", Super Choque 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/super-choque/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/NsudDh", Espetacular Homem Aranha 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/espetacular-homem-aranha/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/EL412a", Batman: A Série 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/batmam-a-serie/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/xqMqQ7", Três Espiãs Demais 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/tres-epiaes-demais/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/RvbggH", Castelo Ra tim bum 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/castelo-ra-tim-bum/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/RwB5YD", O Máskara 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/o-mascara/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/r1Np7X", Jiraya 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/jiraya/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/URGDmp", Os Flinstones 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/flinstones/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/JdTa55", Jaspion 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/jaspion/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/yYk9Jb", Jovens Titas 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/os-jovens-titas/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/chGyuR", King Kong 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/king-kong/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/m4gWDT", Riquinho 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/riquinho/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VgCg7K", Snoopy & Charlie Brown 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Y23CU4", Turma da Mônica 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/turma-da-monica/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/yDT7LP", YU-GI-OH 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/yu-gi-oh/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/mN5HWv", Apenas um Show 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/apenas-um-show/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/aGUaT9", Os Padrinhos Mágicos 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/padrinhos-magicos/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/zaZbtd", Justica Jovem 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/justica-jovem/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wCe8ec", Os Jetsons 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/Os-Jetsons/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/QBeXwU",  Manda Chuva 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/Manda-Chuva/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/mzD1ar", Uma Família da Pesada 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/uma-familia-da-pesada/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/aPWw7V", South Park 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/south-park/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/g6Z1fn", Comando Estelar Flashman 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/flashman/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/r6h75X", Familia Dinossauro 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/familia-dinossauro/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/MiAX8Z", Winspector 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/winspector/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/EXrGfK", Ben 10: Omniverse 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/ben-10-universo/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/FY9zqk", Thundercasts Clássico 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/thundercasts-classico/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/hSk8ar", Thundercats 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/Thundercats-2011/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/pEYjxV", Liga da Justica em Ação
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/liga-justica-acao/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/82mRZj", Megaman NT Warrion 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/mega-men-nt/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/onH6rc", Aventuras de Billy e Mandy 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/aventuras-de-billy-e-mandy/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Y6HxbH", Samurai Jack 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/samurai-jack/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/hJoNsj", As Meninas Superpoderosas 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/as-meninas-superpoderosas/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7Tbmk5", Hey Arnold! 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/hey-arnold/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/i37iap", A Casa do Mickey Mouse 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/casa-do-mikey/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/R2qCKx", Caverna do Dragão 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/caverna-do-dragao/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/A3MPua", pokémon indigo league 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES
-http://69.30.196.250/pokemon/tracks-v1a1/index.m3u8
 #EXTINF:-1,CANAL 10 MEX
 #EXTGRP:VARIEDAD VARIETY
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w180897103.m3u8
@@ -826,7 +664,8 @@ http://178.172.245.155:8121/sport1
 #EXTINF:-1,Футбол 
 #EXTGRP:DEPORTES SPORTS
 http://195.88.52.102:8000/play/a05u 
-#EXTINF:-1,Kronehit HD
+#EXTINF:-1,KRONEHIT HD
+#EXTGRP:MUSIC
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
 #EXTINF:-1,SKY SPORT 1 HD LIVE
 #EXTGRP:DEPORTES SPORTS
@@ -1390,23 +1229,185 @@ http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/25.ts
 #EXTGRP:DEPORTES SPORTS
 http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/26.ts
 #EXTINF:-1, La Era De Hielo I 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES 
+#EXTGRP:KIDS NIÑOS 24-7
 http://cecegeek@goo.gl/MkZTcH
 #EXTINF:-1,Frozen Adventure FULL HD
 #EXTGRP:NIÑOS KIDS PELICULAS MOVIES
 https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
 #EXTINF:-1, La Era De Hielo III : El Origen De Los Dinosaurios 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES 
+#EXTGRP:KIDS NIÑOS 24-7
 http://cecegeek@goo.gl/3heZnV
 #EXTINF:-1, La Era De Hielo V : Choque De Mundos
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES 
+#EXTGRP:KIDS NIÑOS 24-7
 http://cecegeek@goo.gl/XvjtB6
 #EXTINF:-1, George De La Selva
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES 
+#EXTGRP:KIDS NIÑOS 24-7
 http://cecegeek@goo.gl/GiHBk5
 #EXTINF:-1,La Bella Y La Bestia 
-#EXTGRP:KIDS NIÑOS PELICULAS MOVIES 
+#EXTGRP:KIDS NIÑOS 24-7
 http://cecegeek@goo.gl/65yzGX
+#EXTINF:-1 tvg-logo="https://goo.gl/82Vrd6", Pica Pau 
+#EXTGRP:KIDS NIÑOS 24-7BRASIL
+http://69.30.196.250/Pica-Pau/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/YKPpy1", Dragon Ball Clássico 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/DragonBall/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/BEfGKU", Dragon Ball Z 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/DragonBall-Z/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/rcXCWY", Dragon Ball GT 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/dragon-ball-gt/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/34yKYk", Dragon Ball Kai 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/dragon-ball-kai/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/isNQ6T", Naruto 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/naruto/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/NsMimL", Os Simpsons 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/ossimpsons/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/cWJ3Mp", Corrida Maluca 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/Corrida-Maluca/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/tGMCQc", Bob Esponja 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/bobesponja/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/nYf3CV",Scooby doo 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/scooby-doo/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/1FDhv1",Liga da Justica 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/liga-da-justica/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/7Pgbu5", Turma do Pateta 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/turma-do-pateta/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/7HLtMb", Os Vingadores 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/vingadores/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/5bhMPx", Pernalonga 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/Pernalonga/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/zVQXkB", Fundêncio 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/fudencio/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/U7S1L5", A Pantera cor de rosa 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/pantera-cor-de-rosa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/X3aYa9", Wolverine X Men 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/wolverine-X-Men/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/AuGZ7x", Super Choque 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/super-choque/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/NsudDh", Espetacular Homem Aranha 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/espetacular-homem-aranha/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/EL412a", Batman: A Série 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/batmam-a-serie/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/xqMqQ7", Três Espiãs Demais 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/tres-epiaes-demais/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/RvbggH", Castelo Ra tim bum 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/castelo-ra-tim-bum/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/RwB5YD", O Máskara 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/o-mascara/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/r1Np7X", Jiraya 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/jiraya/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/URGDmp", Os Flinstones 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/flinstones/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/JdTa55", Jaspion 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/jaspion/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/yYk9Jb", Jovens Titas 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/os-jovens-titas/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/chGyuR", King Kong 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/king-kong/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/m4gWDT", Riquinho 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/riquinho/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/VgCg7K", Snoopy & Charlie Brown 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Y23CU4", Turma da Mônica 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/turma-da-monica/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/yDT7LP", YU-GI-OH 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/yu-gi-oh/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/mN5HWv", Apenas um Show 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/apenas-um-show/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/aGUaT9", Os Padrinhos Mágicos 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/padrinhos-magicos/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/zaZbtd", Justica Jovem 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/justica-jovem/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wCe8ec", Os Jetsons 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/Os-Jetsons/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/QBeXwU",  Manda Chuva 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/Manda-Chuva/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/mzD1ar", Uma Família da Pesada 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/uma-familia-da-pesada/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/aPWw7V", South Park 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/south-park/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/g6Z1fn", Comando Estelar Flashman 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/flashman/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/r6h75X", Familia Dinossauro 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/familia-dinossauro/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/MiAX8Z", Winspector 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/winspector/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/EXrGfK", Ben 10: Omniverse 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/ben-10-universo/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/FY9zqk", Thundercasts Clássico 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/thundercasts-classico/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/hSk8ar", Thundercats 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/Thundercats-2011/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/pEYjxV", Liga da Justica em Ação
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/liga-justica-acao/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/82mRZj", Megaman NT Warrion 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/mega-men-nt/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/onH6rc", Aventuras de Billy e Mandy 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/aventuras-de-billy-e-mandy/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Y6HxbH", Samurai Jack 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/samurai-jack/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/hJoNsj", As Meninas Superpoderosas 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/as-meninas-superpoderosas/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/7Tbmk5", Hey Arnold! 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/hey-arnold/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/i37iap", A Casa do Mickey Mouse 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/casa-do-mikey/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/R2qCKx", Caverna do Dragão 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/caverna-do-dragao/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/A3MPua", pokémon indigo league 
+#EXTGRP:KIDS NIÑOS 24-7
+http://69.30.196.250/pokemon/tracks-v1a1/index.m3u8
 #EXTINF:-1,GHOST IN THE SHELL
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/04052017AQCGH04052017298746/04052017AQCGH.mp4
