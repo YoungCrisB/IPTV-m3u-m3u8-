@@ -7,9 +7,6 @@ http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1,CARACOL
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,LA ABANA CUBA 4K UHD
-#EXTGRP:VARIEDAD VARIETY
-https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
 #EXTINF:-1,TV AGRO
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
@@ -43,6 +40,9 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 #EXTINF:-1,CALI 
 #EXTGRP:VARIEDAD VARIETY
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1,LA ABANA
+#EXTGRP:VARIEDAD VARIETY
+https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
 #EXTINF:-1,CANAL 10 MEX
 #EXTGRP:VARIEDAD VARIETY
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w180897103.m3u8
@@ -52,7 +52,7 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1,RED+
 #EXTGRP:VARIEDAD VARIETY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
-#EXTINF:-1,Willax
+#EXTINF:-1,WILLAX
 #EXTGRP:VARIEDAD VARIETY
 http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,REPRETEL CANAL 11
@@ -130,21 +130,6 @@ http://www.iptvmexico.xyz/ch/216.m3u8
 #EXTINF:-1,CANAL U
 #EXTGRP:MUSIC
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
-#EXTINF:-1,4
-#EXTGRP:VARIEDAD VARIETY
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1,TF1 
-#EXTGRP:VARIEDAD VARIETY
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/36.ts
-#EXTINF:-1,HD1
-#EXTGRP:VARIEDAD VARIETY
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/38.ts
-#EXTINF:-1,LCI
-#EXTGRP:VARIEDAD VARIETY
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/39.ts
-#EXTINF:-1,M6
-#EXTGRP:VARIEDAD VARIETY
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/139.ts
 #EXTINF:-1,CLASICOS ACS
 #EXTGRP:VARIEDAD VARIETY
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
@@ -289,27 +274,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 #EXTINF:-1,MILENIO
 #EXTGRP:NOTICIAS NEWS
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,abc news 
-#EXTGRP:NOTICIAS NEWS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/84.ts
 #EXTINF:-1,RT NEWS
 #EXTGRP:NOTICIAS NEWS
 https://secure-streams.akamaized.net/rt/index.m3u8
-#EXTINF:-1,bloomberg 
-#EXTGRP:NOTICIAS NEWS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/86.ts
 #EXTINF:-1,24 PERU
 #EXTGRP:NOTICIAS NEWS
 http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
-#EXTINF:-1,C-Span 
-#EXTGRP:NOTICIAS NEWS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/87.ts
-#EXTINF:-1,C-Span2 
-#EXTGRP:NOTICIAS NEWS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/88.ts
-#EXTINF:-1,C-Span3 
-#EXTGRP:NOTICIAS NEWS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/89.ts
 #EXTINF:-1,WORLD FHASHION
 #EXTGRP:VARIEDAD VARIETY
 http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
@@ -320,14 +290,11 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTGRP:VARIEDAD VARIETY
 http://persik.by/stream/176/296165/10317.m3u8
 #EXTINF:-1,LIFE
-#EXTGRP:VARIEDAD VARIETY
+#EXTGRP:SERIES & MOVIES 
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:-1,15 tv
 #EXTGRP:VARIEDAD VARIETY
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1,TC CANAL
-#EXTGRP:VARIEDAD VARIETY
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1,A1 Film
 #EXTGRP:SERIES & MOVIES 
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
@@ -370,15 +337,54 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,GOLDEN PLUS SD
 #EXTGRP:SERIES & MOVIES 
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,Animal_Planet
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1519.ts
+#EXTINF:-1,TNT
+#EXTGRP:SERIES & MOVIES 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1, AMC 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
+#EXTINF:-1, CINECANAL
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+#EXTINF:-1, CINEMAX 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
+#EXTINF:-1, FOX MOVIES
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/tXmhEQ",HBO 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/MyuWDf", HBO 2
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
+#EXTINF:-1, SPACE 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
+#EXTINF:-1,TNT HD
+#EXTGRP:SERIES & MOVIES 
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,DE PELICULA 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+#EXTINF:-1,ANTI TV
+#EXTGRP:SERIES & MOVIES 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,OSN
 #EXTGRP:SERIES & MOVIES 
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1125.ts
 #EXTINF:-1,Star-Movies
 #EXTGRP:SERIES & MOVIES 
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1446.ts
-#EXTINF:-1,Animal_Planet
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1519.ts
+#EXTINF:-1,1 HD
+#EXTGRP:SERIES & MOVIES 
+http://195.88.52.102:8000/play/a042 
 #EXTINF:-1,WWE HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1134.ts
@@ -401,6 +407,7 @@ http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1126.ts
 #EXTGRP:SERIES & MOVIES 
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1447.ts
 #EXTINF:-1,Movies-Premiere2
+#EXTGRP:SERIES & MOVIES 
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1460.ts
 #EXTINF:-1,Movies-Premiere
 #EXTGRP:SERIES & MOVIES 
@@ -459,42 +466,6 @@ http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1450.ts
 #EXTINF:-1,BEIN MOVES1
 #EXTGRP:SERIES & MOVIES 
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1449.ts
-#EXTINF:-1,TNT
-#EXTGRP:SERIES & MOVIES 
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1, AMC 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
-#EXTINF:-1, CINECANAL
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
-#EXTINF:-1, CINEMAX 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
-#EXTINF:-1, FOX MOVIES
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/tXmhEQ",HBO 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/MyuWDf", HBO 2
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
-#EXTINF:-1, SPACE 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
-#EXTINF:-1, STUDIO UNIVERSAL
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
-#EXTINF:-1,TNT HD
-#EXTGRP:SERIES & MOVIES 
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
-#EXTINF:-1,DE PELICULA 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
-#EXTINF:-1,ANTI TV
-#EXTGRP:SERIES & MOVIES 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,CANAL+
 #EXTGRP:SERIES & MOVIES 
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
@@ -582,12 +553,6 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 #EXTINF:-1,NAT GEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1,DISCOVERY SC
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/138.ts
-#EXTINF:-1,NAT GEO 
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/128.ts
 #EXTINF:-1,RT DOC
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
@@ -747,9 +712,6 @@ http://185.231.160.35:5000//588/1/index.m3u8
 #EXTINF:-1,Матч! Футбол 1 
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//29/3/index.m3u8
-#EXTINF:-1,Матч! Футбол 1 
-#EXTGRP:DEPORTES SPORTS
-http://195.88.52.102:8000/play/a042 
 #EXTINF:-1,Матч! Футбол 2
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//23/3/index.m3u8
@@ -852,12 +814,12 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1,CHELSEA 
 #EXTGRP:DEPORTES SPORTS
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:-1,SEVILLA FC 
-#EXTGRP:DEPORTES SPORTS
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1,CHELSEA 
 #EXTGRP:DEPORTES SPORTS
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1,SEVILLA FC 
+#EXTGRP:DEPORTES SPORTS
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1,REDBULL
 #EXTGRP:DEPORTES SPORTS
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
@@ -1179,164 +1141,68 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,ABUDHABI 2 SPORTS
 #EXTGRP:DEPORTES SPORTS
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,======BeIN Sports HD1=======
+#EXTINF:-1,BeIN Sports HD1
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1084.ts
 #EXTINF:-1,BeINSPORTS News
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/996.ts
 #EXTINF:-1,BeINSPORTS Global
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/997.ts
 #EXTINF:-1,BeINSPORTS 1HD
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/998.ts
 #EXTINF:-1,BeINSPORTS 2HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/999.ts
 #EXTINF:-1,BeINSPORTS 3HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1000.ts
 #EXTINF:-1,BeINSPORTS 4HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1001.ts
 #EXTINF:-1,BeINSPORTS 5HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1002.ts
 #EXTINF:-1,BeINSPORTS 6HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1003.ts
 #EXTINF:-1,BeINSPORTS 7HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1004.ts
 #EXTINF:-1,BeINSPORTS 8HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1005.ts
 #EXTINF:-1,BeINSPORTS 9HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1006.ts
 #EXTINF:-1,BeINSPORTS 10HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1007.ts
-#EXTINF:-1,========BeIN Sports HD2=========
+#EXTINF:-1,BeIN Sports HD2
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1499.ts
 #EXTINF:-1,Bein 1
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1491.ts
 #EXTINF:-1,Bein 2
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1492.ts
 #EXTINF:-1,Bein 3
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1493.ts
 #EXTINF:-1,Bein 4
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1494.ts
 #EXTINF:-1,Bein 5
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1495.ts
 #EXTINF:-1,Bein 6
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1496.ts
 #EXTINF:-1,Bein 7
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1497.ts
 #EXTINF:-1,Bein 8
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1498.ts
-#EXTINF:-1,Fox Sports 1 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/166.ts
-#EXTINF:-1Fox Sports 2 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/167.ts
-#EXTINF:-1,digisport 1 HD 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/153.ts
-#EXTINF:-1,digisport 2 HD  
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/151.ts
-#EXTINF:-1,digisport 3 HD 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/152.ts
-#EXTINF:-1,Canal + Sports
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/142.ts
-#EXTINF:-1,Bein Sport 1
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/2.ts
-#EXTINF:-1,Bein Sport 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/3.ts
-#EXTINF:-1,Bein Sport 3 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/4.ts
-#EXTINF:-1,Bein sport 1 HD
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/59.ts
-#EXTINF:-1,Bein Sport 1 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/5.ts
-#EXTINF:-1,Bein sport 2 HD 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/60.ts
-#EXTINF:-1,BEIN SPORT 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/6.ts
-#EXTINF:-1,Bein sport 3 HD
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/61.ts
-#EXTINF:-1,BEIN SPORT 3 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/9.ts
-#EXTINF:-1,BEIN SPORT 4 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/7.ts
-#EXTINF:-1,BEIN SPORT 5 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/8.ts
-#EXTINF:-1,BEIN SPORT 6 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/10.ts
-#EXTINF:-1,BEIN SPORT 7 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/11.ts
-#EXTINF:-1,BEIN SPORT 8 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/12.ts
-#EXTINF:-1,AD Sports HD
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/164.ts
-#EXTINF:-1,AD Sports 2 HD
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/165.ts
-#EXTINF:-1,BT SPORT 1
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/144.ts
-#EXTINF:-1,BT SPORT 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/145.ts
-#EXTINF:-1,Eurosport 1
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/174.ts
-#EXTINF:-1,Eurosport 2
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/175.ts
-#EXTINF:-1,SPORTS PREMIER LEAGUE 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/181.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/180.ts
-#EXTINF:-1,SKY SPORTS GOLF
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/179.ts
-#EXTINF:-1,SKY SPORTS CRICKET 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/178.ts
-#EXTINF:-1,SKY SPORTS ACTION 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/177.ts
-#EXTINF:-1,Sky Sport Arena HD 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/176.ts
-#EXTINF:-1,ARENA SPORT 1 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/27.ts
-#EXTINF:-1,ARENA SPORT 2 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/28.ts
-#EXTINF:-1,ARENA SPORT 3 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/29.ts
-#EXTINF:-1,Матч Футбол 1 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/24.ts
-#EXTINF:-1,Матч Футбол 2 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/25.ts
-#EXTINF:-1,Матч Футбол 3 
-#EXTGRP:DEPORTES SPORTS
-http://93.118.32.94:8000/live/3112-www.ipmagtv.com/HGGjjjKKjjjiiiji/26.ts
 #EXTINF:-1, La Era De Hielo I 
 #EXTGRP:KIDS NIÑOS 24-7
 http://cecegeek@goo.gl/MkZTcH
@@ -2150,7 +2016,6 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
-
 
 
 
