@@ -23,7 +23,7 @@ http://195.88.52.102:8000/play/a05j
 #EXTGRP:NIÑOS KIDS
 http://195.88.52.102:8000/play/a04a 
 #EXTINF:-1,BOING
-#EXTGRP:VARIEDAD VARIETY
+#EXTGRP:NIÑOS KIDS
 https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
 #EXTINF:-1,PAQUE RADIO
 #EXTGRP:NIÑOS KIDS
@@ -35,7 +35,7 @@ http://persik.by/stream/176/296165/454.m3u8
 #EXTGRP:NIÑOS KIDS
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
 #EXTINF:-1, tooncast
-#EXTGRP:VARIEDAD VARIETY
+#EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
 #EXTINF:-1,CANAL 5
 #EXTGRP:NIÑOS KIDS
@@ -112,6 +112,18 @@ http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-146
 #EXTINF:-1,NASA
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+#EXTINF:-1,Tec TV
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
+#EXTINF:-1,ANIMAUX
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,NAT GEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
@@ -127,18 +139,6 @@ http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
 #EXTINF:-1,ANIMAL PLANET
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
-#EXTINF:-1,Tec TV
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:-1,ANIMAUX
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL 
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
-#EXTINF:-1, DISCOVERY SCIENCE
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
 #EXTINF:-1, DISCOVERY TURBO
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
@@ -322,27 +322,45 @@ http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoI
 #EXTINF:-1,SPACE
 #EXTGRP:SERIES & MOVIES 
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1,CARACOL
-#EXTGRP:VARIEDAD VARIETY
-http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,TV AGRO
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
-#EXTINF:-1,RCN
-#EXTGRP:VARIEDAD VARIETY
-http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1,TELECAFE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
-#EXTINF:-1,CNC
-#EXTGRP:VARIEDAD VARIETY
-http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
 #EXTINF:-1,TELEANTIOQUIA
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 #EXTINF:-1,TELEMEDELLIN
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,CARACOL
+#EXTGRP:VARIEDAD VARIETY
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1,TV AGRO
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,ANTENA 3
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,NOVA
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,LA SEXTA  
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,NEOX
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,MEGA
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,LA ABANA
+#EXTGRP:VARIEDAD VARIETY
+https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
+#EXTINF:-1,CNC
+#EXTGRP:VARIEDAD VARIETY
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:-1,RCN
+#EXTGRP:VARIEDAD VARIETY
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1,CANALA U
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
@@ -358,9 +376,6 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 #EXTINF:-1,CALI 
 #EXTGRP:VARIEDAD VARIETY
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1,LA ABANA
-#EXTGRP:VARIEDAD VARIETY
-https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
 #EXTINF:-1,CANAL 10 MEX
 #EXTGRP:VARIEDAD VARIETY
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w180897103.m3u8
@@ -394,24 +409,15 @@ http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3
 #EXTINF:-1,Canal 1
 #EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
-#EXTINF:-1,LA SEXTA  
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1,ONCE TV MEX
 #EXTGRP:VARIEDAD VARIETY
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1519828749_b1300000_slesp.m3u8
 #EXTINF:-1,CANAL 11
 #EXTGRP:VARIEDAD VARIETY
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
-#EXTINF:-1,NOVA
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1,13 MAX DIGITAL
 #EXTGRP:VARIEDAD VARIETY
 http://coninfo.net:1935/13max/live/chunklist_w1212589458.m3u8
-#EXTINF:-1,ANTENA 3
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-1,TRAVEL 
 #EXTGRP:VARIEDAD VARIETY
 http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
@@ -431,7 +437,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTGRP:MUSIC
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 #EXTINF:-1,CLASICOS ACS
-#EXTGRP:VARIEDAD VARIETY
+#EXTGRP:SERIES & MOVIES
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1,CANAL 26 Argentina
 #EXTGRP:VARIEDAD VARIETY
@@ -499,12 +505,6 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 #EXTINF:-1,TELE UNO
 #EXTGRP:VARIEDAD VARIETY
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,Neox
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,MEGA
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,TELEMAX  
 #EXTGRP:VARIEDAD VARIETY
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
