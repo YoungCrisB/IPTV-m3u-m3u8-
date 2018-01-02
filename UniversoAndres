@@ -4,6 +4,324 @@ FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.
 pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres Donaciones a paypal.me/Andres632 sugerencias andresbio8613@gmail.com o aportes
 #EXTGRP:SERVIDOR 
 http://persik.by/stream/176/296165/10292.m3u8
+#EXTINF:-1,MAMA
+#EXTGRP:NIÑOS KIDS
+http://185.231.160.35:5000//60/2/index.m3u8
+#EXTINF:-1,NICK Jr
+#EXTGRP:NIÑOS KIDS
+http://200.78.215.85:8010/play/a08b
+#EXTINF:-1,NICK Jr
+#EXTGRP:NIÑOS KIDS
+http://listaiptv.servidorfull.com:8080/HD_NICKJR/mpegts?token=bf3864e7cb1b914c6778bb37a5401a7f
+#EXTINF:-1,BABY
+#EXTGRP:NIÑOS KIDS
+http://str01.ddns.net/002/myStream/playlist.m3u8
+#EXTINF:-1,ANIMADOS 
+#EXTGRP:NIÑOS KIDS
+http://195.88.52.102:8000/play/a05j 
+#EXTINF:-1,KARRUSEL
+#EXTGRP:NIÑOS KIDS
+http://195.88.52.102:8000/play/a04a 
+#EXTINF:-1,BOING
+#EXTGRP:VARIEDAD VARIETY
+https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
+#EXTINF:-1,PAQUE RADIO
+#EXTGRP:NIÑOS KIDS
+http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1,JimJam
+#EXTGRP:NIÑOS KIDS
+http://persik.by/stream/176/296165/454.m3u8
+#EXTINF:-1,Rai Yoyo HD 
+#EXTGRP:NIÑOS KIDS
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
+#EXTINF:-1, tooncast
+#EXTGRP:VARIEDAD VARIETY
+http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
+#EXTINF:-1,CANAL 5
+#EXTGRP:NIÑOS KIDS
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+#EXTINF:-1, BOING
+#EXTGRP:NIÑOS KIDS
+http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
+#EXTINF:-1, boomerang
+#EXTGRP:NIÑOS KIDS
+http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
+#EXTINF:-1, disney channel
+#EXTGRP:NIÑOS KIDS
+http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
+#EXTINF:-1, disney junior
+#EXTGRP:NIÑOS KIDS
+http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
+#EXTINF:-1, disney xd
+#EXTGRP:NIÑOS KIDS
+http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
+#EXTINF:-1, tiin
+#EXTGRP:NIÑOS KIDS
+http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
+#EXTINF:-1,Nickelodeon
+#EXTGRP:NIÑOS KIDS
+http://persik.by/stream/176/296165/45.m3u8
+#EXTINF:-1,DISNEY+
+#EXTGRP:NIÑOS KIDS
+http://str03.ddns.net/076/myStream/playlist.m3u8
+#EXTINF:-1,Tooncast
+#EXTGRP:NIÑOS KIDS
+http://165.227.181.85/tooncast/tracks-v1a1/index.ts
+#EXTINF:-1,VALERIAN FULL HD
+#EXTGRP:NIÑOS KIDS
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:-1,Rai Yoyo  
+#EXTGRP:NIÑOS KIDS
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1,Rai Gulp  
+#EXTGRP:NIÑOS KIDS
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1,Tacho Pistacho
+#EXTGRP:NIÑOS KIDS
+http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
+#EXTINF:-1,Tiji
+#EXTGRP:NIÑOS KIDS
+http://persik.by/stream/176/296165/597.m3u8
+#EXTINF:-1,Cartoon Network
+#EXTGRP:NIÑOS KIDS
+http://persik.by/stream/176/296165/32.m3u8
+#EXTINF:-1,SENAL COLOMBIA
+#EXTGRP:NIÑOS KIDS
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,El Chavo Animado  
+#EXTGRP:NIÑOS KIDS
+http://3.sendvid.com/y00xutjl.mp4
+#EXTINF:-1,1KD
+#EXTGRP:NIÑOS KIDS
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,WOW 
+#EXTGRP:NIÑOS KIDS
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,LOCOMOTION
+#EXTGRP:NIÑOS KIDS
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,LOS SIMPSONS NIU
+#EXTGRP:NIÑOS KIDS
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,LOS SIMPSONS 
+#EXTGRP:NIÑOS KIDS
+http://stream.latino-webtv.com/series/simpsons.mp4
+#EXTINF:-1,GAMERS SHOWS
+#EXTGRP:NIÑOS KIDS
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+#EXTINF:-1,NASA
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+#EXTINF:-1,NAT GEO WILD
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1, NATGEO WILD
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
+#EXTINF:-1,Animal_Planet
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1519.ts
+#EXTINF:-1, ANIMAL PLANET
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
+#EXTINF:-1,ANIMAL PLANET
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
+#EXTINF:-1,Tec TV
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1,ANIMAUX
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
+#EXTINF:-1, DISCOVERY TURBO
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
+#EXTINF:-1, GARAGE 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1,HISTORY 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
+#EXTINF:-1, H2
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
+#EXTINF:-1,RT DOC
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+#EXTINF:-1,RAI PREMIUM
+#EXTGRP:SERIES & MOVIES 
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1,RAI PREMIUM HD
+#EXTGRP:SERIES & MOVIES 
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+#EXTINF:-1,RAI MOVIE
+#EXTGRP:SERIES & MOVIES 
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
+#EXTINF:-1,RAI MOVIE HD
+#EXTGRP:SERIES & MOVIES 
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
+#EXTINF:-1,FOX 
+#EXTGRP:SERIES & MOVIES 
+http://www.iptvmexico.xyz/ch/438.m3u8
+#EXTINF:-1,FOX LIFE
+#EXTGRP:SERIES & MOVIES 
+http://www.iptvmexico.xyz/ch/216.m3u8
+#EXTINF:-1,A1 Film
+#EXTGRP:SERIES & MOVIES 
+http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
+#EXTINF:-1,VIP-Premiere HD
+#EXTGRP:SERIES & MOVIES 
+http://185.231.160.35:5000//72/3/index.m3u8
+#EXTINF:-1,VIP MEGA HIT
+#EXTGRP:SERIES & MOVIES 
+http://185.231.160.35:5000//71/3/index.m3u8
+#EXTINF:-1,Extremo
+#EXTGRP:SERIES & MOVIES 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,ACTION 
+#EXTGRP:SERIES & MOVIES 
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1,ANTIESTRES
+#EXTGRP:SERIES & MOVIES 
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,GOLDEN PLUS SD
+#EXTGRP:SERIES & MOVIES 
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,TNT
+#EXTGRP:SERIES & MOVIES 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1, AMC 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
+#EXTINF:-1, CINECANAL
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+#EXTINF:-1, CINEMAX 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
+#EXTINF:-1, FOX MOVIES
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
+#EXTINF:-1,HBO 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:-1, HBO 2
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
+#EXTINF:-1, SPACE 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
+#EXTINF:-1,TNT HD
+#EXTGRP:SERIES & MOVIES 
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,DE PELICULA 
+#EXTGRP:SERIES & MOVIES 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+#EXTINF:-1,ANTI TV
+#EXTGRP:SERIES & MOVIES 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,OSN
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1125.ts
+#EXTINF:-1,Star-Movies
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1446.ts
+#EXTINF:-1,1 HD
+#EXTGRP:SERIES & MOVIES 
+http://195.88.52.102:8000/play/a042 
+#EXTINF:-1,STAR WORLD HD
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1132.ts
+#EXTINF:-1,On Demand Horror
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1136.ts
+#EXTINF:-1,Fox Movie HD
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1133.ts
+#EXTINF:-1,ART AFLAM 2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1127.ts
+#EXTINF:-1,ART AFLAM 1
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1126.ts
+#EXTINF:-1,Musalsalat2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1447.ts
+#EXTINF:-1,Movies-Premiere2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1460.ts
+#EXTINF:-1,Movies-Premiere
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1459.ts
+#EXTINF:-1,Movies-First
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1458.ts
+#EXTINF:-1,Movies-Festival
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1456.ts
+#EXTINF:-1,Movies-Drama
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1461.ts
+#EXTINF:-1,Movies-Comedy
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1457.ts
+#EXTINF:-1,Movies-Action2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1455.ts
+#EXTINF:-1,YAHALAHD
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1128.ts
+#EXTINF:-1,MOVIES+2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1454.ts
+#EXTINF:-1,MOVIES
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1453.ts
+#EXTINF:-1,FOX ACTION HD
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1137.ts
+#EXTINF:-1,FIRST HBO
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1131.ts
+#EXTINF:-1,E!
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1135.ts
+#EXTINF:-1,Cinema 2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1130.ts
+#EXTINF:-1,Cinema 1
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1129.ts
+#EXTINF:-1,beIN_Drama
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1462.ts
+#EXTINF:-1,BEIN MOVES4
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1452.ts
+#EXTINF:-1,BEIN MOVES3
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1451.ts
+#EXTINF:-1,BEIN MOVES2
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1450.ts
+#EXTINF:-1,BEIN MOVES1
+#EXTGRP:SERIES & MOVIES 
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1449.ts
+#EXTINF:-1,CANAL+
+#EXTGRP:SERIES & MOVIES 
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,SPACE
+#EXTGRP:SERIES & MOVIES 
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1,CARACOL
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
@@ -109,138 +427,12 @@ http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
 #EXTINF:-1,TV5MONDE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:-1,RAI PREMIUM
-#EXTGRP:SERIES & MOVIES 
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1,RAI PREMIUM HD
-#EXTGRP:SERIES & MOVIES 
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
-#EXTINF:-1,RAI MOVIE
-#EXTGRP:SERIES & MOVIES 
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
-#EXTINF:-1,RAI MOVIE HD
-#EXTGRP:SERIES & MOVIES 
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
-#EXTINF:-1,FOX 
-#EXTGRP:SERIES & MOVIES 
-http://www.iptvmexico.xyz/ch/438.m3u8
-#EXTINF:-1,FOX LIFE
-#EXTGRP:SERIES & MOVIES 
-http://www.iptvmexico.xyz/ch/216.m3u8
 #EXTINF:-1,CANAL U
 #EXTGRP:MUSIC
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 #EXTINF:-1,CLASICOS ACS
 #EXTGRP:VARIEDAD VARIETY
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
-#EXTINF:-1,SENAL COLOMBIA
-#EXTGRP:NIÑOS KIDS
-http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,CANAL 5
-#EXTGRP:NIÑOS KIDS
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
-#EXTINF:-1,NICK Jr
-#EXTGRP:NIÑOS KIDS
-http://200.78.215.85:8010/play/a08b
-#EXTINF:-1,NICK Jr
-#EXTGRP:NIÑOS KIDS
-http://listaiptv.servidorfull.com:8080/HD_NICKJR/mpegts?token=bf3864e7cb1b914c6778bb37a5401a7f
-#EXTINF:-1,BABY
-#EXTGRP:NIÑOS KIDS
-http://str01.ddns.net/002/myStream/playlist.m3u8
-#EXTINF:-1, boomerang
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
-#EXTINF:-1, disney channel
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
-#EXTINF:-1, disney junior
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
-#EXTINF:-1, disney xd
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
-#EXTINF:-1, BOING
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
-#EXTINF:-1,BOING
-#EXTGRP:VARIEDAD VARIETY
-https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
-#EXTINF:-1,PAQUE RADIO
-#EXTGRP:NIÑOS KIDS
-http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
-#EXTINF:-1, tiin
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
-#EXTINF:-1, tooncast
-#EXTGRP:VARIEDAD VARIETY
-http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
-#EXTINF:-1,Nickelodeon
-#EXTGRP:NIÑOS KIDS
-http://persik.by/stream/176/296165/45.m3u8
-#EXTINF:-1,DISNEY+
-#EXTGRP:NIÑOS KIDS
-http://str03.ddns.net/076/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/u65DPD", Tooncast
-#EXTGRP:NIÑOS KIDS
-http://165.227.181.85/tooncast/tracks-v1a1/index.ts
-#EXTINF:-1,VALERIAN FULL HD
-#EXTGRP:NIÑOS KIDS
-https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
-#EXTINF:-1,Rai Yoyo  
-#EXTGRP:NIÑOS KIDS
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:-1,Rai Yoyo HD 
-#EXTGRP:NIÑOS KIDS
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
-#EXTINF:-1,Rai Gulp  
-#EXTGRP:NIÑOS KIDS
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1,Tacho Pistacho
-#EXTGRP:NIÑOS KIDS
-http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
-#EXTINF:-1,JimJam
-#EXTGRP:NIÑOS KIDS
-http://persik.by/stream/176/296165/454.m3u8
-#EXTINF:-1,Tiji
-#EXTGRP:NIÑOS KIDS
-http://persik.by/stream/176/296165/597.m3u8
-#EXTINF:-1,Nick Jr
-#EXTGRP:NIÑOS KIDS
-http://persik.by/stream/176/296165/946.m3u8
-#EXTINF:-1,Cartoon Network
-#EXTGRP:NIÑOS KIDS
-http://persik.by/stream/176/296165/32.m3u8
-#EXTINF:-1,El Chavo Animado  
-#EXTGRP:NIÑOS KIDS
-http://3.sendvid.com/y00xutjl.mp4
-#EXTINF:-1,1KD
-#EXTGRP:NIÑOS KIDS
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,WOW 
-#EXTGRP:NIÑOS KIDS
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,LOCOMOTION
-#EXTGRP:NIÑOS KIDS
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1,Мульт
-#EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a05j 
-#EXTINF:-1,MAMA
-#EXTGRP:NIÑOS KIDS
-http://185.231.160.35:5000//60/2/index.m3u8
-#EXTINF:-1,Карусель
-#EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a04a 
-#EXTINF:-1,LOS SIMPSONS NIU
-#EXTGRP:NIÑOS KIDS
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:-1,LOS SIMPSONS 
-#EXTGRP:NIÑOS KIDS
-http://stream.latino-webtv.com/series/simpsons.mp4
-#EXTINF:-1,GAMERS SHOWS
-#EXTGRP:NIÑOS KIDS
-http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 #EXTINF:-1,CANAL 26 Argentina
 #EXTGRP:VARIEDAD VARIETY
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
@@ -295,15 +487,6 @@ http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:-1,15 tv
 #EXTGRP:VARIEDAD VARIETY
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1,A1 Film
-#EXTGRP:SERIES & MOVIES 
-http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
-#EXTINF:-1,VIP-Premiere HD
-#EXTGRP:SERIES & MOVIES 
-http://185.231.160.35:5000//72/3/index.m3u8
-#EXTINF:-1,VIP MEGA HIT
-#EXTGRP:SERIES & MOVIES 
-http://185.231.160.35:5000//71/3/index.m3u8
 #EXTINF:-1,TELEMUNDO ORIGINAL
 #EXTGRP:VARIEDAD VARIETY
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
@@ -313,12 +496,6 @@ http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
 #EXTINF:-1,MEDITERRANEO
 #EXTGRP:VARIEDAD VARIETY
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
-#EXTINF:-1,Extremo
-#EXTGRP:SERIES & MOVIES 
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,ACTION 
-#EXTGRP:SERIES & MOVIES 
-http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,TELE UNO
 #EXTGRP:VARIEDAD VARIETY
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
@@ -331,147 +508,6 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&r
 #EXTINF:-1,TELEMAX  
 #EXTGRP:VARIEDAD VARIETY
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,ANTIESTRES
-#EXTGRP:SERIES & MOVIES 
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,GOLDEN PLUS SD
-#EXTGRP:SERIES & MOVIES 
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1,Animal_Planet
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1519.ts
-#EXTINF:-1,TNT
-#EXTGRP:SERIES & MOVIES 
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1, AMC 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
-#EXTINF:-1, CINECANAL
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
-#EXTINF:-1, CINEMAX 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
-#EXTINF:-1, FOX MOVIES
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/tXmhEQ",HBO 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/MyuWDf", HBO 2
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
-#EXTINF:-1, SPACE 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
-#EXTINF:-1, STUDIO UNIVERSAL
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
-#EXTINF:-1,TNT HD
-#EXTGRP:SERIES & MOVIES 
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
-#EXTINF:-1,DE PELICULA 
-#EXTGRP:SERIES & MOVIES 
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
-#EXTINF:-1,ANTI TV
-#EXTGRP:SERIES & MOVIES 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,OSN
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1125.ts
-#EXTINF:-1,Star-Movies
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1446.ts
-#EXTINF:-1,1 HD
-#EXTGRP:SERIES & MOVIES 
-http://195.88.52.102:8000/play/a042 
-#EXTINF:-1,WWE HD
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1134.ts
-#EXTINF:-1,STAR WORLD HD
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1132.ts
-#EXTINF:-1,On Demand Horror
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1136.ts
-#EXTINF:-1,Fox Movie HD
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1133.ts
-#EXTINF:-1,ART AFLAM 2
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1127.ts
-#EXTINF:-1,ART AFLAM 1
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1126.ts
-#EXTINF:-1,Musalsalat2
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1447.ts
-#EXTINF:-1,Movies-Premiere2
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1460.ts
-#EXTINF:-1,Movies-Premiere
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1459.ts
-#EXTINF:-1,Movies-First
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1458.ts
-#EXTINF:-1,Movies-Festival
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1456.ts
-#EXTINF:-1,Movies-Drama
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1461.ts
-#EXTINF:-1,Movies-Comedy
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1457.ts
-#EXTINF:-1,Movies-Action2
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1455.ts
-#EXTINF:-1,YAHALAHD
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1128.ts
-#EXTINF:-1,MOVIES+2
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1454.ts
-#EXTINF:-1,MOVIES
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1453.ts
-#EXTINF:-1,FOX ACTION HD
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1137.ts
-#EXTINF:-1,FIRST HBO
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1131.ts
-#EXTINF:-1,E!
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1135.ts
-#EXTINF:-1,Cinema 2
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1130.ts
-#EXTINF:-1,Cinema 1
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1129.ts
-#EXTINF:-1,beIN_Drama
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1462.ts
-#EXTINF:-1,BEIN MOVES4
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1452.ts
-#EXTINF:-1,BEIN MOVES3
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1451.ts
-#EXTINF:-1,BEIN MOVES2
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1450.ts
-#EXTINF:-1,BEIN MOVES1
-#EXTGRP:SERIES & MOVIES 
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1449.ts
-#EXTINF:-1,CANAL+
-#EXTGRP:SERIES & MOVIES 
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
-#EXTINF:-1,SPACE
-#EXTGRP:SERIES & MOVIES 
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1,TEN HD
 #EXTGRP:VARIEDAD VARIETY
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
@@ -514,48 +550,6 @@ http://strm.unicanal.com.py/live/unicanal_src.m3u8
 #EXTINF:-1,FORO
 #EXTGRP:VARIEDAD VARIETY
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-#EXTINF:-1,NASA
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
-#EXTINF:-1,Tec TV
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:-1,ANIMAUX
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1, ANIMAL PLANET
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL 
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
-#EXTINF:-1, DISCOVERY SCIENCE
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
-#EXTINF:-1, DISCOVERY TURBO
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
-#EXTINF:-1, GARAGE 
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-#EXTINF:-1,HISTORY 
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
-#EXTINF:-1, H2
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
-#EXTINF:-1, NATGEO WILD
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
-#EXTINF:-1,ANIMAL PLANET
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
-#EXTINF:-1,NAT GEO WILD
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1,RT DOC
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 #EXTINF:-1,RANCHENATO TV
 #EXTGRP:MUSIC
 http://181.51.57.21:1935/live/ranchenatotv/chunklist_w341880605.m3u8
@@ -643,7 +637,7 @@ http://130.185.144.63:8000/live/indian/indian/156.ts
 #EXTINF:-1,ENLACE JUVENIL
 #EXTGRP:MUSIC
 http://acaooyalahd2-lh.akamaihd.net:80/i/TBN08_delivery@186246/index_1728_av-p.m3u8
-#EXTINF:-1,EN PRUEBA 88 STEREO COSTA RICA
+#EXTINF:-1,88 STEREO COSTA RICA
 #EXTGRP:MUSIC
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w1494400424.m3u8
 #EXTINF:-1,PORTALFOXMIX ELECTRONICA 
@@ -733,9 +727,9 @@ http://185.231.160.35:5000//786/1/index.m3u8
 #EXTINF:-1,SkySport Bundesliga
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//773/2/index.m3u8
-#EXTINF:-1,EUROSPORT 1 HD 
+#EXTINF:-1,WWE HD
 #EXTGRP:DEPORTES SPORTS
-http://185.231.160.35:5000//1027/3/index.m3u8
+http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1134.ts
 #EXTINF:-1,EUROSPORT 2 HD 
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//77/1/index.m3u8
@@ -1151,6 +1145,7 @@ http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/996.ts
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/997.ts
 #EXTINF:-1,BeINSPORTS 1HD
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/998.ts
 #EXTINF:-1,BeINSPORTS 2HD
 #EXTGRP:DEPORTES SPORTS
@@ -1180,6 +1175,7 @@ http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1006.ts
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1007.ts
 #EXTINF:-1,BeIN Sports HD2
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1499.ts
 #EXTINF:-1,Bein 1
 #EXTGRP:DEPORTES SPORTS
@@ -1188,6 +1184,7 @@ http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1491.ts
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1492.ts
 #EXTINF:-1,Bein 3
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1493.ts
 #EXTINF:-1,Bein 4
 #EXTGRP:DEPORTES SPORTS
@@ -1199,189 +1196,190 @@ http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1495.ts
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1496.ts
 #EXTINF:-1,Bein 7
+#EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1497.ts
 #EXTINF:-1,Bein 8
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1498.ts
 #EXTINF:-1, La Era De Hielo I 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/MkZTcH
-#EXTINF:-1,Frozen Adventure FULL HD
-#EXTGRP:NIÑOS KIDS PELICULAS MOVIES
+#EXTINF:-1,Frozen Adventure 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
 #EXTINF:-1, La Era De Hielo III : El Origen De Los Dinosaurios 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/3heZnV
 #EXTINF:-1, La Era De Hielo V : Choque De Mundos
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/XvjtB6
 #EXTINF:-1, George De La Selva
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/GiHBk5
 #EXTINF:-1,La Bella Y La Bestia 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/65yzGX
 #EXTINF:-1 tvg-logo="https://goo.gl/82Vrd6", Pica Pau 
-#EXTGRP:KIDS NIÑOS 24-7BRASIL
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/Pica-Pau/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/YKPpy1", Dragon Ball Clássico 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/DragonBall/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/BEfGKU", Dragon Ball Z 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/DragonBall-Z/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/rcXCWY", Dragon Ball GT 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/dragon-ball-gt/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/34yKYk", Dragon Ball Kai 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/dragon-ball-kai/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/isNQ6T", Naruto 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/naruto/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/NsMimL", Os Simpsons 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/ossimpsons/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/cWJ3Mp", Corrida Maluca 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/Corrida-Maluca/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/tGMCQc", Bob Esponja 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/bobesponja/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nYf3CV",Scooby doo 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/scooby-doo/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/1FDhv1",Liga da Justica 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/liga-da-justica/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/7Pgbu5", Turma do Pateta 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/turma-do-pateta/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/7HLtMb", Os Vingadores 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/vingadores/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/5bhMPx", Pernalonga 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/Pernalonga/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/zVQXkB", Fundêncio 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/fudencio/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/U7S1L5", A Pantera cor de rosa 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/pantera-cor-de-rosa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/X3aYa9", Wolverine X Men 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/wolverine-X-Men/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/AuGZ7x", Super Choque 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/super-choque/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/NsudDh", Espetacular Homem Aranha 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/espetacular-homem-aranha/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/EL412a", Batman: A Série 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/batmam-a-serie/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xqMqQ7", Três Espiãs Demais 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/tres-epiaes-demais/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RvbggH", Castelo Ra tim bum 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/castelo-ra-tim-bum/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RwB5YD", O Máskara 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/o-mascara/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/r1Np7X", Jiraya 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/jiraya/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/URGDmp", Os Flinstones 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/flinstones/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/JdTa55", Jaspion 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/jaspion/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/yYk9Jb", Jovens Titas 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/os-jovens-titas/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/chGyuR", King Kong 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/king-kong/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/m4gWDT", Riquinho 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/riquinho/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VgCg7K", Snoopy & Charlie Brown 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Y23CU4", Turma da Mônica 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/turma-da-monica/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/yDT7LP", YU-GI-OH 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/yu-gi-oh/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mN5HWv", Apenas um Show 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/apenas-um-show/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/aGUaT9", Os Padrinhos Mágicos 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/padrinhos-magicos/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/zaZbtd", Justica Jovem 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/justica-jovem/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wCe8ec", Os Jetsons 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/Os-Jetsons/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/QBeXwU",  Manda Chuva 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/Manda-Chuva/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mzD1ar", Uma Família da Pesada 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/uma-familia-da-pesada/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/aPWw7V", South Park 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/south-park/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/g6Z1fn", Comando Estelar Flashman 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/flashman/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/r6h75X", Familia Dinossauro 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/familia-dinossauro/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/MiAX8Z", Winspector 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/winspector/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/EXrGfK", Ben 10: Omniverse 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/ben-10-universo/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/FY9zqk", Thundercasts Clássico 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/thundercasts-classico/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hSk8ar", Thundercats 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/Thundercats-2011/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/pEYjxV", Liga da Justica em Ação
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/liga-justica-acao/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/82mRZj", Megaman NT Warrion 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/mega-men-nt/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/onH6rc", Aventuras de Billy e Mandy 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/aventuras-de-billy-e-mandy/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Y6HxbH", Samurai Jack 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/samurai-jack/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hJoNsj", As Meninas Superpoderosas 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/as-meninas-superpoderosas/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/7Tbmk5", Hey Arnold! 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/hey-arnold/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/i37iap", A Casa do Mickey Mouse 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/casa-do-mikey/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/R2qCKx", Caverna do Dragão 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/caverna-do-dragao/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/A3MPua", pokémon indigo league 
-#EXTGRP:KIDS NIÑOS 24-7
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/pokemon/tracks-v1a1/index.m3u8
 #EXTINF:-1,GHOST IN THE SHELL
 #EXTGRP:PELICULAS MOVIES
