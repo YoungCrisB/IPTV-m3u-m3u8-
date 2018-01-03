@@ -463,6 +463,9 @@ http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/cana
 #EXTINF:-1,RCN
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,HAPPY
+#EXTGRP:VARIEDAD VARIETY
+http://86.106.82.154:8089
 #EXTINF:-1,CANALA U
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
@@ -781,6 +784,9 @@ http://178.172.245.155:8121/sport1
 #EXTINF:-1,Футбол 
 #EXTGRP:DEPORTES SPORTS
 http://195.88.52.102:8000/play/a05u 
+#EXTINF:-1,Футбол 
+#EXTGRP:DEPORTES SPORTS
+http://91.232.157.222:1235/udp/239.0.0.249:4000
 #EXTINF:-1,KRONEHIT HD
 #EXTGRP:MUSIC
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
@@ -2207,19 +2213,6 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
 http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/james%20bond%20%20Goldfinger%20%281964%29%20Dual/Goldfinger%20%281964%29Dual%20ripeado%20%281%29.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
