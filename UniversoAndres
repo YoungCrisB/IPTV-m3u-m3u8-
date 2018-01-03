@@ -3,7 +3,7 @@
 FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - ipmagtv - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
 pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres Donaciones a paypal.me/Andres632 sugerencias andresbio8613@gmail.com o aportes
 #EXTGRP:SERVIDOR 
-http://persik.by/stream/176/296165/10292.m3u8
+https://goo.gl/dX7hvE
 #EXTINF:-1,MAMA
 #EXTGRP:NIÑOS KIDS
 http://185.231.160.35:5000//60/2/index.m3u8
@@ -1242,7 +1242,7 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Frozen%20%282013%29/Frozen%20
 https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
 #EXTINF:-1,GOAL
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
-http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Goal%20%282005%29/Goal%20%282005%29.mkv
+https://goo.gl/CnXndY
 #EXTINF:-1, La Era De Hielo III : El Origen De Los Dinosaurios 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/3heZnV
@@ -1252,9 +1252,48 @@ http://cecegeek@goo.gl/XvjtB6
 #EXTINF:-1, George De La Selva
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/GiHBk5
+#EXTINF:-1 tvg-logo="https://goo.gl/sQ2V7G", lego liga de la justicia
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/lego%20liga%20de%20la%20justicia%202015/Lego%20Liga%20De%20La%20Justicia%202015-1%20%281%29.mkv
 #EXTINF:-1,La Bella Y La Bestia 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/65yzGX
+#EXTINF:-1 tvg-logo="https://goo.gl/DCQbfj",RIO DUAL AUDIO 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Rio%20%282011Dual/Rio%20%282011dual-2%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/GuEZNr",RIO 2 DUAL AUDIO 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+https://goo.gl/SkHiaE
+#EXTINF:-1 tvg-logo="https://goo.gl/X6cdxk",Monsters Inc 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+https://goo.gl/YLzhsM
+#EXTINF:-1 tvg-logo="https://goo.gl/EqcoJp",Monsters Univer
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+https://goo.gl/kuEy2V
+#EXTINF:-1 tvg-logo="https://goo.gl/KnYAqy",MULAN
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+https://goo.gl/mVVDSG
+#EXTINF:-1 tvg-logo="https://goo.gl/yHz7CV",MULAN II 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+https://goo.gl/5xWixB
+#EXTINF:-1 tvg-logo="https://goo.gl/Jteut7",UP 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+https://goo.gl/jFWtVR
+#EXTINF:-1 tvg-logo="https://goo.gl/RD9cyL",LEGO DC Comics Super Heroes Justice
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/LEGO%20DC%20Comics%20Super%20Heroes%20Justice%20League%20Gotham%20City%20Breakout%20%282016%29%20Dual/Lego%20Dc%20Comics%20Super%20Heroes%20Justice%20League%20Gotham%20City%20Breakout%20%282016%29%201080p%20Bdrip%20Dual%20Audio%20Latino-ingl%c3%a9s-1%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/GkoTyC",LEGO DC Comics Super Heroes Justice League vs
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/LEGO%20DC%20Comics%20Super%20Heroes%20Justice%20League%20vs.%20Bizarro%20League%20%282015%29/L.dccomics%20S-h-justice%20League-v-b%20L-2015%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/3nLxWg",LEGO DC Comics Super Heroes Justice League vs
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Lego%20Scooby%20Doo%20Haunted%20Hollywood%20%282016%29%20Dual/Lego%20Scooby%20Doo%20Haunted%20Hollywood%20%282016%29%201080p%20Bdrip%20Dual%20Audio%20Latino-ingl%c3%a9s-1%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/gYdkaN",Lego Batman The Movie Dc Superheroes Unite 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Lego%20Batman%20The%20Movie%20DC%20Superheroes%20Unite%20%282013%29%20Dual/Lego%20Batman%20The%20Movie%20Dc%20Superheroes%20Unite%20%282013%29%20720p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/gYdkaN",LEGO DC Comics 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Lego%20DC%20Comics%20Super%20Heroes%20Justice%20League%20-%20Cosmic%20Clash%20%282016%29/Lego%20DC%20Comics%20Super%20Heroes%20Justice%20League%20Cosmic%20Clash.mkv
 #EXTINF:-1 tvg-logo="https://goo.gl/82Vrd6", Pica Pau 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/Pica-Pau/tracks-v1a1/index.m3u8
@@ -1462,6 +1501,21 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Gladiator%20%282000%29/Gladia
 #EXTINF:-1,Regreso al futuro II
 #EXTGRP:PELICULAS MOVIES
 https://ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="https://goo.gl/s5SRDt",Looper
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Looper.2012%204K-UHD.2160%20Dual/Looper.2012.4K-UHD.2160p.Dual.Latino.Ingl%c3%a9s.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/QmBDMB",MAD MAX 1 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%20%281979%29/Mad%20Max%20%281979%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/irmfAF",MAD MAX 2
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%202%20The%20Road%20Warrior%20%281981%29/Mad%20Max%202%20The%20Road%20Warrior%20%281981%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/WhtwNH",MAD MAX 3
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%20Beyond%20Thunderdome%20%281985%29/Mad%20Max%20Beyond%20Thunderdome%20%281985%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/PY6VxK",MAD MAX 4
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%20Fury%20Road%282015%29/Mad.max.fury.road.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20ripeada%20%281%29.mkv
 #EXTINF:-1,Volver al futuro III
 #EXTGRP:PELICULAS MOVIES
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
@@ -1801,7 +1855,6 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%28
 #EXTINF-1,LA NOCHE DEL DEMONIO: CAPITULO 3
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
-
 #EXTINF-1,PESADILLA EN LA CALLE DEL INFIERNO 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%281984%29/A%20Nightmare%20On%20Elm%20Street%20%281984%29.mkv
@@ -2088,6 +2141,7 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
 http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/james%20bond%20%20Goldfinger%20%281964%29%20Dual/Goldfinger%20%281964%29Dual%20ripeado%20%281%29.mkv
+
 
 
 
