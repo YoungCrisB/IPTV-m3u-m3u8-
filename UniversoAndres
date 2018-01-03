@@ -220,9 +220,9 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
 #EXTINF:-1, STUDIO UNIVERSAL
 #EXTGRP:SERIES & MOVIES 
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1,PANICO
 #EXTGRP:SERIES & MOVIES 
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+https://ssh101.com/m3u8/dyn/panico/index.m3u8
 #EXTINF:-1,DE PELICULA 
 #EXTGRP:SERIES & MOVIES 
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
@@ -460,6 +460,9 @@ http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
 #EXTINF:-1,BBC NEWS 
 #EXTGRP:NOTICIAS NEWS
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", Cable Noticias
+#EXTGRP:NOTICIAS NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 #EXTINF:-1,CNN CHILE
 #EXTGRP:NOTICIAS NEWS
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
@@ -1084,6 +1087,9 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/11078.m3u8
 #EXTINF:-1,Sport Klub 5 
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
+#EXTINF:-1,PX SPORTS
+#EXTGRP:DEPORTES SPORTS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
 #EXTINF:-1,Futbol 1 
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
@@ -1201,12 +1207,42 @@ http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1497.ts
 #EXTINF:-1,Bein 8
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1498.ts
+#EXTINF:-1, KONFU PANDA 1
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%20%282008%29%20Dual/Kung%20Fu%20Panda%20%282008%29%20M-720p%20Dual-1%20%281%29.mkv
+#EXTINF:-1, KONFU PANDA 2
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%202%20%282011%29%20Dual/Kung%20Fu%20Panda%202%20%282011%29%20M-720p%20Dual-1%20%281%29.mkv
+#EXTINF:-1, KONFU PANDA 3
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%203%20%282016%29%20Dual/Kung%20Fu%20Panda%203%20%282016%29%201080p%20Bdrip%20Dual%20Audio%20Latino-ingl%c3%a9s-1%20%281%29.mkv
+#EXTINF:-1, KONFU PANDA 3
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%20Holiday%20Special%20%282010%29/Kung%20Fu%20Panda%20Holiday%20Special%20%282010%29%20720p%20Dual%20Latino-ingl%c3%a9s%20%5bsubt.%20Esp-ing%5d-3%20%281%29.mkv
 #EXTINF:-1, La Era De Hielo I 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/MkZTcH
+#EXTINF:-1,EL LABERINTO DEL FAUNO
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20laberinto%20del%20fauno%20%282006%29Espa%c3%b1ol/El%20Laberinto%20Del%20Fauno%20%282006%29espa%c3%b1ol.mkv
+#EXTINF:-1, DUMBO 
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28D%29/Dumbo%20%281941%29/Dumbo%20%281941%29.mkv
+#EXTINF:-1, E.T. - The Extra-Terrestrial
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/E.T.%20-%20The%20Extra-Terrestrial%20%281982%29/E.t.%20-%20The%20Extra-terrestrial%20%281982%29.mkv
+#EXTINF:-1, DON GATO & SU PANDILLA
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
+http://axstvdoble.mine.nu/peliculas%20agui/%28D%29/Don%20Gato%20y%20su%20Pandilla%20%282011%29latino/Don%20Gato%20y%20su%20Pandilla%20%282011%29latino%20%281%29.mkv
+#EXTINF:-1,FROZEN ADVENTURE ICE
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Frozen%20%282013%29/Frozen%20%282013%29%20%281%29.mkv
 #EXTINF:-1,Frozen Adventure 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
+#EXTINF:-1,GOAL
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Goal%20%282005%29/Goal%20%282005%29.mkv
 #EXTINF:-1, La Era De Hielo III : El Origen De Los Dinosaurios 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://cecegeek@goo.gl/3heZnV
@@ -1381,9 +1417,48 @@ http://69.30.196.250/caverna-do-dragao/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/A3MPua", pokémon indigo league 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS 
 http://69.30.196.250/pokemon/tracks-v1a1/index.m3u8
+#EXTINF:-1,THE BUTTERFLY EFFECT 1 DUAL AUDIO
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Butterfly%20Effect%20%282004%29%20Theatrical%20Dual/The%20Butterfly%20Effect%20%282004%29%20Theatrical%20Dual%20%281%29.mkv
+#EXTINF:-1,THE BUTTERFLY EFFECT 2 DUAL AUDIO
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Butterfly%20Effect%202%20%282006%29%20Dual/The%20Butterfly%20Effect%202%20%282006%29%20Dual%20%281%29.mkv
 #EXTINF:-1,GHOST IN THE SHELL
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/04052017AQCGH04052017298746/04052017AQCGH.mp4
+#EXTINF:-1,DIA DE LA INDEPENDENCIA 2
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Independence%20Day%20Resurgence%20%282016%29%20dual/Independence%20Day%20Resurgence%202016%20dual.mkv
+#EXTINF:-1,DIA DE LA INDEPENDENCIA 1 
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Independence%20Day%20%5bExtended%5d%20%281996%29%20Dual/Independence%20Day%20%5bextended%5d%20%281996%29%20Dual%20ripeada%20%281%29.mkv
+#EXTINF:-1,GRAVEDAD
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Gravity%20%282013%29/Gravity%20%282013%29.mkv
+#EXTINF:-1,INDIANA 
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20-%20Raiders%20of%20the%20Lost%20Ark%20%281981%29Dual/Indiana%20Jones%20And%20The%20Raiders%20Of%20The%20Lost%20Ark%20%281981%29%20Bdrip%201080p%20Dual-1%20%281%29.mkv
+#EXTINF:-1,INDIANA II
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Kingdom%20of%20the%20Crystal%20Skull%20%282008%29Dual/Indiana%20Jones%20And%20The%20Kingdom%20Of%20The%20Crystal%20Skull%20%282008%29%201080p%20Dual-1%20%281%29.mkv
+#EXTINF:-1,INDIANA III
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Last%20Crusade%20%281989%29%20Dual/Indiana%20Jones%20And%20The%20Last%20Crusade%20%281989%29%201080p%20Dual-1%20%281%29.mkv
+#EXTINF:-1,INDIANA IIII
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%20%281984%29Dual/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom%20%281984%29%201080p%20Dual-1%20%281%29.mkv
+#EXTINF:-1,EL MARIACHI
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20Mariachi%20%281992%29Audio%20Latino/El%20Mariachi%20%281992%29%20720p%20Bdrip%20Audio%20Latino.mkv
+#EXTINF:-1,DRACULA 
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28D%29/Dracula%20Untold%20%282014%29/Dracula%20Untold%20%282014%29-1%20%281%29.mkv
+#EXTINF:-1,FHY
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%281985%29/Back%20To%20The%20Future%20%281985%29.mkv
+#EXTINF:-1,EL GLADIADOR 
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Gladiator%20%282000%29/Gladiator%20%282000%29.mkv
 #EXTINF:-1,Regreso al futuro II
 #EXTGRP:PELICULAS MOVIES
 https://ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
@@ -1615,7 +1690,6 @@ https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
 #EXTINF:-1, Batman vs Dos Caras 
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/baVStwoFa3.SRREGIO/baVStwoFa3.SRREGIO.mkv
-
 #EXTINF:-1, Shopkins World Vacation 
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/SHOPKINSSRREGIODOCUMENTAL/SHOPKINS.WORLD.VACATION.mkv
@@ -1724,7 +1798,6 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual
 #EXTINF-1,LA NOCHE DEL DEMONIO: CAPITULO 2 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-
 #EXTINF-1,LA NOCHE DEL DEMONIO: CAPITULO 3
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
@@ -2014,6 +2087,9 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/james%20bond%20%20Goldfinger%20%281964%29%20Dual/Goldfinger%20%281964%29Dual%20ripeado%20%281%29.mkv
+
+
 
 
 
