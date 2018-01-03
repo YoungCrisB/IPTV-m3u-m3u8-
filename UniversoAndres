@@ -3,7 +3,7 @@
 FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - ipmagtv - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
 pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres Donaciones a paypal.me/Andres632 sugerencias andresbio8613@gmail.com o aportes
 #EXTGRP:SERVIDOR 
-https://goo.gl/dX7hvE
+http://persik.by/stream/6431/299492/10292.m3u8
 #EXTINF:-1,MAMA
 #EXTGRP:NIÑOS KIDS
 http://185.231.160.35:5000//60/2/index.m3u8
@@ -12,7 +12,7 @@ http://185.231.160.35:5000//60/2/index.m3u8
 http://200.78.215.85:8010/play/a08b
 #EXTINF:-1,NICK Jr
 #EXTGRP:NIÑOS KIDS
-http://listaiptv.servidorfull.com:8080/HD_NICKJR/mpegts?token=bf3864e7cb1b914c6778bb37a5401a7f
+http://persik.by/stream/6431/299492/946.m3u8
 #EXTINF:-1,BABY
 #EXTGRP:NIÑOS KIDS
 http://str01.ddns.net/002/myStream/playlist.m3u8
@@ -30,11 +30,11 @@ https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
 http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1,JimJam
 #EXTGRP:NIÑOS KIDS
-http://persik.by/stream/176/296165/454.m3u8
+http://persik.by/stream/6431/299492/454.m3u8
 #EXTINF:-1,Rai Yoyo HD 
 #EXTGRP:NIÑOS KIDS
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
-#EXTINF:-1, tooncast
+#EXTINF:-1,tooncast
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
 #EXTINF:-1,CANAL 5
@@ -60,7 +60,10 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
 http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
 #EXTINF:-1,Nickelodeon
 #EXTGRP:NIÑOS KIDS
-http://persik.by/stream/176/296165/45.m3u8
+http://persik.by/stream/6431/299492/45.m3u8
+#EXTINF:-1,Nickelodeon
+#EXTGRP:NIÑOS KIDS
+http://persik.by/stream/6431/299492/10277.m3u8
 #EXTINF:-1,DISNEY+
 #EXTGRP:NIÑOS KIDS
 http://str03.ddns.net/076/myStream/playlist.m3u8
@@ -81,7 +84,7 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
 http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
 #EXTINF:-1,Tiji
 #EXTGRP:NIÑOS KIDS
-http://persik.by/stream/176/296165/597.m3u8
+http://persik.by/stream/6431/299492/597.m3u8
 #EXTINF:-1,Cartoon Network
 #EXTGRP:NIÑOS KIDS
 http://persik.by/stream/176/296165/32.m3u8
@@ -159,7 +162,7 @@ http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1,Euronews
 #EXTGRP:NOTICIAS NEWS
-http://persik.by/stream/176/296165/37.m3u8
+http://persik.by/stream/6431/299492/10265.m3u8
 #EXTINF:-1,RT ESPAÑOL
 #EXTGRP:NOTICIAS NEWS
 http://secure-streams.akamaized.net/rt-esp/index2500.m3u8
@@ -636,7 +639,7 @@ http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
 #EXTINF:-1,MTV Rocks
 #EXTGRP:MUSIC
-http://persik.by/stream/176/296165/10227.m3u8
+http://persik.by/stream/6431/299492/10227.m3u8
 #EXTINF:-1,Alternative
 #EXTGRP:MUSIC
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
@@ -727,21 +730,33 @@ https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD HD FULL HD  1080P
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10266.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+#EXTGRP:DEPORTES SPORTS
+http://persik.by/stream/6431/299492/10266.m3u8
 #EXTINF:-1,Матч! Футбол 2 HD
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10267.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+#EXTGRP:DEPORTES SPORTS
+http://persik.by/stream/6431/299492/10267.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+#EXTGRP:DEPORTES SPORTS
+http://persik.by/stream/6431/299492/10268.m3u8
 #EXTINF:-1,Матч! Футбол 3 HD
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10268.m3u8
 #EXTINF:-1,Матч! Футбол 1
 #EXTGRP:DEPORTES SPORTS
+http://persik.by/stream/6431/299492/346.m3u8
+#EXTINF:-1,Матч! Футбол 1
+#EXTGRP:DEPORTES SPORTS
 http://185.107.242.227:34040/udp/230.3.4.61:5678
 #EXTINF:-1,Матч! Футбол 2 
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/176/296165/10217.m3u8
+http://persik.by/stream/6431/299492/10217.m3u8
 #EXTINF:-1,Матч! Футбол 3
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/176/296165/770.m3u8
+http://persik.by/stream/6431/299492/10218.m3u8
 #EXTINF:-1,MOTO GP HD 
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//652/1/index.m3u8
@@ -2192,8 +2207,6 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
 http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/james%20bond%20%20Goldfinger%20%281964%29%20Dual/Goldfinger%20%281964%29Dual%20ripeado%20%281%29.mkv
-
-
 
 
 
