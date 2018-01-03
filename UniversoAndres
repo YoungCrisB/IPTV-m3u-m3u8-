@@ -547,9 +547,6 @@ http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
 #EXTINF:-1,TV5MONDE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:-1,CANAL U
-#EXTGRP:MUSIC
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 #EXTINF:-1,CANAL 26 Argentina
 #EXTGRP:VARIEDAD VARIETY
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
@@ -649,6 +646,9 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklis
 #EXTINF:-1,90s
 #EXTGRP:MUSIC
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:-1,TVPop
+#EXTGRP:MUSIC
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1,TIGO MUSIC
 #EXTGRP:MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
@@ -667,9 +667,12 @@ http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1,1HD
 #EXTGRP:MUSIC
 http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
-#EXTINF:-1,TVPop
+#EXTINF:-1,KRONEHIT HD
 #EXTGRP:MUSIC
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1,CANAL U
+#EXTGRP:MUSIC
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 #EXTINF:-1,Planeta
 #EXTGRP:MUSIC
 http://84.43.207.130/planetahd/planetahd.m3u8
@@ -730,22 +733,22 @@ http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
 #EXTINF:-1,JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD HD FULL HD  1080P
+#EXTINF:-1,Матч! Футбол 1 
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10266.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD
+#EXTINF:-1,Матч! Футбол 1 
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/6431/299492/10266.m3u8
-#EXTINF:-1,Матч! Футбол 2 HD
+#EXTINF:-1,Матч! Футбол 2
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10267.m3u8
-#EXTINF:-1,Матч! Футбол 2 HD
+#EXTINF:-1,Матч! Футбол 2
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/6431/299492/10267.m3u8
-#EXTINF:-1,Матч! Футбол 3 HD
+#EXTINF:-1,Матч! Футбол 3
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/6431/299492/10268.m3u8
-#EXTINF:-1,Матч! Футбол 3 HD
+#EXTINF:-1,Матч! Футбол 3 
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10268.m3u8
 #EXTINF:-1,Матч! Футбол 1
@@ -760,15 +763,6 @@ http://persik.by/stream/6431/299492/10217.m3u8
 #EXTINF:-1,Матч! Футбол 3
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/6431/299492/10218.m3u8
-#EXTINF:-1,MOTO GP HD 
-#EXTGRP:DEPORTES SPORTS
-http://185.231.160.35:5000//652/1/index.m3u8
-#EXTINF:-1,FORMULA 1
-#EXTGRP:DEPORTES SPORTS
-http://185.231.160.35:5000//651/1/index.m3u8
-#EXTINF:-1,TVP SPORT HD
-#EXTGRP:DEPORTES SPORTS
-http://185.231.160.35:5000//588/1/index.m3u8 
 #EXTINF:-1,Матч! Футбол 1 
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//29/3/index.m3u8
@@ -787,9 +781,15 @@ http://195.88.52.102:8000/play/a05u
 #EXTINF:-1,Футбол 
 #EXTGRP:DEPORTES SPORTS
 http://91.232.157.222:1235/udp/239.0.0.249:4000
-#EXTINF:-1,KRONEHIT HD
-#EXTGRP:MUSIC
-http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1,MOTO GP HD 
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//652/1/index.m3u8
+#EXTINF:-1,FORMULA 1
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//651/1/index.m3u8
+#EXTINF:-1,TVP SPORT HD
+#EXTGRP:DEPORTES SPORTS
+http://185.231.160.35:5000//588/1/index.m3u8 
 #EXTINF:-1,SKY SPORT 1 HD LIVE
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//786/1/index.m3u8
@@ -895,6 +895,9 @@ http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5871.ts
 #EXTINF:-1,REDBULL
 #EXTGRP:DEPORTES SPORTS
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,PX SPORTS
+#EXTGRP:DEPORTES SPORTS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
 #EXTINF:-1,SkySport 1
 #EXTGRP:DEPORTES SPORTS
 http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/51.ts
@@ -1159,9 +1162,6 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/11078.m3u8
 #EXTINF:-1,Sport Klub 5 
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
-#EXTINF:-1,PX SPORTS
-#EXTGRP:DEPORTES SPORTS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
 #EXTINF:-1,Futbol 1 
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
@@ -1279,37 +1279,37 @@ http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1497.ts
 #EXTINF:-1,Bein 8
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1498.ts
-#EXTINF:-1, KONFU PANDA 1
+#EXTINF:-1, KONFU PANDA 1 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%20%282008%29%20Dual/Kung%20Fu%20Panda%20%282008%29%20M-720p%20Dual-1%20%281%29.mkv
-#EXTINF:-1, KONFU PANDA 2
+#EXTINF:-1, KONFU PANDA 2 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%202%20%282011%29%20Dual/Kung%20Fu%20Panda%202%20%282011%29%20M-720p%20Dual-1%20%281%29.mkv
-#EXTINF:-1, KONFU PANDA 3
+#EXTINF:-1, KONFU PANDA 3 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%203%20%282016%29%20Dual/Kung%20Fu%20Panda%203%20%282016%29%201080p%20Bdrip%20Dual%20Audio%20Latino-ingl%C3%A9s-1%20%281%29.mkv
-#EXTINF:-1, KONFU PANDA 4
+#EXTINF:-1, KONFU PANDA 4 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%20Holiday%20Special%20%282010%29/Kung%20Fu%20Panda%20Holiday%20Special%20%282010%29%20720p%20Dual%20Latino-ingl%C3%A9s%20%5Bsubt.%20Esp-ing%5D-3%20%281%29.mkv
 #EXTINF:-1, La Era De Hielo I 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/MkZTcH
-#EXTINF:-1, DUMBO 
+#EXTINF:-1, DUMBO DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28D%29/Dumbo%20%281941%29/Dumbo%20%281941%29.mkv
-#EXTINF:-1,E.T., el extraterrestre
+#EXTINF:-1,E.T., el extraterrestre DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/E.T.%20-%20The%20Extra-Terrestrial%20%281982%29/E.t.%20-%20The%20Extra-terrestrial%20%281982%29.mkv
-#EXTINF:-1, DON GATO & SU PANDILLA
+#EXTINF:-1, DON GATO & SU PANDILLA DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28D%29/Don%20Gato%20y%20su%20Pandilla%20%282011%29latino/Don%20Gato%20y%20su%20Pandilla%20%282011%29latino%20%281%29.mkv
-#EXTINF:-1,FROZEN ADVENTURE ICE
+#EXTINF:-1,FROZEN ADVENTURE ICE DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Frozen%20%282013%29/Frozen%20%282013%29%20%281%29.mkv
-#EXTINF:-1,Frozen Adventure 
+#EXTINF:-1,Frozen Adventure DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
-#EXTINF:-1,GOAL
+#EXTINF:-1,GOL DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Goal%20%282005%29/Goal%20%282005%29.mkv
 #EXTINF:-1, La Era De Hielo III : El Origen De Los Dinosaurios 
@@ -1321,49 +1321,49 @@ http://cecegeek@goo.gl/XvjtB6
 #EXTINF:-1, George De La Selva
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/GiHBk5
-#EXTINF:-1 tvg-logo="https://goo.gl/sQ2V7G", lego liga de la justicia
+#EXTINF:-1 tvg-logo="https://goo.gl/sQ2V7G", lego liga de la justicia DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/lego%20liga%20de%20la%20justicia%202015/Lego%20Liga%20De%20La%20Justicia%202015-1%20%281%29.mkv
-#EXTINF:-1,La Bella Y La Bestia 
+#EXTINF:-1,La Bella Y La Bestia  DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/65yzGX
-#EXTINF:-1 tvg-logo="https://goo.gl/DCQbfj",RIO DUAL AUDIO 
+#EXTINF:-1 tvg-logo="https://goo.gl/DCQbfj",RIO DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Rio%20%282011Dual/Rio%20%282011dual-2%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/GuEZNr",RIO 2 DUAL AUDIO 
+#EXTINF:-1 tvg-logo="https://goo.gl/GuEZNr",RIO 2 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Rio%202%20%282014%29%20%20Dual/Rio%202%20%282014%29%20Dual-2%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/X6cdxk",Monsters Inc 
+#EXTINF:-1 tvg-logo="https://goo.gl/X6cdxk",Monsters Inc DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Monsters%20Inc%20%282001%29%20%20Dual/Monsters%20Inc%20%282001%29%20M-1080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/EqcoJp",Monsters Univer
+#EXTINF:-1 tvg-logo="https://goo.gl/EqcoJp",Monsters Univer DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Monsters%20University%20%282013%29%20Dual/Monsters%20University%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/KnYAqy",MULAN
+#EXTINF:-1 tvg-logo="https://goo.gl/KnYAqy",MULAN DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Monsters%20vs%20Aliens%20%282009%29%20Dual/Monsters%20Vs%20Aliens%20%282009%29%20720p%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/yHz7CV",MULAN II 
+#EXTINF:-1 tvg-logo="https://goo.gl/yHz7CV",MULAN II DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mulan%20II%20%282004%29%20Dual/Mulan%20Ii%20%282004%20Dual%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/Jteut7",UP 
+#EXTINF:-1 tvg-logo="https://goo.gl/Jteut7",UP DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28U%29/Up%20%282009%29Dual/Up%20%282009%29%20Dual-2%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/RD9cyL",LEGO DC Comics Super Heroes Justice
+#EXTINF:-1 tvg-logo="https://goo.gl/RD9cyL",LEGO DC Comics Super Heroes Justice DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/LEGO%20DC%20Comics%20Super%20Heroes%20Justice%20League%20Gotham%20City%20Breakout%20%282016%29%20Dual/Lego%20Dc%20Comics%20Super%20Heroes%20Justice%20League%20Gotham%20City%20Breakout%20%282016%29%201080p%20Bdrip%20Dual%20Audio%20Latino-ingl%c3%a9s-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/GkoTyC",LEGO DC Comics Super Heroes Justice League vs
+#EXTINF:-1 tvg-logo="https://goo.gl/GkoTyC",LEGO DC Comics Super Heroes Justice League vs DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/LEGO%20DC%20Comics%20Super%20Heroes%20Justice%20League%20vs.%20Bizarro%20League%20%282015%29/L.dccomics%20S-h-justice%20League-v-b%20L-2015%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/3nLxWg",LEGO DC Comics Super Heroes Justice League vs
+#EXTINF:-1 tvg-logo="https://goo.gl/3nLxWg",LEGO DC Comics Super Heroes Justice League vs DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Lego%20Scooby%20Doo%20Haunted%20Hollywood%20%282016%29%20Dual/Lego%20Scooby%20Doo%20Haunted%20Hollywood%20%282016%29%201080p%20Bdrip%20Dual%20Audio%20Latino-ingl%c3%a9s-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/gYdkaN",Lego Batman The Movie Dc Superheroes Unite 
+#EXTINF:-1 tvg-logo="https://goo.gl/gYdkaN",Lego Batman The Movie Dc Superheroes Unite DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Lego%20Batman%20The%20Movie%20DC%20Superheroes%20Unite%20%282013%29%20Dual/Lego%20Batman%20The%20Movie%20Dc%20Superheroes%20Unite%20%282013%29%20720p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/gYdkaN",LEGO DC Comics 
+#EXTINF:-1 tvg-logo="https://goo.gl/gYdkaN",LEGO DC Comics DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Lego%20DC%20Comics%20Super%20Heroes%20Justice%20League%20-%20Cosmic%20Clash%20%282016%29/Lego%20DC%20Comics%20Super%20Heroes%20Justice%20League%20Cosmic%20Clash.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/82Vrd6", Pica Pau 
+#EXTINF:-1 tvg-logo="https://goo.gl/82Vrd6", Pica Pau  
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/Pica-Pau/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/YKPpy1", Dragon Ball Clássico 
@@ -2213,16 +2213,6 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
 http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/james%20bond%20%20Goldfinger%20%281964%29%20Dual/Goldfinger%20%281964%29Dual%20ripeado%20%281%29.mkv
-
-
-
-
-
-
-
-
-
-
 
 
 
