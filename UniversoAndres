@@ -66,9 +66,6 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
 #EXTINF:-1,Nickelodeon
 #EXTGRP:NIÑOS KIDS
 http://persik.by/stream/6431/299492/45.m3u8
-#EXTINF:-1,Nickelodeon
-#EXTGRP:NIÑOS KIDS
-http://persik.by/stream/6431/299492/10277.m3u8
 #EXTINF:-1,DISNEY+
 #EXTGRP:NIÑOS KIDS
 http://str03.ddns.net/076/myStream/playlist.m3u8
@@ -108,6 +105,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1,IPT
 #EXTGRP:NIÑOS KIDS
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+#EXTGRP:NIÑOS KIDS
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(03)/index.m3u8
 #EXTINF:-1,LOS SIMPSONS NIU
 #EXTGRP:NIÑOS KIDS
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
@@ -117,6 +117,15 @@ http://stream.latino-webtv.com/series/simpsons.mp4
 #EXTINF:-1,GAMERS SHOWS
 #EXTGRP:NIÑOS KIDS
 http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+#EXTINF:-1,CARACOL
+#EXTGRP:VARIEDAD VARIETY
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1,TV AGRO
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,RCN
+#EXTGRP:VARIEDAD VARIETY
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1,TELECAFE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
@@ -126,27 +135,45 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 #EXTINF:-1,TELEMEDELLIN
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1,P&C TOLIMA
+#EXTINF:-1,TELE CARIBE
 #EXTGRP:VARIEDAD VARIETY
-http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
-#EXTINF:-1,CARACOL
+https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
+#EXTINF:-1,CANAL TRO
 #EXTGRP:VARIEDAD VARIETY
-http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,CNC CHOCO
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,RED+
 #EXTGRP:VARIEDAD VARIETY
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
 #EXTINF:-1,MUNDO + LA UNION ANTIOQUIA
 #EXTGRP:VARIEDAD VARIETY
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1,TV AGRO
+#EXTINF:-1,P&C TOLIMA
 #EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
+#EXTINF:-1,CNC CHOCO
+#EXTGRP:VARIEDAD VARIETY
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
+#EXTINF:-1,CNC
+#EXTGRP:VARIEDAD VARIETY
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:-1,CANAL CAPITAL COL
+#EXTGRP:VARIEDAD VARIETY
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1,TELEENVIGADO
+#EXTGRP:VARIEDAD VARIETY
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1,CALI 
+#EXTGRP:VARIEDAD VARIETY
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1,ANTENA 3
 #EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-1,RAI 5
 #EXTGRP:VARIEDAD VARIETY
 http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,A&E
+#EXTGRP:VARIEDAD VARIETY
+http://23.237.22.2/LIVE/H01/CANAL259/PROFILE03.m3u8?authorization=knife.handshake
 #EXTINF:-1,NOVA
 #EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
@@ -159,6 +186,9 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1,MEGA
 #EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TV5MONDE
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:-1,COTUI
 #EXTGRP:VARIEDAD VARIETY
 http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
@@ -168,33 +198,12 @@ http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 #EXTINF:-1,LA ABANA
 #EXTGRP:VARIEDAD VARIETY
 https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
-#EXTINF:-1,CNC
-#EXTGRP:VARIEDAD VARIETY
-http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
-#EXTINF:-1,RCN
-#EXTGRP:VARIEDAD VARIETY
-http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1,CANAL CAPITAL COL
-#EXTGRP:VARIEDAD VARIETY
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1,HAPPY
 #EXTGRP:VARIEDAD VARIETY
 http://86.106.82.154:8089
 #EXTINF:-1,CANALA U
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1,TELE CARIBE
-#EXTGRP:VARIEDAD VARIETY
-https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
-#EXTINF:-1,CANAL TRO
-#EXTGRP:VARIEDAD VARIETY
-http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,TELEENVIGADO
-#EXTGRP:VARIEDAD VARIETY
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-1,CALI 
-#EXTGRP:VARIEDAD VARIETY
-http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1,CIBER VISION 3 NAGUA
 #EXTGRP:VARIEDAD VARIETY
 http://ss6.domint.net:2078/ctv_str/cibervision/chunklist_w1913971982.m3u8
@@ -207,9 +216,6 @@ http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w180897103.m3u8
 #EXTINF:-1,TELE ISLAS
 #EXTGRP:VARIEDAD VARIETY
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1,RED+
-#EXTGRP:VARIEDAD VARIETY
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
 #EXTINF:-1,OCHOC HD
 #EXTGRP:VARIEDAD VARIETY
 http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5906.ts
@@ -273,9 +279,6 @@ http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w2032844291.m3u8
 #EXTINF:-1,LANCELOT
 #EXTGRP:VARIEDAD VARIETY
 http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
-#EXTINF:-1,TV5MONDE
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:-1,CANAL 26 Argentina
 #EXTGRP:VARIEDAD VARIETY
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
@@ -291,9 +294,6 @@ http://persik.by/stream/176/296165/10317.m3u8
 #EXTINF:-1,LIFE
 #EXTGRP:SERIES & MOVIES
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
-#EXTINF:-1,CLASICOS ACS
-#EXTGRP:SERIES & MOVIES
-http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1,15 tv
 #EXTGRP:VARIEDAD VARIETY
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
@@ -381,9 +381,12 @@ http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m
 #EXTINF:-1, NATGEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
-#EXTINF:-1,Animal_Planet
+#EXTINF:-1, H&H
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1519.ts
+http://23.237.22.2/LIVE/H01/CANAL374/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,ID
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://23.237.22.2/LIVE/H01/CANAL263/PROFILE03.m3u8?authorization=knife.handshake
 #EXTINF:-1, ANIMAL PLANET
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
@@ -453,57 +456,90 @@ https://ssh101.com/m3u8/dyn/panico/index.m3u8
 #EXTINF:-1,FOX 
 #EXTGRP:SERIES & MOVIES
 http://www.iptvmexico.xyz/ch/438.m3u8
-#EXTINF:-1,Extremo
+#EXTINF:-1,FOX LIFE
 #EXTGRP:SERIES & MOVIES
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,ANTIESTRES
-#EXTGRP:SERIES & MOVIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,GOLDEN PLUS SD
-#EXTGRP:SERIES & MOVIES
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1,TNT
-#EXTGRP:SERIES & MOVIES
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1,TNT SERIES
-#EXTGRP:SERIES & MOVIES
-http://23.237.22.2/LIVE/H01/CANAL266/PROFILE03.m3u8?authorization=knife.handshake
-#EXTINF:-1,A1 Film
-#EXTGRP:SERIES & MOVIES
-http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
-#EXTINF:-1, AMC 
-#EXTGRP:SERIES & MOVIES
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
-#EXTINF:-1, UNIVERSAL 
-#EXTGRP:SERIES & MOVIES
-http://23.237.22.2/LIVE/H01/CANAL207/PROFILE03.m3u8?authorization=knife.handshake
-#EXTINF:-1, CINECANAL
-#EXTGRP:SERIES & MOVIES
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
-#EXTINF:-1, CINEMAX 
-#EXTGRP:SERIES & MOVIES
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
+http://www.iptvmexico.xyz/ch/216.m3u8
 #EXTINF:-1, FOX MOVIES
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
+#EXTINF:-1, FOX MOVIES 2
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL417/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1, FOX SERIES
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL420/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1, FOX FAMILIA
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL418/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1, FOX MOVIES
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL417/PROFILE03.m3u8?authorization=knife.handshake
 #EXTINF:-1,HBO 
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
 #EXTINF:-1, HBO 2
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
-#EXTINF:-1, SPACE 
+#EXTINF:-1,GOLDEN PLUS SD
+#EXTGRP:SERIES & MOVIES
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,WARNER
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL254/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,TNT
+#EXTGRP:SERIES & MOVIES
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,TNT SERIES
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL266/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,FX MOVIE
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL440/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,FX
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL209/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,TBS
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL273/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,SONY
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL203/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,AXN
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL213/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,SPACE 
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
 #EXTINF:-1, STUDIO UNIVERSAL
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
-#EXTINF:-1, SONY
+#EXTINF:-1,AMC 
 #EXTGRP:SERIES & MOVIES
-http://23.237.22.2/LIVE/H01/CANAL203/PROFILE03.m3u8?authorization=knife.handshake
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
+#EXTINF:-1,UNIVERSAL 
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL207/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,CINECANAL
+#EXTGRP:SERIES & MOVIES
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+#EXTINF:-1,CINECANAL 2
+#EXTGRP:SERIES & MOVIES
+http://23.237.22.2/LIVE/H01/CANAL481/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1, CINEMAX 
+#EXTGRP:SERIES & MOVIES
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
 #EXTINF:-1,DE PELICULA 
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+#EXTINF:-1,Extremo
+#EXTGRP:SERIES & MOVIES
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,ANTIESTRES
+#EXTGRP:SERIES & MOVIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,A1 Film
+#EXTGRP:SERIES & MOVIES
+http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
 #EXTINF:-1,RAI PREMIUM
 #EXTGRP:SERIES & MOVIES
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
@@ -516,159 +552,12 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
 #EXTINF:-1,RAI MOVIE HD
 #EXTGRP:SERIES & MOVIES
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
-#EXTINF:-1,MAX HD
+#EXTINF:-1,CLASICOS ACS
 #EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5907.ts
-#EXTINF:-1,canal +
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/6206.ts
-#EXTINF:-1,LA CARTE 1
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/7086.ts
-#EXTINF:-1,LA CARTE 2
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/7087.ts
-#EXTINF:-1,LA CARTE 3
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/7088.ts
-#EXTINF:-1,LA CARTE 4
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/7089.ts
-#EXTINF:-1,LA CARTE 5
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/7090.ts
-#EXTINF:-1,LA CARTE 6
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/7091.ts
-#EXTINF:-1,LA CARTE 7
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/7092.ts
-#EXTINF:-1,LA CARTE 8
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/7093.ts
-#EXTINF:-1,LA CARTE 9
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/7094.ts
-#EXTINF:-1,PLAY CINEMA FR 6
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5593.ts
-#EXTINF:-1,PLAY CINEMA FR 5
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5592.ts
-#EXTINF:-1,PLAY CINEMA FR 4
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5585.ts
-#EXTINF:-1,PLAY CINEMA FR 3
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5584.ts
-#EXTINF:-1,PLAY CINEMA FR 2
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5582.ts
-#EXTINF:-1,PLAY CINEMA FR 1
-#EXTGRP:SERIES & MOVIES
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5581.ts
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1,CANAL+
 #EXTGRP:SERIES & MOVIES
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
-#EXTINF:-1,FOX LIFE
-#EXTGRP:SERIES & MOVIES
-http://www.iptvmexico.xyz/ch/216.m3u8
-#EXTINF:-1,VIP-Premiere HD
-#EXTGRP:SERIES & MOVIES
-http://185.231.160.35:5000//72/3/index.m3u8
-#EXTINF:-1,VIP MEGA HIT
-#EXTGRP:SERIES & MOVIES
-http://185.231.160.35:5000//71/3/index.m3u8
-#EXTINF:-1,ANTI TV
-#EXTGRP:SERIES & MOVIES
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,OSN
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1125.ts
-#EXTINF:-1,Star-Movies
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1446.ts
-#EXTINF:-1,1 HD
-#EXTGRP:SERIES & MOVIES
-http://195.88.52.102:8000/play/a042 
-#EXTINF:-1,STAR WORLD HD
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1132.ts
-#EXTINF:-1,On Demand Horror
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1136.ts
-#EXTINF:-1,Fox Movie HD
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1133.ts
-#EXTINF:-1,ART AFLAM 2
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1127.ts
-#EXTINF:-1,ART AFLAM 1
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1126.ts
-#EXTINF:-1,Musalsalat2
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1447.ts
-#EXTINF:-1,Movies-Premiere2
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1460.ts
-#EXTINF:-1,Movies-Premiere
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1459.ts
-#EXTINF:-1,Movies-First
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1458.ts
-#EXTINF:-1,Movies-Festival
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1456.ts
-#EXTINF:-1,Movies-Drama
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1461.ts
-#EXTINF:-1,Movies-Comedy
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1457.ts
-#EXTINF:-1,Movies-Action2
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1455.ts
-#EXTINF:-1,YAHALAHD
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1128.ts
-#EXTINF:-1,MOVIES+2
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1454.ts
-#EXTINF:-1,MOVIES
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1453.ts
-#EXTINF:-1,FOX ACTION HD
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1137.ts
-#EXTINF:-1,FIRST HBO
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1131.ts
-#EXTINF:-1,E!
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1135.ts
-#EXTINF:-1,Cinema 2
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1130.ts
-#EXTINF:-1,Cinema 1
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1129.ts
-#EXTINF:-1,beIN_Drama
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1462.ts
-#EXTINF:-1,BEIN MOVES4
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1452.ts
-#EXTINF:-1,BEIN MOVES3
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1451.ts
-#EXTINF:-1,BEIN MOVES2
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1450.ts
-#EXTINF:-1,BEIN MOVES1
-#EXTGRP:SERIES & MOVIES
-http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1449.ts
 #EXTINF:-1,TATA SKY
 #EXTGRP:SERIES & MOVIES
 http://130.185.144.63:8000/live/indian/indian/191.ts
