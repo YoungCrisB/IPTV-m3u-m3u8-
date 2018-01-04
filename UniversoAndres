@@ -1363,6 +1363,21 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Lego%20Batman%20The%20Movie%2
 #EXTINF:-1 tvg-logo="https://goo.gl/gYdkaN",LEGO DC Comics DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Lego%20DC%20Comics%20Super%20Heroes%20Justice%20League%20-%20Cosmic%20Clash%20%282016%29/Lego%20DC%20Comics%20Super%20Heroes%20Justice%20League%20Cosmic%20Clash.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/XdbXxM",ZOOTOPIA DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+http://axstvdoble.mine.nu/peliculas%20agui/%28Z%29/Zootopia%20%282016%29%20Dual/Zootopia%20%282016%29%20Dual%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/w9wzWA",ZAMBEZIA DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+http://axstvdoble.mine.nu/peliculas%20agui/%28Z%29/Zambezia%20%282012%29%20Dual/Zambezia%20%282012%29%20Dual%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/gp35rm",ZATHURA A SPACE ADVENTURE DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+http://axstvdoble.mine.nu/peliculas%20agui/%28Z%29/Zathura%20A%20Space%20Adventure%20%282005%29%20Dual/Zathura%20A%20Space%20Adventure%20%282005%29%20Dual%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/EZwZyw", WALL E DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Wall%20E%20%282008%29%20Dual/Wall%20E%20%282008%29%20dual.mkv
+#EXTINF:-1 tvg-logo="https://goo.gl/C4QtNj", THE ANGRY BIRDS MOVIE DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Angry%20Birds%20Movie%20%282016%29%20Dual/The%20Angry%20Birds%20Movie%20%282016%29Dual%20%281%29.mkv
 #EXTINF:-1 tvg-logo="https://goo.gl/82Vrd6", Pica Pau  
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/Pica-Pau/tracks-v1a1/index.m3u8
@@ -1525,65 +1540,119 @@ http://69.30.196.250/caverna-do-dragao/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/A3MPua", pokémon indigo league 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/pokemon/tracks-v1a1/index.m3u8
-#EXTINF:-1,THE BUTTERFLY EFFECT 1 DUAL AUDIO
+#EXTINF:-1,X-WEN 1 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-WEN%20%282000%29%20DUAL/X-WEN%20%282000%29%20DUAL%20%281%29.mkv
+#EXTINF:-1,X-WEN 2 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-WEN%202%20%282003%29%20DUAL/X-WEN%202%20%282003%29%20DUAL%20%281%29.mkv
+#EXTINF:-1,X-WEN 3 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-WEN%203%20%282006%29%20DUAL/X-WEN%203%20%282006%29%20DUAL%20%281%29.mkv
+#EXTINF:-1,X-WEN 4 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-Men%20Origins%20Wolverine%20%282009%29%20Dual/X-Men%20Origins%20Wolverine%20%282009%29%20Dual%20%281%29.mkv
+#EXTINF:-1,X-WEN 5 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X%20MEN%20FIRST%20CLASS%20%282011%29%20DUAL/X%20MEN%20FIRST%20CLASS%20%282011%29.mkv
+#EXTINF:-1,X-WEN 6 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-Men%20Days%20of%20Future%20Past%20THE%20ROGUE%20CUT%20%282014%29%20Dual/X-Men%20Days%20of%20Future%20Past%20THE%20ROGUE%20CUT%20%282014%29%20Dual%20%281%29.mkv
+#EXTINF:-1,X-WEN 7 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-Men%20Apocalypse%20%282016%29%20Dual/X-Men%20Apocalypse%20%282016%29%20Dual%20%281%29.mkv
+#EXTINF:-1,CABALLO DE GUERRA WAR HORSE DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/War%20Horse%20%282011%29%20Dual/War%20Horse%20%282011%29%20Dual%20%281%29.mkv
+#EXTINF:-1,WARCRAFT DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Warcraft%20%282016%29%20Dual/Warcraft%20%282016%29%20Dual%20%281%29.mkv
+#EXTINF:-1,WATCHMEN LOS VIGILANTES DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Watchmen%20%282009%29%20Dual/Watchmen%20%282009%29%20Dual%20%281%29.mkv
+#EXTINF:-1,WORLD WAR Z DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/World%20War%20Z%20%282013%29%20Dual/World%20War%20Z%20%282013%29%20Dual%20%281%29.mkv
+#EXTINF:-1,VALKYRIE DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28V%29/Valkyrie%20%282008%29%20Dual/Valkyrie%20%282008%29%20Dual%20%281%29.mkv
+#EXTINF:-1,V FOR VENDETTA V DE VENGANZA DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28V%29/V%20for%20Vendetta%20%282006%29%20Dual/V%20for%20Vendetta%20%282006%29%20Dual.mkv
+#EXTINF:-1,MI NOVIO ES UN ZOMBIE DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Warm%20Bodies%20%282013%29%20Dual/Warm%20Bodies%20%282013%29%20Dual%20%281%29.mkv
+#EXTINF:-1,LA ÚLTIMA PELEA WARRIOR DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Warrior%20%282011%29%20Dual/Warrior%20%282011%29%20Dual%20%281%29.mkv
+#EXTINF:-1,LA GUERRA DE LOS MUNDOS
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/War%20of%20the%20worlds%20%282005%29%20Dual/War%20of%20the%20worlds%20%282005%29%20Dual%20%281%29.mkv
+#EXTINF:-1,THE BUTTERFLY EFFECT 1 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Butterfly%20Effect%20%282004%29%20Theatrical%20Dual/The%20Butterfly%20Effect%20%282004%29%20Theatrical%20Dual%20%281%29.mkv
-#EXTINF:-1,THE BUTTERFLY EFFECT 2 DUAL AUDIO
+#EXTINF:-1,THE BUTTERFLY EFFECT 2 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Butterfly%20Effect%202%20%282006%29%20Dual/The%20Butterfly%20Effect%202%20%282006%29%20Dual%20%281%29.mkv
 #EXTINF:-1,GHOST IN THE SHELL
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/04052017AQCGH04052017298746/04052017AQCGH.mp4
-#EXTINF:-1,DIA DE LA INDEPENDENCIA 2
+#EXTINF:-1,THE AVENGERS
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Avengers%20%282012%29%20Dual/The%20Avengers%20%282012%29%20Dual-1%20%281%29.mkv
+#EXTINF:-1,THE AVENGERS AGE OF ULTRON
+#EXTGRP:PELICULAS MOVIES
+http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/the%20Avengers%20Age%20of%20Ultron%20%282015%29%20Dual/the%20Avengers%20Age%20of%20Ultron%20%282015%29%20Dual%20%281%29.mkv
+#EXTINF:-1,DIA DE LA INDEPENDENCIA 2 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Independence%20Day%20Resurgence%20%282016%29%20dual/Independence%20Day%20Resurgence%202016%20dual.mkv
-#EXTINF:-1,DIA DE LA INDEPENDENCIA 1 
+#EXTINF:-1,DIA DE LA INDEPENDENCIA 1 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Independence%20Day%20%5BExtended%5D%20%281996%29%20Dual/Independence%20Day%20%5Bextended%5D%20%281996%29%20Dual%20ripeada%20%281%29.mkv
-#EXTINF:-1,GRAVEDAD
+#EXTINF:-1,GRAVEDAD DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Gravity%20%282013%29/Gravity%20%282013%29.mkv
-#EXTINF:-1,INDIANA 
+#EXTINF:-1,INDIANA DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20-%20Raiders%20of%20the%20Lost%20Ark%20%281981%29Dual/Indiana%20Jones%20And%20The%20Raiders%20Of%20The%20Lost%20Ark%20%281981%29%20Bdrip%201080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1,INDIANA II
+#EXTINF:-1,INDIANA II DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Kingdom%20of%20the%20Crystal%20Skull%20%282008%29Dual/Indiana%20Jones%20And%20The%20Kingdom%20Of%20The%20Crystal%20Skull%20%282008%29%201080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1,INDIANA III
+#EXTINF:-1,INDIANA III DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Last%20Crusade%20%281989%29%20Dual/Indiana%20Jones%20And%20The%20Last%20Crusade%20%281989%29%201080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1,INDIANA IIII
+#EXTINF:-1,INDIANA IIII DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%20%281984%29Dual/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom%20%281984%29%201080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1,EL MARIACHI
+#EXTINF:-1,EL MARIACHI 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20Mariachi%20%281992%29Audio%20Latino/El%20Mariachi%20%281992%29%20720p%20Bdrip%20Audio%20Latino.mkv
-#EXTINF:-1,DRACULA 
+#EXTINF:-1,DRACULA DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28D%29/Dracula%20Untold%20%282014%29/Dracula%20Untold%20%282014%29-1%20%281%29.mkv
-#EXTINF:-1,FHY
+#EXTINF:-1,FHY DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%281985%29/Back%20To%20The%20Future%20%281985%29.mkv
-#EXTINF:-1,EL GLADIADOR 
+#EXTINF:-1,EL GLADIADOR  DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Gladiator%20%282000%29/Gladiator%20%282000%29.mkv
 #EXTINF:-1,Regreso al futuro II
 #EXTGRP:PELICULAS MOVIES
 https://ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
 #EXTINF:-1 tvg-logo="https://goo.gl/s5SRDt",Looper
-#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+#EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Looper.2012%204K-UHD.2160%20Dual/Looper.2012.4K-UHD.2160p.Dual.Latino.Ingl%c3%a9s.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/QmBDMB",MAD MAX 1 
-#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+#EXTINF:-1 tvg-logo="https://goo.gl/QmBDMB",MAD MAX 1 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%20%281979%29/Mad%20Max%20%281979%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/irmfAF",MAD MAX 2
-#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+#EXTINF:-1 tvg-logo="https://goo.gl/irmfAF",MAD MAX 2 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%202%20The%20Road%20Warrior%20%281981%29/Mad%20Max%202%20The%20Road%20Warrior%20%281981%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/WhtwNH",MAD MAX 3
-#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+#EXTINF:-1 tvg-logo="https://goo.gl/WhtwNH",MAD MAX 3 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%20Beyond%20Thunderdome%20%281985%29/Mad%20Max%20Beyond%20Thunderdome%20%281985%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://goo.gl/PY6VxK",MAD MAX 4
-#EXTGRP:MOVIES KIDS NIÑOS PELICULAS
+#EXTINF:-1 tvg-logo="https://goo.gl/PY6VxK",MAD MAX 4 DUAL AUDIO ESPAÑOL & INGLES
+#EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%20Fury%20Road%282015%29/Mad.max.fury.road.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20ripeada%20%281%29.mkv
 #EXTINF:-1,Volver al futuro III
 #EXTGRP:PELICULAS MOVIES
@@ -1606,132 +1675,15 @@ https://ia801508.us.archive.org/17/items/SRREGIO41542878/c0m4nch3r14.mp4
 #EXTINF:-1,Bad Santa 2: Recargado
 #EXTGRP:PELICULAS MOVIES
 https://ia801508.us.archive.org/17/items/srregio1425368/84d54n74.mp4
-#EXTINF:-1,Kundo
+#EXTINF:-1,[Rec] I
 #EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SRREGIO0000123655/123k123u123n123d1230.mp4
-#EXTINF:-,Lego Batman: La pelicula
+http://axstvdoble.mine.nu/peliculas%20agui/%28ZIMBOLOS%29/%5bRec%5d%20%282007%29%20Espa%c3%b1ol/%5bRec%5d%20%282007%29%20Espa%c3%b1ol%20%281%29.mkv
+#EXTINF:-1,[Rec] II
 #EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SRREGIO01254128/7360847m4nc4m.mp4
-#EXTINF:-1,The quiet hour SUB
+http://axstvdoble.mine.nu/peliculas%20agui/%28ZIMBOLOS%29/%5bRec%5d%202%20%282009%29%20Espa%c3%b1ol/%5bRec%5d%202%20%282009%29%20Espa%c3%b1ol%20%281%29.mkv
+#EXTINF:-1,[Rec] III
 #EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SRREGIO425401/7H3QU137H0UR5U8.mp4
-#EXTINF:-1,Priceless SUB
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/srregio20012012/pr1c373555u8.mp4
-#EXTINF:-1,David Brent life on the road SUB
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/srregio0012001200/D4v1d8r3nd.mp4
-#EXTINF:-1,Amor y amistad
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio200120235/4m0r&4m1574d.mp4
-#EXTINF:-1,Inframundo 5
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/srregio02020102/un-d3r-w0r1d-b-700d.mp4
-#EXTINF:-1,No te preocupes bebe
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/srregio852001236/d0-n-7-w-0-rr-y-b-4-8-yd-0s.mp4
-#EXTINF:-1, Resucitados
-#EXTGRP:PELICULAS MOVIES
-https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
-#EXTINF:-1, Robocop
-#EXTGRP:PELICULAS MOVIES
-https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
-#EXTINF:-1,Suenos imperiales
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/srregio.com789456/1mp3r147dr34m5.mp4
-#EXTINF:-1,Animales nocturnos
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/srregio.com7896525/4n1m4735n0cturn05.mp4
-#EXTINF:-1, The evil in US
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio65425416254241/7h3d3v171ndru5.mp4
-#EXTINF:-1,Talentos ocultos
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio8555213/74L3N705.mp4
-#EXTINF:-1,Sangre de mi sangre
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio.com852147933/8100DF47h3r.mp4
-#EXTINF:-1,The snare
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio543789/T3%205-n4-r3.mp4
-#EXTINF:-1,Spotlight
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio858582/PRIMPLNRP-COMPUCALITV.avi.mp4 
-#EXTINF:-1,Un monstruo viene a verme
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio000001/m0n57ru0.mp4
-#EXTINF:-1,Justice league dark
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio998298383/LJu571c3.mp4
-#EXTINF:-1,Los parecidos
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio098825/P4r.3.c1d05.mp4
-#EXTINF:-1,Silencio del mas alla
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio00001234/5173NC10.mp4
-#EXTINF:-1,El alien y yo
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio3402/4713Niy0.mp4
-#EXTINF:-1,Presion
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegioMovies/P-R35-U-R3.mp4
-#EXTINF:-1,Loving
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/RegioMovies/70V1-N6.mp4
-#EXTINF:-1,Boo a madea halloween
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/TecnoRegio/800m4d34.mp4
-#EXTINF:-1,Mata a tus amigos
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/REGIOTV/fr135regio.mp4
-#EXTINF:-1,Toma la 10
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SREGIOTV/70m47410regio.mp4
-#EXTINF:-1,Las 9 vidas de Louis Drax
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/745v1d45d37u15/745v1d45d37u15.mp4
-#EXTINF:-1,Mojin: The lost legend
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/m0j1n/m0j1n.mp4
-#EXTINF:-1,Infierno Azul
-#EXTGRP:PELICULAS MOVIES
-https://onedrive.live.com/download?cid=54D19E7BA016D9CC&resid=54D19E7BA016D9CC%21106&authkey=ADSXj_1xJKT3JsM
-#EXTINF:-1,La quinta ola
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/RegioTecnotv5ola/L4QU1NTecnotv.mp4
-#EXTINF:-1,La tierra y la sombra
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/RegioTecnol4t13rr4/l4.t13rr4.y.l4.s0mbr4.2015.hdrip.latino.gnula.avi.mp4
-#EXTINF:-1,Teenage Cocktail
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegioMty/73n463.mp4
-#EXTINF:-1,Jack Reacher 2 
-#EXTGRP:PELICULAS MOVIES
-https://ia601508.us.archive.org/1/items/jackPelixMax/jackPelixMax.mp4
-#EXTINF:-1,Stereo
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SRegioSt3r30/573R30.mp4
-#EXTINF:-1,Estar o no estar
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/estonoestregio/estonoestregio.mp4
-#EXTINF:-1,El reino de Dunark
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/REINOSrRegio/37r31n0d3dun4rk.mp4
-#EXTINF:-1,Cherry Tree
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio123/Cherry%20Tree.mp4
-#EXTINF:-1,Espiando a los vecinos
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio_20170110_0633/tt2387499.mp4
-#EXTINF:-1,Busca un trabajo
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/srregio_20170111/tt1468846.mp4
-#EXTINF:-1,Amigos intocables
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/SrRegio_20170110_0548/Amigos%20Intocables.mp4
-#EXTINF:-1,Reyes de las olas 2
-#EXTGRP:PELICULAS MOVIES
-https://ia801508.us.archive.org/17/items/sregio/surfs.up.2.w4v3rm4n14.2017.dvdrip.latino.gnula.avi.mp4
+http://axstvdoble.mine.nu/peliculas%20agui/%28ZIMBOLOS%29/%5bRec%5d%203%20Genesis%20%282012%29%20Espa%c3%b1ol/%5bRec%5d%203%20Genesis%20%282012%29%20Espa%c3%b1ol%20%281%29.mkv
 #EXTINF:-1, La Cabaña 
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/LCabaSRREGIO/LCabaSRREGIO.mkv
@@ -1834,7 +1786,7 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20
 #EXTINF:-1,MAMA 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF-1,13 PECADOS (2014)
+#EXTINF-1,13 PECADOS 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%C3%A9s/13%20Sins%20%282014%29%20Ingl%C3%A9s%20%281%29.mkv
 #EXTINF:-1,EL LABERINTO DEL FAUNO
@@ -2213,11 +2165,6 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
 http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/james%20bond%20%20Goldfinger%20%281964%29%20Dual/Goldfinger%20%281964%29Dual%20ripeado%20%281%29.mkv
-
-
-
-
-
 
 
 
