@@ -144,6 +144,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:-1,ANTENA 3
 #EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,RAI 5
+#EXTGRP:VARIEDAD VARIETY
+http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,NOVA
 #EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
@@ -159,6 +162,9 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&r
 #EXTINF:-1,COTUI
 #EXTGRP:VARIEDAD VARIETY
 http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
+#EXTINF:-1,2000TV
+#EXTGRP:VARIEDAD VARIETY
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 #EXTINF:-1,LA ABANA
 #EXTGRP:VARIEDAD VARIETY
 https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
@@ -213,6 +219,9 @@ http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1,CITY HD
 #EXTGRP:VARIEDAD VARIETY
 http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5905.ts
+#EXTINF:-1,8
+#EXTGRP:VARIEDAD VARIETY
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
 #EXTINF:-1,GEANTS HD
 #EXTGRP:VARIEDAD VARIETY
 http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5908.ts
@@ -417,6 +426,9 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", Cable Noticias
 #EXTGRP:NOTICIAS NEWS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,SKY NEWS
+#EXTGRP:NOTICIAS NEWS
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 #EXTINF:-1,CNN CHILE
 #EXTGRP:NOTICIAS NEWS
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
@@ -681,6 +693,9 @@ http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1,Metal
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1,JUG
+#EXTGRP:MUSICA
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1,Bridge Classic
 #EXTGRP:MUSICA
 http://37.9.150.230:4022/udp/232.0.1.27:1234
@@ -732,6 +747,9 @@ http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
 #EXTINF:-1,KRONEHIT HD
 #EXTGRP:MUSICA
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1,DRANTHE
+#EXTGRP:MUSICA
+rtmp://stream.rtvdrenthe.nl/tv/tvstream1
 #EXTINF:-1,CANAL U
 #EXTGRP:MUSICA
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
