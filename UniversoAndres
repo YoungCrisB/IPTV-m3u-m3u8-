@@ -116,7 +116,238 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 http://stream.latino-webtv.com/series/simpsons.mp4
 #EXTINF:-1,GAMERS SHOWS
 #EXTGRP:NIÑOS KIDS
-http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+#EXTINF:-1,TELECAFE
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,TELEANTIOQUIA
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TELEMEDELLIN
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,P&C TOLIMA
+#EXTGRP:VARIEDAD VARIETY
+http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
+#EXTINF:-1,CARACOL
+#EXTGRP:VARIEDAD VARIETY
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1,CNC CHOCO
+#EXTGRP:VARIEDAD VARIETY
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
+#EXTINF:-1,MUNDO + LA UNION ANTIOQUIA
+#EXTGRP:VARIEDAD VARIETY
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1,TV AGRO
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,ANTENA 3
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,NOVA
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,LA SEXTA  
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,NEOX
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,MEGA
+#EXTGRP:VARIEDAD VARIETY
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,COTUI
+#EXTGRP:VARIEDAD VARIETY
+http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
+#EXTINF:-1,LA ABANA
+#EXTGRP:VARIEDAD VARIETY
+https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
+#EXTINF:-1,CNC
+#EXTGRP:VARIEDAD VARIETY
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:-1,RCN
+#EXTGRP:VARIEDAD VARIETY
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,CANAL CAPITAL COL
+#EXTGRP:VARIEDAD VARIETY
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1,HAPPY
+#EXTGRP:VARIEDAD VARIETY
+http://86.106.82.154:8089
+#EXTINF:-1,CANALA U
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,TELE CARIBE
+#EXTGRP:VARIEDAD VARIETY
+https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
+#EXTINF:-1,CANAL TRO
+#EXTGRP:VARIEDAD VARIETY
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,TELEENVIGADO
+#EXTGRP:VARIEDAD VARIETY
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1,CALI 
+#EXTGRP:VARIEDAD VARIETY
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1,CIBER VISION 3 NAGUA
+#EXTGRP:VARIEDAD VARIETY
+http://ss6.domint.net:2078/ctv_str/cibervision/chunklist_w1913971982.m3u8
+#EXTINF:-1,ONDA
+#EXTGRP:VARIEDAD VARIETY
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w440868265.m3u8
+#EXTINF:-1,CANAL 10 MEX
+#EXTGRP:VARIEDAD VARIETY
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w180897103.m3u8
+#EXTINF:-1,TELE ISLAS
+#EXTGRP:VARIEDAD VARIETY
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1,RED+
+#EXTGRP:VARIEDAD VARIETY
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
+#EXTINF:-1,OCHOC HD
+#EXTGRP:VARIEDAD VARIETY
+http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5906.ts
+#EXTINF:-1,TELEMILENIO CHILE
+#EXTGRP:VARIEDAD VARIETY
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1,CITY HD
+#EXTGRP:VARIEDAD VARIETY
+http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5905.ts
+#EXTINF:-1,GEANTS HD
+#EXTGRP:VARIEDAD VARIETY
+http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5908.ts
+#EXTINF:-1,TELECENTRO
+#EXTGRP:VARIEDAD VARIETY
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+#EXTINF:-1,WILLAX
+#EXTGRP:VARIEDAD VARIETY
+http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,REPRETEL CANAL 11
+#EXTGRP:VARIEDAD VARIETY
+http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
+#EXTINF:-1,GALLA YUCATAN
+#EXTGRP:VARIEDAD VARIETY
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:-1,REPRETEL CANAL 6
+#EXTGRP:VARIEDAD VARIETY
+http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_sles.m3u8
+#EXTINF:-1,ORO MAR
+#EXTGRP:VARIEDAD VARIETY
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1,PANAMERICANA PERU
+#EXTGRP:VARIEDAD VARIETY
+http://cdnh15.iblups.com/hls/ptv.m3u8
+#EXTINF:-1,TELEFE ARGENTINA
+#EXTGRP:VARIEDAD VARIETY
+http://coninfo.net:1935/13max/live/chunklist.m3u8
+#EXTINF:-1,LA TELE VENEZUELA
+#EXTGRP:VARIEDAD VARIETY
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Canal 1
+#EXTGRP:VARIEDAD VARIETY
+http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
+#EXTINF:-1,CANAL 11
+#EXTGRP:VARIEDAD VARIETY
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
+#EXTINF:-1,13 MAX DIGITAL
+#EXTGRP:VARIEDAD VARIETY
+http://coninfo.net:1935/13max/live/chunklist_w1212589458.m3u8
+#EXTINF:-1,TRAVEL 
+#EXTGRP:VARIEDAD VARIETY
+http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
+#EXTINF:-1,TV PERU
+#EXTGRP:VARIEDAD VARIETY
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,PAT BOLIVIA
+#EXTGRP:VARIEDAD VARIETY
+http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w2032844291.m3u8
+#EXTINF:-1,LANCELOT
+#EXTGRP:VARIEDAD VARIETY
+http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
+#EXTINF:-1,TV5MONDE
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1,CANAL 26 Argentina
+#EXTGRP:VARIEDAD VARIETY
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1,WORLD FHASHION
+#EXTGRP:VARIEDAD VARIETY
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
+#EXTINF:-1,FASHION 
+#EXTGRP:VARIEDAD VARIETY
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1,FASHION EN 4K
+#EXTGRP:VARIEDAD VARIETY
+http://persik.by/stream/176/296165/10317.m3u8
+#EXTINF:-1,LIFE
+#EXTGRP:SERIES & MOVIES
+http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
+#EXTINF:-1,CLASICOS ACS
+#EXTGRP:SERIES & MOVIES
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:-1,15 tv
+#EXTGRP:VARIEDAD VARIETY
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1,TELEMUNDO ORIGINAL
+#EXTGRP:VARIEDAD VARIETY
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,CHV CHILE
+#EXTGRP:VARIEDAD VARIETY
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1,CDN
+#EXTGRP:VARIEDAD VARIETY
+http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
+#EXTINF:-1,MEDITERRANEO
+#EXTGRP:VARIEDAD VARIETY
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
+#EXTINF:-1,TELE UNO
+#EXTGRP:VARIEDAD VARIETY
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,TELEMAX  
+#EXTGRP:VARIEDAD VARIETY
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,TOREON MEXICO  
+#EXTGRP:VARIEDAD VARIETY
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1,TELE MAR
+#EXTGRP:VARIEDAD VARIETY
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:-1,TEN HD
+#EXTGRP:VARIEDAD VARIETY
+http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
+#EXTINF:-1,ANTARES PERU
+#EXTGRP:VARIEDAD VARIETY
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1,CANAL TNT
+#EXTGRP:VARIEDAD VARIETY
+http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
+#EXTINF:-1,AZTECA 13
+#EXTGRP:VARIEDAD VARIETY
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,AZTECA HONDURAS
+#EXTGRP:VARIEDAD VARIETY
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AZTECA PLUS
+#EXTGRP:VARIEDAD VARIETY
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,VMAS TV
+#EXTGRP:VARIEDAD VARIETY
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:-1,Senal Institucional
+#EXTGRP:VARIEDAD VARIETY
+http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
+#EXTINF:-1,ADN TV
+#EXTGRP:VARIEDAD VARIETY
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1,UNICANAL
+#EXTGRP:VARIEDAD VARIETY
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+#EXTINF:-1,FORO
+#EXTGRP:VARIEDAD VARIETY
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,ORBITV
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
@@ -438,239 +669,8 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1,SPACE
 #EXTGRP:SERIES & MOVIES
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1,TELECAFE
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
-#EXTINF:-1,CNC ARMENIA 
-#EXTGRP:VARIEDAD VARIETY
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
-#EXTINF:-1,TELEANTIOQUIA
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
-#EXTINF:-1,TELEMEDELLIN
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1,P&C EJE CAFETERO
-#EXTGRP:VARIEDAD VARIETY
-http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
-#EXTINF:-1,CARACOL
-#EXTGRP:VARIEDAD VARIETY
-http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,MUNDO + UNION VALLE COLOMBIA
-#EXTGRP:VARIEDAD VARIETY
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1,TV AGRO
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
-#EXTINF:-1,ANTENA 3
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-#EXTINF:-1,NOVA
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,LA SEXTA  
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,NEOX
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,MEGA
-#EXTGRP:VARIEDAD VARIETY
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,COTUI
-#EXTGRP:VARIEDAD VARIETY
-http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
-#EXTINF:-1,LA ABANA
-#EXTGRP:VARIEDAD VARIETY
-https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
-#EXTINF:-1,CNC
-#EXTGRP:VARIEDAD VARIETY
-http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
-#EXTINF:-1,RCN
-#EXTGRP:VARIEDAD VARIETY
-http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1,CANAL CAPITAL COL
-#EXTGRP:VARIEDAD VARIETY
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1,HAPPY
-#EXTGRP:VARIEDAD VARIETY
-http://86.106.82.154:8089
-#EXTINF:-1,CANALA U
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1,TELE CARIBE
-#EXTGRP:VARIEDAD VARIETY
-https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
-#EXTINF:-1,CANAL TRO
-#EXTGRP:VARIEDAD VARIETY
-http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,TELEENVIGADO
-#EXTGRP:VARIEDAD VARIETY
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-1,CALI 
-#EXTGRP:VARIEDAD VARIETY
-http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1,CIBER VISION 3 NAGUA
-#EXTGRP:VARIEDAD VARIETY
-http://ss6.domint.net:2078/ctv_str/cibervision/chunklist_w1913971982.m3u8
-#EXTINF:-1,ONDA
-#EXTGRP:VARIEDAD VARIETY
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w440868265.m3u8
-#EXTINF:-1,CANAL 10 MEX
-#EXTGRP:VARIEDAD VARIETY
-http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w180897103.m3u8
-#EXTINF:-1,TELE ISLAS
-#EXTGRP:VARIEDAD VARIETY
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1,RED+
-#EXTGRP:VARIEDAD VARIETY
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
-#EXTINF:-1,OCHOC HD
-#EXTGRP:VARIEDAD VARIETY
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5906.ts
-#EXTINF:-1,TELEMILENIO CHILE
-#EXTGRP:VARIEDAD VARIETY
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
-#EXTINF:-1,CITY HD
-#EXTGRP:VARIEDAD VARIETY
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5905.ts
-#EXTINF:-1,GEANTS HD
-#EXTGRP:VARIEDAD VARIETY
-http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5908.ts
-#EXTINF:-1,TELECENTRO
-#EXTGRP:VARIEDAD VARIETY
-http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
-#EXTINF:-1,WILLAX
-#EXTGRP:VARIEDAD VARIETY
-http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,REPRETEL CANAL 11
-#EXTGRP:VARIEDAD VARIETY
-http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
-#EXTINF:-1,GALLA YUCATAN
-#EXTGRP:VARIEDAD VARIETY
-http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
-#EXTINF:-1,REPRETEL CANAL 6
-#EXTGRP:VARIEDAD VARIETY
-http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_sles.m3u8
-#EXTINF:-1,ORO MAR
-#EXTGRP:VARIEDAD VARIETY
-http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
-#EXTINF:-1,PANAMERICANA PERU
-#EXTGRP:VARIEDAD VARIETY
-http://cdnh15.iblups.com/hls/ptv.m3u8
-#EXTINF:-1,TELEFE ARGENTINA
-#EXTGRP:VARIEDAD VARIETY
-http://coninfo.net:1935/13max/live/chunklist.m3u8
-#EXTINF:-1,LA TELE VENEZUELA
-#EXTGRP:VARIEDAD VARIETY
-http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Canal 1
-#EXTGRP:VARIEDAD VARIETY
-http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
-#EXTINF:-1,CANAL 11
-#EXTGRP:VARIEDAD VARIETY
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
-#EXTINF:-1,13 MAX DIGITAL
-#EXTGRP:VARIEDAD VARIETY
-http://coninfo.net:1935/13max/live/chunklist_w1212589458.m3u8
-#EXTINF:-1,TRAVEL 
-#EXTGRP:VARIEDAD VARIETY
-http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
-#EXTINF:-1,TV PERU
-#EXTGRP:VARIEDAD VARIETY
-http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1,PAT BOLIVIA
-#EXTGRP:VARIEDAD VARIETY
-http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w2032844291.m3u8
-#EXTINF:-1,LANCELOT
-#EXTGRP:VARIEDAD VARIETY
-http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
-#EXTINF:-1,TV5MONDE
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:-1,CANAL 26 Argentina
-#EXTGRP:VARIEDAD VARIETY
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1,WORLD FHASHION
-#EXTGRP:VARIEDAD VARIETY
-http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
-#EXTINF:-1,FASHION 
-#EXTGRP:VARIEDAD VARIETY
-http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:-1,FASHION EN 4K
-#EXTGRP:VARIEDAD VARIETY
-http://persik.by/stream/176/296165/10317.m3u8
-#EXTINF:-1,LIFE
-#EXTGRP:SERIES & MOVIES
-http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
-#EXTINF:-1,CLASICOS ACS
-#EXTGRP:SERIES & MOVIES
-http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
-#EXTINF:-1,15 tv
-#EXTGRP:VARIEDAD VARIETY
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1,TELEMUNDO ORIGINAL
-#EXTGRP:VARIEDAD VARIETY
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1,CHV CHILE
-#EXTGRP:VARIEDAD VARIETY
-http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
-#EXTINF:-1,CDN
-#EXTGRP:VARIEDAD VARIETY
-http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
-#EXTINF:-1,MEDITERRANEO
-#EXTGRP:VARIEDAD VARIETY
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
-#EXTINF:-1,TELE UNO
-#EXTGRP:VARIEDAD VARIETY
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,TELEMAX  
-#EXTGRP:VARIEDAD VARIETY
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,TOREON MEXICO  
-#EXTGRP:VARIEDAD VARIETY
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1,TELE MAR
-#EXTGRP:VARIEDAD VARIETY
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-#EXTINF:-1,TEN HD
-#EXTGRP:VARIEDAD VARIETY
-http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
-#EXTINF:-1,ANTARES PERU
-#EXTGRP:VARIEDAD VARIETY
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1,CANAL TNT
-#EXTGRP:VARIEDAD VARIETY
-http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
-#EXTINF:-1,AZTECA 13
-#EXTGRP:VARIEDAD VARIETY
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1,AZTECA HONDURAS
-#EXTGRP:VARIEDAD VARIETY
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,AZTECA PLUS
-#EXTGRP:VARIEDAD VARIETY
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1,VMAS TV
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-#EXTINF:-1,Senal Institucional
-#EXTGRP:VARIEDAD VARIETY
-http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
-#EXTINF:-1,ADN TV
-#EXTGRP:VARIEDAD VARIETY
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
-#EXTINF:-1,UNICANAL
-#EXTGRP:VARIEDAD VARIETY
-http://strm.unicanal.com.py/live/unicanal_src.m3u8
-#EXTINF:-1,FORO
-#EXTGRP:VARIEDAD VARIETY
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,CAMPUS CLASSICA
-#EXTGRP:VARIEDAD VARIETY
+#EXTGRP:MUSICA
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 #EXTINF:-1,Rock
 #EXTGRP:MUSICA
@@ -795,6 +795,9 @@ http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
 #EXTINF:-1,JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1,EPÓRTE
+#EXTGRP:DEPORTES SPORTS
+http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
 #EXTINF:-1,Матч! Футбол 1 
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10266.m3u8
@@ -879,6 +882,12 @@ http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8
 #EXTINF:-1,MOVISTAR FUTBOL
 #EXTGRP:DEPORTES SPORTS
 http://185.152.66.150:25461/live/deportesfans/fanstvapp/39.m3u8
+#EXTINF:-1,ESPN BRASIL
+#EXTGRP:DEPORTES SPORTS
+http://listaiptv.brcs.ml:8080/HD_ESPN_BRASIL/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+#EXTINF:-1,ESPN BRASIL
+#EXTGRP:DEPORTES SPORTS
+http://listaiptv.brcs.ml:8080/HD_ESPN/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
 #EXTINF:-1,ESPN
 #EXTGRP:DEPORTES SPORTS
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
@@ -2764,4 +2773,3 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
 http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/james%20bond%20%20Goldfinger%20%281964%29%20Dual/Goldfinger%20%281964%29Dual%20ripeado%20%281%29.mkv
-
