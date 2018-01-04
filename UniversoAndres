@@ -570,6 +570,21 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1,SPACE
 #EXTGRP:SERIES & MOVIES
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1,CAMPUS CLASSICA 1
+#EXTGRP:MUSICA
+http://hearme.fm:8570/stream
+#EXTINF:-1,CAMPUS CLASSICA 2
+#EXTGRP:MUSICA
+http://hearme.fm:8136/stream
+#EXTINF:-1,CAMPUS CLASSICA 3
+#EXTGRP:MUSICA
+http://hearme.fm:8134/stream
+#EXTINF:-1,CAMPUS CLASSICA 4
+#EXTGRP:MUSICA
+http://hearme.fm:8106/stream
+#EXTINF:-1,CAMPUS CLASSICA 5
+#EXTGRP:MUSICA
+http://hearme.fm:8021/stream
 #EXTINF:-1,Rock
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
@@ -603,21 +618,6 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklis
 #EXTINF:-1,90s
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1,CAMPUS CLASSICA 1
-#EXTGRP:MUSICA
-http://hearme.fm:8570/stream
-#EXTINF:-1,CAMPUS CLASSICA 2
-#EXTGRP:MUSICA
-http://hearme.fm:8136/stream
-#EXTINF:-1,CAMPUS CLASSICA 3
-#EXTGRP:MUSICA
-http://hearme.fm:8134/stream
-#EXTINF:-1,CAMPUS CLASSICA 4
-#EXTGRP:MUSICA
-http://hearme.fm:8106/stream
-#EXTINF:-1,CAMPUS CLASSICA 4
-#EXTGRP:MUSICA
-http://hearme.fm:8021/stream
 #EXTINF:-1,TVPop
 #EXTGRP:MUSICA
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
