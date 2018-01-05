@@ -12,36 +12,21 @@ http://200.78.215.85:8010/play/a08b
 #EXTINF:-1,BABY
 #EXTGRP:NIÑOS KIDS
 http://str01.ddns.net/002/myStream/playlist.m3u8
+#EXTINF:-1,Rai Yoyo HD 
+#EXTGRP:NIÑOS KIDS
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
 #EXTINF:-1,ANIMADOS 
 #EXTGRP:NIÑOS KIDS
 http://195.88.52.102:8000/play/a05j
-#EXTINF:-1,PEPPA 
-#EXTGRP:NIÑOS KIDS 
-https://r1---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ipbits=0&lmt=1503035542916784&sparams=clen%2Cdur%2Cei%2Cgcr%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&gcr=co&requiressl=yes&ei=wb5OWr_5JIah-wXK57_QAw&initcwndbps=342500&source=youtube&dur=0.000&clen=298793722&ratebypass=yes&expire=1515131681&key=yt6&mime=video%2Fwebm&itag=43&pl=22&mn=sn-ja5gvjv-hqxe&ip=181.58.199.55&mm=31&gir=yes&id=o-AMTcrnrGVjv4M_Ls5_cM96_L74czxlO1bkML97RZuk6f&signature=A62E61AB610F25163229D158817A4ED50D7D1181.89240DB3FADEFAD50B494CD63FAD8A1EFE565136&ms=au&pcm2cms=yes&mv=m&mt=1515109960
-#EXTINF:-1,PEPPA PIG
-#EXTGRP:NIÑOS KIDS 
-https://r5---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?signature=6040CC7BB0E6A9AD9946682BDC0FCA8C3BAB0E66.8A30C15ED30ADBE31F90AE67681539446D91D8F1&dur=3593.102&initcwndbps=338750&itag=22&mt=1515110083&ipbits=0&ratebypass=yes&key=yt6&expire=1515131763&gcr=co&mv=m&id=o-AATkE8Wg82dK5CcH500YqHj3PHUbCXCnnnIs0AniuPLE&ms=au&source=youtube&mm=31&mn=sn-ja5gvjv-hqxe&pl=22&ip=181.58.199.55&mime=video%2Fmp4&requiressl=yes&pcm2cms=yes&ei=E79OWvP3AsjR-wWd9JSIAw&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&lmt=1509595607621792
-#EXTINF:-1,PEPPA PIG NAVIDAD
-#EXTGRP:NIÑOS KIDS 
-https://r4---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ei=Ob9OWtb1K8HQ-wWM-I_YDw&source=youtube&lmt=1512628782596029&initcwndbps=338750&itag=22&mime=video%2Fmp4&pcm2cms=yes&key=yt6&ratebypass=yes&expire=1515131801&ipbits=0&signature=1EDCBDD72130FEBEC5F7AFC5C0890B66098AA59A.6541CD05D2DF0C792222459174AE7A7A9CD9DEB6&dur=5099.984&gcr=co&id=o-AGpMz_1z0S-_rLSSLDKy_mx7W0Rc1ru6c2a_QaM5UtTZ&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ms=au&mt=1515110083&mv=m&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ip=181.58.199.55&requiressl=yes
 #EXTINF:-1,KARRUSEL
 #EXTGRP:NIÑOS KIDS
 http://195.88.52.102:8000/play/a04a 
-#EXTINF:-1,TELE APRENDE 
-#EXTGRP:NIÑOS KIDS
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
-#EXTINF:-1,CHICOS IPN
-#EXTGRP:NIÑOS KIDS
-http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,PAQUE RADIO
 #EXTGRP:NIÑOS KIDS
 http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1,JimJam
 #EXTGRP:NIÑOS KIDS
 http://persik.by/stream/6431/299492/454.m3u8
-#EXTINF:-1,Rai Yoyo HD 
-#EXTGRP:NIÑOS KIDS
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
 #EXTINF:-1,tooncast
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
@@ -51,25 +36,25 @@ http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
 #EXTINF:-1, BOING
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
-#EXTINF:-1, boomerang
+#EXTINF:-1,boomerang
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
 #EXTINF:-1, disney 
 #EXTGRP:NIÑOS KIDS
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1, disney channel
+#EXTINF:-1,disney channel
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
-#EXTINF:-1, disney junior
+#EXTINF:-1,disney junior
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
-#EXTINF:-1, disney junior
+#EXTINF:-1,disney junior
 #EXTGRP:NIÑOS KIDS
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1, disney xd
+#EXTINF:-1,disney xd
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
-#EXTINF:-1, tiin
+#EXTINF:-1,tiin
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
 #EXTINF:-1,Nickelodeon
@@ -114,9 +99,6 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,WOW 
 #EXTGRP:NIÑOS KIDS
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,IPT
-#EXTGRP:NIÑOS KIDS
-http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,DISTRITO COMEDIA
 #EXTGRP:NIÑOS KIDS
 http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(03)/index.m3u8
@@ -231,6 +213,12 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playli
 #EXTINF:-1,TV5MONDE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1,TELE APRENDE 
+#EXTGRP:VARIEDAD VARIETY
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+#EXTINF:-1,CHICOS IPN
+#EXTGRP:VARIEDAD VARIETY
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,COTUI
 #EXTGRP:VARIEDAD VARIETY
 http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
@@ -486,9 +474,6 @@ https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1,24 PERU
 #EXTGRP:NOTICIAS NEWS
 http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
-#EXTINF:-1,ANDRES MOVIES
-#EXTGRP:SERIES & MOVIES
-https://r3---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?beids=%5B9466591%5D&source=youtube&ratebypass=yes&dur=39911.456&lmt=1512452869026222&key=yt6&ip=181.58.199.55&requiressl=yes&signature=125873FE68C8395488C7C0300393AC772E34D822.A96A61597982B46802A829395EA43E2D9E971EA5&pcm2cms=yes&gcr=co&id=o-AC2iwNye6p1MRoDauUn9w4jNdjzauSa5GFbnmtxdzUaH&mm=31&mn=sn-ja5gvjv-hqxe&mt=1515110401&mv=m&ei=WcBOWsr6NKXl-AXi946IBw&itag=22&ms=au&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mime=video%2Fmp4&pl=22&ipbits=0&expire=1515132090&initcwndbps=342500
 #EXTINF:-1,PANICO
 #EXTGRP:SERIES & MOVIES
 https://ssh101.com/m3u8/dyn/panico/index.m3u8
@@ -1494,6 +1479,15 @@ http://69.30.196.250/caverna-do-dragao/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/A3MPua", pokémon indigo league 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/pokemon/tracks-v1a1/index.m3u8
+#EXTINF:-1,PEPPA 
+#EXTGRP:SERIES NIÑOS KIDS
+https://r1---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ipbits=0&lmt=1503035542916784&sparams=clen%2Cdur%2Cei%2Cgcr%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&gcr=co&requiressl=yes&ei=wb5OWr_5JIah-wXK57_QAw&initcwndbps=342500&source=youtube&dur=0.000&clen=298793722&ratebypass=yes&expire=1515131681&key=yt6&mime=video%2Fwebm&itag=43&pl=22&mn=sn-ja5gvjv-hqxe&ip=181.58.199.55&mm=31&gir=yes&id=o-AMTcrnrGVjv4M_Ls5_cM96_L74czxlO1bkML97RZuk6f&signature=A62E61AB610F25163229D158817A4ED50D7D1181.89240DB3FADEFAD50B494CD63FAD8A1EFE565136&ms=au&pcm2cms=yes&mv=m&mt=1515109960
+#EXTINF:-1,PEPPA PIG
+#EXTGRP:SERIES NIÑOS KIDS
+https://r5---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?signature=6040CC7BB0E6A9AD9946682BDC0FCA8C3BAB0E66.8A30C15ED30ADBE31F90AE67681539446D91D8F1&dur=3593.102&initcwndbps=338750&itag=22&mt=1515110083&ipbits=0&ratebypass=yes&key=yt6&expire=1515131763&gcr=co&mv=m&id=o-AATkE8Wg82dK5CcH500YqHj3PHUbCXCnnnIs0AniuPLE&ms=au&source=youtube&mm=31&mn=sn-ja5gvjv-hqxe&pl=22&ip=181.58.199.55&mime=video%2Fmp4&requiressl=yes&pcm2cms=yes&ei=E79OWvP3AsjR-wWd9JSIAw&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&lmt=1509595607621792
+#EXTINF:-1,PEPPA PIG NAVIDAD
+#EXTGRP:SERIES NIÑOS KIDS
+https://r4---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ei=Ob9OWtb1K8HQ-wWM-I_YDw&source=youtube&lmt=1512628782596029&initcwndbps=338750&itag=22&mime=video%2Fmp4&pcm2cms=yes&key=yt6&ratebypass=yes&expire=1515131801&ipbits=0&signature=1EDCBDD72130FEBEC5F7AFC5C0890B66098AA59A.6541CD05D2DF0C792222459174AE7A7A9CD9DEB6&dur=5099.984&gcr=co&id=o-AGpMz_1z0S-_rLSSLDKy_mx7W0Rc1ru6c2a_QaM5UtTZ&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ms=au&mt=1515110083&mv=m&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ip=181.58.199.55&requiressl=yes
 #EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/A%20Mite%20of%20Trouble%201961.mp4
@@ -1561,388 +1555,388 @@ https://archive.org/download/AMiteOfTrouble1961/Bottom%20Gun%201960.mp4
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/The%20Baby%20Contest%201960.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/2qfihaxz.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/2kgwf6yt.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/22dm49s6.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/4rfpmaal.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/7c66lwdl.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/068l7fqj.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/95k0l9hg.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/avdzsk00.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/06ergrkl.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/qip3qvaw.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/rzf4u3h6.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/qgvw1z59.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/r41qnm4g.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/9fkhmbqk.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/6svph81x.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/sih6xg0n.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/py8ia5gd.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/felxpf4s.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/kmjybdib.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/3pfoq2xa.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/6t3oey5j.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/1x87jt92.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/k3n52njk.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/t433u493.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/pwn1xqnn.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/uff9ucgx.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/pdha630x.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/l67drtdu.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/2apomxs2.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/4fi1xbbc.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/8h157a4c.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/wbajxswr.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/6a17gh58.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/34sd6deb.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/k05mhgvt.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/jqw9ye4b.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/dde633br.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/jfrqaojt.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/u4j02wg1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/guhkzzic.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/5lz73rvw.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/5x2a20yr.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/yup516or.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/w39wq6fm.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/xtopwu0x.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/xoqgzsji.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/7o246wrs.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/y6gfp05z.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/u7y3sipw.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/utjb75yr.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/j10mkbls.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/8er05kcu.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/dz8e1idu.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/qc11x3qr.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/3rpeio1u.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/p8t3e1rm.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/o9d9x9ff.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/aygu04al.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/y7ybgk2m.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/dw4nojub.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/j6ntukak.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/ut7bulwg.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/4ab6qza8.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/facvjkpm.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/2qfihaxz.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/2kgwf6yt.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/22dm49s6.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/4rfpmaal.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/7c66lwdl.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/068l7fqj.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/95k0l9hg.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/avdzsk00.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/06ergrkl.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/qip3qvaw.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/rzf4u3h6.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/qgvw1z59.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/r41qnm4g.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/9fkhmbqk.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/6svph81x.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/sih6xg0n.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/py8ia5gd.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/felxpf4s.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/kmjybdib.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/3pfoq2xa.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/6t3oey5j.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/1x87jt92.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/k3n52njk.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/t433u493.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/pwn1xqnn.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/uff9ucgx.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/pdha630x.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/l67drtdu.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/2apomxs2.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/4fi1xbbc.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/8h157a4c.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/wbajxswr.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/6a17gh58.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/34sd6deb.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/k05mhgvt.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/jqw9ye4b.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/dde633br.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/jfrqaojt.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/u4j02wg1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/guhkzzic.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/5lz73rvw.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/5x2a20yr.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/yup516or.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/w39wq6fm.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/xtopwu0x.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/xoqgzsji.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/7o246wrs.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/y6gfp05z.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/u7y3sipw.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/utjb75yr.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/j10mkbls.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/8er05kcu.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/dz8e1idu.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/qc11x3qr.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/3rpeio1u.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/p8t3e1rm.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/o9d9x9ff.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/aygu04al.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/y7ybgk2m.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/dw4nojub.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/j6ntukak.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/ut7bulwg.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/4ab6qza8.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
-#EXTGRP:SERIES NIÑOS KIDS 
+#EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/facvjkpm.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
