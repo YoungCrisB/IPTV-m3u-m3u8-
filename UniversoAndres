@@ -615,6 +615,24 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1,SPACE
 #EXTGRP:SERIES & MOVIES
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1,Q-DANCE
+#EXTGRP:MUSICA
+https://r1---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?mv=m&mt=1515111470&ms=au&dur=10909.849&ratebypass=yes&mn=sn-ja5gvjv-hqxe&source=youtube&mm=31&initcwndbps=336250&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&id=o-AD9tk6vcM4fSdCKBWmQRecxkcEYPLkbsAvyDYyG_Yn1U&ei=pMROWqT1JYam-AXM9IAY&ip=181.58.199.55&pcm2cms=yes&pl=22&requiressl=yes&expire=1515133188&lmt=1514260757379461&ipbits=0&itag=22&key=yt6&mime=video%2Fmp4&signature=E671C96B9E18F6C179175A80B2F081DF7497D3.0C6C8BEE62ED9C6BC317FCB81A42F45A303E8CC5
+#EXTINF:-1,PEACOCK 4K-UHD
+#EXTGRP:MUSICA
+https://r6---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mime=video%2Fmp4&pcm2cms=yes&dur=3604.758&lmt=1508210572486812&key=yt6&ip=181.58.199.55&beids=%5B9466591%5D&id=o-APGZV6ztCRm9LR3nUgs2vO_15JD9UBc8-DbrGGkn_ZQe&itag=22&ipbits=0&mn=sn-ja5gvjv-hqxe&mm=31&requiressl=yes&expire=1515133956&ms=au&ei=o8dOWtK2OMXg-gWm6LnYDg&mv=m&mt=1515112243&ratebypass=yes&pl=22&source=youtube&initcwndbps=330000&signature=7D863AC00BE7E3841DDC815304E4C57F774DEE08.532872848D949680B4D4F436F37C4454ED811A2F
+#EXTINF:-1,QLIMAX 
+#EXTGRP:MUSICA
+https://r8---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&mn=sn-ja5gvjv-hqxe&source=youtube&mm=31&mv=m&mt=1515111781&ms=au&dur=30875.713&ipbits=0&itag=22&key=yt6&mime=video%2Fmp4&lmt=1473503686546628&expire=1515133499&pcm2cms=yes&pl=22&requiressl=yes&ei=28VOWo_xGcSh-AXcs6CwDg&ip=181.58.199.55&initcwndbps=340000&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&id=o-AHs1nt_Kae5qQVrn8mUX6-KwTDbThO3ZXTInKj-bdCHi&signature=CA974F4247B5380B90A7639337FED630D6F8C500.9DFFD4203C610972340C286201F295C5E65B3487
+#EXTINF:-1,HEADHUNTERZ 
+#EXTGRP:MUSICA
+https://r3---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?initcwndbps=337500&lmt=1472796977944566&expire=1515133648&ipbits=0&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mn=sn-ja5gvjv-hqxe&pl=22&mm=31&requiressl=yes&dur=4097.555&id=o-AIf-vUC_1DIyj11Qjuez2aSsNR6Clv43SBtc5dIjv7-M&mv=m&mt=1515111957&ms=au&source=youtube&ei=cMZOWtnCGsLJ-wWptovgDg&itag=22&ratebypass=yes&ip=181.58.199.55&pcm2cms=yes&signature=DDAECFB7A254A6937C6E6DCB2CC1F75BC1A949F6.950891EAD6E5ACA63EAB58198E171B2A8DA4CDBA&key=yt6&mime=video%2Fmp4
+#EXTINF:-1,DAVID GUETTA
+#EXTGRP:MUSICA
+https://r7---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?initcwndbps=336250&dur=3708.923&itag=22&key=yt6&ratebypass=yes&ipbits=0&id=o-ACljgjpEZ5RyNJ42eDxV_ozz8DHKxgJYea0AGF7TJZFx&ms=au&mt=1515110917&mv=m&expire=1515132589&requiressl=yes&mime=video%2Fmp4&ip=181.58.199.55&mm=31&source=youtube&pl=22&mn=sn-ja5gvjv-hqxe&ei=TcJOWqrcI4GB-QXPr5XwDw&pcm2cms=yes&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&lmt=1506178257831820&signature=1F7D0248E343E377737267A1A9E56C4C4AB709A9.9383BE1B75940669B603F6B6446EB1D30F0418FB
+#EXTINF:-1,Dance/EDM
+#EXTGRP:MUSICA
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
 #EXTINF:-1,CAMPUS CLASSICA 
 #EXTGRP:MUSICA
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
@@ -747,24 +765,6 @@ http://176.107.177.139:25500/MTVHits
 #EXTINF:-1,R&B Soul
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1,Dance/EDM
-#EXTGRP:MUSICA
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1,Q-DANCE
-#EXTGRP:MUSICA
-https://r1---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?mv=m&mt=1515111470&ms=au&dur=10909.849&ratebypass=yes&mn=sn-ja5gvjv-hqxe&source=youtube&mm=31&initcwndbps=336250&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&id=o-AD9tk6vcM4fSdCKBWmQRecxkcEYPLkbsAvyDYyG_Yn1U&ei=pMROWqT1JYam-AXM9IAY&ip=181.58.199.55&pcm2cms=yes&pl=22&requiressl=yes&expire=1515133188&lmt=1514260757379461&ipbits=0&itag=22&key=yt6&mime=video%2Fmp4&signature=E671C96B9E18F6C179175A80B2F081DF7497D3.0C6C8BEE62ED9C6BC317FCB81A42F45A303E8CC5
-#EXTINF:-1,PEACOCK 4K-UHD
-#EXTGRP:MUSICA
-https://r6---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mime=video%2Fmp4&pcm2cms=yes&dur=3604.758&lmt=1508210572486812&key=yt6&ip=181.58.199.55&beids=%5B9466591%5D&id=o-APGZV6ztCRm9LR3nUgs2vO_15JD9UBc8-DbrGGkn_ZQe&itag=22&ipbits=0&mn=sn-ja5gvjv-hqxe&mm=31&requiressl=yes&expire=1515133956&ms=au&ei=o8dOWtK2OMXg-gWm6LnYDg&mv=m&mt=1515112243&ratebypass=yes&pl=22&source=youtube&initcwndbps=330000&signature=7D863AC00BE7E3841DDC815304E4C57F774DEE08.532872848D949680B4D4F436F37C4454ED811A2F
-#EXTINF:-1,QLIMAX 
-#EXTGRP:MUSICA
-https://r8---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&mn=sn-ja5gvjv-hqxe&source=youtube&mm=31&mv=m&mt=1515111781&ms=au&dur=30875.713&ipbits=0&itag=22&key=yt6&mime=video%2Fmp4&lmt=1473503686546628&expire=1515133499&pcm2cms=yes&pl=22&requiressl=yes&ei=28VOWo_xGcSh-AXcs6CwDg&ip=181.58.199.55&initcwndbps=340000&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&id=o-AHs1nt_Kae5qQVrn8mUX6-KwTDbThO3ZXTInKj-bdCHi&signature=CA974F4247B5380B90A7639337FED630D6F8C500.9DFFD4203C610972340C286201F295C5E65B3487
-#EXTINF:-1,HEADHUNTERZ 
-#EXTGRP:MUSICA
-https://r3---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?initcwndbps=337500&lmt=1472796977944566&expire=1515133648&ipbits=0&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mn=sn-ja5gvjv-hqxe&pl=22&mm=31&requiressl=yes&dur=4097.555&id=o-AIf-vUC_1DIyj11Qjuez2aSsNR6Clv43SBtc5dIjv7-M&mv=m&mt=1515111957&ms=au&source=youtube&ei=cMZOWtnCGsLJ-wWptovgDg&itag=22&ratebypass=yes&ip=181.58.199.55&pcm2cms=yes&signature=DDAECFB7A254A6937C6E6DCB2CC1F75BC1A949F6.950891EAD6E5ACA63EAB58198E171B2A8DA4CDBA&key=yt6&mime=video%2Fmp4
-#EXTINF:-1,DAVID GUETTA
-#EXTGRP:MUSICA
-https://r7---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?initcwndbps=336250&dur=3708.923&itag=22&key=yt6&ratebypass=yes&ipbits=0&id=o-ACljgjpEZ5RyNJ42eDxV_ozz8DHKxgJYea0AGF7TJZFx&ms=au&mt=1515110917&mv=m&expire=1515132589&requiressl=yes&mime=video%2Fmp4&ip=181.58.199.55&mm=31&source=youtube&pl=22&mn=sn-ja5gvjv-hqxe&ei=TcJOWqrcI4GB-QXPr5XwDw&pcm2cms=yes&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&lmt=1506178257831820&signature=1F7D0248E343E377737267A1A9E56C4C4AB709A9.9383BE1B75940669B603F6B6446EB1D30F0418FB
 #EXTINF:-1,Hip-Hop And R&B
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
