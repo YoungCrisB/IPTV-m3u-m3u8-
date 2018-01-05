@@ -93,6 +93,9 @@ http://3.sendvid.com/y00xutjl.mp4
 #EXTINF:-1,LA BANDA 
 #EXTGRP:NIÑOS KIDS
 http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
+#EXTINF:-1,BANG BANG 
+#EXTGRP:NIÑOS KIDS
+http://173.212.226.236:8888/live/WWW.FREEIPTVLIST.COM/WWW.FREEIPTVLIST.COM/529.ts
 #EXTINF:-1,1KD
 #EXTGRP:NIÑOS KIDS
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
@@ -585,6 +588,12 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
 #EXTINF:-1,RAI MOVIE HD
 #EXTGRP:SERIES & MOVIES
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
+#EXTINF:-1,TOP CINEMA 
+#EXTGRP:SERIES & MOVIES
+http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/1611.ts
+#EXTINF:-1, Херсон+
+#EXTGRP:SERIES & MOVIES
+http://193.107.128.8:8552/play/a016
 #EXTINF:-1,CLASICOS ACS
 #EXTGRP:SERIES & MOVIES
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
