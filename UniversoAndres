@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,∞ DEJAR CARGAR EL CANAL PARA QUE DE HD & 1 FELIZ AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR AQUI ESTAN MIS FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - ipmagtv - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
+#EXTINF:-1,∞ DEJAR CARGAR EL CANAL PARA QUE DE HD AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR AQUI ESTAN MIS FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - ipmagtv - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
 pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres Donaciones a paypal.me/Andres632 sugerencias andresbio8613@gmail.com o aportes
 #EXTGRP:SERVIDOR 
 http://persik.by/stream/6431/299492/10292.m3u8
@@ -14,7 +14,16 @@ http://200.78.215.85:8010/play/a08b
 http://str01.ddns.net/002/myStream/playlist.m3u8
 #EXTINF:-1,ANIMADOS 
 #EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a05j 
+http://195.88.52.102:8000/play/a05j
+#EXTINF:-1,PEPPA 
+#EXTGRP:NIÑOS KIDS 
+https://r1---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ipbits=0&lmt=1503035542916784&sparams=clen%2Cdur%2Cei%2Cgcr%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&gcr=co&requiressl=yes&ei=wb5OWr_5JIah-wXK57_QAw&initcwndbps=342500&source=youtube&dur=0.000&clen=298793722&ratebypass=yes&expire=1515131681&key=yt6&mime=video%2Fwebm&itag=43&pl=22&mn=sn-ja5gvjv-hqxe&ip=181.58.199.55&mm=31&gir=yes&id=o-AMTcrnrGVjv4M_Ls5_cM96_L74czxlO1bkML97RZuk6f&signature=A62E61AB610F25163229D158817A4ED50D7D1181.89240DB3FADEFAD50B494CD63FAD8A1EFE565136&ms=au&pcm2cms=yes&mv=m&mt=1515109960
+#EXTINF:-1,PEPPA PIG
+#EXTGRP:NIÑOS KIDS 
+https://r5---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?signature=6040CC7BB0E6A9AD9946682BDC0FCA8C3BAB0E66.8A30C15ED30ADBE31F90AE67681539446D91D8F1&dur=3593.102&initcwndbps=338750&itag=22&mt=1515110083&ipbits=0&ratebypass=yes&key=yt6&expire=1515131763&gcr=co&mv=m&id=o-AATkE8Wg82dK5CcH500YqHj3PHUbCXCnnnIs0AniuPLE&ms=au&source=youtube&mm=31&mn=sn-ja5gvjv-hqxe&pl=22&ip=181.58.199.55&mime=video%2Fmp4&requiressl=yes&pcm2cms=yes&ei=E79OWvP3AsjR-wWd9JSIAw&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&lmt=1509595607621792
+#EXTINF:-1,PEPPA PIG NAVIDAD
+#EXTGRP:NIÑOS KIDS 
+https://r4---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ei=Ob9OWtb1K8HQ-wWM-I_YDw&source=youtube&lmt=1512628782596029&initcwndbps=338750&itag=22&mime=video%2Fmp4&pcm2cms=yes&key=yt6&ratebypass=yes&expire=1515131801&ipbits=0&signature=1EDCBDD72130FEBEC5F7AFC5C0890B66098AA59A.6541CD05D2DF0C792222459174AE7A7A9CD9DEB6&dur=5099.984&gcr=co&id=o-AGpMz_1z0S-_rLSSLDKy_mx7W0Rc1ru6c2a_QaM5UtTZ&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ms=au&mt=1515110083&mv=m&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ip=181.58.199.55&requiressl=yes
 #EXTINF:-1,KARRUSEL
 #EXTGRP:NIÑOS KIDS
 http://195.88.52.102:8000/play/a04a 
@@ -96,6 +105,9 @@ http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,El Chavo Animado  
 #EXTGRP:NIÑOS KIDS
 http://3.sendvid.com/y00xutjl.mp4
+#EXTINF:-1,LA BANDA 
+#EXTGRP:NIÑOS KIDS
+http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
 #EXTINF:-1,1KD
 #EXTGRP:NIÑOS KIDS
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
@@ -126,6 +138,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:-1,RCN
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,CANAL 1 COL
+#EXTGRP:VARIEDAD VARIETY
+http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
 #EXTINF:-1,TELECAFE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
@@ -153,12 +168,15 @@ http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
 #EXTINF:-1,CNC CHOCO
 #EXTGRP:VARIEDAD VARIETY
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
-#EXTINF:-1,CNC
+#EXTINF:-1,CNC ANTIOQUIA
 #EXTGRP:VARIEDAD VARIETY
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
-#EXTINF:-1,CANAL CAPITAL COL
+#EXTINF:-1,CANAL CAPITAL BOG
 #EXTGRP:VARIEDAD VARIETY
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1,CITY TV BOG
+#EXTGRP:VARIEDAD VARIETY
+https://live5.userapi.com/637602/live/4_m40opCfZY/playlist.m3u8
 #EXTINF:-1,TELEENVIGADO
 #EXTGRP:VARIEDAD VARIETY
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
@@ -186,6 +204,30 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1,MEGA
 #EXTGRP:VARIEDAD VARIETY
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ARAGON
+#EXTGRP:VARIEDAD VARIETY
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,CANAL VASCO
+#EXTGRP:VARIEDAD VARIETY
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
+#EXTINF:-1,8
+#EXTGRP:VARIEDAD VARIETY
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1,TELEMADRID
+#EXTGRP:VARIEDAD VARIETY
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1,MALAGA
+#EXTGRP:VARIEDAD VARIETY
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,EXTREMADURA
+#EXTGRP:VARIEDAD VARIETY
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1,LEVANTE
+#EXTGRP:VARIEDAD VARIETY
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:-1,324
+#EXTGRP:VARIEDAD VARIETY
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1,TV5MONDE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
@@ -225,9 +267,6 @@ http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1,CITY HD
 #EXTGRP:VARIEDAD VARIETY
 http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5905.ts
-#EXTINF:-1,8
-#EXTGRP:VARIEDAD VARIETY
-http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
 #EXTINF:-1,GEANTS HD
 #EXTGRP:VARIEDAD VARIETY
 http://163.172.14.105:8000/live/FR:French/M9XePT9Noy/5908.ts
@@ -258,9 +297,6 @@ http://coninfo.net:1935/13max/live/chunklist.m3u8
 #EXTINF:-1,LA TELE VENEZUELA
 #EXTGRP:VARIEDAD VARIETY
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Canal 1
-#EXTGRP:VARIEDAD VARIETY
-http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
 #EXTINF:-1,CANAL 11
 #EXTGRP:VARIEDAD VARIETY
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
@@ -366,10 +402,10 @@ https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
 #EXTINF:-1,Tec TV
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL 
+#EXTINF:-1,DISCOVERY CHANNEL 
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
-#EXTINF:-1, DISCOVERY SCIENCE
+#EXTINF:-1,DISCOVERY SCIENCE
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
 #EXTINF:-1,ANIMAUX
@@ -378,7 +414,7 @@ http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000
 #EXTINF:-1,NAT GEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1, NATGEO WILD
+#EXTINF:-1,NATGEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
 #EXTINF:-1, H&H
@@ -450,6 +486,9 @@ https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1,24 PERU
 #EXTGRP:NOTICIAS NEWS
 http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
+#EXTINF:-1,ANDRES MOVIES
+#EXTGRP:NOTICIAS NEWS
+https://r3---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?beids=%5B9466591%5D&source=youtube&ratebypass=yes&dur=39911.456&lmt=1512452869026222&key=yt6&ip=181.58.199.55&requiressl=yes&signature=125873FE68C8395488C7C0300393AC772E34D822.A96A61597982B46802A829395EA43E2D9E971EA5&pcm2cms=yes&gcr=co&id=o-AC2iwNye6p1MRoDauUn9w4jNdjzauSa5GFbnmtxdzUaH&mm=31&mn=sn-ja5gvjv-hqxe&mt=1515110401&mv=m&ei=WcBOWsr6NKXl-AXi946IBw&itag=22&ms=au&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mime=video%2Fmp4&pl=22&ipbits=0&expire=1515132090&initcwndbps=342500
 #EXTINF:-1,PANICO
 #EXTGRP:SERIES & MOVIES
 https://ssh101.com/m3u8/dyn/panico/index.m3u8
@@ -522,15 +561,21 @@ http://23.237.22.2/LIVE/H01/CANAL207/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1,CINECANAL
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
-#EXTINF:-1,CINECANAL 2
+#EXTINF:-1,CINEMAX
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL481/PROFILE03.m3u8?authorization=knife.handshake
-#EXTINF:-1, CINEMAX 
-#EXTGRP:SERIES & MOVIES
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
 #EXTINF:-1,DE PELICULA 
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+#EXTINF:-1,DIVINITY
+#EXTGRP:SERIES & MOVIES
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,ENERGI
+#EXTGRP:SERIES & MOVIES
+https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
+#EXTINF:-1,TDF
+#EXTGRP:SERIES & MOVIES
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1,Extremo
 #EXTGRP:SERIES & MOVIES
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -588,6 +633,9 @@ http://hearme.fm:8106/stream
 #EXTINF:-1,CAMPUS CLASSICA 5
 #EXTGRP:MUSICA
 http://hearme.fm:8021/stream
+#EXTINF:-1,SILENCE 
+#EXTGRP:MUSICA
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
 #EXTINF:-1,Rock
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
@@ -702,6 +750,21 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklis
 #EXTINF:-1,Dance/EDM
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1,Q-DANCE
+#EXTGRP:MUSICA
+https://r1---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?mv=m&mt=1515111470&ms=au&dur=10909.849&ratebypass=yes&mn=sn-ja5gvjv-hqxe&source=youtube&mm=31&initcwndbps=336250&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&id=o-AD9tk6vcM4fSdCKBWmQRecxkcEYPLkbsAvyDYyG_Yn1U&ei=pMROWqT1JYam-AXM9IAY&ip=181.58.199.55&pcm2cms=yes&pl=22&requiressl=yes&expire=1515133188&lmt=1514260757379461&ipbits=0&itag=22&key=yt6&mime=video%2Fmp4&signature=E671C96B9E18F6C179175A80B2F081DF7497D3.0C6C8BEE62ED9C6BC317FCB81A42F45A303E8CC5
+#EXTINF:-1,PEACOCK 4K-UHD
+#EXTGRP:MUSICA
+https://r6---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mime=video%2Fmp4&pcm2cms=yes&dur=3604.758&lmt=1508210572486812&key=yt6&ip=181.58.199.55&beids=%5B9466591%5D&id=o-APGZV6ztCRm9LR3nUgs2vO_15JD9UBc8-DbrGGkn_ZQe&itag=22&ipbits=0&mn=sn-ja5gvjv-hqxe&mm=31&requiressl=yes&expire=1515133956&ms=au&ei=o8dOWtK2OMXg-gWm6LnYDg&mv=m&mt=1515112243&ratebypass=yes&pl=22&source=youtube&initcwndbps=330000&signature=7D863AC00BE7E3841DDC815304E4C57F774DEE08.532872848D949680B4D4F436F37C4454ED811A2F
+#EXTINF:-1,QLIMAX 
+#EXTGRP:MUSICA
+https://r8---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&mn=sn-ja5gvjv-hqxe&source=youtube&mm=31&mv=m&mt=1515111781&ms=au&dur=30875.713&ipbits=0&itag=22&key=yt6&mime=video%2Fmp4&lmt=1473503686546628&expire=1515133499&pcm2cms=yes&pl=22&requiressl=yes&ei=28VOWo_xGcSh-AXcs6CwDg&ip=181.58.199.55&initcwndbps=340000&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&id=o-AHs1nt_Kae5qQVrn8mUX6-KwTDbThO3ZXTInKj-bdCHi&signature=CA974F4247B5380B90A7639337FED630D6F8C500.9DFFD4203C610972340C286201F295C5E65B3487
+#EXTINF:-1,HEADHUNTERZ 
+#EXTGRP:MUSICA
+https://r3---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?initcwndbps=337500&lmt=1472796977944566&expire=1515133648&ipbits=0&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mn=sn-ja5gvjv-hqxe&pl=22&mm=31&requiressl=yes&dur=4097.555&id=o-AIf-vUC_1DIyj11Qjuez2aSsNR6Clv43SBtc5dIjv7-M&mv=m&mt=1515111957&ms=au&source=youtube&ei=cMZOWtnCGsLJ-wWptovgDg&itag=22&ratebypass=yes&ip=181.58.199.55&pcm2cms=yes&signature=DDAECFB7A254A6937C6E6DCB2CC1F75BC1A949F6.950891EAD6E5ACA63EAB58198E171B2A8DA4CDBA&key=yt6&mime=video%2Fmp4
+#EXTINF:-1,DAVID GUETTA
+#EXTGRP:MUSICA
+https://r7---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?initcwndbps=336250&dur=3708.923&itag=22&key=yt6&ratebypass=yes&ipbits=0&id=o-ACljgjpEZ5RyNJ42eDxV_ozz8DHKxgJYea0AGF7TJZFx&ms=au&mt=1515110917&mv=m&expire=1515132589&requiressl=yes&mime=video%2Fmp4&ip=181.58.199.55&mm=31&source=youtube&pl=22&mn=sn-ja5gvjv-hqxe&ei=TcJOWqrcI4GB-QXPr5XwDw&pcm2cms=yes&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&lmt=1506178257831820&signature=1F7D0248E343E377737267A1A9E56C4C4AB709A9.9383BE1B75940669B603F6B6446EB1D30F0418FB
 #EXTINF:-1,Hip-Hop And R&B
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
@@ -717,9 +780,9 @@ http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
 #EXTINF:-1,JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:-1,EPÓRTE
+#EXTINF:-1,TDTV
 #EXTGRP:DEPORTES SPORTS
-http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1,Матч! Футбол 1 
 #EXTGRP:DEPORTES SPORTS
 http://persik.by/stream/176/296165/10266.m3u8
