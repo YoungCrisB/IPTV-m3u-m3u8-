@@ -487,7 +487,7 @@ https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTGRP:NOTICIAS NEWS
 http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
 #EXTINF:-1,ANDRES MOVIES
-#EXTGRP:NOTICIAS NEWS
+#EXTGRP:SERIES & MOVIES
 https://r3---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?beids=%5B9466591%5D&source=youtube&ratebypass=yes&dur=39911.456&lmt=1512452869026222&key=yt6&ip=181.58.199.55&requiressl=yes&signature=125873FE68C8395488C7C0300393AC772E34D822.A96A61597982B46802A829395EA43E2D9E971EA5&pcm2cms=yes&gcr=co&id=o-AC2iwNye6p1MRoDauUn9w4jNdjzauSa5GFbnmtxdzUaH&mm=31&mn=sn-ja5gvjv-hqxe&mt=1515110401&mv=m&ei=WcBOWsr6NKXl-AXi946IBw&itag=22&ms=au&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mime=video%2Fmp4&pl=22&ipbits=0&expire=1515132090&initcwndbps=342500
 #EXTINF:-1,PANICO
 #EXTGRP:SERIES & MOVIES
