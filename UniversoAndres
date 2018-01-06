@@ -300,7 +300,7 @@ http://cdnh15.iblups.com/hls/ptv.m3u8
 #EXTINF:-1,TELEFE ARGENTINA
 #EXTGRP:VARIEDAD VARIETY
 http://coninfo.net:1935/13max/live/chunklist.m3u8
-EXTINF:-1,TV PUBLICA ARGENTINA
+#EXTINF:-1,TV PUBLICA ARGENTINA
 #EXTGRP:VARIEDAD VARIETY
 http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/chunklist_b1596000.m3u8?sense=true
 #EXTINF:-1,LA TELE VENEZUELA
@@ -1527,15 +1527,6 @@ http://69.30.196.250/caverna-do-dragao/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/A3MPua", pokémon indigo league 
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/pokemon/tracks-v1a1/index.m3u8
-#EXTINF:-1,PEPPA 
-#EXTGRP:SERIES NIÑOS KIDS
-https://r1---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ipbits=0&lmt=1503035542916784&sparams=clen%2Cdur%2Cei%2Cgcr%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&gcr=co&requiressl=yes&ei=wb5OWr_5JIah-wXK57_QAw&initcwndbps=342500&source=youtube&dur=0.000&clen=298793722&ratebypass=yes&expire=1515131681&key=yt6&mime=video%2Fwebm&itag=43&pl=22&mn=sn-ja5gvjv-hqxe&ip=181.58.199.55&mm=31&gir=yes&id=o-AMTcrnrGVjv4M_Ls5_cM96_L74czxlO1bkML97RZuk6f&signature=A62E61AB610F25163229D158817A4ED50D7D1181.89240DB3FADEFAD50B494CD63FAD8A1EFE565136&ms=au&pcm2cms=yes&mv=m&mt=1515109960
-#EXTINF:-1,PEPPA PIG
-#EXTGRP:SERIES NIÑOS KIDS
-https://r5---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?signature=6040CC7BB0E6A9AD9946682BDC0FCA8C3BAB0E66.8A30C15ED30ADBE31F90AE67681539446D91D8F1&dur=3593.102&initcwndbps=338750&itag=22&mt=1515110083&ipbits=0&ratebypass=yes&key=yt6&expire=1515131763&gcr=co&mv=m&id=o-AATkE8Wg82dK5CcH500YqHj3PHUbCXCnnnIs0AniuPLE&ms=au&source=youtube&mm=31&mn=sn-ja5gvjv-hqxe&pl=22&ip=181.58.199.55&mime=video%2Fmp4&requiressl=yes&pcm2cms=yes&ei=E79OWvP3AsjR-wWd9JSIAw&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&lmt=1509595607621792
-#EXTINF:-1,PEPPA PIG NAVIDAD
-#EXTGRP:SERIES NIÑOS KIDS
-https://r4---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ei=Ob9OWtb1K8HQ-wWM-I_YDw&source=youtube&lmt=1512628782596029&initcwndbps=338750&itag=22&mime=video%2Fmp4&pcm2cms=yes&key=yt6&ratebypass=yes&expire=1515131801&ipbits=0&signature=1EDCBDD72130FEBEC5F7AFC5C0890B66098AA59A.6541CD05D2DF0C792222459174AE7A7A9CD9DEB6&dur=5099.984&gcr=co&id=o-AGpMz_1z0S-_rLSSLDKy_mx7W0Rc1ru6c2a_QaM5UtTZ&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ms=au&mt=1515110083&mv=m&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ip=181.58.199.55&requiressl=yes
 #EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/A%20Mite%20of%20Trouble%201961.mp4
@@ -2348,31 +2339,31 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20
 #EXTINF:-1,MAMA 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF-1,13 PECADOS 
+#EXTINF:-1,13 PECADOS 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%C3%A9s/13%20Sins%20%282014%29%20Ingl%C3%A9s%20%281%29.mkv
 #EXTINF:-1,EL LABERINTO DEL FAUNO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20laberinto%20del%20fauno%20%282006%29Espa%C3%B1ol/El%20Laberinto%20Del%20Fauno%20%282006%29espa%C3%B1ol.mkv
-#EXTINF-1,OUIJA (2014)
+#EXTINF:-1,OUIJA (2014)
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014%20Dual%20%281%29.mkv
-#EXTINF-1,CHRISTMAS HORROR STORY 
+#EXTINF:-1,CHRISTMAS HORROR STORY 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles%20%281%29.mkv
-#EXTINF-1,31 
+#EXTINF:-1,31 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%c3%a9s/31%20%282016%29%20Ingl%c3%a9s.mkv
-#EXTINF-1,AVENIDA 10 CLOVERFIELD 
+#EXTINF:-1,AVENIDA 10 CLOVERFIELD 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/10%20Cloverfield%20Lane%20%282016%29.mkv
-#EXTINF-1,EL ATICO (2016)
+#EXTINF:-1,EL ATICO (2016)
 #EXTGRP:PELICULAS MOVIES
 https://1.bp.blogspot.com/yvhBrv7rf8oKgc7StNTMpvpkPdz02ZEm8goIGcdj1UgZkRui6ouhlm1wnxi_DCFsRHUG0qj10n5JoylqeENIDFXVUlmGP3e1R_c8daAwXIBuH-AbTGjv3sRMkqG_W02v56zyHQ=m22
-#EXTINF-1,28 DIAS DESPUES: EXTERMINIO 
+#EXTINF:-1,28 DIAS DESPUES: EXTERMINIO 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/28%20Days%20Later%20%282002%29%20%281%29.mkv
-#EXTINF-1,28 SEMANAS DESPUES: EXTERMINIO 2 
+#EXTINF:-1,28 SEMANAS DESPUES: EXTERMINIO 2 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/28%20Weeks%20Later%20%282007%29%20%281%29.mkv
 #EXTINF:-1,ANNABELLE 
@@ -2381,22 +2372,22 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014
 #EXTINF:-1,CARRIE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
-#EXTINF-1,CHUCKY EL MUÑECO DIABOLICO 
+#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
-#EXTINF-1,CHUCKY EL MUÑECO DIABOLICO 2 
+#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 2 
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
-#EXTINF-1,CHUCKY EL MUÑECO DIABOLICO 3 
+#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 3 
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
-#EXTINF-1,LA NOVIA DE CHUCKY 
+#EXTINF:-1,LA NOVIA DE CHUCKY 
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
-#EXTINF-1,EL HIJO DE CHUCKY 
+#EXTINF:-1,EL HIJO DE CHUCKY 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Seed%20of%20Chucky%20%282004%29%20Dual/Seed%20of%20Chucky%20%282004%29%20Dual%20%281%29.mkv
-#EXTINF-1,LA MALDICION DE CHUCKY 
+#EXTINF:-1,LA MALDICION DE CHUCKY 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/Curse%20Of%20Chucky%20%282013%29%20Unrated%20%281%29.mkv
 #EXTINF:-1,DESTINO FINAL 
@@ -2429,73 +2420,73 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29
 #EXTINF:-1,HOSTAL PARTE 3 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20III%20%282011%29/Hostel-part%20III%282011%29dual.mkv
-#EXTINF-1,IT ESO 
+#EXTINF:-1,IT ESO 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/It%20%5beso%5d%20%281990%29%20%20Dual.mkv
 #EXTINF:-1,LA NOCHE DEL DEMONIO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual/Insidious%20%282010%29%20720p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF-1,LA NOCHE DEL DEMONIO: CAPITULO 2 
+#EXTINF:-1,LA NOCHE DEL DEMONIO: CAPITULO 2 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF-1,LA NOCHE DEL DEMONIO: CAPITULO 3
+#EXTINF:-1,LA NOCHE DEL DEMONIO: CAPITULO 3
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
-#EXTINF-1,PESADILLA EN LA CALLE DEL INFIERNO 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%281984%29/A%20Nightmare%20On%20Elm%20Street%20%281984%29.mkv
-#EXTINF-1,PESADILLA EN LA CALLE DEL INFIERNO: LA VENGANZA DE FREDDY 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LA VENGANZA DE FREDDY 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29/A%20Nightmare%20On%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29.mkv
-#EXTINF-1,PESADILLA EN LA CALLE DEL INFIERNO: LOS GUERREROS DEL SUEÑO 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LOS GUERREROS DEL SUEÑO 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29/A%20Nightmare%20On%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29.mkv
-#EXTINF-1,PESADILLA EN LA CALLE DEL INFIERNO: EL AMO DE LOS SUEÑOS 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL AMO DE LOS SUEÑOS 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29/A%20Nightmare%20On%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29.mkv
-#EXTINF-1,PESADILLA EN LA CALLE DEL INFIERNO: EL NIÑO DE LOS SUEÑOS 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL NIÑO DE LOS SUEÑOS 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29/A%20Nightmare%20On%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29.mkv
-#EXTINF-1,PESADILLA EN LA CALLE DEL INFIERNO 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%282010%29/A%20Nightmare%20On%20Elm%20Street%20%282010%29.mkv
-#EXTINF-1,SAW: JUEGO MACABRO 
+#EXTINF:-1,SAW: JUEGO MACABRO 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20%282004%29%20Ingles/Saw%20%282004%29%20Ingles%20%281%29.mkv
-#EXTINF-1,SAW II 
+#EXTINF:-1,SAW II 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20II%20%282005%29%20Ingles/Saw%20II%20%282005%29%20Ingles%20%281%29.mkv
-#EXTINF-1,SAW III 
+#EXTINF:-1,SAW III 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20III%20%282006%29%20Ingles/Saw%20III%20%282006%29%20Ingles%20%281%29.mkv
-#EXTINF-1,SAW IV 
+#EXTINF:-1,SAW IV 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20IV%20%282007%29%20Ingles/Saw%20IV%20%282007%29%20Ingles%20%281%29.mkv
-#EXTINF-1,SAW V 
+#EXTINF:-1,SAW V 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20V%20%282008%29%20Ingles/Saw%20V%20%282008%29%20Ingles%20%281%29.mkv
-#EXTINF-1,SAW VI 
+#EXTINF:-1,SAW VI 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VI%20%282009%29%20Ingles/Saw%20VI%20%282009%29%20Ingles%20%281%29.mkv
-#EXTINF-1,SAW VII 
+#EXTINF:-1,SAW VII 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VII%20%282010%29%20m720p%20Ingles/Saw%20Vii%20%282010%29%20M720p%20Ingles-3%20%281%29.mkv
-#EXTINF-1,SCREAM: VIGILA QUIEN LLAMA 
+#EXTINF:-1,SCREAM: VIGILA QUIEN LLAMA 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%20%281996%29%20Ingl%c3%a9s/Scream%20%281996%29%20Ingl%c3%a9s%20%281%29.mkv
-#EXTINF-1,SCREAM: GRITA Y VUELVE A GRITAR 
+#EXTINF:-1,SCREAM: GRITA Y VUELVE A GRITAR 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%202%20%281997%29%20Dual/Scream%202%20%281997%29%20Dual%20%281%29.mkv
-#EXTINF-1,SCREAM: LA MASCARA DE LA MUERTE
+#EXTINF:-1,SCREAM: LA MASCARA DE LA MUERTE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%203%20%282000%29%20Dual/Scream%203%20%282000%29%20Dual%20%281%29.mkv
-#EXTINF-1,SCREAM: VUELVE A GRITAR
+#EXTINF:-1,SCREAM: VUELVE A GRITAR
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%204%20%282011%29%20Dual/Scream%204%20%282011%29%20Dual%20%281%29.mkv
-#EXTINF-1,SILENT HILL
+#EXTINF:-1,SILENT HILL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20%282006%29%20Dual/Silent%20Hill%20%282006%29%20Dual%20%281%29.mkv
-#EXTINF-1,SILENT HILT: REVELACION 
+#EXTINF:-1,SILENT HILT: REVELACION 
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20Revelation%20%282012%29%20Dual/Silent%20Hill%20Revelation%20%282012%29%20Dual%20%281%29.mkv
 #EXTINF:-1,VIERNES 13 
