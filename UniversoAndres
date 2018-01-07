@@ -71,9 +71,6 @@ http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 #EXTINF:-1,NICKTOONS 
 #EXTGRP:NIÑOS KIDS
 http://81.228.174.166:8005/nicktoons
-#EXTINF:-1,Nickelodeon
-#EXTGRP:NIÑOS KIDS
-http://persik.by/stream/6431/299492/45.m3u8
 #EXTINF:-1,DISNEY+
 #EXTGRP:NIÑOS KIDS
 http://str03.ddns.net/076/myStream/playlist.m3u8
@@ -92,9 +89,6 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
 #EXTINF:-1,Tacho Pistacho
 #EXTGRP:NIÑOS KIDS
 http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
-#EXTINF:-1,Cartoon Network
-#EXTGRP:NIÑOS KIDS
-http://persik.by/stream/176/296165/32.m3u8
 #EXTINF:-1,SENAL COLOMBIA
 #EXTGRP:NIÑOS KIDS
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
@@ -136,10 +130,10 @@ http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
 #EXTINF:-1,TELECAFE 
 #EXTGRP:VARIEDAD VARIETY
-https://secure-playlist.livestream.com/streams/1015476_7158511_lsi8ccd4apmcxbg3xz9_1/media/1015476_7158511_lsi8ccd4apmcxbg3xz9_1@2320000pb.m3u8?dw=14400&token=1515447441_62441b65e11fc3fcbdb55281a709de2ff25a1e6e&ts=1515272400
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1,TELEANTIOQUIA
 #EXTGRP:VARIEDAD VARIETY
-https://livestream-f.akamaihd.net/i/9427524_7793957_lsiym1wfgmjrwcw5bqa_1@413753/index_2320_av-b.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1515361242~acl=%2fi%2f9427524_7793957_lsiym1wfgmjrwcw5bqa_1%40413753%2f*~data=hdntl~hmac=155bf33b6c7e3f15b5c49446b275739cbce76ded4ed9a6e488705ae8fe0f65ae
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?iptvgratis?Latinos.m3u8
 #EXTINF:-1,TELEMEDELLIN
 #EXTGRP:VARIEDAD VARIETY
 https://secure-playlist.livestream.com/streams/4608897_7111788_lsiigi7zxwut8oo5vy4_1/media/4608897_7111788_lsiigi7zxwut8oo5vy4_1@2320000pb.m3u8?dw=14400&token=1515455993_16a4dfda136d5517a85ca875cef0e5e388fa72ac&ts=1515279600
@@ -569,9 +563,24 @@ http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3
 #EXTINF:1,HOLLYWOOD HD 
 #EXTGRP:SERIES & MOVIES
 http://185.231.160.35/610/1/index.m3u8 
-#EXTINF:1,HOLLYWOOD HD 
+#EXTINF:-1,HBO 
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/611/1/index.m3u8 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:1,HBO 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/120/2/index.m3u8 
+#EXTINF:1,HBO 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/121/2/index.m3u8 
+#EXTINF:1,HBO 2 HD 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/595/1/index.m3u8 
+#EXTINF:1,HBO 3 HD
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/597/1/index.m3u8 
+#EXTINF:-1, HBO 2
+#EXTGRP:SERIES & MOVIES
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 #EXTINF:1,AXN HD
 #EXTGRP:SERIES & MOVIES 
 http://185.231.160.35/612/1/index.m3u8 
@@ -584,15 +593,6 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,ORBITV
 #EXTGRP:SERIES & MOVIES
 http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-#EXTINF:-1,FOX 
-#EXTGRP:SERIES & MOVIES
-http://www.iptvmexico.xyz/ch/438.m3u8
-#EXTINF:-1,FOX ALEMAN
-#EXTGRP:SERIES & MOVIES
-http://185.231.160.35/489/1/index.m3u8
-#EXTINF:-1,FOX LIFE
-#EXTGRP:SERIES & MOVIES
-http://www.iptvmexico.xyz/ch/216.m3u8
 #EXTINF:-1, FOX MOVIES
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
@@ -608,33 +608,12 @@ http://23.237.22.2/LIVE/H01/CANAL418/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1, FOX MOVIES
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL417/PROFILE03.m3u8?authorization=knife.handshake
-#EXTINF:-1,HBO 
-#EXTGRP:SERIES & MOVIES
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
-#EXTINF:1,HBO 
-#EXTGRP:SERIES & MOVIES
-http://185.231.160.35/120/2/index.m3u8 
 #EXTINF:1,1 
 #EXTGRP:SERIES & MOVIES
 http://185.231.160.35/119/2/index.m3u8 
 #EXTINF:1,Amedia
 #EXTGRP:SERIES & MOVIES
 http://185.231.160.35/122/2/index.m3u8 
-#EXTINF:1,HBO 
-#EXTGRP:SERIES & MOVIES
-http://185.231.160.35/121/2/index.m3u8 
-#EXTINF:1,HBO 2 HD 
-#EXTGRP:SERIES & MOVIES
-http://185.231.160.35/594/1/index.m3u8 
-#EXTINF:1,HBO 2 HD 
-#EXTGRP:SERIES & MOVIES
-http://185.231.160.35/595/1/index.m3u8 
-#EXTINF:1,HBO 3 HD
-#EXTGRP:SERIES & MOVIES
-http://185.231.160.35/597/1/index.m3u8 
-#EXTINF:-1, HBO 2
-#EXTGRP:SERIES & MOVIES
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 #EXTINF:-1,GOLDEN PLUS SD
 #EXTGRP:SERIES & MOVIES
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
@@ -938,45 +917,243 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklis
 #EXTINF:-1,Virgin Radio TV
 #EXTGRP:MUSICA
 http://tv.105.net:1935/live/virgin1/index.m3u8
-#EXTINF:-1, WINSPORTS 
-#EXTGRP:DEPORTES SPORTS
-http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
 #EXTINF:-1,JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1, WINSPORTS 
+#EXTGRP:DEPORTES SPORTS
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
 #EXTINF:-1,LA LIGA HD
 #EXTGRP:DEPORTES SPORTS
 http://92.60.237.19:8880/play/LaLiga/index.m3u8
 #EXTINF:-1,DEPORTE 
 #EXTGRP:DEPORTES SPORTS
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
-#EXTINF:-1,Матч! Футбол 1 
+#EXTINF:-1,SPORT: Fox Sports  2 
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/176/296165/10266.m3u8
-#EXTINF:-1,Матч! Футбол 1 
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/7738.m3u8
+#EXTINF:-1,Fox Sports 2 
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/6431/299492/10266.m3u8
-#EXTINF:-1,Матч! Футбол 2
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5539.m3u8
+#EXTINF:-1,Fox Sports 3 
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/176/296165/10267.m3u8
-#EXTINF:-1,Матч! Футбол 2
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5540.m3u8
+#EXTINF:-1,Fox Sports 4 
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/6431/299492/10267.m3u8
-#EXTINF:-1,Матч! Футбол 3
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5541.m3u8
+#EXTINF:-1,Fox Sports 5 
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/6431/299492/10268.m3u8
-#EXTINF:-1,Матч! Футбол 3 
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5542.m3u8
+#EXTINF:-1,Fox Sports 3 
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/176/296165/10268.m3u8
-#EXTINF:-1,Матч! Футбол 1
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5546.m3u8
+#EXTINF:-1,Sky Sports Mix
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/6431/299492/346.m3u8
-#EXTINF:-1,Матч! Футбол 2 
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12779.m3u8
+#EXTINF:-1,Sky Sports News 
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/6431/299492/10217.m3u8
-#EXTINF:-1,Матч! Футбол 3
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/586.m3u8
+#EXTINF:-1,Sky Sports News 
 #EXTGRP:DEPORTES SPORTS
-http://persik.by/stream/6431/299492/10218.m3u8
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12147.m3u8
+#EXTINF:-1,Sky Sports News 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/44101.m3u8
+#EXTINF:-1,Sky Sports News 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/44102.m3u8
+#EXTINF:-1,Sky Sports Main Events 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/579.m3u8
+#EXTINF:-1,Sky Sports Cricket 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/584.m3u8
+#EXTINF:-1,Sky Sports Cricket 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/578.m3u8
+#EXTINF:-1,Sky Sports Action 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/583.m3u8
+#EXTINF:-1,Sky Sports Action 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/577.m3u8
+#EXTINF:-1,Sky Sports Golf 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/582.m3u8
+#EXTINF:-1,Sky Sports Golf 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/576.m3u8
+#EXTINF:-1,Sky Sports Premier League 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/581.m3u8
+#EXTINF:-1,Sky Sports Arena 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32740.m3u8
+#EXTINF:-1,Sky Sports Arena 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32739.m3u8
+#EXTINF:-1,Sky Sports Arena 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32738.m3u8
+#EXTINF:-1,Sky Sports Football 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32743.m3u8
+#EXTINF:-1,Sky Sports Football 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32742.m3u8
+#EXTINF:-1,Sky Sports Football 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32741.m3u8
+#EXTINF:-1,Sky Sports F1 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/580.m3u8
+#EXTINF:-1,Sky Sports F1 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/574.m3u8
+#EXTINF:-1,BT Sports 1 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11375.m3u8
+#EXTINF:-1,BT Sports 1 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11787.m3u8
+#EXTINF:-1,BT Sports 2 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11374.m3u8
+#EXTINF:-1,BT Sports 3 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11373.m3u8
+#EXTINF:-1,BT Sports 3 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11785.m3u8
+#EXTINF:-1,BT Sports ESPN 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12123.m3u8
+#EXTINF:-1,BT Sports ESPN 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11784.m3u8
+#EXTINF:-1,BT Sport Extra 3 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12414.m3u8
+#EXTINF:-1,BT Sport Extra 4 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12413.m3u8
+#EXTINF:-1,BT Sport Extra 5 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12412.m3u8
+#EXTINF:-1,British Eurosport 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11002.m3u8
+#EXTINF:-1,British Eurosport 2 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11003.m3u8
+#EXTINF:-1,EIR Sports 2 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11536.m3u8
+#EXTINF:-1,Premier Sports 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/568.m3u8
+#EXTINF:-1,Boxnation 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/17752.m3u8
+#EXTINF:-1,At The Races 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/150.m3u8
+#EXTINF:-1,MUTV 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12398.m3u8
+#EXTINF:-1,beIN Sports 1 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1035.m3u8
+#EXTINF:-1,beIN Sports 2 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1036.m3u8
+#EXTINF:-1,beIN Sports 3 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1037.m3u8
+#EXTINF:-1,beIN Sports 4 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1038.m3u8
+#EXTINF:-1,beIN Sports 5
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1039.m3u8
+#EXTINF:-1,beIN Sports 6 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1040.m3u8
+#EXTINF:-1,beIN Sports 7 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1041.m3u8
+#EXTINF:-1,beIN Sports 8 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1042.m3u8
+#EXTINF:-1,beIN Sports 9 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1043.m3u8
+#EXTINF:-1,beIN Sports 10 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1044.m3u8
+#EXTINF:-1,beIN Sports 11 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1045.m3u8
+#EXTINF:-1,beIN Sports 12 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1046.m3u8
+#EXTINF:-1,beIN MAX 5 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29543.m3u8
+#EXTINF:-1,beIN MAX 6 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29542.m3u8
+#EXTINF:-1,beIN MAX 7 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29541.m3u8
+#EXTINF:-1,beIN MAX 8 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29540.m3u8
+#EXTINF:-1,beIN MAX 9 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29539.m3u8
+#EXTINF:-1,beIN MAX 10 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29538.m3u8
+#EXTINF:-1,Sport.TV2 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12368.m3u8
+#EXTINF:-1,Sport.TV3 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12367.m3u8
+#EXTINF:-1,Sport.TV4 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12366.m3u8
+#EXTINF:-1,Sport.TV5 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12365.m3u8
+#EXTINF:-1,SporTV 1 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12025.m3u8
+#EXTINF:-1,Sport Klub 2 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11080.m3u8
+#EXTINF:-1,Sport Klub 3 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11079.m3u8
+#EXTINF:-1,Sport Klub 4 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11078.m3u8
+#EXTINF:-1,Sport Klub 5 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
+#EXTINF:-1,Futbol 1 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
+#EXTINF:-1,Futbol 2 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/20949.m3u8
+#EXTINF:-1,Eleven Sports 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12020.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal 
+#EXTGRP:DEPORTES SPORTS
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/13216.m3u8
 #EXTINF:-1,Матч! Футбол 1 
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//29/3/index.m3u8
@@ -1203,231 +1380,6 @@ http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/8.ts
 #EXTINF:-1,SuperSport 2
 #EXTGRP:DEPORTES SPORTS
 http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/9.ts
-#EXTINF:-1,Sky Sports Mix
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12779.m3u8
-#EXTINF:-1,Sky Sports News 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/586.m3u8
-#EXTINF:-1,Sky Sports News 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12147.m3u8
-#EXTINF:-1,Sky Sports News 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/44101.m3u8
-#EXTINF:-1,Sky Sports News 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/44102.m3u8
-#EXTINF:-1,Sky Sports Main Events 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/579.m3u8
-#EXTINF:-1,Sky Sports Cricket 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/584.m3u8
-#EXTINF:-1,Sky Sports Cricket 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/578.m3u8
-#EXTINF:-1,Sky Sports Action 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/583.m3u8
-#EXTINF:-1,Sky Sports Action 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/577.m3u8
-#EXTINF:-1,Sky Sports Golf 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/582.m3u8
-#EXTINF:-1,Sky Sports Golf 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/576.m3u8
-#EXTINF:-1,Sky Sports Premier League 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/581.m3u8
-#EXTINF:-1,Sky Sports Arena 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32740.m3u8
-#EXTINF:-1,Sky Sports Arena 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32739.m3u8
-#EXTINF:-1,Sky Sports Arena 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32738.m3u8
-#EXTINF:-1,Sky Sports Football 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32743.m3u8
-#EXTINF:-1,Sky Sports Football 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32742.m3u8
-#EXTINF:-1,Sky Sports Football 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32741.m3u8
-#EXTINF:-1,Sky Sports F1 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/580.m3u8
-#EXTINF:-1,Sky Sports F1 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/574.m3u8
-#EXTINF:-1,BT Sports 1 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11375.m3u8
-#EXTINF:-1,BT Sports 1 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11787.m3u8
-#EXTINF:-1,BT Sports 2 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11374.m3u8
-#EXTINF:-1,BT Sports 3 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11373.m3u8
-#EXTINF:-1,BT Sports 3 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11785.m3u8
-#EXTINF:-1,BT Sports ESPN 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12123.m3u8
-#EXTINF:-1,BT Sports ESPN 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11784.m3u8
-#EXTINF:-1,BT Sport Extra 3 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12414.m3u8
-#EXTINF:-1,BT Sport Extra 4 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12413.m3u8
-#EXTINF:-1,BT Sport Extra 5 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12412.m3u8
-#EXTINF:-1,British Eurosport 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11002.m3u8
-#EXTINF:-1,British Eurosport 2 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11003.m3u8
-#EXTINF:-1,EIR Sports 2 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11536.m3u8
-#EXTINF:-1,Premier Sports 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/568.m3u8
-#EXTINF:-1,Boxnation 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/17752.m3u8
-#EXTINF:-1,At The Races 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/150.m3u8
-#EXTINF:-1,MUTV 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12398.m3u8
-#EXTINF:-1,beIN Sports 1 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1035.m3u8
-#EXTINF:-1,beIN Sports 2 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1036.m3u8
-#EXTINF:-1,beIN Sports 3 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1037.m3u8
-#EXTINF:-1,beIN Sports 4 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1038.m3u8
-#EXTINF:-1,beIN Sports 5
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1039.m3u8
-#EXTINF:-1,beIN Sports 6 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1040.m3u8
-#EXTINF:-1,beIN Sports 7 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1041.m3u8
-#EXTINF:-1,beIN Sports 8 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1042.m3u8
-#EXTINF:-1,beIN Sports 9 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1043.m3u8
-#EXTINF:-1,beIN Sports 10 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1044.m3u8
-#EXTINF:-1,beIN Sports 11 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1045.m3u8
-#EXTINF:-1,beIN Sports 12 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1046.m3u8
-#EXTINF:-1,beIN MAX 5 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29543.m3u8
-#EXTINF:-1,beIN MAX 6 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29542.m3u8
-#EXTINF:-1,beIN MAX 7 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29541.m3u8
-#EXTINF:-1,beIN MAX 8 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29540.m3u8
-#EXTINF:-1,beIN MAX 9 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29539.m3u8
-#EXTINF:-1,beIN MAX 10 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29538.m3u8
-#EXTINF:-1,SPORT: Fox Sports  2 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/7738.m3u8
-#EXTINF:-1,Fox Sports 2 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5539.m3u8
-#EXTINF:-1,Fox Sports 3 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5540.m3u8
-#EXTINF:-1,Fox Sports 4 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5541.m3u8
-#EXTINF:-1,Fox Sports 5 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5542.m3u8
-#EXTINF:-1,Fox Sports 3 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5546.m3u8
-#EXTINF:-1,Sport.TV2 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12368.m3u8
-#EXTINF:-1,Sport.TV3 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12367.m3u8
-#EXTINF:-1,Sport.TV4 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12366.m3u8
-#EXTINF:-1,Sport.TV5 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12365.m3u8
-#EXTINF:-1,SporTV 1 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12025.m3u8
-#EXTINF:-1,Sport Klub 2 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11080.m3u8
-#EXTINF:-1,Sport Klub 3 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11079.m3u8
-#EXTINF:-1,Sport Klub 4 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11078.m3u8
-#EXTINF:-1,Sport Klub 5 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
-#EXTINF:-1,Futbol 1 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
-#EXTINF:-1,Futbol 2 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/20949.m3u8
-#EXTINF:-1,Eleven Sports 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12020.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal 
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/13216.m3u8
 #EXTINF:-1,Andr
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/movie/www.janberyan.com-/jano/1138.mp4
