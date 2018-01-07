@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,∞ ACTUALIZADO 06 - 01 - 18 DEJAR CARGAR EL CANAL PARA QUE DE HD AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR AQUI ESTAN MIS FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - ipmagtv - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
+#EXTINF:-1,∞ ACTUALIZADO 07 - 01 - 18 DEJAR CARGAR EL CANAL PARA QUE DE HD AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR AQUI ESTAN MIS FUENTES DEL CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - ipmagtv - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter..................
 pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres Donaciones a paypal.me/Andres632 sugerencias andresbio8613@gmail.com o aportes
 #EXTGRP:SERVIDOR 
 http://persik.by/stream/6431/299492/10292.m3u8
@@ -30,6 +30,20 @@ http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1,JimJam
 #EXTGRP:NIÑOS KIDS
 http://persik.by/stream/6431/299492/454.m3u8
+#EXTINF:-1,CANAL 5
+#EXTGRP:NIÑOS KIDS
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+#EXTINF:-1,TIJI
+#EXTGRP:NIÑOS KIDS
+http://95.128.243.226:7780/udp/224.0.90.72:1234
+#EXTINF:-1, disney 
+#EXTGRP:NIÑOS KIDS
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1,GULLI GIRL
+#EXTGRP:NIÑOS KIDS
+http://95.128.243.226:7780/udp/224.0.90.73:1234
+#EXTINF:1,Nick HD 
+http://185.231.160.35/453/1/index.m3u8 
 #EXTINF:-1,tooncast
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
@@ -53,19 +67,7 @@ http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
 #EXTINF:-1,disney junior
 #EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
-#EXTINF:-1,GULLI GIRL
-#EXTGRP:NIÑOS KIDS
-http://95.128.243.226:7780/udp/224.0.90.73:1234
-#EXTINF:-1,disney junior
-#EXTGRP:NIÑOS KIDS
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1,disney xd
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
-#EXTINF:-1,tiin
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
 #EXTINF:-1,NICKTOONS 
 #EXTGRP:NIÑOS KIDS
 http://81.228.174.166:8005/nicktoons
@@ -99,6 +101,9 @@ http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,El Chavo Animado  
 #EXTGRP:NIÑOS KIDS
 http://3.sendvid.com/y00xutjl.mp4
+#EXTINF:-1,KIDS  
+#EXTGRP:NIÑOS KIDS
+http://cl-a3-p-e-oi1.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/master.m3u8?es=cl-a3-p-e-oi1.cdn.mdstrm.com&ote=1504726523211&ot=3K9hbeMjQIQ3aUB2PDAtqA&proto=http
 #EXTINF:-1,LA BANDA 
 #EXTGRP:NIÑOS KIDS
 http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
@@ -129,24 +134,15 @@ http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1,CANAL 1 COL
 #EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
-#EXTINF:-1,TELECAFE
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
-#EXTINF:-1,TELECAFE
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
-#EXTINF:-1,TELECAFE opc
+#EXTINF:-1,TELECAFE 
 #EXTGRP:VARIEDAD VARIETY
 https://secure-playlist.livestream.com/streams/1015476_7158511_lsi8ccd4apmcxbg3xz9_1/media/1015476_7158511_lsi8ccd4apmcxbg3xz9_1@2320000pb.m3u8?dw=14400&token=1515447441_62441b65e11fc3fcbdb55281a709de2ff25a1e6e&ts=1515272400
-#EXTINF:-1,TELEANTIOQUIA
-#EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 #EXTINF:-1,TELEANTIOQUIA
 #EXTGRP:VARIEDAD VARIETY
 https://livestream-f.akamaihd.net/i/9427524_7793957_lsiym1wfgmjrwcw5bqa_1@413753/index_2320_av-b.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1515361242~acl=%2fi%2f9427524_7793957_lsiym1wfgmjrwcw5bqa_1%40413753%2f*~data=hdntl~hmac=155bf33b6c7e3f15b5c49446b275739cbce76ded4ed9a6e488705ae8fe0f65ae
 #EXTINF:-1,TELEMEDELLIN
 #EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+https://secure-playlist.livestream.com/streams/4608897_7111788_lsiigi7zxwut8oo5vy4_1/media/4608897_7111788_lsiigi7zxwut8oo5vy4_1@2320000pb.m3u8?dw=14400&token=1515455993_16a4dfda136d5517a85ca875cef0e5e388fa72ac&ts=1515279600
 #EXTINF:-1,TELE CARIBE
 #EXTGRP:VARIEDAD VARIETY
 https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
@@ -174,6 +170,15 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1,CITY TV BOG
 #EXTGRP:VARIEDAD VARIETY
 https://live5.userapi.com/637602/live/4_m40opCfZY/playlist.m3u8
+#EXTINF:-1,TV VENEZUELA
+#EXTGRP:VARIEDAD VARIETY
+https://vivoplay-i.akamaihd.net/hls/live/255338/tvvenezuela/master2500k.m3u8
+#EXTINF:-1,CANELA
+#EXTGRP:VARIEDAD VARIETY
+http://servicioamerica.net:1935/8344/8344/playlist.m3u8
+#EXTINF:-1,TVN PANAMA
+#EXTGRP:VARIEDAD VARIETY
+https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_4.m3u8
 #EXTINF:-1,TELEENVIGADO
 #EXTGRP:VARIEDAD VARIETY
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
@@ -249,6 +254,9 @@ https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signat
 #EXTINF:-1,HAPPY
 #EXTGRP:VARIEDAD VARIETY
 http://86.106.82.154:8089
+#EXTINF:-1,KANA
+#EXTGRP:VARIEDAD VARIETY
+http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
 #EXTINF:-1,CANALA U
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
@@ -336,6 +344,9 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:-1,FASHION EN 4K
 #EXTGRP:VARIEDAD VARIETY
 http://persik.by/stream/176/296165/10317.m3u8
+#EXTINF:-1,KARINA 
+#EXTGRP:VARIEDAD VARIETY
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1,LIFE
 #EXTGRP:SERIES & MOVIES
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
@@ -354,6 +365,12 @@ http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
 #EXTINF:-1,MEDITERRANEO
 #EXTGRP:VARIEDAD VARIETY
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
+#EXTINF:-1,FUTURA RIO DE YANEIRO
+#EXTGRP:VARIEDAD VARIETY
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
+#EXTINF:-1,NAVARRA
+#EXTGRP:VARIEDAD VARIETY
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 #EXTINF:-1,TELE UNO
 #EXTGRP:VARIEDAD VARIETY
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
@@ -366,6 +383,9 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 #EXTINF:-1,TELE MAR
 #EXTGRP:VARIEDAD VARIETY
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:-1,LINA
+#EXTGRP:VARIEDAD VARIETY
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
 #EXTINF:-1,TEN HD
 #EXTGRP:VARIEDAD VARIETY
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
@@ -396,15 +416,18 @@ http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
 #EXTINF:-1,ADN TV
 #EXTGRP:VARIEDAD VARIETY
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
-#EXTINF:-1,UNICANAL
+#EXTINF:-1,TV2 BORNHOLM
 #EXTGRP:VARIEDAD VARIETY
 http://strm.unicanal.com.py/live/unicanal_src.m3u8
+#EXTINF:-1,TRA
+#EXTGRP:VARIEDAD VARIETY
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1,UNICANAL
+#EXTGRP:VARIEDAD VARIETY
+http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
 #EXTINF:-1,FORO
 #EXTGRP:VARIEDAD VARIETY
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-#EXTINF:-1,ORBITV
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 #EXTINF:-1,NASA
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
@@ -422,22 +445,55 @@ http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,NAT GEO WILD 
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://81.228.174.166:8001/natgeowild 
+http://81.228.174.166:8001/natgeowild
+#EXTINF:-1,NATGEO WILD
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
+#EXTINF:-1,ANIMAL PLANET HD ALEMAN
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/111/1/index.m3u8 
+#EXTINF:-1,NAT GEO WILD HD ALEMAN
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/151/1/index.m3u8 
+#EXTINF:-1,NATIONAL GEOGRAPCHIC HD 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/161/1/index.m3u8 
+#EXTINF:-1,NATIONAL GEOGRAPCHIC HD 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/162/1/index.m3u8 
+#EXTINF:-1,HISTORY HD 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/165/1/index.m3u8 
+#EXTINF:-1,HISTORY HD 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/166/1/index.m3u8 
+#EXTINF:-1,TLC HD(EN) 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/168/1/index.m3u8 
+#EXTINF:-1,TRAVEL CHANELL HD 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/169/1/index.m3u8 
+#EXTINF:-1,TRAVEL CHANELL HD 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/170/1/index.m3u8 
+#EXTINF:-1,HD LIFE 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://185.231.160.35/289/1/index.m3u8
+#EXTINF:-1, H&H
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://23.237.22.2/LIVE/H01/CANAL374/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,ID
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://23.237.22.2/LIVE/H01/CANAL263/PROFILE03.m3u8?authorization=knife.handshake 
 #EXTINF:-1,OBN 
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://81.228.174.166:8003/obn 
 #EXTINF:-1,NAT GEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1,NATGEO WILD
+#EXTINF:-1,ANIMAL PLANET
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
-#EXTINF:-1, H&H
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://23.237.22.2/LIVE/H01/CANAL374/PROFILE03.m3u8?authorization=knife.handshake
-#EXTINF:-1,ID
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://23.237.22.2/LIVE/H01/CANAL263/PROFILE03.m3u8?authorization=knife.handshake
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 #EXTINF:-1, ANIMAL PLANET
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
@@ -450,6 +506,9 @@ http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
 #EXTINF:-1, GARAGE 
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1,HISTORIA 
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://92.60.237.19:8880/play/a00r/index.m3u8
 #EXTINF:-1,HISTORY 
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
@@ -495,6 +554,9 @@ http://api.new.livestream.com/accounts/13988764/events/4133355/live.m3u8
 #EXTINF:-1,CANAL EL TIEMPO
 #EXTGRP:NOTICIAS NEWS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,BFM
+#EXTGRP:NOTICIAS NEWS
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
 #EXTINF:-1,MILENIO
 #EXTGRP:NOTICIAS NEWS
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -504,15 +566,30 @@ https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1,24 PERU
 #EXTGRP:NOTICIAS NEWS
 http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
+#EXTINF:1,HOLLYWOOD HD 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/610/1/index.m3u8 
+#EXTINF:1,HOLLYWOOD HD 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/611/1/index.m3u8 
+#EXTINF:1,AXN HD
+#EXTGRP:SERIES & MOVIES 
+http://185.231.160.35/612/1/index.m3u8 
 #EXTINF:-1,PANICO
 #EXTGRP:SERIES & MOVIES
 https://ssh101.com/m3u8/dyn/panico/index.m3u8
 #EXTINF:-1,1KD
 #EXTGRP:SERIES & MOVIES
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,ORBITV
+#EXTGRP:SERIES & MOVIES
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 #EXTINF:-1,FOX 
 #EXTGRP:SERIES & MOVIES
 http://www.iptvmexico.xyz/ch/438.m3u8
+#EXTINF:-1,FOX ALEMAN
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/489/1/index.m3u8
 #EXTINF:-1,FOX LIFE
 #EXTGRP:SERIES & MOVIES
 http://www.iptvmexico.xyz/ch/216.m3u8
@@ -534,6 +611,27 @@ http://23.237.22.2/LIVE/H01/CANAL417/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1,HBO 
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:1,HBO 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/120/2/index.m3u8 
+#EXTINF:1,1 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/119/2/index.m3u8 
+#EXTINF:1,Amedia
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/122/2/index.m3u8 
+#EXTINF:1,HBO 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/121/2/index.m3u8 
+#EXTINF:1,HBO 2 HD 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/594/1/index.m3u8 
+#EXTINF:1,HBO 2 HD 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/595/1/index.m3u8 
+#EXTINF:1,HBO 3 HD
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/597/1/index.m3u8 
 #EXTINF:-1, HBO 2
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
@@ -546,6 +644,9 @@ http://23.237.22.2/LIVE/H01/CANAL254/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1,TNT
 #EXTGRP:SERIES & MOVIES
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:1,MOVISTAR Series Xtra 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/600/1/index.m3u8 
 #EXTINF:-1,TNT SERIES
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL266/PROFILE03.m3u8?authorization=knife.handshake
@@ -558,12 +659,21 @@ http://23.237.22.2/LIVE/H01/CANAL209/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1,TBS
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL273/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:1,AMC 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/653/1/index.m3u8 
 #EXTINF:-1,SONY
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL203/PROFILE03.m3u8?authorization=knife.handshake
 #EXTINF:-1,AXN
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL213/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,MGM HD ALEMAN
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/154/1/index.m3u8 
+#EXTINF:-1,MGM HD ALEMAN
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/155/1/index.m3u8 
 #EXTINF:-1,SPACE 
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
@@ -579,18 +689,48 @@ http://23.237.22.2/LIVE/H01/CANAL207/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1,CINECANAL
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+#EXTINF:1,SONY SY-FI 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/183/2/index.m3u8 
+#EXTINF:1,SONY SY-FI 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/184/2/index.m3u8 
+#EXTINF:1,SONY TURBO 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/185/2/index.m3u8 
+#EXTINF:1,SONY TURBO 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/186/2/index.m3u8 
+#EXTINF:1,SONY 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/188/2/index.m3u8 
 #EXTINF:-1,CINEMAX
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL481/PROFILE03.m3u8?authorization=knife.handshake
-#EXTINF:-1,DE PELICULA 
+#EXTINF:-1,GOLDEN PLUS SD
 #EXTGRP:SERIES & MOVIES
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:1,CANAL+FILM HD ALEMAN
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/387/1/index.m3u8 
 #EXTINF:-1,DIVINITY
 #EXTGRP:SERIES & MOVIES
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1,ENERGI
 #EXTGRP:SERIES & MOVIES
 https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
+#EXTINF:1,CINEMAX HD 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/401/1/index.m3u8 
+#EXTINF:1,CINEMAX HD 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/402/1/index.m3u8 
+#EXTINF:1,FX HD 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/464/1/index.m3u8 
+#EXTINF:1,ZEEONE 
+#EXTGRP:SERIES & MOVIES
+http://185.231.160.35/472/1/index.m3u8 
 #EXTINF:-1,TDF
 #EXTGRP:SERIES & MOVIES
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
@@ -603,15 +743,9 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,A1 Film
 #EXTGRP:SERIES & MOVIES
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
-#EXTINF:-1,RAI PREMIUM
-#EXTGRP:SERIES & MOVIES
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1,RAI PREMIUM HD
+#EXTINF:-1,RAI PREMIUM 
 #EXTGRP:SERIES & MOVIES
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
-#EXTINF:-1,RAI MOVIE
-#EXTGRP:SERIES & MOVIES
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8
 #EXTINF:-1,RAI MOVIE HD
 #EXTGRP:SERIES & MOVIES
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
@@ -639,15 +773,6 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1,SPACE
 #EXTGRP:SERIES & MOVIES
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1,JUG
-#EXTGRP:SERIES & MOVIES
-http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:-1,Dance/EDM
-#EXTGRP:MUSICA
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1,PORTAL FOX MIX 
-#EXTGRP:MUSICA
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1,CAMPUS CLASSICA 
 #EXTGRP:MUSICA
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
@@ -705,6 +830,12 @@ http://persik.by/stream/6431/299492/10227.m3u8
 #EXTINF:-1,Alternative
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:-1,Vin
+#EXTGRP:MUSICA
+http://95.170.220.246:1213/hls/VinHD-M.m3u8
+#EXTINF:-1,Q.MUSIC
+#EXTGRP:MUSICA
+http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
 #EXTINF:-1,TIGO MUSIC
 #EXTGRP:MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
@@ -735,9 +866,24 @@ http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
 #EXTINF:-1,CANAL U
 #EXTGRP:MUSICA
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+#EXTINF:-1,PLAY
+#EXTGRP:MUSICA
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,CANAL 10
+#EXTGRP:MUSICA
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1,CAPITAL
+#EXTGRP:MUSICA
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,RADIO ITALIA
+#EXTGRP:MUSICA
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1,МУЗ ТВ
 #EXTGRP:MUSICA
 http://95.128.243.226:7780/udp/224.0.91.92:1234
+#EXTINF:-1,MUSICA CANTABRIA
+#EXTGRP:MUSICA
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1,Planeta
 #EXTGRP:MUSICA
 http://84.43.207.130/planetahd/planetahd.m3u8
@@ -768,6 +914,12 @@ http://130.185.144.63:8000/live/indian/indian/156.ts
 #EXTINF:-1,ENLACE JUVENIL
 #EXTGRP:MUSICA
 http://acaooyalahd2-lh.akamaihd.net:80/i/TBN08_delivery@186246/index_1728_av-p.m3u8
+#EXTINF:-1,Dance/EDM
+#EXTGRP:MUSICA
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1,PORTAL FOX MIX 
+#EXTGRP:MUSICA
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1,MTV CHINA
 #EXTGRP:MUSICA
 http://203.170.145.201:9981/stream/channelid/1646557078
@@ -792,6 +944,9 @@ http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
 #EXTINF:-1,JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1,LA LIGA HD
+#EXTGRP:DEPORTES SPORTS
+http://92.60.237.19:8880/play/LaLiga/index.m3u8
 #EXTINF:-1,DEPORTE 
 #EXTGRP:DEPORTES SPORTS
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
@@ -831,6 +986,9 @@ http://185.231.160.35:5000//23/3/index.m3u8
 #EXTINF:-1,Матч! Футбол 3
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//24/3/index.m3u8
+#EXTINF:-1,Матч_ТВ_Липецк
+#EXTGRP:DEPORTES SPORTS
+http://217.107.196.88:9994/play/Матч_ТВ_Липецк
 #EXTINF:-1,Спорт 1 Ukraina
 #EXTGRP:DEPORTES SPORTS
 http://178.172.245.155:8121/sport1
@@ -888,12 +1046,6 @@ http://185.231.160.35/25/1/index.m3u8
 #EXTINF:-1,EUROSPORT 2 HD 
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//77/1/index.m3u8
-#EXTINF:-1,CANAL LIGA
-#EXTGRP:DEPORTES SPORTS
-http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8
-#EXTINF:-1,MOVISTAR FUTBOL
-#EXTGRP:DEPORTES SPORTS
-http://185.152.66.150:25461/live/deportesfans/fanstvapp/39.m3u8
 #EXTINF:-1,ESPN BRASIL
 #EXTGRP:DEPORTES SPORTS
 http://listaiptv.brcs.ml:8080/HD_ESPN_BRASIL/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
@@ -978,6 +1130,28 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1,PX SPORTS
 #EXTGRP:DEPORTES SPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
+#EXTINF:0,digiSport1 
+http://91.224.178.12:7001/Apple/digiSport1/.m3u8 
+#EXTINF:0,digiSport2 
+http://91.224.178.12:7001/Apple/digiSport2/.m3u8 
+#EXTINF:0,digiSport3 
+http://91.224.178.12:7001/Apple/digiSport3/.m3u8 
+#EXTINF:0,digifilm 
+http://91.224.178.12:7001/Apple/digifilm/.m3u8 
+#EXTINF:0,digiworld 
+http://91.224.178.12:7001/Apple/digiworld/.m3u8 
+#EXTINF:0,eurosport2 
+http://91.224.178.12:5003/Apple/eurosport2/.m3u8 
+#EXTINF:0,xsport 
+http://91.224.178.12:6004/Apple/xsport/.m3u8 
+#EXTINF:0,sportm 
+http://91.224.178.12:7006/Apple/sportm/.m3u8 
+#EXTINF:0,vsport 
+http://91.224.178.12:8001/Apple/vsportruhd/.m3u8 
+#EXTINF:0,eurosport2 
+http://91.224.178.12:8001/Apple/eurosport2ruhd/.m3u8 
+#EXTINF:0,eurosport 
+http://91.224.178.12:8001/Apple/eurosportruhd/.m3u8
 #EXTINF:-1,SkySport 1
 #EXTGRP:DEPORTES SPORTS
 http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/51.ts
@@ -2718,182 +2892,182 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
 #EXTINF:-1,Q-DANCE CHILE
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://18403.live.streamtheworld.com/Q_DANCEAAC.aac
 #EXTINF:-1,SONIC.FM ARGENTINA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://streamer01.sonic.server54.net:8000/live128
 #EXTINF:-1,LA MEGA ELECTRONICA COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live1.rcnmundo.com/lamegaelectro.mp3
 #EXTINF:-1,ZULDEMAIDA RADIO ARMENIA 
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://server2.ejeserver.com:8144/live
 #EXTINF:-1,LA MEGA ARMENIA 
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live1.rcnmundo.com/lamegaarmenia.mp3
 #EXTINF:-1,LA PODEROSA COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://ample-zeno-05.radiojar.com/sczs61304f5tv?rj-ttl=5&rj-token=AAABYMzK3OiozGrMa6WC22ezkvc7-pO4JAeq1X5kaJPg1BkjYwPMwg
 #EXTINF:-1,RADIO AMOR 104.4 FM BOG
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live3.rcnmundo.com/amor.aac 
 #EXTINF:-1,RADIO DISNEY ARGENTINA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 https://streaming.shoutcast.com/RadioDisneyARG
 #EXTINF:-1,LA KALLE LA MANDA + COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://17973.live.streamtheworld.com/LA_KALLE.mp3?
 #EXTINF:-1,BLURADIO COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://14993.live.streamtheworld.com/BLURADIO.mp3
 #EXTINF:-1,PRISMA ARMENIA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://192.99.150.42:9838/;
 #EXTINF:-1,CLASSICA ARGENTINA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37
 #EXTINF:-1,BELGRANO ARGENTINA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://streamlky.alsolnet.com:443/radio9
 #EXTINF:-1,TOLIMA STEREO
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://i50.letio.com/5016.aac
 #EXTINF:-1,BESAME COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://14933.live.streamtheworld.com/BESAME_NACIONAL_SC 
 #EXTINF:-1,BESAME MEDELLIN
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://18433.live.streamtheworld.com/BESAME_NACIONAL_SC
 #EXTINF:-1,MANIZALEZ TROPICANA COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://14073.live.streamtheworld.com/TR_MANIZALES_SC
 #EXTINF:-1,MELODIA STEREO COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://i50.letio.com/7000.aac
 #EXTINF:-1,GENERACION
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://server2.ejeserver.com:8012/stream
 #EXTINF:-1,TANGO ARMGENITA 
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://radios.argentina.fm:9270/stream
 #EXTINF:-1,LA EJE CAFETERO
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://stream.laeje.com:10860/live
 #EXTINF:-1,SUPER STACION
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://138.128.189.154:9922/;stream.mp3
 #EXTINF:-1,QUIMBAYA ST
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://195.154.133.107:8396/;
 #EXTINF:-1,ALTERNATIVA RADIO ARGENTINA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://195.154.182.222:25084/live
 #EXTINF:-1,RADIO ACTIVA COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://18683.live.streamtheworld.com/RADIO_ACTIVA_SC
 #EXTINF:-1,90.3 FM ARGENTINA 
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://turadioenvivo.com:11019/stream
 #EXTINF:-1,FM GENESIS ARGENTINA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://streamall.alsolnet.com:443/fmgenesis
 #EXTINF:-1,RADIO_HJCK COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://18703.live.streamtheworld.com/RADIO_HJCK_SC
 #EXTINF:-1,LA MEGA BOG 
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live4.rcnmundo.com/lamega.mp3
 #EXTINF:-1,106 RADIO ARGENTINA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://192.99.46.56:9982/;
 #EXTINF:-1,ANTENA 2 B0G 
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live1.rcnmundo.com/antena2.mp3
 #EXTINF:-1,ESPN ARG
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://edge.espn.cdn.abacast.net/espn-deportesmp3-48
 #EXTINF:-1,RCN MUNDO B0G 
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live4.rcnmundo.com/lafm.mp3
 #EXTINF:-1,LA VOZ DE LA COSTA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CqIDRFtCzQqJ7i3bNwXanHlMLx3Q3VPzSjMw4IMGw90dYe6XsJvTGA3FAc3j7EZoKC2VicVosDYeiLwZ7mkZquHk2-kt1olzLiG8ITIWQppG8r2uEqnMol95yr6tjsRMh0mdCbS_8QJY965KotR_JpieD4-LQKGo75OXyGg4QuCPFFqvaHdx7PZbfnodCVlWmyJdSvpN7DmklhZc4vys4Ry4V4p6kjr_u5WUOK3TeL4ypgh6zfsUvfi6E-vYPLySG24ljJDs2vKOs_8Lx3dclJJKFwd87S0iTSLw1DxL14ykNLMIiAByOWOzD8dW4Z4T4IChQy49tcHvENnT42RVMp4jv9Tp2R2hkU0XCarUi9gl7w_hPmeS9U0ojfZOjo_Vm_08c0xMC3GMDW1bC5qTflGU7fekz_-VApWtjS3LnamKiuSRsZ5gyifmMP19xpL3f28wsFbRw4lL2TGE88Myw1cEr4in7PpW10iZBrr8R1acaFV7PhsbtEeG5cM-djKEDOZdpdcKOxp1KAxcQUCyNBSsSpUi-YEBzhBpeACptnAIAgp7wxIQhpW-dQ39NkOagh1jbVvl7RoM81TZCy1UhvmqIUjI.m3u8
 #EXTINF:-1,RUMBA ST B0G 
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live4.rcnmundo.com/rumba.mp3
 #EXTINF:-1,CARACOL RADIO IPIALES
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://radiolatina.info:9456/;
 #EXTINF:-1,RADIO UNO BOG
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live1.rcnmundo.com/radiouno.mp3
 #EXTINF:-1,BEER BOG
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://smoke.wavestreamer.com:8502/stream/1/
 #EXTINF:-1,W RADIO COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://18913.live.streamtheworld.com/WRADIO_SC
 #EXTINF:-1,TROPICANA BOG
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://19253.live.streamtheworld.com/TROPICANA_SC
 #EXTINF:-1,LOS40 COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://18433.live.streamtheworld.com/LOS40_COLUMBIA_SC
 #EXTINF:-1,LOS40 ARGENTINA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://17983.live.streamtheworld.com/LOS40_ARGENTINA_SC
 #EXTINF:-1,CANDELA STEREO COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://14103.live.streamtheworld.com/CANDELAESTEREO_SC
 #EXTINF:-1,VIBRA BOG 
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://18433.live.streamtheworld.com/VIBRA_SC
 #EXTINF:-1,OXIGENO COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://14613.live.streamtheworld.com/OXIGENO_SC
 #EXTINF:-1,RADIO FANTASTICA MEDELLIN
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live4.rcnmundo.com/fantasticamedellin.mp3
 #EXTINF:-1,LA EXTRELLA MEDELLIN
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://audio.estrellacolombia.com:8006/stream/1/
 #EXTINF:-1,LATINA STEREO COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://real1.streaming-co.com:8050/live
 #EXTINF:-1,LA CARIÑOSA MEDELLIN
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live1.rcnmundo.com/lacarinosa.mp3
 #EXTINF:-1,RADIO TIEMPO MEDELLIN
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://i50.letio.com/9100.aac 
 #EXTINF:-1,PEDAZO DE ACORDEON MEDELLIN
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://62.210.38.137:8446/stream/1/
 #EXTINF:-1,123 VALLENATO MEDELLIN
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://radiolatina.info:7087/;
 #EXTINF:-1,EL SOL MEDELLIN
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://live1.rcnmundo.com/elsolmedellin.mp3
 #EXTINF:-1,PURA SALSA MEDELLIN
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://192.111.140.6:8105/stream/2/
 #EXTINF:-1,FUNDIQUE LA COSTA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://emisora.fundingue.com:8072/;
 #EXTINF:-1,LA REINA LA COSTA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://i30.letio.com/9106.aac
 #EXTINF:-1,LA CALIENTE LA COSTA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://i50.letio.com/5000.aac
 #EXTINF:-1,LA PANCHANGERA COL
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://radiolatina.info:8772/;
 #EXTINF:-1,LA CAQUETEÑA CAQUETA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://149.56.147.197:9638/lacaquetena
 #EXTINF:-1,METRO ARGENTINA
-#EXTGRP:RADIO TV
+#EXTGRP:RADIO
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
