@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,∞ ACTUALIZADO 08 - 01 - 18
 #EXTGRP:ADMIN By_Andres ∞ 
-http://persik.by/stream/6431/299492/10292.m3u8
+https://www.youtube.com/watch?v=OYAkS85xBPc
 #EXTINF:-1,MAMA
 #EXTGRP:NIÑOS KIDS
 http://185.231.160.35:5000//60/2/index.m3u8
@@ -26,15 +26,9 @@ http://95.72.85.132:8080/udp/225.33.53.70:5000
 #EXTINF:-1,PAQUE RADIO
 #EXTGRP:NIÑOS KIDS
 http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
-#EXTINF:-1,JimJam
-#EXTGRP:NIÑOS KIDS
-http://persik.by/stream/6431/299492/454.m3u8
 #EXTINF:-1,CANAL 5
 #EXTGRP:NIÑOS KIDS
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
-#EXTINF:-1,TIJI
-#EXTGRP:NIÑOS KIDS
-http://95.128.243.226:7780/udp/224.0.90.72:1234
 #EXTINF:-1, disney 
 #EXTGRP:NIÑOS KIDS
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
@@ -45,6 +39,7 @@ http://shoutcast2.radioanimati.it/raplayer
 #EXTGRP:NIÑOS KIDS
 http://api.peers.tv:80/timeshift/strana/16/playlist.m3u8
 #EXTINF:1,Nick HD 
+#EXTGRP:NIÑOS KIDS
 http://185.231.160.35/453/1/index.m3u8 
 #EXTINF:-1,tooncast
 #EXTGRP:NIÑOS KIDS
@@ -58,9 +53,6 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
 #EXTINF:-1,boomerang
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
-#EXTINF:-1,TIJI
-#EXTGRP:NIÑOS KIDS
-http://95.128.243.226:7780/udp/224.0.90.72:1234
 #EXTINF:-1, disney 
 #EXTGRP:NIÑOS KIDS
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
@@ -82,9 +74,6 @@ http://165.227.181.85/tooncast/tracks-v1a1/index.ts
 #EXTINF:-1,VALERIAN FULL HD
 #EXTGRP:NIÑOS KIDS
 https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
-#EXTINF:-1,Rai Yoyo  
-#EXTGRP:NIÑOS KIDS
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 #EXTINF:-1,Rai Gulp  
 #EXTGRP:NIÑOS KIDS
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
@@ -103,15 +92,9 @@ http://cl-a3-p-e-oi1.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout
 #EXTINF:-1,LA BANDA 
 #EXTGRP:NIÑOS KIDS
 http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
-#EXTINF:-1,BANG BANG 
-#EXTGRP:NIÑOS KIDS
-http://173.212.226.236:8888/live/WWW.FREEIPTVLIST.COM/WWW.FREEIPTVLIST.COM/529.ts
 #EXTINF:-1,WOW 
 #EXTGRP:NIÑOS KIDS
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,DISTRITO COMEDIA
-#EXTGRP:NIÑOS KIDS
-http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(03)/index.m3u8
 #EXTINF:-1,LOS SIMPSONS NIU
 #EXTGRP:NIÑOS KIDS
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
@@ -132,13 +115,13 @@ http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
 #EXTINF:-1,TELECAFE 
 #EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 #EXTINF:-1,TELEANTIOQUIA
 #EXTGRP:VARIEDAD VARIETY
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?iptvgratis?Latinos.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 #EXTINF:-1,TELEMEDELLIN
 #EXTGRP:VARIEDAD VARIETY
-https://secure-playlist.livestream.com/streams/4608897_7111788_lsiigi7zxwut8oo5vy4_1/media/4608897_7111788_lsiigi7zxwut8oo5vy4_1@2320000pb.m3u8?dw=14400&token=1515455993_16a4dfda136d5517a85ca875cef0e5e388fa72ac&ts=1515279600
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1,TELE CARIBE
 #EXTGRP:VARIEDAD VARIETY
 https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
@@ -593,11 +576,8 @@ http://185.231.160.35/597/1/index.m3u8
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 #EXTINF:1,AXN HD
-#EXTGRP:SERIES & MOVIES 
-http://185.231.160.35/612/1/index.m3u8 
-#EXTINF:-1,PANICO
 #EXTGRP:SERIES & MOVIES
-https://ssh101.com/m3u8/dyn/panico/index.m3u8
+http://185.231.160.35/612/1/index.m3u8 
 #EXTINF:-1,1KD
 #EXTGRP:SERIES & MOVIES
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
@@ -769,9 +749,6 @@ http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1,CAMPUS CLASSICA 
 #EXTGRP:MUSICA
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-#EXTINF:-1,TIME
-#EXTGRP:MUSICA
-http://api.peers.tv:80/timeshift/time/16/playlist.m3u8
 #EXTINF:-1,CAMPUS CLASSICA 1
 #EXTGRP:MUSICA
 http://hearme.fm:8570/stream
@@ -1340,28 +1317,40 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTGRP:DEPORTES SPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
 #EXTINF:0,digiSport1 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:7001/Apple/digiSport1/.m3u8 
-#EXTINF:0,digiSport2 
+#EXTINF:0,digiSport2
+#EXTGRP:DEPORTES SPORTS 
 http://91.224.178.12:7001/Apple/digiSport2/.m3u8 
 #EXTINF:0,digiSport3 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:7001/Apple/digiSport3/.m3u8 
 #EXTINF:0,digifilm 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:7001/Apple/digifilm/.m3u8 
 #EXTINF:0,digiworld 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:7001/Apple/digiworld/.m3u8 
 #EXTINF:0,eurosport2 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:5003/Apple/eurosport2/.m3u8 
 #EXTINF:0,xsport 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:6004/Apple/xsport/.m3u8 
 #EXTINF:0,sportm 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:7006/Apple/sportm/.m3u8 
 #EXTINF:0,vsport 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:8001/Apple/vsportruhd/.m3u8 
 #EXTINF:0,eurosport2 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:8001/Apple/eurosport2ruhd/.m3u8 
 #EXTINF:0,eurosport 
+#EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:8001/Apple/eurosportruhd/.m3u8
 #EXTINF:-1,SkySport 1
+#EXTGRP:DEPORTES SPORTS
 #EXTGRP:DEPORTES SPORTS
 http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/51.ts
 #EXTINF:-1,SkySport 2
@@ -2875,9 +2864,12 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
-#EXTINF:-1,.:::::::Herbal Radio:::::::.
+#EXTINF:-1,Radio
+#EXTGRP:RADIO
 http://80.211.226.233:8100/live.mp3
-#EXTINF:-1,.:::::::Herbal Radio:::::::
+#EXTGRP:RADIO
+#EXTINF:-1,Radio
+#EXTGRP:RADIO
 http://80.211.226.233:8100/live2.mp3
 #EXTINF:-1,Q-DANCE CHILE
 #EXTGRP:RADIO
