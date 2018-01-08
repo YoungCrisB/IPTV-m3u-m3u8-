@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1,∞ ACTUALIZADO 07 - 01 - 18 DEJAR CARGAR EL CANAL PARA QUE DE HD AÑO NUEVO 2018 LES DESEA ANDRES CADA DÍA TRATANDO DE MEJORAR
- AQUI ESTAN MIS FUENTES DEL MIU CONTENIDO: www.iptvlinksfree.com - iptv.zone/en - freeworldwideiptv.com - www.janberyan.com - www.ramalin.com - sourcetv.info - htru.ru  - ipmagtv - getsapp.ru/iptv/ - www.premiumtv.org - hdbox.ws - facebook. - vk.com - twitter -FUENTES DE EMISORAS DE RADIO www.shoutcast.com/Search - ..................
-pastebin.com/raw/uZWjGXav - raw.githubusercontent.com/andresbio/IPTV-m3u-m3u8-/master/UniversoAndres Donaciones a paypal.me/Andres632 sugerencias andresbio8613@gmail.com o aportes
-#EXTGRP:SERVIDOR 
+#EXTINF:-1,∞ ACTUALIZADO 08 - 01 - 18
+#EXTGRP:ADMIN By_Andres ∞ 
 http://persik.by/stream/6431/299492/10292.m3u8
 #EXTINF:-1,MAMA
 #EXTGRP:NIÑOS KIDS
@@ -42,7 +40,10 @@ http://95.128.243.226:7780/udp/224.0.90.72:1234
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 #EXTINF:-1,GULLI GIRL
 #EXTGRP:NIÑOS KIDS
-http://95.128.243.226:7780/udp/224.0.90.73:1234
+http://shoutcast2.radioanimati.it/raplayer
+#EXTINF:-1,STRANA
+#EXTGRP:NIÑOS KIDS
+http://api.peers.tv:80/timeshift/strana/16/playlist.m3u8
 #EXTINF:1,Nick HD 
 http://185.231.160.35/453/1/index.m3u8 
 #EXTINF:-1,tooncast
@@ -144,6 +145,12 @@ https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/teleca
 #EXTINF:-1,CANAL TRO
 #EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,GLOBALTV
+#EXTGRP:VARIEDAD VARIETY
+rtmp://edge.wms28.lorini.net/globaltv/globaltv
+#EXTINF:-1,ANZOATEGUITV VENEZUELA
+#EXTGRP:VARIEDAD VARIETY
+rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
 #EXTINF:-1,RED+
 #EXTGRP:VARIEDAD VARIETY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
@@ -168,6 +175,9 @@ https://live5.userapi.com/637602/live/4_m40opCfZY/playlist.m3u8
 #EXTINF:-1,TV VENEZUELA
 #EXTGRP:VARIEDAD VARIETY
 https://vivoplay-i.akamaihd.net/hls/live/255338/tvvenezuela/master2500k.m3u8
+#EXTINF:-1,SMOTV COSTA RICA
+#EXTGRP:VARIEDAD VARIETY
+rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1,CANELA
 #EXTGRP:VARIEDAD VARIETY
 http://servicioamerica.net:1935/8344/8344/playlist.m3u8
@@ -624,6 +634,9 @@ http://23.237.22.2/LIVE/H01/CANAL254/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1,TNT
 #EXTGRP:SERIES & MOVIES
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,TELE UNO
+#EXTGRP:SERIES & MOVIES
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:1,MOVISTAR Series Xtra 
 #EXTGRP:SERIES & MOVIES
 http://185.231.160.35/600/1/index.m3u8 
@@ -756,6 +769,9 @@ http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1,CAMPUS CLASSICA 
 #EXTGRP:MUSICA
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1,TIME
+#EXTGRP:MUSICA
+http://api.peers.tv:80/timeshift/time/16/playlist.m3u8
 #EXTINF:-1,CAMPUS CLASSICA 1
 #EXTGRP:MUSICA
 http://hearme.fm:8570/stream
@@ -777,9 +793,12 @@ http://109.236.85.100:8081/sipTV/live/playlist.m3u8
 #EXTINF:-1,Bridge Classic
 #EXTGRP:MUSICA
 http://37.9.150.230:4022/udp/232.0.1.27:1234
+#EXTINF:-1,VH1 
+#EXTGRP:MUSICA
+http://api.peers.tv:80/timeshift/vh1/16/playlist.m3u8
 #EXTINF:-1,VH1 CLASSIC 
 #EXTGRP:MUSICA
-http://95.128.243.226:7780/udp/224.0.90.40:1234
+http://api.peers.tv:80/timeshift/vh1/16/playlist.m3u8
 #EXTINF:-1,SUPER RETRO
 #EXTGRP:MUSICA
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
@@ -798,12 +817,18 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklis
 #EXTINF:-1,Heavy Metal TV
 #EXTGRP:MUSICA
 http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1,ROCK 
+#EXTGRP:MUSICA
+mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:-1,Metal
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
 #EXTINF:-1,ROCK LATINO
 #EXTGRP:MUSICA
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
+#EXTINF:-1,QMUSICA
+#EXTGRP:MUSICA
+mms://streamqm.uigc.net/qmusica
 #EXTINF:-1,MTV Rocks
 #EXTGRP:MUSICA
 http://persik.by/stream/6431/299492/10227.m3u8
@@ -816,6 +841,9 @@ http://95.170.220.246:1213/hls/VinHD-M.m3u8
 #EXTINF:-1,Q.MUSIC
 #EXTGRP:MUSICA
 http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
+#EXTINF:-1,TELEMUSICA
+#EXTGRP:MUSICA
+rtmp://186.155.200.118:1935/live/telemusica
 #EXTINF:-1,TIGO MUSIC
 #EXTGRP:MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
@@ -1164,6 +1192,9 @@ http://185.231.160.35:5000//23/3/index.m3u8
 #EXTINF:-1,Матч! Футбол 3
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//24/3/index.m3u8
+#EXTINF:-1,Бокс ТВ
+#EXTGRP:DEPORTES SPORTS
+http://api.peers.tv:80/timeshift/boks_tv/16/playlist.m3u8
 #EXTINF:-1,Матч_ТВ_Липецк
 #EXTGRP:DEPORTES SPORTS
 http://217.107.196.88:9994/play/Матч_ТВ_Липецк
@@ -2844,6 +2875,10 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+#EXTINF:-1,.:::::::Herbal Radio:::::::.
+http://80.211.226.233:8100/live.mp3
+#EXTINF:-1,.:::::::Herbal Radio:::::::
+http://80.211.226.233:8100/live2.mp3
 #EXTINF:-1,Q-DANCE CHILE
 #EXTGRP:RADIO
 http://18403.live.streamtheworld.com/Q_DANCEAAC.aac
