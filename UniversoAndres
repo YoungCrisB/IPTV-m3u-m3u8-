@@ -146,9 +146,12 @@ http://195.77.252.164:9981/stream/channelid/353408775?ticket=3FCF473B8191D8E18F0
 #EXTINF:-1,TV AGRO
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
-#EXTINF:-1,RCN LA ROSA DE LUPE EL VIENTO COSMICO 
+#EXTINF:-1,RCN
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,telemundo 
+#EXTGRP:VARIEDAD VARIETY
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1,Tlnovelas
 #EXTGRP:VARIEDAD VARIETY
 http://channels.premiumtutv.com/stream_9_sk_st.m3u8
@@ -431,9 +434,6 @@ http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:-1,15 tv
 #EXTGRP:VARIEDAD VARIETY
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1,TELEMUNDO ORIGINAL
-#EXTGRP:VARIEDAD VARIETY
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1,CHV CHILE
 #EXTGRP:VARIEDAD VARIETY
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
@@ -566,7 +566,7 @@ http://185.231.160.35/161/1/index.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPCHIC HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.231.160.35/162/1/index.m3u8
-#EXTINF:-1,DMAX ESPAÑOL E INGLES DUAL AUDIO 
+#EXTINF:-1,DMAX
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://195.77.252.164:9981/stream/channelid/1047593158?ticket=36796394FCA72A93EAA0F2111AA726DFC6643D73&profile=pass
 #EXTINF:-1,HISTORY HD
@@ -3137,9 +3137,18 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+#EXTINF:-1,LA FM
+#EXTGRP:RADIO
+http://live3.rcnmundo.com/lafmmedellin.mp3
 #EXTINF:-1,Radio
 #EXTGRP:RADIO
 http://80.211.226.233:8100/live.mp3
+#EXTINF:-1,MERIDIANO LLANOS
+#EXTGRP:RADIO
+http://72.29.70.22:8136/stream/1/
+#EXTINF:-1,ONDA ST
+#EXTGRP:RADIO
+http://192.99.153.170:10010/stream/1/
 #EXTGRP:RADIO
 #EXTINF:-1,Radio
 #EXTGRP:RADIO
@@ -3168,6 +3177,9 @@ http://live3.rcnmundo.com/amor.aac
 #EXTINF:-1,RADIO DISNEY ARGENTINA
 #EXTGRP:RADIO
 https://streaming.shoutcast.com/RadioDisneyARG
+#EXTINF:-1,OLIMPICA ST
+#EXTGRP:RADIO
+http://i50.letio.com/9132.aac
 #EXTINF:-1,LA KALLE LA MANDA + COL
 #EXTGRP:RADIO
 http://17973.live.streamtheworld.com/LA_KALLE.mp3?
