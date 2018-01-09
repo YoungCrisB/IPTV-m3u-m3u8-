@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,08-01-18 GRACIAS! Donaciones paypal.me/Andres632
+#EXTINF:-1,09-01-18 GRACIAS! Donaciones paypal.me/Andres632
 #EXTGRP:ADMIN By_Andres ∞ Donaciones paypal.me/Andres632
 http://persik.by/stream/6431/299492/10292.m3u8
 #EXTINF:-1,Mama
@@ -81,6 +81,7 @@ http://195.88.52.102:8000/play/a06l
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
 #EXTINF:-1,Bang BANG
+#EXTGRP:NIÑOS KIDS
 http://46.99.163.177:8098/play/a002 
 #EXTINF:-1,boomerang
 #EXTGRP:NIÑOS KIDS
@@ -974,13 +975,13 @@ http://94.240.45.55:10003/bysid/14
 #EXTGRP:SERIES & MOVIES
 http://94.240.45.55:10003/bysid/31 
 #EXTINF:-1,TVP Historia SUB INGLES
-#EXTGRP:NUEVO 
+#EXTGRP:SERIES & MOVIES
 http://94.240.45.55:10003/bysid/32 
 #EXTINF:-1,TVP Rozrywka SUB INGLES
-#EXTGRP:NUEVO
+#EXTGRP:SERIES & MOVIES
 http://94.240.45.55:10003/bysid/34 
 #EXTINF:-1,TVP Info SUB INGLES
-#EXTGRP:NUEVO
+#EXTGRP:SERIES & MOVIES
 http://94.240.45.55:10003/bysid/35
 #EXTINF:-1, Херсон+
 #EXTGRP:SERIES & MOVIES
@@ -3323,4 +3324,3 @@ http://149.56.147.197:9638/lacaquetena
 #EXTINF:-1,METRO ARGENTINA
 #EXTGRP:RADIO
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
-
