@@ -29,6 +29,36 @@ http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1,CANAL 5
 #EXTGRP:NIÑOS KIDS
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+#EXTINF:-1,Nick
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_80_sk_st.m3u8
+#EXTINF:-1,Nick Toons
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_70_sk_st.m3u8
+#EXTINF:-1,Nick Jr
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_49_sk_st.m3u8
+#EXTINF:-1,Disney XD
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_30_sk_st.m3u8
+#EXTINF:-1,Tooncast
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_31_sk_st.m3u8
+#EXTINF:-1,Disney Jr
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_25_sk_st.m3u8
+#EXTINF:-1,Disney Channel
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_20_sk_st.m3u8
+#EXTINF:-1,Nickelodeon 
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_21_sk_st.m3u8
+#EXTINF:-1,Discovery Kids
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_22_sk_st.m3u8
+#EXTINF:-1,Cartoon Network
+#EXTGRP:NIÑOS KIDS
+http://channels.premiumtutv.com/stream_16_sk_st.m3u8
 #EXTINF:-1, disney
 #EXTGRP:NIÑOS KIDS
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
@@ -44,12 +74,14 @@ http://185.231.160.35/453/1/index.m3u8
 #EXTINF:-1,tooncast
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
-#EXTINF:-1,CANAL 5
+#EXTINF:-1,0!
 #EXTGRP:NIÑOS KIDS
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+http://195.88.52.102:8000/play/a06l
 #EXTINF:-1, BOING
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
+#EXTINF:-1,Bang BANG
+http://46.99.163.177:8098/play/a002 
 #EXTINF:-1,boomerang
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
@@ -99,20 +131,47 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTGRP:NIÑOS KIDS
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1,GAMERS TOON
-#EXTGRP:NUEVO
+#EXTGRP:NIÑOS KIDS
 http://185.231.160.35/1019/1/index.m3u8
 #EXTINF:-1,GAMERS SHOWS
-#EXTGRP:NUEVO
+#EXTGRP:NIÑOS KIDS
 http://91.224.178.12:6004/Apple/xsport/.m3u8
 #EXTINF:-1,CARACOL
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1,TELECINCO ES
+#EXTGRP:VARIEDAD VARIETY
+http://195.77.252.164:9981/stream/channelid/353408775?ticket=3FCF473B8191D8E18F021602D783D002288212E9&profile=pass
 #EXTINF:-1,TV AGRO
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
-#EXTINF:-1,RCN
+#EXTINF:-1,RCN LA ROSA DE LUPE EL VIENTO COSMICO 
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,Tlnovelas
+#EXTGRP:VARIEDAD VARIETY
+http://channels.premiumtutv.com/stream_9_sk_st.m3u8
+#EXTINF:-1,Glitz   
+#EXTGRP:VARIEDAD VARIETY
+http://channels.premiumtutv.com/stream_67_sk_st.m3u8
+#EXTINF:-1,Las estrellas
+#EXTGRP:VARIEDAD VARIETY
+http://channels.premiumtutv.com/stream_7_sk_st.m3u8
+#EXTINF:-1,Azteca 7
+#EXTGRP:VARIEDAD VARIETY
+http://channels.premiumtutv.com/stream_13_sk_st.m3u8
+#EXTINF:-1,Az Mundo
+#EXTGRP:VARIEDAD VARIETY
+http://channels.premiumtutv.com/stream_113_sk_st.m3u8
+#EXTINF:-1,Az CorazÃ³n
+#EXTGRP:VARIEDAD VARIETY
+http://channels.premiumtutv.com/stream_90_sk_st.m3u8
+#EXTINF:-1,Comedy Central
+#EXTGRP:VARIEDAD VARIETY
+http://channels.premiumtutv.com/stream_59_sk_st.m3u8
+#EXTINF:-1,Azteca 13
+#EXTGRP:VARIEDAD VARIETY
+http://channels.premiumtutv.com/stream_12_sk_st.m3u8
 #EXTINF:-1,CANAL 1 COL
 #EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
@@ -227,6 +286,18 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8?
 #EXTINF:-1,TV5MONDE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1,La5 
+#EXTGRP:VARIEDAD VARIETY
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Top Crime
+#EXTGRP:SERIES & MOVIES 
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Iris
+#EXTGRP:VARIEDAD VARIETY 
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Mediaset Extra
+#EXTGRP:VARIEDAD VARIETY 
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
 #EXTINF:-1,TELE APRENDE
 #EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
@@ -236,9 +307,24 @@ http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,COTUI
 #EXTGRP:VARIEDAD VARIETY
 http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
+#EXTINF:-1,Rete 4
+#EXTGRP:VARIEDAD VARIETY 
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Canale 5
+#EXTGRP:VARIEDAD VARIETY 
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 1
+#EXTGRP:VARIEDAD VARIETY 
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
 #EXTINF:-1,2000TV
 #EXTGRP:VARIEDAD VARIETY
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1,Italia 2
+#EXTGRP:VARIEDAD VARIETY 
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Tgcom24
+#EXTGRP:VARIEDAD VARIETY 
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
 #EXTINF:-1,LA ABANA
 #EXTGRP:VARIEDAD VARIETY
 https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
@@ -437,6 +523,33 @@ http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000
 #EXTINF:-1,NAT GEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://81.228.174.166:8001/natgeowild
+#EXTINF:-1,Animal Planet
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://channels.premiumtutv.com/stream_28_sk_st.m3u8
+#EXTINF:-1,NatGeo
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://channels.premiumtutv.com/stream_23_sk_st.m3u8
+#EXTINF:-1,Discovery Channel
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://channels.premiumtutv.com/stream_19_sk_st.m3u8
+#EXTINF:-1,Discovery Civilization
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://channels.premiumtutv.com/stream_61_sk_st.m3u8
+#EXTINF:-1,Discovery Science
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://channels.premiumtutv.com/stream_62_sk_st.m3u8
+#EXTINF:-1,Discovery Turbo
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://channels.premiumtutv.com/stream_63_sk_st.m3u8
+#EXTINF:-1,Discovery Theater
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://channels.premiumtutv.com/stream_64_sk_st.m3u8
+#EXTINF:-1,InvestigaciÃ³n Discovery
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://channels.premiumtutv.com/stream_65_sk_st.m3u8
+#EXTINF:-1,Home and Health
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://channels.premiumtutv.com/stream_66_sk_st.m3u8
 #EXTINF:-1,NATGEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
@@ -452,6 +565,9 @@ http://185.231.160.35/161/1/index.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPCHIC HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.231.160.35/162/1/index.m3u8
+#EXTINF:-1,DMAX
+#EXTGRP:CIENCIA MUNDO WORD SCIENCE
+http://195.77.252.164:9981/stream/channelid/1047593158?ticket=36796394FCA72A93EAA0F2111AA726DFC6643D73&profile=pass
 #EXTINF:-1,HISTORY HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.231.160.35/165/1/index.m3u8
@@ -644,15 +760,111 @@ http://23.237.22.2/LIVE/H01/CANAL203/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1,AXN
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL213/PROFILE03.m3u8?authorization=knife.handshake
-#EXTINF:-1,MGM HD ALEMAN
+#EXTINF:-1,MGM HD
 #EXTGRP:SERIES & MOVIES
 http://185.231.160.35/154/1/index.m3u8
 #EXTINF:-1,MGM HD ALEMAN
 #EXTGRP:SERIES & MOVIES
 http://185.231.160.35/155/1/index.m3u8
+#EXTINF:-1,2DF
+#EXTGRP:SERIES & MOVIES
+http://195.77.252.164:9981/stream/channelid/288330840?ticket=FE7512D5850B72631BF11884671EB7FDB68C0E4D&profile=pass
 #EXTINF:-1,SPACE
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
+#EXTINF:-1,Space   
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_81_sk_st.m3u8
+#EXTINF:-1,Az CinÃ©ma
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_114_sk_st.m3u8
+#EXTINF:-1,Cinemax (O)
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_115_sk_st.m3u8
+#EXTINF:-1,AMC
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_96_sk_st.m3u8
+#EXTINF:-1,TruTV
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_73_sk_st.m3u8
+#EXTINF:-1,AXN
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_74_sk_st.m3u8
+#EXTINF:-1,I.Sat
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_69_sk_st.m3u8
+#EXTINF:-1,TBS 
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_60_sk_st.m3u8
+#EXTINF:-1,Syfy
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_42_sk_st.m3u8
+#EXTINF:-1,TNT Series
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_39_sk_st.m3u8
+#EXTINF:-1,Golden Edge
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_37_sk_st.m3u8
+#EXTINF:-1,Cinecanal (W)
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_27_sk_st.m3u8
+#EXTINF:-1,TNT
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_15_sk_st.m3u8
+#EXTINF:-1,Fox
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_8_sk_st.m3u8
+#EXTINF:-1,FX
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_29_sk_st.m3u8
+#EXTINF:-1,Universal
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_78_sk_st.m3u8
+#EXTINF:-1,The Film Zone
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_79_sk_st.m3u8
+#EXTINF:-1,Fox Movies 
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_46_sk_st.m3u8
+#EXTINF:-1,Fox Classics
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_52_sk_st.m3u8
+#EXTINF:-1,Fox CinÃ©ma
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_53_sk_st.m3u8
+#EXTINF:-1,Golden
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_54_sk_st.m3u8
+#EXTINF:-1,Studio Universal
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_56_sk_st.m3u8
+#EXTINF:-1,Cinecanal
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_119_sk_st.m3u8
+#EXTINF:-1,TCM 
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_57_sk_st.m3u8
+#EXTINF:-1,Warner
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_76_sk_st.m3u8
+#EXTINF:-1,NatGeo Wild
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_82_sk_st.m3u8
+#EXTINF:-1,History
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_83_sk_st.m3u8
+#EXTINF:-1,Bandamax
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_84_sk_st.m3u8
+#EXTINF:-1,De PelÃ­cula
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_85_sk_st.m3u8
+#EXTINF:-1,Fox Action
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_88_sk_st.m3u8
+#EXTINF:-1,Fox 
+#EXTGRP:SERIES & MOVIES
+http://channels.premiumtutv.com/stream_89_sk_st.m3u8
 #EXTINF:-1, STUDIO UNIVERSAL
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
@@ -728,6 +940,48 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
 #EXTINF:-1,TOP CINEMA
 #EXTGRP:SERIES & MOVIES
 http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/1611.ts
+#EXTINF:-1,Polsat SUB INGLES
+#EXTGRP:SERIES & MOVIES
+http://94.240.45.55:10002/bysid/3 
+#EXTINF:-1,TVN SUB INGLES
+#EXTGRP:SERIES & MOVIES
+http://94.240.45.55:10002/bysid/4 
+#EXTINF:-1,TV4 SUB INGLES
+#EXTGRP:SERIES & MOVIES 
+http://94.240.45.55:10002/bysid/5 
+#EXTINF:-1,TV Puls SUB INGLES
+#EXTGRP:SERIES & MOVIES
+http://94.240.45.55:10002/bysid/6 
+#EXTINF:-1,TVN 7 SUB INGLES
+#EXTGRP:SERIES & MOVIES
+http://94.240.45.55:10002/bysid/23 
+#EXTINF:-1,PULS 2 SUB INGLES
+#EXTGRP:SERIES & MOVIES
+http://94.240.45.55:10002/bysid/24 
+#EXTINF:-1,Super Polsat SUB INGLES
+#EXTGRP:SERIES & MOVIES
+http://94.240.45.55:10002/bysid/26 
+#EXTINF:-1,TVP1 HD SUB INGLES
+#EXTGRP:SERIES & MOVIES
+http://94.240.45.55:10003/bysid/1 
+#EXTINF:-1,TVP2 HD SUB INGLES
+#EXTGRP:SERIES & MOVIES
+http://94.240.45.55:10003/bysid/2 
+#EXTINF:-1,TVP3 Lublin SUB INGLES
+#EXTGRP:SERIES & MOVIES 
+http://94.240.45.55:10003/bysid/14 
+#EXTINF:-1,TVP Kultura SUB INGLES
+#EXTGRP:SERIES & MOVIES
+http://94.240.45.55:10003/bysid/31 
+#EXTINF:-1,TVP Historia SUB INGLES
+#EXTGRP:NUEVO 
+http://94.240.45.55:10003/bysid/32 
+#EXTINF:-1,TVP Rozrywka SUB INGLES
+#EXTGRP:NUEVO
+http://94.240.45.55:10003/bysid/34 
+#EXTINF:-1,TVP Info SUB INGLES
+#EXTGRP:NUEVO
+http://94.240.45.55:10003/bysid/35
 #EXTINF:-1, Херсон+
 #EXTGRP:SERIES & MOVIES
 http://193.107.128.8:8552/play/a016
@@ -809,9 +1063,12 @@ https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?
 #EXTINF:-1,QMUSICA
 #EXTGRP:MUSICA
 mms://streamqm.uigc.net/qmusica
-#EXTINF:-1,MTV Rocks
+#EXTINF:-1,Rocks
 #EXTGRP:MUSICA
 http://persik.by/stream/6431/299492/10227.m3u8
+#EXTINF:-1,retrotv
+#EXTGRP:MUSICA
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1058653171_b750000.m3u8
 #EXTINF:-1,Alternative
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
@@ -854,7 +1111,7 @@ http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
 #EXTINF:-1,CANAL U
 #EXTGRP:MUSICA
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
-#EXTINF:-1,PLAY
+#EXTINF:-1,PLAYKIDS
 #EXTGRP:MUSICA
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,CANAL 10
@@ -868,7 +1125,7 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/maste
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1,МУЗ ТВ
 #EXTGRP:MUSICA
-http://95.128.243.226:7780/udp/224.0.91.92:1234
+http://195.88.52.102:8000/play/a04m
 #EXTINF:-1,MUSICA CANTABRIA
 #EXTGRP:MUSICA
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
@@ -878,6 +1135,9 @@ http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:-1,BERLIN MUSIC
 #EXTGRP:MUSICA
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8
+#EXTINF:-1,tv6
+#EXTGRP:MUSICA
+http://94.240.45.55:10002/bysid/25 
 #EXTINF:-1,COLOSOAL
 #EXTGRP:MUSICA
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w747068544.m3u8
@@ -911,9 +1171,21 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.
 #EXTINF:-1,MTV CHINA
 #EXTGRP:MUSICA
 http://203.170.145.201:9981/stream/channelid/1646557078
-#EXTINF:-1,MTV LIVE
+#EXTINF:-1,Telehit
 #EXTGRP:MUSICA
-http://176.107.177.139:25500/MTVHits
+http://channels.premiumtutv.com/stream_100_sk_st.m3u8
+#EXTINF:-1,VH1
+#EXTGRP:MUSICA
+http://channels.premiumtutv.com/stream_91_sk_st.m3u8
+#EXTINF:-1,VH1 Classic
+#EXTGRP:MUSICA
+http://channels.premiumtutv.com/stream_92_sk_st.m3u8
+#EXTINF:-1,MTV Hits
+#EXTGRP:MUSICA
+http://channels.premiumtutv.com/stream_93_sk_st.m3u8
+#EXTINF:-1,MTV Live
+#EXTGRP:MUSICA
+http://channels.premiumtutv.com/stream_94_sk_st.m3u8
 #EXTINF:-1,R&B Soul
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
@@ -929,6 +1201,9 @@ http://tv.105.net:1935/live/virgin1/index.m3u8
 #EXTINF:-1,JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1,GOL ES
+#EXTGRP:DEPORTES SPORTS
+http://195.77.252.164:9981/stream/channelid/1683651113?ticket=35B8602C221E8432845507B1977E021FC4B11E8C&profile=pass
 #EXTINF:-1, WINSPORTS
 #EXTGRP:DEPORTES SPORTS
 http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
