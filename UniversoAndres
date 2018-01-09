@@ -74,6 +74,9 @@ http://165.227.181.85/tooncast/tracks-v1a1/index.ts
 #EXTINF:-1,VALERIAN FULL HD
 #EXTGRP:NIÑOS KIDS
 https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:-1,JIMJAM
+#EXTGRP:NIÑOS KIDS
+http://185.231.160.35/180/2/index.m3u8
 #EXTINF:-1,Rai Gulp  
 #EXTGRP:NIÑOS KIDS
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
@@ -86,9 +89,6 @@ http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,El Chavo Animado  
 #EXTGRP:NIÑOS KIDS
 http://3.sendvid.com/y00xutjl.mp4
-#EXTINF:-1,KIDS  
-#EXTGRP:NIÑOS KIDS
-http://cl-a3-p-e-oi1.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/master.m3u8?es=cl-a3-p-e-oi1.cdn.mdstrm.com&ote=1504726523211&ot=3K9hbeMjQIQ3aUB2PDAtqA&proto=http
 #EXTINF:-1,LA BANDA 
 #EXTGRP:NIÑOS KIDS
 http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
@@ -98,6 +98,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1,LOS SIMPSONS NIU
 #EXTGRP:NIÑOS KIDS
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,GAMERS TOON 
+#EXTGRP:NUEVO 
+http://185.231.160.35/1019/1/index.m3u8
 #EXTINF:-1,GAMERS SHOWS
 #EXTGRP:NUEVO 
 http://91.224.178.12:6004/Apple/xsport/.m3u8
