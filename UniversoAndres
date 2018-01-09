@@ -4,23 +4,23 @@
 http://persik.by/stream/6431/299492/10292.m3u8
 #EXTINF:-1,MAMA
 #EXTGRP:NIÑOS KIDS
-http://185.231.160.35:5000//60/2/index.m3u8
+http://185.231.160.35:5000/60/2/index.m3u8
 #EXTINF:-1,NICK Jr
 #EXTGRP:NIÑOS KIDS
 http://200.78.215.85:8010/play/a08b
 #EXTINF:-1,BABY
 #EXTGRP:NIÑOS KIDS
 http://str01.ddns.net/002/myStream/playlist.m3u8
-#EXTINF:-1,Rai Yoyo HD 
+#EXTINF:-1,Rai Yoyo HD
 #EXTGRP:NIÑOS KIDS
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
-#EXTINF:-1,ANIMADOS 
+#EXTINF:-1,ANIMADOS
 #EXTGRP:NIÑOS KIDS
 http://195.88.52.102:8000/play/a05j
 #EXTINF:-1,KARRUSEL
 #EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a04a 
-#EXTINF:-1,TLUM 
+http://195.88.52.102:8000/play/a04a
+#EXTINF:-1,TLUM
 #EXTGRP:NIÑOS KIDS
 http://95.72.85.132:8080/udp/225.33.53.70:5000
 #EXTINF:-1,PAQUE RADIO
@@ -29,7 +29,7 @@ http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1,CANAL 5
 #EXTGRP:NIÑOS KIDS
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
-#EXTINF:-1, disney 
+#EXTINF:-1, disney
 #EXTGRP:NIÑOS KIDS
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 #EXTINF:-1,GULLI GIRL
@@ -38,9 +38,9 @@ http://shoutcast2.radioanimati.it/raplayer
 #EXTINF:-1,STRANA
 #EXTGRP:NIÑOS KIDS
 http://api.peers.tv:80/timeshift/strana/16/playlist.m3u8
-#EXTINF:1,Nick HD 
+#EXTINF:1,Nick HD
 #EXTGRP:NIÑOS KIDS
-http://185.231.160.35/453/1/index.m3u8 
+http://185.231.160.35/453/1/index.m3u8
 #EXTINF:-1,tooncast
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
@@ -53,7 +53,7 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
 #EXTINF:-1,boomerang
 #EXTGRP:NIÑOS KIDS
 http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
-#EXTINF:-1, disney 
+#EXTINF:-1, disney
 #EXTGRP:NIÑOS KIDS
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 #EXTINF:-1,disney channel
@@ -62,7 +62,7 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
 #EXTINF:-1,disney junior
 #EXTGRP:NIÑOS KIDS
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1,NICKTOONS 
+#EXTINF:-1,NICKTOONS
 #EXTGRP:NIÑOS KIDS
 http://81.228.174.166:8005/nicktoons
 #EXTINF:-1,DISNEY+
@@ -89,20 +89,20 @@ http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,El Chavo Animado  
 #EXTGRP:NIÑOS KIDS
 http://3.sendvid.com/y00xutjl.mp4
-#EXTINF:-1,LA BANDA 
+#EXTINF:-1,LA BANDA
 #EXTGRP:NIÑOS KIDS
 http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
-#EXTINF:-1,WOW 
+#EXTINF:-1,WOW
 #EXTGRP:NIÑOS KIDS
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1,LOS SIMPSONS NIU
 #EXTGRP:NIÑOS KIDS
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:-1,GAMERS TOON 
-#EXTGRP:NUEVO 
+#EXTINF:-1,GAMERS TOON
+#EXTGRP:NUEVO
 http://185.231.160.35/1019/1/index.m3u8
 #EXTINF:-1,GAMERS SHOWS
-#EXTGRP:NUEVO 
+#EXTGRP:NUEVO
 http://91.224.178.12:6004/Apple/xsport/.m3u8
 #EXTINF:-1,CARACOL
 #EXTGRP:VARIEDAD VARIETY
@@ -116,7 +116,7 @@ http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1,CANAL 1 COL
 #EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
-#EXTINF:-1,TELECAFE 
+#EXTINF:-1,TELECAFE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 #EXTINF:-1,TELEANTIOQUIA
@@ -173,7 +173,7 @@ https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpz
 #EXTINF:-1,TELEENVIGADO
 #EXTGRP:VARIEDAD VARIETY
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-1,CALI 
+#EXTINF:-1,CALI
 #EXTGRP:VARIEDAD VARIETY
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1,ANTENA 3
@@ -227,7 +227,7 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8?
 #EXTINF:-1,TV5MONDE
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:-1,TELE APRENDE 
+#EXTINF:-1,TELE APRENDE
 #EXTGRP:VARIEDAD VARIETY
 http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
 #EXTINF:-1,CHICOS IPN
@@ -311,7 +311,7 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w8
 #EXTINF:-1,13 MAX DIGITAL
 #EXTGRP:VARIEDAD VARIETY
 http://coninfo.net:1935/13max/live/chunklist_w1212589458.m3u8
-#EXTINF:-1,TRAVEL 
+#EXTINF:-1,TRAVEL
 #EXTGRP:VARIEDAD VARIETY
 http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
 #EXTINF:-1,TV PERU
@@ -329,13 +329,13 @@ http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:-1,WORLD FHASHION
 #EXTGRP:VARIEDAD VARIETY
 http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
-#EXTINF:-1,FASHION 
+#EXTINF:-1,FASHION
 #EXTGRP:VARIEDAD VARIETY
 http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:-1,FASHION EN 4K
 #EXTGRP:VARIEDAD VARIETY
 http://persik.by/stream/176/296165/10317.m3u8
-#EXTINF:-1,KARINA 
+#EXTINF:-1,KARINA
 #EXTGRP:VARIEDAD VARIETY
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1,LIFE
@@ -425,7 +425,7 @@ https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
 #EXTINF:-1,Tec TV
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL 
+#EXTINF:-1,DISCOVERY CHANNEL
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
@@ -434,7 +434,7 @@ http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
 #EXTINF:-1,ANIMAUX
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1,NAT GEO WILD 
+#EXTINF:-1,NAT GEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://81.228.174.166:8001/natgeowild
 #EXTINF:-1,NATGEO WILD
@@ -442,32 +442,32 @@ http://81.228.174.166:8001/natgeowild
 http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
 #EXTINF:-1,ANIMAL PLANET HD ALEMAN
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.35/111/1/index.m3u8 
+http://185.231.160.35/111/1/index.m3u8
 #EXTINF:-1,NAT GEO WILD HD ALEMAN
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.35/151/1/index.m3u8 
-#EXTINF:-1,NATIONAL GEOGRAPCHIC HD 
+http://185.231.160.35/151/1/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPCHIC HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.35/161/1/index.m3u8 
-#EXTINF:-1,NATIONAL GEOGRAPCHIC HD 
+http://185.231.160.35/161/1/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPCHIC HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.35/162/1/index.m3u8 
-#EXTINF:-1,HISTORY HD 
+http://185.231.160.35/162/1/index.m3u8
+#EXTINF:-1,HISTORY HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.35/165/1/index.m3u8 
-#EXTINF:-1,HISTORY HD 
+http://185.231.160.35/165/1/index.m3u8
+#EXTINF:-1,HISTORY HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.35/166/1/index.m3u8 
-#EXTINF:-1,TLC HD(EN) 
+http://185.231.160.35/166/1/index.m3u8
+#EXTINF:-1,TLC HD(EN)
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.35/168/1/index.m3u8 
-#EXTINF:-1,TRAVEL CHANELL HD 
+http://185.231.160.35/168/1/index.m3u8
+#EXTINF:-1,TRAVEL CHANELL HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.35/169/1/index.m3u8 
-#EXTINF:-1,TRAVEL CHANELL HD 
+http://185.231.160.35/169/1/index.m3u8
+#EXTINF:-1,TRAVEL CHANELL HD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://185.231.160.35/170/1/index.m3u8 
-#EXTINF:-1,HD LIFE 
+http://185.231.160.35/170/1/index.m3u8
+#EXTINF:-1,HD LIFE
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.231.160.35/289/1/index.m3u8
 #EXTINF:-1, H&H
@@ -475,10 +475,10 @@ http://185.231.160.35/289/1/index.m3u8
 http://23.237.22.2/LIVE/H01/CANAL374/PROFILE03.m3u8?authorization=knife.handshake
 #EXTINF:-1,ID
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://23.237.22.2/LIVE/H01/CANAL263/PROFILE03.m3u8?authorization=knife.handshake 
-#EXTINF:-1,OBN 
+http://23.237.22.2/LIVE/H01/CANAL263/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:-1,OBN
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://81.228.174.166:8003/obn 
+http://81.228.174.166:8003/obn
 #EXTINF:-1,NAT GEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
@@ -494,13 +494,13 @@ http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 #EXTINF:-1, DISCOVERY TURBO
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
-#EXTINF:-1, GARAGE 
+#EXTINF:-1, GARAGE
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-#EXTINF:-1,HISTORIA 
+#EXTINF:-1,HISTORIA
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://92.60.237.19:8880/play/a00r/index.m3u8
-#EXTINF:-1,HISTORY 
+#EXTINF:-1,HISTORY
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
 #EXTINF:-1, H2
@@ -521,13 +521,13 @@ http://secure-streams.akamaized.net/rt-esp/index2500.m3u8
 #EXTINF:-1,24 ESPAÑA
 #EXTGRP:NOTICIAS NEWS
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,France 24 
+#EXTINF:-1,France 24
 #EXTGRP:NOTICIAS NEWS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FRANCE24_HD)/index.m3u8
-#EXTINF:-1,RAI NEWS 24 
+#EXTINF:-1,RAI NEWS 24
 #EXTGRP:NOTICIAS NEWS
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,BBC NEWS 
+#EXTINF:-1,BBC NEWS
 #EXTGRP:NOTICIAS NEWS
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", Cable Noticias
@@ -557,30 +557,30 @@ https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1,24 PERU
 #EXTGRP:NOTICIAS NEWS
 http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
-#EXTINF:1,HOLLYWOOD HD 
+#EXTINF:1,HOLLYWOOD HD
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/610/1/index.m3u8 
-#EXTINF:-1,HBO 
+http://185.231.160.35/610/1/index.m3u8
+#EXTINF:-1,HBO
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
-#EXTINF:1,HBO 
+#EXTINF:1,HBO
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/120/2/index.m3u8 
-#EXTINF:1,HBO 
+http://185.231.160.35/120/2/index.m3u8
+#EXTINF:1,HBO
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/121/2/index.m3u8 
-#EXTINF:1,HBO 2 HD 
+http://185.231.160.35/121/2/index.m3u8
+#EXTINF:1,HBO 2 HD
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/595/1/index.m3u8 
+http://185.231.160.35/595/1/index.m3u8
 #EXTINF:1,HBO 3 HD
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/597/1/index.m3u8 
+http://185.231.160.35/597/1/index.m3u8
 #EXTINF:-1, HBO 2
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 #EXTINF:1,AXN HD
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/612/1/index.m3u8 
+http://185.231.160.35/612/1/index.m3u8
 #EXTINF:-1,1KD
 #EXTGRP:SERIES & MOVIES
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
@@ -602,12 +602,12 @@ http://23.237.22.2/LIVE/H01/CANAL418/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1, FOX MOVIES
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL417/PROFILE03.m3u8?authorization=knife.handshake
-#EXTINF:1,1 
+#EXTINF:1,1
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/119/2/index.m3u8 
+http://185.231.160.35/119/2/index.m3u8
 #EXTINF:1,Amedia
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/122/2/index.m3u8 
+http://185.231.160.35/122/2/index.m3u8
 #EXTINF:-1,GOLDEN PLUS SD
 #EXTGRP:SERIES & MOVIES
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
@@ -620,9 +620,9 @@ http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1,TELE UNO
 #EXTGRP:SERIES & MOVIES
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:1,MOVISTAR Series Xtra 
+#EXTINF:1,MOVISTAR Series Xtra
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/600/1/index.m3u8 
+http://185.231.160.35/600/1/index.m3u8
 #EXTINF:-1,TNT SERIES
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL266/PROFILE03.m3u8?authorization=knife.handshake
@@ -635,9 +635,9 @@ http://23.237.22.2/LIVE/H01/CANAL209/PROFILE03.m3u8?authorization=knife.handshak
 #EXTINF:-1,TBS
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL273/PROFILE03.m3u8?authorization=knife.handshake
-#EXTINF:1,AMC 
+#EXTINF:1,AMC
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/653/1/index.m3u8 
+http://185.231.160.35/653/1/index.m3u8
 #EXTINF:-1,SONY
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL203/PROFILE03.m3u8?authorization=knife.handshake
@@ -646,40 +646,40 @@ http://23.237.22.2/LIVE/H01/CANAL203/PROFILE03.m3u8?authorization=knife.handshak
 http://23.237.22.2/LIVE/H01/CANAL213/PROFILE03.m3u8?authorization=knife.handshake
 #EXTINF:-1,MGM HD ALEMAN
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/154/1/index.m3u8 
+http://185.231.160.35/154/1/index.m3u8
 #EXTINF:-1,MGM HD ALEMAN
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/155/1/index.m3u8 
-#EXTINF:-1,SPACE 
+http://185.231.160.35/155/1/index.m3u8
+#EXTINF:-1,SPACE
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
 #EXTINF:-1, STUDIO UNIVERSAL
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
-#EXTINF:-1,AMC 
+#EXTINF:-1,AMC
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
-#EXTINF:-1,UNIVERSAL 
+#EXTINF:-1,UNIVERSAL
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL207/PROFILE03.m3u8?authorization=knife.handshake
 #EXTINF:-1,CINECANAL
 #EXTGRP:SERIES & MOVIES
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
-#EXTINF:1,SONY SY-FI 
+#EXTINF:1,SONY SY-FI
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/183/2/index.m3u8 
-#EXTINF:1,SONY SY-FI 
+http://185.231.160.35/183/2/index.m3u8
+#EXTINF:1,SONY SY-FI
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/184/2/index.m3u8 
-#EXTINF:1,SONY TURBO 
+http://185.231.160.35/184/2/index.m3u8
+#EXTINF:1,SONY TURBO
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/185/2/index.m3u8 
-#EXTINF:1,SONY TURBO 
+http://185.231.160.35/185/2/index.m3u8
+#EXTINF:1,SONY TURBO
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/186/2/index.m3u8 
-#EXTINF:1,SONY 
+http://185.231.160.35/186/2/index.m3u8
+#EXTINF:1,SONY
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/188/2/index.m3u8 
+http://185.231.160.35/188/2/index.m3u8
 #EXTINF:-1,CINEMAX
 #EXTGRP:SERIES & MOVIES
 http://23.237.22.2/LIVE/H01/CANAL481/PROFILE03.m3u8?authorization=knife.handshake
@@ -688,25 +688,25 @@ http://23.237.22.2/LIVE/H01/CANAL481/PROFILE03.m3u8?authorization=knife.handshak
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
 #EXTINF:1,CANAL+FILM HD ALEMAN
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/387/1/index.m3u8 
+http://185.231.160.35/387/1/index.m3u8
 #EXTINF:-1,DIVINITY
 #EXTGRP:SERIES & MOVIES
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1,ENERGI
 #EXTGRP:SERIES & MOVIES
 https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
-#EXTINF:1,CINEMAX HD 
+#EXTINF:1,CINEMAX HD
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/401/1/index.m3u8 
-#EXTINF:1,CINEMAX HD 
+http://185.231.160.35/401/1/index.m3u8
+#EXTINF:1,CINEMAX HD
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/402/1/index.m3u8 
-#EXTINF:1,FX HD 
+http://185.231.160.35/402/1/index.m3u8
+#EXTINF:1,FX HD
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/464/1/index.m3u8 
-#EXTINF:1,ZEEONE 
+http://185.231.160.35/464/1/index.m3u8
+#EXTINF:1,ZEEONE
 #EXTGRP:SERIES & MOVIES
-http://185.231.160.35/472/1/index.m3u8 
+http://185.231.160.35/472/1/index.m3u8
 #EXTINF:-1,TDF
 #EXTGRP:SERIES & MOVIES
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
@@ -719,13 +719,13 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,A1 Film
 #EXTGRP:SERIES & MOVIES
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
-#EXTINF:-1,RAI PREMIUM 
+#EXTINF:-1,RAI PREMIUM
 #EXTGRP:SERIES & MOVIES
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
 #EXTINF:-1,RAI MOVIE HD
 #EXTGRP:SERIES & MOVIES
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
-#EXTINF:-1,TOP CINEMA 
+#EXTINF:-1,TOP CINEMA
 #EXTGRP:SERIES & MOVIES
 http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/1611.ts
 #EXTINF:-1, Херсон+
@@ -736,7 +736,7 @@ http://193.107.128.8:8552/play/a016
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1,CANAL+
 #EXTGRP:SERIES & MOVIES
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8 
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,TATA SKY
 #EXTGRP:SERIES & MOVIES
 http://130.185.144.63:8000/live/indian/indian/191.ts
@@ -749,7 +749,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1,SPACE
 #EXTGRP:SERIES & MOVIES
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1,CAMPUS CLASSICA 
+#EXTINF:-1,CAMPUS CLASSICA
 #EXTGRP:MUSICA
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
 #EXTINF:-1,CAMPUS CLASSICA 1
@@ -767,16 +767,16 @@ http://hearme.fm:8106/stream
 #EXTINF:-1,CAMPUS CLASSICA 5
 #EXTGRP:MUSICA
 http://hearme.fm:8021/stream
-#EXTINF:-1,SILENCE 
+#EXTINF:-1,SILENCE
 #EXTGRP:MUSICA
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
 #EXTINF:-1,Bridge Classic
 #EXTGRP:MUSICA
 http://37.9.150.230:4022/udp/232.0.1.27:1234
-#EXTINF:-1,VH1 
+#EXTINF:-1,VH1
 #EXTGRP:MUSICA
 http://api.peers.tv:80/timeshift/vh1/16/playlist.m3u8
-#EXTINF:-1,VH1 CLASSIC 
+#EXTINF:-1,VH1 CLASSIC
 #EXTGRP:MUSICA
 http://api.peers.tv:80/timeshift/vh1/16/playlist.m3u8
 #EXTINF:-1,SUPER RETRO
@@ -797,7 +797,7 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklis
 #EXTINF:-1,Heavy Metal TV
 #EXTGRP:MUSICA
 http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
-#EXTINF:-1,ROCK 
+#EXTINF:-1,ROCK
 #EXTGRP:MUSICA
 mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:-1,Metal
@@ -905,7 +905,7 @@ http://acaooyalahd2-lh.akamaihd.net:80/i/TBN08_delivery@186246/index_1728_av-p.m
 #EXTINF:-1,Dance/EDM
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1,PORTAL FOX MIX 
+#EXTINF:-1,PORTAL FOX MIX
 #EXTGRP:MUSICA
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1,MTV CHINA
@@ -913,7 +913,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.
 http://203.170.145.201:9981/stream/channelid/1646557078
 #EXTINF:-1,MTV LIVE
 #EXTGRP:MUSICA
-http://176.107.177.139:25500/MTVHits 
+http://176.107.177.139:25500/MTVHits
 #EXTINF:-1,R&B Soul
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
@@ -929,241 +929,241 @@ http://tv.105.net:1935/live/virgin1/index.m3u8
 #EXTINF:-1,JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:-1, WINSPORTS 
+#EXTINF:-1, WINSPORTS
 #EXTGRP:DEPORTES SPORTS
 http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
 #EXTINF:-1,LA LIGA HD
 #EXTGRP:DEPORTES SPORTS
 http://92.60.237.19:8880/play/LaLiga/index.m3u8
-#EXTINF:-1,DEPORTE 
+#EXTINF:-1,DEPORTE
 #EXTGRP:DEPORTES SPORTS
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
-#EXTINF:-1,SPORT: Fox Sports  2 
+#EXTINF:-1,SPORT: Fox Sports  2
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/7738.m3u8
-#EXTINF:-1,Fox Sports 2 
+#EXTINF:-1,Fox Sports 2
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5539.m3u8
-#EXTINF:-1,Fox Sports 3 
+#EXTINF:-1,Fox Sports 3
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5540.m3u8
-#EXTINF:-1,Fox Sports 4 
+#EXTINF:-1,Fox Sports 4
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5541.m3u8
-#EXTINF:-1,Fox Sports 5 
+#EXTINF:-1,Fox Sports 5
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5542.m3u8
-#EXTINF:-1,Fox Sports 3 
+#EXTINF:-1,Fox Sports 3
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5546.m3u8
 #EXTINF:-1,Sky Sports Mix
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12779.m3u8
-#EXTINF:-1,Sky Sports News 
+#EXTINF:-1,Sky Sports News
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/586.m3u8
-#EXTINF:-1,Sky Sports News 
+#EXTINF:-1,Sky Sports News
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12147.m3u8
-#EXTINF:-1,Sky Sports News 
+#EXTINF:-1,Sky Sports News
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/44101.m3u8
-#EXTINF:-1,Sky Sports News 
+#EXTINF:-1,Sky Sports News
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/44102.m3u8
-#EXTINF:-1,Sky Sports Main Events 
+#EXTINF:-1,Sky Sports Main Events
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/579.m3u8
-#EXTINF:-1,Sky Sports Cricket 
+#EXTINF:-1,Sky Sports Cricket
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/584.m3u8
-#EXTINF:-1,Sky Sports Cricket 
+#EXTINF:-1,Sky Sports Cricket
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/578.m3u8
-#EXTINF:-1,Sky Sports Action 
+#EXTINF:-1,Sky Sports Action
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/583.m3u8
-#EXTINF:-1,Sky Sports Action 
+#EXTINF:-1,Sky Sports Action
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/577.m3u8
-#EXTINF:-1,Sky Sports Golf 
+#EXTINF:-1,Sky Sports Golf
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/582.m3u8
-#EXTINF:-1,Sky Sports Golf 
+#EXTINF:-1,Sky Sports Golf
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/576.m3u8
-#EXTINF:-1,Sky Sports Premier League 
+#EXTINF:-1,Sky Sports Premier League
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/581.m3u8
-#EXTINF:-1,Sky Sports Arena 
+#EXTINF:-1,Sky Sports Arena
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32740.m3u8
-#EXTINF:-1,Sky Sports Arena 
+#EXTINF:-1,Sky Sports Arena
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32739.m3u8
-#EXTINF:-1,Sky Sports Arena 
+#EXTINF:-1,Sky Sports Arena
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32738.m3u8
-#EXTINF:-1,Sky Sports Football 
+#EXTINF:-1,Sky Sports Football
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32743.m3u8
-#EXTINF:-1,Sky Sports Football 
+#EXTINF:-1,Sky Sports Football
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32742.m3u8
-#EXTINF:-1,Sky Sports Football 
+#EXTINF:-1,Sky Sports Football
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32741.m3u8
-#EXTINF:-1,Sky Sports F1 
+#EXTINF:-1,Sky Sports F1
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/580.m3u8
-#EXTINF:-1,Sky Sports F1 
+#EXTINF:-1,Sky Sports F1
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/574.m3u8
-#EXTINF:-1,BT Sports 1 
+#EXTINF:-1,BT Sports 1
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11375.m3u8
-#EXTINF:-1,BT Sports 1 
+#EXTINF:-1,BT Sports 1
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11787.m3u8
-#EXTINF:-1,BT Sports 2 
+#EXTINF:-1,BT Sports 2
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11374.m3u8
-#EXTINF:-1,BT Sports 3 
+#EXTINF:-1,BT Sports 3
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11373.m3u8
-#EXTINF:-1,BT Sports 3 
+#EXTINF:-1,BT Sports 3
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11785.m3u8
-#EXTINF:-1,BT Sports ESPN 
+#EXTINF:-1,BT Sports ESPN
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12123.m3u8
-#EXTINF:-1,BT Sports ESPN 
+#EXTINF:-1,BT Sports ESPN
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11784.m3u8
-#EXTINF:-1,BT Sport Extra 3 
+#EXTINF:-1,BT Sport Extra 3
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12414.m3u8
-#EXTINF:-1,BT Sport Extra 4 
+#EXTINF:-1,BT Sport Extra 4
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12413.m3u8
-#EXTINF:-1,BT Sport Extra 5 
+#EXTINF:-1,BT Sport Extra 5
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12412.m3u8
-#EXTINF:-1,British Eurosport 
+#EXTINF:-1,British Eurosport
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11002.m3u8
-#EXTINF:-1,British Eurosport 2 
+#EXTINF:-1,British Eurosport 2
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11003.m3u8
-#EXTINF:-1,EIR Sports 2 
+#EXTINF:-1,EIR Sports 2
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11536.m3u8
-#EXTINF:-1,Premier Sports 
+#EXTINF:-1,Premier Sports
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/568.m3u8
-#EXTINF:-1,Boxnation 
+#EXTINF:-1,Boxnation
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/17752.m3u8
-#EXTINF:-1,At The Races 
+#EXTINF:-1,At The Races
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/150.m3u8
-#EXTINF:-1,MUTV 
+#EXTINF:-1,MUTV
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12398.m3u8
-#EXTINF:-1,beIN Sports 1 
+#EXTINF:-1,beIN Sports 1
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1035.m3u8
-#EXTINF:-1,beIN Sports 2 
+#EXTINF:-1,beIN Sports 2
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1036.m3u8
-#EXTINF:-1,beIN Sports 3 
+#EXTINF:-1,beIN Sports 3
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1037.m3u8
-#EXTINF:-1,beIN Sports 4 
+#EXTINF:-1,beIN Sports 4
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1038.m3u8
 #EXTINF:-1,beIN Sports 5
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1039.m3u8
-#EXTINF:-1,beIN Sports 6 
+#EXTINF:-1,beIN Sports 6
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1040.m3u8
-#EXTINF:-1,beIN Sports 7 
+#EXTINF:-1,beIN Sports 7
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1041.m3u8
-#EXTINF:-1,beIN Sports 8 
+#EXTINF:-1,beIN Sports 8
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1042.m3u8
-#EXTINF:-1,beIN Sports 9 
+#EXTINF:-1,beIN Sports 9
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1043.m3u8
-#EXTINF:-1,beIN Sports 10 
+#EXTINF:-1,beIN Sports 10
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1044.m3u8
-#EXTINF:-1,beIN Sports 11 
+#EXTINF:-1,beIN Sports 11
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1045.m3u8
-#EXTINF:-1,beIN Sports 12 
+#EXTINF:-1,beIN Sports 12
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1046.m3u8
-#EXTINF:-1,beIN MAX 5 
+#EXTINF:-1,beIN MAX 5
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29543.m3u8
-#EXTINF:-1,beIN MAX 6 
+#EXTINF:-1,beIN MAX 6
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29542.m3u8
-#EXTINF:-1,beIN MAX 7 
+#EXTINF:-1,beIN MAX 7
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29541.m3u8
-#EXTINF:-1,beIN MAX 8 
+#EXTINF:-1,beIN MAX 8
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29540.m3u8
-#EXTINF:-1,beIN MAX 9 
+#EXTINF:-1,beIN MAX 9
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29539.m3u8
-#EXTINF:-1,beIN MAX 10 
+#EXTINF:-1,beIN MAX 10
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29538.m3u8
-#EXTINF:-1,Sport.TV2 
+#EXTINF:-1,Sport.TV2
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12368.m3u8
-#EXTINF:-1,Sport.TV3 
+#EXTINF:-1,Sport.TV3
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12367.m3u8
-#EXTINF:-1,Sport.TV4 
+#EXTINF:-1,Sport.TV4
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12366.m3u8
-#EXTINF:-1,Sport.TV5 
+#EXTINF:-1,Sport.TV5
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12365.m3u8
-#EXTINF:-1,SporTV 1 
+#EXTINF:-1,SporTV 1
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12025.m3u8
-#EXTINF:-1,Sport Klub 2 
+#EXTINF:-1,Sport Klub 2
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11080.m3u8
-#EXTINF:-1,Sport Klub 3 
+#EXTINF:-1,Sport Klub 3
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11079.m3u8
-#EXTINF:-1,Sport Klub 4 
+#EXTINF:-1,Sport Klub 4
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11078.m3u8
-#EXTINF:-1,Sport Klub 5 
+#EXTINF:-1,Sport Klub 5
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
-#EXTINF:-1,Futbol 1 
+#EXTINF:-1,Futbol 1
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
-#EXTINF:-1,Futbol 2 
+#EXTINF:-1,Futbol 2
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20949.m3u8
-#EXTINF:-1,Eleven Sports 
+#EXTINF:-1,Eleven Sports
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12020.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal 
+#EXTINF:-1,Ziggo Sport Voetbal
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/13216.m3u8
-#EXTINF:-1,Матч! Футбол 1 
+#EXTINF:-1,Матч! Футбол 1
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//29/3/index.m3u8
 #EXTINF:-1,Матч! Футбол 2
@@ -1181,13 +1181,13 @@ http://217.107.196.88:9994/play/Матч_ТВ_Липецк
 #EXTINF:-1,Спорт 1 Ukraina
 #EXTGRP:DEPORTES SPORTS
 http://178.172.245.155:8121/sport1
-#EXTINF:-1,Футбол 
+#EXTINF:-1,Футбол
 #EXTGRP:DEPORTES SPORTS
-http://195.88.52.102:8000/play/a05u 
-#EXTINF:-1,Футбол 
+http://195.88.52.102:8000/play/a05u
+#EXTINF:-1,Футбол
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35/1033/3/index.m3u8
-#EXTINF:-1,Футбол 
+#EXTINF:-1,Футбол
 #EXTGRP:DEPORTES SPORTS
 http://91.232.157.222:1235/udp/239.0.0.249:4000
 #EXTINF:-1,Футбол 2
@@ -1196,13 +1196,13 @@ http://62.16.23.8:34040/udp/239.2.66.77:1234
 #EXTINF:-1,Футбол 2
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35/1034/3/index.m3u8
-#EXTINF:-1,COMBATE 
+#EXTINF:-1,COMBATE
 #EXTGRP:DEPORTES SPORTS
 http://158.58.172.5:8081/looktvs/combate9/playlist.m3u8
 #EXTINF:-1,DEPORTESXPORE
 #EXTGRP:DEPORTES SPORTS
 http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
-#EXTINF:-1,MOTO GP HD 
+#EXTINF:-1,MOTO GP HD
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//652/1/index.m3u8
 #EXTINF:-1,FORMULA 1
@@ -1210,7 +1210,7 @@ http://185.231.160.35:5000//652/1/index.m3u8
 http://185.231.160.35:5000//651/1/index.m3u8
 #EXTINF:-1,TVP SPORT HD
 #EXTGRP:DEPORTES SPORTS
-http://185.231.160.35:5000//588/1/index.m3u8 
+http://185.231.160.35:5000//588/1/index.m3u8
 #EXTINF:-1,SKY SPORT 1 HD LIVE
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//786/1/index.m3u8
@@ -1220,19 +1220,19 @@ http://185.231.160.35:5000//773/2/index.m3u8
 #EXTINF:-1,WWE HD
 #EXTGRP:DEPORTES SPORTS
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1134.ts
-#EXTINF:-1,EUROSPORT 1 
+#EXTINF:-1,EUROSPORT 1
 #EXTGRP:DEPORTES SPORTS
-http://81.228.174.166:8003/eurosport1 
-#EXTINF:-1,EUROSPORT 1 
+http://81.228.174.166:8003/eurosport1
+#EXTINF:-1,EUROSPORT 1
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35/77/1/index.m3u8
-#EXTINF:-1,EUROSPORT 1 
+#EXTINF:-1,EUROSPORT 1
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35/159/1/index.m3u8
-#EXTINF:-1,SPORT 1 
+#EXTINF:-1,SPORT 1
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35/25/1/index.m3u8
-#EXTINF:-1,EUROSPORT 2 HD 
+#EXTINF:-1,EUROSPORT 2 HD
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.35:5000//77/1/index.m3u8
 #EXTINF:-1,ESPN BRASIL
@@ -1301,16 +1301,16 @@ http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)
 #EXTINF:-1,REAL MADRID
 #EXTGRP:DEPORTES SPORTS
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1,CHELSEA 
+#EXTINF:-1,CHELSEA
 #EXTGRP:DEPORTES SPORTS
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:-1,Liverpool 
+#EXTINF:-1,Liverpool
 #EXTGRP:DEPORTES SPORTS
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12120.m3u8
-#EXTINF:-1,CHELSEA 
+#EXTINF:-1,CHELSEA
 #EXTGRP:DEPORTES SPORTS
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-#EXTINF:-1,SEVILLA FC 
+#EXTINF:-1,SEVILLA FC
 #EXTGRP:DEPORTES SPORTS
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1,REDBULL
@@ -1319,34 +1319,34 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1,PX SPORTS
 #EXTGRP:DEPORTES SPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
-#EXTINF:0,digiSport1 
+#EXTINF:0,digiSport1
 #EXTGRP:DEPORTES SPORTS
-http://91.224.178.12:7001/Apple/digiSport1/.m3u8 
+http://91.224.178.12:7001/Apple/digiSport1/.m3u8
 #EXTINF:0,digiSport2
-#EXTGRP:DEPORTES SPORTS 
-http://91.224.178.12:7001/Apple/digiSport2/.m3u8 
-#EXTINF:0,digiSport3 
 #EXTGRP:DEPORTES SPORTS
-http://91.224.178.12:7001/Apple/digiSport3/.m3u8 
-#EXTINF:0,digifilm 
+http://91.224.178.12:7001/Apple/digiSport2/.m3u8
+#EXTINF:0,digiSport3
 #EXTGRP:DEPORTES SPORTS
-http://91.224.178.12:7001/Apple/digifilm/.m3u8 
-#EXTINF:0,digiworld 
+http://91.224.178.12:7001/Apple/digiSport3/.m3u8
+#EXTINF:0,digifilm
 #EXTGRP:DEPORTES SPORTS
-http://91.224.178.12:7001/Apple/digiworld/.m3u8 
-#EXTINF:0,eurosport2 
+http://91.224.178.12:7001/Apple/digifilm/.m3u8
+#EXTINF:0,digiworld
+#EXTGRP:DEPORTES SPORTS
+http://91.224.178.12:7001/Apple/digiworld/.m3u8
+#EXTINF:0,eurosport2
 #EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:5003/Apple/eurosport2/.m3u8  
-#EXTINF:0,sportm 
+#EXTINF:0,sportm
 #EXTGRP:DEPORTES SPORTS
-http://91.224.178.12:7006/Apple/sportm/.m3u8 
-#EXTINF:0,vsport 
+http://91.224.178.12:7006/Apple/sportm/.m3u8
+#EXTINF:0,vsport
 #EXTGRP:DEPORTES SPORTS
-http://91.224.178.12:8001/Apple/vsportruhd/.m3u8 
-#EXTINF:0,eurosport2 
+http://91.224.178.12:8001/Apple/vsportruhd/.m3u8
+#EXTINF:0,eurosport2
 #EXTGRP:DEPORTES SPORTS
-http://91.224.178.12:8001/Apple/eurosport2ruhd/.m3u8 
-#EXTINF:0,eurosport 
+http://91.224.178.12:8001/Apple/eurosport2ruhd/.m3u8
+#EXTINF:0,eurosport
 #EXTGRP:DEPORTES SPORTS
 http://91.224.178.12:8001/Apple/eurosportruhd/.m3u8
 #EXTINF:-1,SkySport 1
@@ -1425,7 +1425,7 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%20Holiday%2
 #EXTINF:-1, YOUR NAME DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 https://1fiagek.oloadcdn.net/dl/l/CYWIzb0F1nafkBd2/hyXUU6ZdAvM/Kimi.no.na.wa.2016.1080p.1080p-dual-lat.mp4
-#EXTINF:-1, La Era De Hielo I 
+#EXTINF:-1, La Era De Hielo I
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/MkZTcH
 #EXTINF:-1, DUMBO DUAL AUDIO ESPAÑOL & INGLES
@@ -1446,7 +1446,7 @@ https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
 #EXTINF:-1,GOL DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Goal%20%282005%29/Goal%20%282005%29.mkv
-#EXTINF:-1, La Era De Hielo III : El Origen De Los Dinosaurios 
+#EXTINF:-1, La Era De Hielo III : El Origen De Los Dinosaurios
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/3heZnV
 #EXTINF:-1, La Era De Hielo V : Choque De Mundos
@@ -1515,696 +1515,696 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Angry%20Birds%20Movie%2
 #EXTINF:-1 tvg-logo="https://goo.gl/82Vrd6", Pica Pau  
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/Pica-Pau/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/YKPpy1", Dragon Ball Clássico 
+#EXTINF:-1 tvg-logo="https://goo.gl/YKPpy1", Dragon Ball Clássico
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/DragonBall/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/BEfGKU", Dragon Ball Z 
+#EXTINF:-1 tvg-logo="https://goo.gl/BEfGKU", Dragon Ball Z
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/DragonBall-Z/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/rcXCWY", Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/rcXCWY", Dragon Ball GT
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/dragon-ball-gt/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/34yKYk", Dragon Ball Kai 
+#EXTINF:-1 tvg-logo="https://goo.gl/34yKYk", Dragon Ball Kai
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/dragon-ball-kai/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/isNQ6T", Naruto 
+#EXTINF:-1 tvg-logo="https://goo.gl/isNQ6T", Naruto
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/naruto/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/NsMimL", Os Simpsons 
+#EXTINF:-1 tvg-logo="https://goo.gl/NsMimL", Os Simpsons
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/ossimpsons/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/cWJ3Mp", Corrida Maluca 
+#EXTINF:-1 tvg-logo="https://goo.gl/cWJ3Mp", Corrida Maluca
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/Corrida-Maluca/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/tGMCQc", Bob Esponja 
+#EXTINF:-1 tvg-logo="https://goo.gl/tGMCQc", Bob Esponja
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/bobesponja/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/nYf3CV",Scooby doo 
+#EXTINF:-1 tvg-logo="https://goo.gl/nYf3CV",Scooby doo
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/scooby-doo/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/1FDhv1",Liga da Justica 
+#EXTINF:-1 tvg-logo="https://goo.gl/1FDhv1",Liga da Justica
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/liga-da-justica/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7Pgbu5", Turma do Pateta 
+#EXTINF:-1 tvg-logo="https://goo.gl/7Pgbu5", Turma do Pateta
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/turma-do-pateta/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7HLtMb", Os Vingadores 
+#EXTINF:-1 tvg-logo="https://goo.gl/7HLtMb", Os Vingadores
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/vingadores/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/5bhMPx", Pernalonga 
+#EXTINF:-1 tvg-logo="https://goo.gl/5bhMPx", Pernalonga
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/Pernalonga/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/zVQXkB", Fundêncio 
+#EXTINF:-1 tvg-logo="https://goo.gl/zVQXkB", Fundêncio
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/fudencio/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/U7S1L5", A Pantera cor de rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/U7S1L5", A Pantera cor de rosa
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/pantera-cor-de-rosa/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/X3aYa9", Wolverine X Men 
+#EXTINF:-1 tvg-logo="https://goo.gl/X3aYa9", Wolverine X Men
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/wolverine-X-Men/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/AuGZ7x", Super Choque 
+#EXTINF:-1 tvg-logo="https://goo.gl/AuGZ7x", Super Choque
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/super-choque/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/NsudDh", Espetacular Homem Aranha 
+#EXTINF:-1 tvg-logo="https://goo.gl/NsudDh", Espetacular Homem Aranha
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/espetacular-homem-aranha/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/EL412a", Batman: A Série 
+#EXTINF:-1 tvg-logo="https://goo.gl/EL412a", Batman: A Série
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/batmam-a-serie/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/xqMqQ7", Três Espiãs Demais 
+#EXTINF:-1 tvg-logo="https://goo.gl/xqMqQ7", Três Espiãs Demais
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/tres-epiaes-demais/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/RvbggH", Castelo Ra tim bum 
+#EXTINF:-1 tvg-logo="https://goo.gl/RvbggH", Castelo Ra tim bum
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/castelo-ra-tim-bum/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/RwB5YD", O Máskara 
+#EXTINF:-1 tvg-logo="https://goo.gl/RwB5YD", O Máskara
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/o-mascara/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/r1Np7X", Jiraya 
+#EXTINF:-1 tvg-logo="https://goo.gl/r1Np7X", Jiraya
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/jiraya/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/URGDmp", Os Flinstones 
+#EXTINF:-1 tvg-logo="https://goo.gl/URGDmp", Os Flinstones
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/flinstones/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/JdTa55", Jaspion 
+#EXTINF:-1 tvg-logo="https://goo.gl/JdTa55", Jaspion
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/jaspion/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/yYk9Jb", Jovens Titas 
+#EXTINF:-1 tvg-logo="https://goo.gl/yYk9Jb", Jovens Titas
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/os-jovens-titas/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/chGyuR", King Kong 
+#EXTINF:-1 tvg-logo="https://goo.gl/chGyuR", King Kong
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/king-kong/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/m4gWDT", Riquinho 
+#EXTINF:-1 tvg-logo="https://goo.gl/m4gWDT", Riquinho
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/riquinho/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VgCg7K", Snoopy & Charlie Brown 
+#EXTINF:-1 tvg-logo="https://goo.gl/VgCg7K", Snoopy & Charlie Brown
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Y23CU4", Turma da Mônica 
+#EXTINF:-1 tvg-logo="https://goo.gl/Y23CU4", Turma da Mônica
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/turma-da-monica/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/yDT7LP", YU-GI-OH 
+#EXTINF:-1 tvg-logo="https://goo.gl/yDT7LP", YU-GI-OH
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/yu-gi-oh/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/mN5HWv", Apenas um Show 
+#EXTINF:-1 tvg-logo="https://goo.gl/mN5HWv", Apenas um Show
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/apenas-um-show/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/aGUaT9", Os Padrinhos Mágicos 
+#EXTINF:-1 tvg-logo="https://goo.gl/aGUaT9", Os Padrinhos Mágicos
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/padrinhos-magicos/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/zaZbtd", Justica Jovem 
+#EXTINF:-1 tvg-logo="https://goo.gl/zaZbtd", Justica Jovem
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/justica-jovem/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wCe8ec", Os Jetsons 
+#EXTINF:-1 tvg-logo="https://goo.gl/wCe8ec", Os Jetsons
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/Os-Jetsons/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/QBeXwU",  Manda Chuva 
+#EXTINF:-1 tvg-logo="https://goo.gl/QBeXwU",  Manda Chuva
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/Manda-Chuva/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/mzD1ar", Uma Família da Pesada 
+#EXTINF:-1 tvg-logo="https://goo.gl/mzD1ar", Uma Família da Pesada
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/uma-familia-da-pesada/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/aPWw7V", South Park 
+#EXTINF:-1 tvg-logo="https://goo.gl/aPWw7V", South Park
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/south-park/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/g6Z1fn", Comando Estelar Flashman 
+#EXTINF:-1 tvg-logo="https://goo.gl/g6Z1fn", Comando Estelar Flashman
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/flashman/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/r6h75X", Familia Dinossauro 
+#EXTINF:-1 tvg-logo="https://goo.gl/r6h75X", Familia Dinossauro
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/familia-dinossauro/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/MiAX8Z", Winspector 
+#EXTINF:-1 tvg-logo="https://goo.gl/MiAX8Z", Winspector
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/winspector/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/EXrGfK", Ben 10: Omniverse 
+#EXTINF:-1 tvg-logo="https://goo.gl/EXrGfK", Ben 10: Omniverse
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/ben-10-universo/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/FY9zqk", Thundercasts Clássico 
+#EXTINF:-1 tvg-logo="https://goo.gl/FY9zqk", Thundercasts Clássico
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/thundercasts-classico/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/hSk8ar", Thundercats 
+#EXTINF:-1 tvg-logo="https://goo.gl/hSk8ar", Thundercats
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/Thundercats-2011/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/pEYjxV", Liga da Justica em Ação
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/liga-justica-acao/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/82mRZj", Megaman NT Warrion 
+#EXTINF:-1 tvg-logo="https://goo.gl/82mRZj", Megaman NT Warrion
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/mega-men-nt/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/onH6rc", Aventuras de Billy e Mandy 
+#EXTINF:-1 tvg-logo="https://goo.gl/onH6rc", Aventuras de Billy e Mandy
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/aventuras-de-billy-e-mandy/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Y6HxbH", Samurai Jack 
+#EXTINF:-1 tvg-logo="https://goo.gl/Y6HxbH", Samurai Jack
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/samurai-jack/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/hJoNsj", As Meninas Superpoderosas 
+#EXTINF:-1 tvg-logo="https://goo.gl/hJoNsj", As Meninas Superpoderosas
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/as-meninas-superpoderosas/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7Tbmk5", Hey Arnold! 
+#EXTINF:-1 tvg-logo="https://goo.gl/7Tbmk5", Hey Arnold!
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/hey-arnold/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/i37iap", A Casa do Mickey Mouse 
+#EXTINF:-1 tvg-logo="https://goo.gl/i37iap", A Casa do Mickey Mouse
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/casa-do-mikey/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/R2qCKx", Caverna do Dragão 
+#EXTINF:-1 tvg-logo="https://goo.gl/R2qCKx", Caverna do Dragão
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/caverna-do-dragao/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/A3MPua", pokémon indigo league 
+#EXTINF:-1 tvg-logo="https://goo.gl/A3MPua", pokémon indigo league
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://69.30.196.250/pokemon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/A%20Mite%20of%20Trouble%201961.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/A%20Poil%20for%20Olive%20Oyl%201961.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Abominable%20Snowman%201961.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Autographically%20Yours%201961.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Amusement%20Park%201961.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Boardering%20on%20Trouble%201961.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/The%20Bathing%20Beasts%201961.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Ace%20of%20Space%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/After%20the%20Ball%20Went%20Over%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Aladdin%27s%20Lamp%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Astro-Nut%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Aztec%20Wreck%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Baby%20Phase%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Ballet%20de%20Popeyel%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Barbecue%20for%20Two%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Battery%20Upl%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Beaver%20or%20Not%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Bell%20Hop%20Popeye%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Bird%20Watcher%20Popeye%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Blinkin%20Beacon%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/Bottom%20Gun%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/The%20Baby%20Contest%201960.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/2qfihaxz.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/2kgwf6yt.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/22dm49s6.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/4rfpmaal.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/7c66lwdl.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/068l7fqj.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/95k0l9hg.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/avdzsk00.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/06ergrkl.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/qip3qvaw.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/rzf4u3h6.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/qgvw1z59.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/r41qnm4g.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/9fkhmbqk.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/6svph81x.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/sih6xg0n.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/py8ia5gd.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/felxpf4s.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/kmjybdib.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/3pfoq2xa.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/6t3oey5j.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/1x87jt92.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/k3n52njk.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/t433u493.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/pwn1xqnn.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/uff9ucgx.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/pdha630x.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/l67drtdu.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/2apomxs2.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/4fi1xbbc.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/8h157a4c.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/wbajxswr.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/6a17gh58.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/34sd6deb.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/k05mhgvt.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/jqw9ye4b.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/dde633br.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/jfrqaojt.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/u4j02wg1.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/guhkzzic.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/5lz73rvw.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/5x2a20yr.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/yup516or.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/w39wq6fm.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/xtopwu0x.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/xoqgzsji.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/7o246wrs.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/y6gfp05z.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/u7y3sipw.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/utjb75yr.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/j10mkbls.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/8er05kcu.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/dz8e1idu.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/qc11x3qr.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/3rpeio1u.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/p8t3e1rm.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/o9d9x9ff.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/aygu04al.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/y7ybgk2m.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/dw4nojub.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/j6ntukak.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/ut7bulwg.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/4ab6qza8.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/facvjkpm.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/2qfihaxz.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/2kgwf6yt.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/22dm49s6.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/4rfpmaal.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/7c66lwdl.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/068l7fqj.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/95k0l9hg.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/avdzsk00.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/06ergrkl.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/qip3qvaw.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/rzf4u3h6.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/qgvw1z59.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/r41qnm4g.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/9fkhmbqk.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/6svph81x.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/sih6xg0n.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/py8ia5gd.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/felxpf4s.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/kmjybdib.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/3pfoq2xa.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/6t3oey5j.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/1x87jt92.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/k3n52njk.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/t433u493.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/pwn1xqnn.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/uff9ucgx.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/pdha630x.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/l67drtdu.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/2apomxs2.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/4fi1xbbc.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/8h157a4c.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/wbajxswr.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/6a17gh58.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/34sd6deb.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/k05mhgvt.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/jqw9ye4b.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/dde633br.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/jfrqaojt.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/u4j02wg1.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/guhkzzic.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/5lz73rvw.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/5x2a20yr.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/yup516or.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/w39wq6fm.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/xtopwu0x.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://3.sendvid.com/xoqgzsji.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/7o246wrs.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/y6gfp05z.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/u7y3sipw.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/utjb75yr.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/j10mkbls.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/8er05kcu.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://4.sendvid.com/dz8e1idu.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/qc11x3qr.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/3rpeio1u.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/p8t3e1rm.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/o9d9x9ff.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/aygu04al.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/y7ybgk2m.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/dw4nojub.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/j6ntukak.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/ut7bulwg.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://1.sendvid.com/4ab6qza8.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT 
+#EXTINF:-1 tvg-logo="https://goo.gl/LWLw9e",Dragon Ball GT
 #EXTGRP:SERIES NIÑOS KIDS
 http://2.sendvid.com/facvjkpm.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/VWgDAv
-
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/18f1bu
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/EyKtp5
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/qomnQm
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/Adjqqp
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/dvluvK
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/FKh8I7
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/16Lo1K
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/W5pWSx
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/SaUXhx
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/JeiHKi
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/6tHjWQ
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/Lo2vGa
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/NUhbQd
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/CvZBH4
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/S81B1y
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/AvjlCA
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/RQ2PGI
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/yhGEI9
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/Trbp8F
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/zvi09f
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/yVHq9b
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/EwpZwr
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/Si0iEe
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/uH4ULv
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/Hq8scG
-#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch 
+#EXTINF:-1 tvg-logo="https://goo.gl/VWgDAv,Touch
 #EXTGRP:SERIES
 https://goo.gl/tGlGVP
 #EXTINF:-1,X-WEN 1 DUAL AUDIO ESPAÑOL & INGLES
@@ -2324,7 +2324,7 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%2
 #EXTINF:-1,INDIANA IIII DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%20%281984%29Dual/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom%20%281984%29%201080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1,EL MARIACHI 
+#EXTINF:-1,EL MARIACHI
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20Mariachi%20%281992%29Audio%20Latino/El%20Mariachi%20%281992%29%20720p%20Bdrip%20Audio%20Latino.mkv
 #EXTINF:-1,DRACULA DUAL AUDIO ESPAÑOL & INGLES
@@ -2384,109 +2384,106 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28ZIMBOLOS%29/%5bRec%5d%202%20%28200
 #EXTINF:-1,[Rec] III
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28ZIMBOLOS%29/%5bRec%5d%203%20Genesis%20%282012%29%20Espa%c3%b1ol/%5bRec%5d%203%20Genesis%20%282012%29%20Espa%c3%b1ol%20%281%29.mkv
-#EXTINF:-1, La Cabaña 
+#EXTINF:-1, La Cabaña
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/LCabaSRREGIO/LCabaSRREGIO.mkv
-#EXTINF:-1, Rapido y Furioso 8 
+#EXTINF:-1, Rapido y Furioso 8
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/RapYFurOchSRREGIO/RapYFurOchSRREGIO.mkv
-#EXTINF:-1, Proof Of The Devil 2005 
+#EXTINF:-1, Proof Of The Devil 2005
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/ProfOfThDeSRREGIO/ProfOfThDeSRREGIO.mkv
-#EXTINF:-1, Guardianes 
+#EXTINF:-1, Guardianes
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/LoGuarSRREGIO/LoGuarSRREGIO.mkv
-#EXTINF:-1, Familia Monster 
+#EXTINF:-1, Familia Monster
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/HaFaSRREGIO/HaFaSRREGIO.mkv
-#EXTINF:-1, Trolls Holiday 
+#EXTINF:-1, Trolls Holiday
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/TroHoliSRREGIO/TroHoliSRREGIO.mkv
-#EXTINF:-1, Amor A Primera Vista 
+#EXTINF:-1, Amor A Primera Vista
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/AaPVSRREGIO/AaPVSRREGIO.mkv
-#EXTINF:-1, Dos Bribones Tras La Esmeralda 
+#EXTINF:-1, Dos Bribones Tras La Esmeralda
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/tr4s.3l.c0r4z0n..SRREGIO/tr4s.3l.c0r4z0n..SRREGIO.mkv
-#EXTINF:-1, Campeon de Campeones 
+#EXTINF:-1, Campeon de Campeones
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/Cam.d.camp.1989SRREGIO/Cam.d.camp.1989SRREGIO.mkv
-#EXTINF:-1, Fragiles 
+#EXTINF:-1, Fragiles
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
-#EXTINF:-1, Es Por Tu Bien 
+#EXTINF:-1, Es Por Tu Bien
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/Esbien.SRREGIO/Esbien.SRREGIO.mkv
-#EXTINF:-1, Atomica 
+#EXTINF:-1, Atomica
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
-#EXTINF:-1, Zombiology 
+#EXTINF:-1, Zombiology
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
-#EXTINF:-1, Pokemon YO TE ELIGO Cam 2017 
+#EXTINF:-1, Pokemon YO TE ELIGO Cam 2017
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/PoLaPeSRREGIO/PoLaPeSRREGIO.mkv
-#EXTINF:-1, La Noche de la Bruja 
+#EXTINF:-1, La Noche de la Bruja
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
-#EXTINF:-1, Pandemic 
+#EXTINF:-1, Pandemic
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/p4n.SRREGIO/p4n.SRREGIO.mkv
-#EXTINF:-1, Phineas y Ferb Mision Marvel 
+#EXTINF:-1, Phineas y Ferb Mision Marvel
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/Phi.Fe.Mi.MarSRREGIO/Phi.Fe.Mi.MarSRREGIO.mkv
-#EXTINF:-1, VALERIAM y la ciudad de los mil planetas 
+#EXTINF:-1, VALERIAM y la ciudad de los mil planetas
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
-#EXTINF:-1, El Rostro De Un Angel 
+#EXTINF:-1, El Rostro De Un Angel
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
-#EXTINF:-1, 1992 
+#EXTINF:-1, 1992
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/1992.SRREGIO/1992.SRREGIO.mkv
-#EXTINF:-1, La Morgue 
+#EXTINF:-1, La Morgue
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/85312467985216SRREGIO/85312467985216.mkv
 #EXTINF:-1, Marjorie Prime
 #EXTGRP:PELICULAS MOVIES
 https://ia801507.us.archive.org/22/items/major_201710/major.mp4
-#EXTINF:-1, Amytiville El Despertar 
+#EXTINF:-1, Amytiville El Despertar
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
-#EXTINF:-1, L.O.R.D The Legend Of Ravaging Dynasties 
+#EXTINF:-1, L.O.R.D The Legend Of Ravaging Dynasties
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
-#EXTINF:-1, Aftermath 
+#EXTINF:-1, Aftermath
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/407300470.SRREGIO/407300470.SRREGIO.mkv
-#EXTINF:-1, Duelo de Titanes 
+#EXTINF:-1, Duelo de Titanes
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
-#EXTINF:-1, Batman vs Dos Caras 
+#EXTINF:-1, Batman vs Dos Caras
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/baVStwoFa3.SRREGIO/baVStwoFa3.SRREGIO.mkv
-#EXTINF:-1, Shopkins World Vacation 
+#EXTINF:-1, Shopkins World Vacation
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/SHOPKINSSRREGIODOCUMENTAL/SHOPKINS.WORLD.VACATION.mkv
-#EXTINF:-1, Cult Of Chucky 
+#EXTINF:-1, Cult Of Chucky
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mkv
-#EXTINF:-1,EL MENSAJERO DE LA OSCURIDAD 
+#EXTINF:-1,EL MENSAJERO DE LA OSCURIDAD
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
-#EXTINF:-1,30 DIAS DE NOCHE 
+#EXTINF:-1,30 DIAS DE NOCHE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/30%20Days%20of%20Night%20%282007%29/30%20Days%20Of%20Night%20%282007%29%20%281%29.mkv
-#EXTINF:-1,ASESINO DE LA CARRETERA 
+#EXTINF:-1,ASESINO DE LA CARRETERA
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,EL ORFANATO 
+#EXTINF:-1,EL ORFANATO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20720p%20Audio%20Espa%C3%B1ol/El%20Orfanato%20%282007%29%20720p%20Audio%20Espa%C3%B1ol.mkv
-#EXTINF:-1,MAMA 
-#EXTGRP:PELICULAS MOVIES
-http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1,13 PECADOS 
+#EXTINF:-1,13 PECADOS
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%C3%A9s/13%20Sins%20%282014%29%20Ingl%C3%A9s%20%281%29.mkv
 #EXTINF:-1,EL LABERINTO DEL FAUNO
@@ -2495,133 +2492,133 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20laberinto%20del%20fauno%
 #EXTINF:-1,OUIJA (2014)
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014%20Dual%20%281%29.mkv
-#EXTINF:-1,CHRISTMAS HORROR STORY 
+#EXTINF:-1,CHRISTMAS HORROR STORY
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,31 
+#EXTINF:-1,31
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%c3%a9s/31%20%282016%29%20Ingl%c3%a9s.mkv
-#EXTINF:-1,AVENIDA 10 CLOVERFIELD 
+#EXTINF:-1,AVENIDA 10 CLOVERFIELD
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/10%20Cloverfield%20Lane%20%282016%29.mkv
 #EXTINF:-1,EL ATICO (2016)
 #EXTGRP:PELICULAS MOVIES
 https://1.bp.blogspot.com/yvhBrv7rf8oKgc7StNTMpvpkPdz02ZEm8goIGcdj1UgZkRui6ouhlm1wnxi_DCFsRHUG0qj10n5JoylqeENIDFXVUlmGP3e1R_c8daAwXIBuH-AbTGjv3sRMkqG_W02v56zyHQ=m22
-#EXTINF:-1,28 DIAS DESPUES: EXTERMINIO 
+#EXTINF:-1,28 DIAS DESPUES: EXTERMINIO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/28%20Days%20Later%20%282002%29%20%281%29.mkv
-#EXTINF:-1,28 SEMANAS DESPUES: EXTERMINIO 2 
+#EXTINF:-1,28 SEMANAS DESPUES: EXTERMINIO 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/28%20Weeks%20Later%20%282007%29%20%281%29.mkv
-#EXTINF:-1,ANNABELLE 
+#EXTINF:-1,ANNABELLE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
 #EXTINF:-1,CARRIE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
-#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 
+#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
-#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 2 
+#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 2
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
-#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 3 
+#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 3
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
-#EXTINF:-1,LA NOVIA DE CHUCKY 
+#EXTINF:-1,LA NOVIA DE CHUCKY
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
-#EXTINF:-1,EL HIJO DE CHUCKY 
+#EXTINF:-1,EL HIJO DE CHUCKY
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Seed%20of%20Chucky%20%282004%29%20Dual/Seed%20of%20Chucky%20%282004%29%20Dual%20%281%29.mkv
-#EXTINF:-1,LA MALDICION DE CHUCKY 
+#EXTINF:-1,LA MALDICION DE CHUCKY
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/Curse%20Of%20Chucky%20%282013%29%20Unrated%20%281%29.mkv
-#EXTINF:-1,DESTINO FINAL 
+#EXTINF:-1,DESTINO FINAL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
 #EXTINF:-1,DESTINO FINAL 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
-#EXTINF:-1,DESTINO FINAL 3 
+#EXTINF:-1,DESTINO FINAL 3
 #EXTGRP:PELICULAS MOVIES
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/Final%20Destination%203%20%282006%29.mkv 
-#EXTINF:-1,DESTINO FINAL 4 
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/Final%20Destination%203%20%282006%29.mkv
+#EXTINF:-1,DESTINO FINAL 4
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/Final%20Destination%204%20%282009%29.mkv
-#EXTINF:-1,DESTINO FINAL 5 
+#EXTINF:-1,DESTINO FINAL 5
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/Final%20Destination%205%20%282011%29.mkv
-#EXTINF:-1,DULCE VENGANZA 
+#EXTINF:-1,DULCE VENGANZA
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%20%282010%29%20Dual/I%20Spit%20On%20Your%20Grave%20%282010%29Dual%20ripeada.mkv
-#EXTINF:-1,DULCE VENGANZA 2 
+#EXTINF:-1,DULCE VENGANZA 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20%20Ingl%c3%a9s/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20Unrated%20Ingl%c3%a9s%20ripeada%20%281%29.mkv
 #EXTINF:-1,HOSTAL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel%20%282005%29/Hostel%20%282005%29%20Dual.mkv
-#EXTINF:-1,HOSTAL PARTE 2 
+#EXTINF:-1,HOSTAL PARTE 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29/Hostel-part%20II%20%282007%29%20Dual.mkv
-#EXTINF:-1,HOSTAL PARTE 3 
+#EXTINF:-1,HOSTAL PARTE 3
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20III%20%282011%29/Hostel-part%20III%282011%29dual.mkv
-#EXTINF:-1,IT ESO 
+#EXTINF:-1,IT ESO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/It%20%5beso%5d%20%281990%29%20%20Dual.mkv
 #EXTINF:-1,LA NOCHE DEL DEMONIO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual/Insidious%20%282010%29%20720p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1,LA NOCHE DEL DEMONIO: CAPITULO 2 
+#EXTINF:-1,LA NOCHE DEL DEMONIO: CAPITULO 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
 #EXTINF:-1,LA NOCHE DEL DEMONIO: CAPITULO 3
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%281984%29/A%20Nightmare%20On%20Elm%20Street%20%281984%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LA VENGANZA DE FREDDY 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LA VENGANZA DE FREDDY
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29/A%20Nightmare%20On%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LOS GUERREROS DEL SUEÑO 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LOS GUERREROS DEL SUEÑO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29/A%20Nightmare%20On%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL AMO DE LOS SUEÑOS 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL AMO DE LOS SUEÑOS
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29/A%20Nightmare%20On%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL NIÑO DE LOS SUEÑOS 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL NIÑO DE LOS SUEÑOS
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29/A%20Nightmare%20On%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO 
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%282010%29/A%20Nightmare%20On%20Elm%20Street%20%282010%29.mkv
-#EXTINF:-1,SAW: JUEGO MACABRO 
+#EXTINF:-1,SAW: JUEGO MACABRO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20%282004%29%20Ingles/Saw%20%282004%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW II 
+#EXTINF:-1,SAW II
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20II%20%282005%29%20Ingles/Saw%20II%20%282005%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW III 
+#EXTINF:-1,SAW III
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20III%20%282006%29%20Ingles/Saw%20III%20%282006%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW IV 
+#EXTINF:-1,SAW IV
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20IV%20%282007%29%20Ingles/Saw%20IV%20%282007%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW V 
+#EXTINF:-1,SAW V
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20V%20%282008%29%20Ingles/Saw%20V%20%282008%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW VI 
+#EXTINF:-1,SAW VI
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VI%20%282009%29%20Ingles/Saw%20VI%20%282009%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW VII 
+#EXTINF:-1,SAW VII
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VII%20%282010%29%20m720p%20Ingles/Saw%20Vii%20%282010%29%20M720p%20Ingles-3%20%281%29.mkv
-#EXTINF:-1,SCREAM: VIGILA QUIEN LLAMA 
+#EXTINF:-1,SCREAM: VIGILA QUIEN LLAMA
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%20%281996%29%20Ingl%c3%a9s/Scream%20%281996%29%20Ingl%c3%a9s%20%281%29.mkv
-#EXTINF:-1,SCREAM: GRITA Y VUELVE A GRITAR 
+#EXTINF:-1,SCREAM: GRITA Y VUELVE A GRITAR
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%202%20%281997%29%20Dual/Scream%202%20%281997%29%20Dual%20%281%29.mkv
 #EXTINF:-1,SCREAM: LA MASCARA DE LA MUERTE
@@ -2633,34 +2630,34 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%204%20%282011%29%20Dua
 #EXTINF:-1,SILENT HILL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20%282006%29%20Dual/Silent%20Hill%20%282006%29%20Dual%20%281%29.mkv
-#EXTINF:-1,SILENT HILT: REVELACION 
+#EXTINF:-1,SILENT HILT: REVELACION
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20Revelation%20%282012%29%20Dual/Silent%20Hill%20Revelation%20%282012%29%20Dual%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 
+#EXTINF:-1,VIERNES 13
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20%281980%29/Friday%20The%2013th%20%281980%29%20%281%29.mkv
 #EXTINF:-1,VIERNES 13 PARTE II
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%202%20%281981%29/Friday%20The%2013th%20Part%202%20%281981%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 PARTE III 
+#EXTINF:-1,VIERNES 13 PARTE III
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%203%20%281982%29/Friday%20the%2013th%20Part%203%20%281982%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13: EL CAPITULO FINAL 
+#EXTINF:-1,VIERNES 13: EL CAPITULO FINAL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20-%20The%20Final%20Chapter%20%281984%29/Friday%20The%2013th%20-%20The%20Final%20Chapter%20%281984%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 PARTE V UN NUEVO COMIENZO 
+#EXTINF:-1,VIERNES 13 PARTE V UN NUEVO COMIENZO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 CAPITULO VI JASON VIVE 
+#EXTINF:-1,VIERNES 13 CAPITULO VI JASON VIVE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VI%20-%20Jason%20Lives%20%281986%29/Friday%20The%2013th%20Part%20Vi%20-%20Jason%20Lives%20%281986%29%20%281%29.mkv
 #EXTINF:-1,VIERNES 13 PARTE VII LA SANGRE NUEVA
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VII%20-%20The%20New%20Blood%20%281988%29/Friday%20The%2013th%20Part%20Vii%20-%20The%20New%20Blood%20%281988%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 PARTE VIII JASON TOMA MANHATTAN 
+#EXTINF:-1,VIERNES 13 PARTE VIII JASON TOMA MANHATTAN
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VIII%20-%20Jason%20Takes%20Manhattan%20%281989%29/Friday%20The%2013th%20Part%20Viii%20-%20Jason%20Takes%20Manhattan%20%281989%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 
+#EXTINF:-1,VIERNES 13
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20%282009%29%20Extended/Friday%20The%2013th%20%282009%29%20Extended%20%281%29.mkv
 #EXTINF:-1,Volver Al Futuro
@@ -2690,7 +2687,7 @@ http://cecegeek@goo.gl/NKgGxD
 #EXTINF:-1,Chucky El Muñeco Diabolico
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/YowBkJ
-#EXTINF:-1,Chucky El Muñeco Diabolico II 
+#EXTINF:-1,Chucky El Muñeco Diabolico II
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/xnNiv2
 #EXTINF:-1,Luna De Miel En Familia
@@ -2702,13 +2699,13 @@ http://cecegeek@goo.gl/XcmKwC
 #EXTINF:-1, Diario De Una Pasion
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/NmTmoq
-#EXTINF:-1,Los Hermanos Grimm 
+#EXTINF:-1,Los Hermanos Grimm
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
 #EXTINF:-1,Alexander Y Un Dia Terrible, Horrible, Malo...
 #EXTGRP:PELICULAS MOVIES
 https://ia600508.us.archive.org/16/items/ALEXANDERYSUDIAMALOMUYMALO...HORRIBLE/ALEXANDER%20Y%20SU%20DIA%20MALO%2C%20MUY%20MALO...%20HORRIBLE.mp4
-#EXTINF:-1,Triste San Valentin 
+#EXTINF:-1,Triste San Valentin
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
 #EXTINF:-1,Desnudo
@@ -2880,10 +2877,10 @@ http://streamer01.sonic.server54.net:8000/live128
 #EXTINF:-1,LA MEGA ELECTRONICA COL
 #EXTGRP:RADIO
 http://live1.rcnmundo.com/lamegaelectro.mp3
-#EXTINF:-1,ZULDEMAIDA RADIO ARMENIA 
+#EXTINF:-1,ZULDEMAIDA RADIO ARMENIA
 #EXTGRP:RADIO
 http://server2.ejeserver.com:8144/live
-#EXTINF:-1,LA MEGA ARMENIA 
+#EXTINF:-1,LA MEGA ARMENIA
 #EXTGRP:RADIO
 http://live1.rcnmundo.com/lamegaarmenia.mp3
 #EXTINF:-1,LA PODEROSA COL
@@ -2891,7 +2888,7 @@ http://live1.rcnmundo.com/lamegaarmenia.mp3
 http://ample-zeno-05.radiojar.com/sczs61304f5tv?rj-ttl=5&rj-token=AAABYMzK3OiozGrMa6WC22ezkvc7-pO4JAeq1X5kaJPg1BkjYwPMwg
 #EXTINF:-1,RADIO AMOR 104.4 FM BOG
 #EXTGRP:RADIO
-http://live3.rcnmundo.com/amor.aac 
+http://live3.rcnmundo.com/amor.aac
 #EXTINF:-1,RADIO DISNEY ARGENTINA
 #EXTGRP:RADIO
 https://streaming.shoutcast.com/RadioDisneyARG
@@ -2915,7 +2912,7 @@ http://streamlky.alsolnet.com:443/radio9
 http://i50.letio.com/5016.aac
 #EXTINF:-1,BESAME COL
 #EXTGRP:RADIO
-http://14933.live.streamtheworld.com/BESAME_NACIONAL_SC 
+http://14933.live.streamtheworld.com/BESAME_NACIONAL_SC
 #EXTINF:-1,BESAME MEDELLIN
 #EXTGRP:RADIO
 http://18433.live.streamtheworld.com/BESAME_NACIONAL_SC
@@ -2928,7 +2925,7 @@ http://i50.letio.com/7000.aac
 #EXTINF:-1,GENERACION
 #EXTGRP:RADIO
 http://server2.ejeserver.com:8012/stream
-#EXTINF:-1,TANGO ARMGENITA 
+#EXTINF:-1,TANGO ARMGENITA
 #EXTGRP:RADIO
 http://radios.argentina.fm:9270/stream
 #EXTINF:-1,LA EJE CAFETERO
@@ -2946,7 +2943,7 @@ http://195.154.182.222:25084/live
 #EXTINF:-1,RADIO ACTIVA COL
 #EXTGRP:RADIO
 http://18683.live.streamtheworld.com/RADIO_ACTIVA_SC
-#EXTINF:-1,90.3 FM ARGENTINA 
+#EXTINF:-1,90.3 FM ARGENTINA
 #EXTGRP:RADIO
 http://turadioenvivo.com:11019/stream
 #EXTINF:-1,FM GENESIS ARGENTINA
@@ -2955,25 +2952,25 @@ http://streamall.alsolnet.com:443/fmgenesis
 #EXTINF:-1,RADIO_HJCK COL
 #EXTGRP:RADIO
 http://18703.live.streamtheworld.com/RADIO_HJCK_SC
-#EXTINF:-1,LA MEGA BOG 
+#EXTINF:-1,LA MEGA BOG
 #EXTGRP:RADIO
 http://live4.rcnmundo.com/lamega.mp3
 #EXTINF:-1,106 RADIO ARGENTINA
 #EXTGRP:RADIO
 http://192.99.46.56:9982/;
-#EXTINF:-1,ANTENA 2 B0G 
+#EXTINF:-1,ANTENA 2 B0G
 #EXTGRP:RADIO
 http://live1.rcnmundo.com/antena2.mp3
 #EXTINF:-1,ESPN ARG
 #EXTGRP:RADIO
 http://edge.espn.cdn.abacast.net/espn-deportesmp3-48
-#EXTINF:-1,RCN MUNDO B0G 
+#EXTINF:-1,RCN MUNDO B0G
 #EXTGRP:RADIO
 http://live4.rcnmundo.com/lafm.mp3
 #EXTINF:-1,LA VOZ DE LA COSTA
 #EXTGRP:RADIO
 https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CqIDRFtCzQqJ7i3bNwXanHlMLx3Q3VPzSjMw4IMGw90dYe6XsJvTGA3FAc3j7EZoKC2VicVosDYeiLwZ7mkZquHk2-kt1olzLiG8ITIWQppG8r2uEqnMol95yr6tjsRMh0mdCbS_8QJY965KotR_JpieD4-LQKGo75OXyGg4QuCPFFqvaHdx7PZbfnodCVlWmyJdSvpN7DmklhZc4vys4Ry4V4p6kjr_u5WUOK3TeL4ypgh6zfsUvfi6E-vYPLySG24ljJDs2vKOs_8Lx3dclJJKFwd87S0iTSLw1DxL14ykNLMIiAByOWOzD8dW4Z4T4IChQy49tcHvENnT42RVMp4jv9Tp2R2hkU0XCarUi9gl7w_hPmeS9U0ojfZOjo_Vm_08c0xMC3GMDW1bC5qTflGU7fekz_-VApWtjS3LnamKiuSRsZ5gyifmMP19xpL3f28wsFbRw4lL2TGE88Myw1cEr4in7PpW10iZBrr8R1acaFV7PhsbtEeG5cM-djKEDOZdpdcKOxp1KAxcQUCyNBSsSpUi-YEBzhBpeACptnAIAgp7wxIQhpW-dQ39NkOagh1jbVvl7RoM81TZCy1UhvmqIUjI.m3u8
-#EXTINF:-1,RUMBA ST B0G 
+#EXTINF:-1,RUMBA ST B0G
 #EXTGRP:RADIO
 http://live4.rcnmundo.com/rumba.mp3
 #EXTINF:-1,CARACOL RADIO IPIALES
@@ -3000,7 +2997,7 @@ http://17983.live.streamtheworld.com/LOS40_ARGENTINA_SC
 #EXTINF:-1,CANDELA STEREO COL
 #EXTGRP:RADIO
 http://14103.live.streamtheworld.com/CANDELAESTEREO_SC
-#EXTINF:-1,VIBRA BOG 
+#EXTINF:-1,VIBRA BOG
 #EXTGRP:RADIO
 http://18433.live.streamtheworld.com/VIBRA_SC
 #EXTINF:-1,OXIGENO COL
@@ -3020,7 +3017,7 @@ http://real1.streaming-co.com:8050/live
 http://live1.rcnmundo.com/lacarinosa.mp3
 #EXTINF:-1,RADIO TIEMPO MEDELLIN
 #EXTGRP:RADIO
-http://i50.letio.com/9100.aac 
+http://i50.letio.com/9100.aac
 #EXTINF:-1,PEDAZO DE ACORDEON MEDELLIN
 #EXTGRP:RADIO
 http://62.210.38.137:8446/stream/1/
