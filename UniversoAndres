@@ -11,21 +11,18 @@ http://200.78.215.85:8010/play/a08b
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/45914664eafc286fb139a5036f142106.png",Baby Tv
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://str01.ddns.net/002/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/70c13eb3b1542b3862a5e68e2cb856d3.png",Rai Yoyo
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/70c13eb3b1542b3862a5e68e2cb856d3.png",Rai YoYo
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Mult
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/0f9f2d92c2583ef952556e1f382d0974.png",Mult
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://195.88.52.102:8000/play/a05j
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Карусель
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ffeaeca58381b1a28a43d14c07655ab8.png",Карусель
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://195.88.52.102:8000/play/a04a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/CanalSurHD.png",Canal Sur 
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_bd953c955fc4422795fa303f2c6bf548~mv2.png/v1/fill/w_273,h_244,al_c,lg_1,usm_0.33_1.00_0.00/76b12f_bd953c955fc4422795fa303f2c6bf548~mv2.png",Paque Tv
-#EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
-http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Xhgc_canal_5_logo_1995_by_ncontreras207-d7meoru.png",XHGC Canal 5   
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
@@ -89,13 +86,13 @@ http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/3124455a4ad66c5eced0caf07cad0bf5.png",NickToons
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://81.228.174.166:8005/nicktoons
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Disney+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Walt_Disney_Pictures.png",Disney+
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://str03.ddns.net/076/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Las aventuras de Sammy 
+#EXTINF:-1 tvg-logo="http://www.mexicoescultura.com/galerias/actividades/principal/sammy.jpg",Las aventuras de Sammy 
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
-https://1fiag0z.oloadcdn.net/dl/l/H5HN5x0utJ2Pofg1/1aCUGq-iBJM/Las+aventuras+de+Sammy+%282010%29.lat.avi.mp4?mime=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Las aventuras de Sammy 2
+https://www.youtube.com/watch?v=Dx7QS74am-g
+#EXTINF:-1 tvg-logo="http://dmtinc.cl/imagenes/xHpPw.png",Las aventuras de Sammy 2
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 https://www1033.playercdn.net/87/3/qUXYYEgIHh6ZXJUHI5rJRQ/1515795105/170804/007FI7BP8G1LENVXYUKHB.mp4
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/31c01e25f4db50d00a47a379d3d64c98.png",JimJam
@@ -122,358 +119,389 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/Gametoon.png",Gamer Toons
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://185.231.160.35/1019/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://telesistema11.com.do/wp-content/themes/solar/images/logo.png",Tele sistemas
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w1144326736.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol Tv
-#EXTGRP:VARIEDAD VARIETY
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",RCN
-#EXTGRP:VARIEDAD VARIETY
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1,BEMAD
+#EXTINF:-1 tvg-logo="http://ipmark.com/wp-content/uploads/2016/04/bemad_Mediaset_IPMARK.jpg",BEMAD
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
-#EXTINF:-1,CANAL 1 COL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_Canal_1_2017.svg/1200px-Logo_Canal_1_2017.svg.png",Canal 1
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
-#EXTINF:-1,TELECAFE
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052011/untitled-1_206.png",Telecafe
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
-#EXTINF:-1,TELEANTIOQUIA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1929f0457d14201870f90209cbbc07be.png",Teleantioquia
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
-#EXTINF:-1,TELEMEDELLIN
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6d516ca82497d11a7e58ec00e19d71df.png",Telemedellin
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1,TV AGRO
+#EXTINF:-1 tvg-logo="http://www.imocorp.com.mx/imo2/images/Difusion/Medios/Logo_OchoTV.jpg",8 TV
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/decb9084c9c2b2423d280c2cc82f3e39.png",TV Agro
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
-#EXTINF:-1,TELE CARIBE
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/56fb5d315dfb024d24c467d422ec5f54.png",Telecaribe
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
-#EXTINF:-1,CANAL TRO
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/76d9599b45a2a25ccfb939d766311745.png",Canal Tro
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,CANAL CAPITAL BOG
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/af5e9b1d66a9b463a40e0b15142ee963.png",Canal Capital
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1,MUNDO + LA UNION ANTIOQUIA
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-e4y5TyiJiDo/TbmNoH2P8yI/AAAAAAAAACI/AlfrOJrLhIY/s1600/ESCUDO.jpg",Mundo + la union antioquia
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1,RED+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836722107446878212/tlEjfQIe.jpg",RED+
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
-#EXTINF:-1,P&C TOLIMA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qdK451kH75k/hqdefault_live.jpg",P&C TOLIMA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
-#EXTINF:-1,CNC CHOCO
+#EXTINF:-1 tvg-logo="http://cncregional.com.co/images/CNCTELEVISION.png",CNC CHOCO
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
-#EXTINF:-1,CNC ANTIOQUIA
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal-CNC-Medellin-Logo.jpg",CNC ANTIOQUIA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
-#EXTINF:-1,CITY TV BOG
+#EXTINF:-1 tvg-logo="http://www.fmbolivia.tv/imagenes/2016/06/ATB-Logo-630x252.jpg",ATB Bolivia
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8?wowzasessionid=1095128711
+#EXTINF:-1 tvg-logo="http://www.fmbolivia.tv/imagenes/2016/06/ATB-Logo-630x252.jpg",Tv Cuba
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://superdogs.com/wp-content/uploads/2016/07/city-tv-logo-canada-300x169.jpg",City tv 
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://live5.userapi.com/637602/live/4_m40opCfZY/playlist.m3u8
-#EXTINF:-1,TELEENVIGADO
+#EXTINF:-1 tvg-logo="http://teleenvigado.com.co/wp-content/uploads/2017/07/LOGO-TELEENVIGADO-HORIZONTAL.png",Teleenvigado
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-1,CALI
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cali-tv_m.png",Cali tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1,TV5MONDE
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/676c1a5a5057f8890168130b1d10edb9.png",TV5monde
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:-1,ANTENA 3
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/cc674ee6df96901b2598f24c043ef25a.png",Antena 3
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-#EXTINF:-1,RAI 5
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7ff7840cd9b7e8950432e9ef344891c0.png",Rai 5
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,NOVA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1a9c91f6e0310d4f55b7ee7f22c2c9df.png",Nova
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,LA SEXTA  
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ab37dbeeae665556eaf3790545edbb30.png",La sexta  
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,NEOX
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/28189d8022ae217a3be20a0abb1b18b8.png",Neox
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,MEGA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a53600d5b584712ed283aa5668e51ff0.png",Mega
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ARAGON
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/c3c15e4a8766db57311571f05e3c903f.png",Aragon
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1,CANAL VASCO
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7f281335b0d6d2e9a78e02b67f429996.png",Canal Vasco
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1,8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/2e7b9741b90d3aac324728ac18b32745.png",8
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
-#EXTINF:-1,TELEMADRID
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/105fed78965b319be49a5bcbe7b5a6dc.png",Telemadrid
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:-1,MALAGA
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/2/24/Tv_mexiquense_logo_2007-2010.png/revision/latest?cb=20160125012219&path-prefix=es",Tv mexiquense
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1317689870/logo_para_web_400x400.jpg",Malaga
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1,EXTREMADURA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/d85b935659a8c83f940c7745d5c99f80.png",Extremadura
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:-1,LEVANTE
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/LevanteTV-Logo-300x300.jpg",Levante
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-#EXTINF:-1,324
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/rgc1.png",RG1
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1,1
+http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2058302438.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,La5
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/655f3f50095c2c8ba3782343ed632dcc.png",La 5
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
-#EXTINF:-1,Iris
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f75c9af2f9523fcaa0c029651ffe814b.png",Iris
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
-#EXTINF:-1,Mediaset Extra
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cora.png",Coracyt
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?wowzasessionid=937636575
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/2055380edcb0e55faca60b3054666338.png",Mediaset Extra
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
-#EXTINF:-1,TELE APRENDE
+#EXTINF:-1 tvg-logo="http://www.televisioneducativa.gob.mx/work/models/DGTVE/Template/resource/canales/img/aprende.png",Tele Aprende
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
-#EXTINF:-1,CHICOS IPN
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092013/aguascalientestv.png",Aguas calientes
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist_b1651239.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png",CHICOS IPN
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,COTUI
+#EXTINF:-1 tvg-logo="http://www.dominicaninternet.com/uploads/avatarServicio/879.jpg",Cotui Tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
-#EXTINF:-1,Rete 4
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/211e6418af756b6edb4180f4545155e4.png",Rete 4
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
-#EXTINF:-1,Canale 5
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/99dc539ea45aab59f0fcd246a52d1b77.png",Canale 5
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
-#EXTINF:-1,Italia 1
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/cf28edb25468215375d07ebc412d3146.png",Italia 1
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
-#EXTINF:-1,RCN Novelas
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616249343524274176/Pzh1qyZs.png",RCN Novelas
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://200.78.215.85:8010/play/a0ar
-#EXTINF:-1,telemundo
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/inciclopedia/images/7/7a/Telemundo_tv_logo.png",Telemundo
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1,Tlnovelas
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/649df7f5aca30c08a6e58fbd908e9af7.png",Tlnovelas
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://channels.premiumtutv.com/stream_9_sk_st.m3u8
-#EXTINF:-1,Glitz  
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ff68a3de7bd94e1e9d1d39448385820b.png",Glitz  
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://38.123.68.120:25461/live/sjir7qaXvc/GcmNQayJHt/86.m3u8
-#EXTINF:-1,Las estrellas
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/701de93ed49e82d893619e2740c0856c.png",Las estrellas
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://channels.premiumtutv.com/stream_7_sk_st.m3u8
-#EXTINF:-1,Azteca 7
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/azteca7_logo_antes.jpg",Azteca 7
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://channels.premiumtutv.com/stream_13_sk_st.m3u8
-#EXTINF:-1,Az Mundo
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/2f2f3b8eefef51c971ffe6d4b99ed3ef.png",Az Mundo
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://channels.premiumtutv.com/stream_113_sk_st.m3u8
-#EXTINF:-1,Az CorazÃ³n
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/py_az-corazon_m.png",Az Cora❤on
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://channels.premiumtutv.com/stream_90_sk_st.m3u8
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/07/logo-teleamazonas-retina.png",Tele Amazonas
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+https://secure-playlist.livestream.com/streams/1359588_4428723_lsi5dv44kifurtq1v3x_1/media/1359588_4428723_lsi5dv44kifurtq1v3x_1@446000p.m3u8?dw=14400&token=1515871294_7833c7079923da8c0c4614379bfea70dd5397e42&ts=1515697200
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f7029e67f22d8a43ab8d1b3deb896249.png",Comedy Central
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://channels.premiumtutv.com/stream_59_sk_st.m3u8
-#EXTINF:-1,Azteca 13
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2017/01/azteca13.png",Azteca 13
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://channels.premiumtutv.com/stream_12_sk_st.m3u8
-#EXTINF:-1,GLOBALTV
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/92433a86fb14b2eb8d8143d206c5f533.png",Gloval Tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 rtmp://edge.wms28.lorini.net/globaltv/globaltv
-#EXTINF:-1,ANZOATEGUITV VENEZUELA
+#EXTINF:-1 tvg-logo="http://www.ipys.org.ve/wp-content/uploads/2015/07/Interna_Anzo--teguiTV.png",Anzoategui Tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
-#EXTINF:-1,TV VENEZUELA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/62b21e58feaacee289aa9e05775146c8.png",Tv Venezuela
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://vivoplay-i.akamaihd.net/hls/live/255338/tvvenezuela/master2500k.m3u8
-#EXTINF:-1,SMOTV COSTA RICA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/563662318848851969/PEt67p5J.png",Smo Tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1,CANELA
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/Canal-13-Sinart-670x300.jpg",Sinart Canal 13
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+rtmp://stream01.cyberfuel.com/SinartCanal13//livestream
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png",Canela Tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://servicioamerica.net:1935/8344/8344/playlist.m3u8
-#EXTINF:-1,TVN PANAMA
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png",TVN
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+rtmp://85.50.185.35.bc.googleusercontent.com:80/mogulus-stream-edge/tvncanalec/rtmp://15.173.196.104.bc.googleusercontent.com/affiliateStream/tvncanalec/6c69766572657065617465723a72746d703a2f2f31352e3137332e3139362e3130342e62632e676f6f676c6575736572636f6e74656e742e636f6d2f6d6f67756c75732f74766e63616e616c65632f5769726563617374494a48355236
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/441a1754ea7709febd9371cbe8e41d93.png",TVN
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_4.m3u8
-#EXTINF:-1,2000TV
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/3be45a0e90ab03f436f5192cb2fd6aaa.png",Tv2000
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1,Italia 2
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/23218b5532753b14d8b99ab2c9a0b75b.png",Italia 2
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
-#EXTINF:-1,Tgcom24
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
-#EXTINF:-1,LA ABANA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b038d249e1ecf429c2cf5910e8467cbb.png",LA ABANA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
-#EXTINF:-1,HAPPY
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1a459909a39ec97a6ffff474e89a89c6.png",HAPPY❤
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://86.106.82.154:8089
-#EXTINF:-1,KANA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ae0d1072028aa223e9f8dafb39d91e3b.png",KANA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
-#EXTINF:-1,CANALA U
+#EXTINF:-1 tvg-logo="http://cn.live-tv-channels.net/pt-data/uploads/logo/co-canal-u.jpg",Canala U
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1,CIBER VISION 3 NAGUA
+#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2016/06/cibervision_logo_med.jpg",Ciber vision 3 nagua
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://ss6.domint.net:2078/ctv_str/cibervision/chunklist_w1913971982.m3u8
-#EXTINF:-1,ONDA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7d4149521c87c239baebeaca98b54e2b.png",ONDA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w440868265.m3u8
-#EXTINF:-1,CANAL 10 MEX
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/59e5bfa3d8e854d2fb0637bac0ee663f.png",Canal 10
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w180897103.m3u8
-#EXTINF:-1,TELE ISLAS
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/d4db87acca2189bee0806c734fa49eab.png",Teleislas
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1,TELEMILENIO CHILE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tb3oXsN.png",Telemilenio
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
-#EXTINF:-1,TELECENTRO
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/5c0bd9638327e64f262b67b72cc23739.png",Telecentro
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
-#EXTINF:-1,WILLAX
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8f22dd6b6a5d8be4744a8e70090d5ae6.png",Willax
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,REPRETEL CANAL 11
+#EXTINF:-1 tvg-logo="http://visionzn.com/images/canal11repretel.jpg",Repretel Canal 11
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
-#EXTINF:-1,GALLA YUCATAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png",GALLA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
-#EXTINF:-1,REPRETEL CANAL 6
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f7/95/20f795441a51c46a6b88e0fefcad1aa0.jpg",Repretel Canal 6
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_sles.m3u8
-#EXTINF:-1,ORO MAR
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/27ea6b9e7845f54af549d80f9cfd4c89.png",ORO MAR
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
-#EXTINF:-1,PANAMERICANA PERU
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f2fde06677a89103d417d01f02da11bf.png",Panamericana Peru
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://cdnh15.iblups.com/hls/ptv.m3u8
-#EXTINF:-1,TELEFE ARGENTINA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/11aed558d5c0174875d73f85edd619cf.png",Telefe Argentina
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://coninfo.net:1935/13max/live/chunklist.m3u8
-#EXTINF:-1,TV PUBLICA ARGENTINA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b4e07535697baed10942f681fa6619a7.png",TV Publica Argentina
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/chunklist_b1596000.m3u8?sense=true
-#EXTINF:-1,LA TELE VENEZUELA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e6e8b7a5419d95f312fe60447d802b62.png",La tele Venezuela
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,CANAL 11
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8208f2c65c5274267893acbb9b90f5ce.png",Canal 11
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
-#EXTINF:-1,13 MAX DIGITAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/13max_logo_nuevo.JPG",13 Max Digital
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://coninfo.net:1935/13max/live/chunklist_w1212589458.m3u8
-#EXTINF:-1,TRAVEL
+#EXTINF:-1 tvg-logo="http://www.ntrguadalajara.com/evidimg/2016-03-15_08-03-48___2668.jpg",44 Guadalajar
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://live10.cdnmedia.tv/udgmxlive/smil:canal44.smil/chunklist_b750000.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ca81b1c4f112e1e48756c072ecd03692.png",Travel
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
-#EXTINF:-1,TV PERU
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/fb2b1f9e223652e5236d5dcf10597ac2.png",Tv Peru
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1,PAT BOLIVIA
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-kjcaE1Pr0gw/UgyfYxLNYtI/AAAAAAAABVE/Z7acW6GIBWg/pat+bolivia.jpg",Pat Bolivia
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w2032844291.m3u8
-#EXTINF:-1,LANCELOT
+#EXTINF:-1 tvg-logo="hhttps://yt3.ggpht.com/-5Xezi14MdR0/AAAAAAAAAAI/AAAAAAAAAAA/pZhopnwutmE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Lancelot
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
-#EXTINF:-1,CANAL 26 Argentina
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/dfe5de137080b6340d68c03ce35e5ae7.png",Canal 26 
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1,WORLD FHASHION
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/fde8d2a12ba2090966763948a1cad719.png",World Fashion
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
-#EXTINF:-1,FASHION
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ed019c99386e2c9201d987d6995a8eba.png",Fashion
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:-1,FASHION EN 4K
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/fd166d29edcca842fc3af04bd6e1b9c5.png",Fashion en 4K
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://persik.by/stream/176/296165/10317.m3u8
-#EXTINF:-1,KARINA
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+#EXTINF:-1 tvg-logo="https://mlid.fr/shop/141/kartina-tv-monthly-subscription.jpg",Kartina Tv
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1,15 tv
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZCeSPw-ye8WuqGgWX0uL8TsELJg8RvzSbL6WoUsRh5RnXQPGz14mK9kdbE0KLhTxxYrd=w300",15 tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1,CHV CHILE
+#EXTINF:-1 tvg-logo="http://estaticos.chilevision.cl/web/logos/logo-chv-2015.png",CHV
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
-#EXTINF:-1,CDN
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/af051c89597cd018ce51bd8fd53014ff.png",CDN
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
-#EXTINF:-1,MEDITERRANEO
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/51d9a88f1cd206c478bfb6b41d79c263.png",Mediterraneo
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
-#EXTINF:-1,FUTURA RIO DE YANEIRO
+#EXTINF:-1 tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/12/futura-canal.jpg",Futura rio de yaneiro
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
-#EXTINF:-1,NAVARRA
+#EXTINF:-1 tvg-logo="http://www.libertate.eu/wp-content/uploads/2015/12/navarra-television.jpeg",Navarra
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1,TELE UNO
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica.png",Tele UNO
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,TELEMAX  
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/cc0cc7b6352e7429d68e55dcc8cdd75d.png",Telemax  
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,TOREON MEXICO  
+#EXTINF:-1,Toreon
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1,TELE MAR
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/2ff2a8351f3cb2d59330c43215cf2e10.png",Tele Mar
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 #EXTINF:-1,LINA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://178.33.229.111:1935/live/Videolina/livestream.m3u8
-#EXTINF:-1,TEN HD
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tvtonight.com.au/wp-content/uploads/TEN-logo.jpg",TEN
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
-#EXTINF:-1,ANTARES PERU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Lda3xv_LpuM/hqdefault.jpg",Antares Peru
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1,CANAL TNT
+#EXTINF:-1 tvg-logo="http://www.elgranporque.com/wp-content/uploads/2015/04/tnt.jpg",CANAL TNT
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
-#EXTINF:-1,AZTECA 13
+#EXTINF:-1 tvg-logo="http://www.aztecadeportes.com/Deportes2014/images/azteca-logo.png",Azteca 13
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1,AZTECA HONDURAS
+#EXTINF:-1 tvg-logo="http://static.azteca.com//TvAztecaLogo.png",Azteca honduras
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,AZTECA PLUS
+#EXTINF:-1 tvg-logo="https://media.cylex.com.mx/companies/1149/3059/logo/logo.jpg",AZTECA PLUS
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/0e32155dd3cf57b5a71e836016841138.png",Canal de las Estrellas
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1,VMAS TV
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/2d/VmasTV_Colombia.png",Vmas Tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-#EXTINF:-1,Senal Institucional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/1200px-Se%C3%B1al_Institucional_logo.svg.png",Senal Institucional
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
-#EXTINF:-1,ADN TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png",ADN TV
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
-#EXTINF:-1,TV2 BORNHOLM
+#EXTINF:-1 tvg-logo="http://www.gudhjem.nu/wp-content/uploads/2015/05/420x240_tv2-bornholm.jpg",TV2 Bornholm
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://strm.unicanal.com.py/live/unicanal_src.m3u8
 #EXTINF:-1,TRA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1,UNICANAL
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal.png",Unicanal
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
-#EXTINF:-1,FORO
+#EXTINF:-1 tvg-logo="http://www.pescadoresenlared.com.ar/wp-content/uploads/2010/07/canal79-1.jpg",Canal 79 Tucumán
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://painel.serveron.com.br:1935/8116/8116/chunklist_w1584951233.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",FORO
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,NASA
@@ -2965,5 +2993,4 @@ http://149.56.147.197:9638/lacaquetena
 #EXTINF:-1,METRO ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
-
 
