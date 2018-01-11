@@ -1,131 +1,131 @@
 #EXTM3U 
-#EXTINF:-1,1101-18 GRACIAS! Donaciones paypal.me/Andres632 Loading… ████████████████ 100%
+#EXTINF:-1 1101-18 GRACIAS! Donaciones paypal.me/Andres632 Loading… ████████████████ 100%
 #EXTGRP:ADMIN By_Andres ∞ Loading… 100%
 http://persik.by/stream/176/296165/10292.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Mama
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Mama
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://185.231.160.35:5000/60/2/index.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Nick Jr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Nick Jr
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://200.78.215.85:8010/play/a08b
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/45914664eafc286fb139a5036f142106.png",Baby Tv
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/45914664eafc286fb139a5036f142106.png",Baby Tv
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://str01.ddns.net/002/myStream/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/70c13eb3b1542b3862a5e68e2cb856d3.png",Rai Yoyo
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/70c13eb3b1542b3862a5e68e2cb856d3.png",Rai Yoyo
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Mult
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Mult
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://195.88.52.102:8000/play/a05j
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Карусель
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Карусель
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://195.88.52.102:8000/play/a04a
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/CanalSurHD.png",Canal Sur 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/CanalSurHD.png",Canal Sur 
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
-#EXTINF:-1,tvg-logo="https://static.wixstatic.com/media/76b12f_bd953c955fc4422795fa303f2c6bf548~mv2.png/v1/fill/w_273,h_244,al_c,lg_1,usm_0.33_1.00_0.00/76b12f_bd953c955fc4422795fa303f2c6bf548~mv2.png",Paque Tv
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_bd953c955fc4422795fa303f2c6bf548~mv2.png/v1/fill/w_273,h_244,al_c,lg_1,usm_0.33_1.00_0.00/76b12f_bd953c955fc4422795fa303f2c6bf548~mv2.png",Paque Tv
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
-#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Xhgc_canal_5_logo_1995_by_ncontreras207-d7meoru.png",XHGC Canal 5   
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Xhgc_canal_5_logo_1995_by_ncontreras207-d7meoru.png",XHGC Canal 5   
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
-#EXTINF:-1,tvg-logo="https://orig00.deviantart.net/0c98/f/2017/284/4/a/untitled_drawing_by_chalkbugs-dbqahu5.png",Nick 
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/0c98/f/2017/284/4/a/untitled_drawing_by_chalkbugs-dbqahu5.png",Nick 
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://channels.premiumtutv.com/stream_80_sk_st.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c5a9a9b092e065b4df87d3943593685.png",Nick Toons
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c5a9a9b092e065b4df87d3943593685.png",Nick Toons
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://channels.premiumtutv.com/stream_70_sk_st.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Nick Jr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Nick Jr
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://channels.premiumtutv.com/stream_49_sk_st.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a83dec3009a0b0ba1e484864eddbd654.png",Disney XD
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a83dec3009a0b0ba1e484864eddbd654.png",Disney XD
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://channels.premiumtutv.com/stream_30_sk_st.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/842bb72b9cc9ef8c86459a5101fb8673.png",Tooncast
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/842bb72b9cc9ef8c86459a5101fb8673.png",Tooncast
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://channels.premiumtutv.com/stream_31_sk_st.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a1bcfb810cee704aa1a79058b194303d.png",Disney Jr
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a1bcfb810cee704aa1a79058b194303d.png",Disney Jr
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://channels.premiumtutv.com/stream_25_sk_st.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/55b308e7e869042fcc87b987b16c3c5d.png",Disney Channel
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/55b308e7e869042fcc87b987b16c3c5d.png",Disney Channel
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://channels.premiumtutv.com/stream_20_sk_st.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f19b88e6cb8cb067565bb3880b2fb3e1.png",Nickelodeon
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f19b88e6cb8cb067565bb3880b2fb3e1.png",Nickelodeon
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://channels.premiumtutv.com/stream_21_sk_st.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1dbabed114bfe3c886182ca76d7dca87.png",Discovery Kids
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1dbabed114bfe3c886182ca76d7dca87.png",Discovery Kids
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://channels.premiumtutv.com/stream_22_sk_st.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6bee7677af2813c27e06499b0ac63cce.png", Disney Channel
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6bee7677af2813c27e06499b0ac63cce.png", Disney Channel
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e0bc11321c7dcc5971907dfdab23b1f4.png",Gulli Girl
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e0bc11321c7dcc5971907dfdab23b1f4.png",Gulli Girl
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://shoutcast2.radioanimati.it/raplayer
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e82eac3f92907d081b141bbac47ac1f2.png",Nick HD
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e82eac3f92907d081b141bbac47ac1f2.png",Nick HD
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://185.231.160.35/453/1/index.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/9c929844021f4a5b28ab7003c5eb10a5.png",О!
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/9c929844021f4a5b28ab7003c5eb10a5.png",О!
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://195.88.52.102:8000/play/a06l
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/051bcf39646baa8c329ceeb3db09f32d.png", BOING
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/051bcf39646baa8c329ceeb3db09f32d.png", BOING
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/887f2f0d3db09ced4dadec55810e1028.png",Bang Bang
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/887f2f0d3db09ced4dadec55810e1028.png",Bang Bang
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://46.99.163.177:8098/play/a002
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f91022004ce9aab1397c498ec1ee684b.png",Boomerang
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f91022004ce9aab1397c498ec1ee684b.png",Boomerang
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6bee7677af2813c27e06499b0ac63cce.png", Disney Channel
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6bee7677af2813c27e06499b0ac63cce.png", Disney Channel
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/55b308e7e869042fcc87b987b16c3c5d.png",Disney Channel
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/55b308e7e869042fcc87b987b16c3c5d.png",Disney Channel
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a1bcfb810cee704aa1a79058b194303d.png",Disney Junior
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a1bcfb810cee704aa1a79058b194303d.png",Disney Junior
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/3124455a4ad66c5eced0caf07cad0bf5.png",NickToons
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/3124455a4ad66c5eced0caf07cad0bf5.png",NickToons
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://81.228.174.166:8005/nicktoons
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Disney+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Disney+
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://str03.ddns.net/076/myStream/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Las aventuras de Sammy 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Las aventuras de Sammy 
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 https://1fiag0z.oloadcdn.net/dl/l/H5HN5x0utJ2Pofg1/1aCUGq-iBJM/Las+aventuras+de+Sammy+%282010%29.lat.avi.mp4?mime=true
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Las aventuras de Sammy 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Las aventuras de Sammy 2
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 https://www1033.playercdn.net/87/3/qUXYYEgIHh6ZXJUHI5rJRQ/1515795105/170804/007FI7BP8G1LENVXYUKHB.mp4
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/31c01e25f4db50d00a47a379d3d64c98.png",JimJam
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/31c01e25f4db50d00a47a379d3d64c98.png",JimJam
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://185.231.160.35/180/2/index.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f2eee600b1475ce2d79483dd7e67e5ce.png",Rai Gulp  
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f2eee600b1475ce2d79483dd7e67e5ce.png",Rai Gulp  
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Tacho_Pistacho.png",Tacho Pistacho
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Tacho_Pistacho.png",Tacho Pistacho
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/24caf850946da882c75cca7eadb4f24e.png",Señal Colombia
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/24caf850946da882c75cca7eadb4f24e.png",Señal Colombia
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png",El Chavo Animado  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png",El Chavo Animado  
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://3.sendvid.com/y00xutjl.mp4
-#EXTINF:-1,tvg-logo="http://wowhair.co.uk/wp-content/uploads/2017/07/wow-logo.png",WOW
+#EXTINF:-1 tvg-logo="http://wowhair.co.uk/wp-content/uploads/2017/07/wow-logo.png",WOW
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png",Los Simpsons Niu
+#EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png",Los Simpsons Niu
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:-1,tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/Gametoon.png",Gamer Toons
+#EXTINF:-1 tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/Gametoon.png",Gamer Toons
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://185.231.160.35/1019/1/index.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol Tv
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol Tv
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",RCN
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",RCN
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1,BEMAD
@@ -2965,6 +2965,5 @@ http://149.56.147.197:9638/lacaquetena
 #EXTINF:-1,METRO ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
-
 
 
