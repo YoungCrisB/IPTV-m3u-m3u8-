@@ -128,42 +128,12 @@ http://185.231.160.35/1019/1/index.m3u8
 #EXTINF:-1,CARACOL 
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,TV AGRO
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:-1,RCN
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1,RCN Novelas
+#EXTINF:-1,BEMAD
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://200.78.215.85:8010/play/a0ar
-#EXTINF:-1,telemundo
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1,Tlnovelas
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://channels.premiumtutv.com/stream_9_sk_st.m3u8
-#EXTINF:-1,Glitz  
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://channels.premiumtutv.com/stream_67_sk_st.m3u8
-#EXTINF:-1,Las estrellas
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://channels.premiumtutv.com/stream_7_sk_st.m3u8
-#EXTINF:-1,Azteca 7
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://channels.premiumtutv.com/stream_13_sk_st.m3u8
-#EXTINF:-1,Az Mundo
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://channels.premiumtutv.com/stream_113_sk_st.m3u8
-#EXTINF:-1,Az CorazÃ³n
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://channels.premiumtutv.com/stream_90_sk_st.m3u8
-#EXTINF:-1,Comedy Central
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://channels.premiumtutv.com/stream_59_sk_st.m3u8
-#EXTINF:-1,Azteca 13
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://channels.premiumtutv.com/stream_12_sk_st.m3u8
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 #EXTINF:-1,CANAL 1 COL
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8?encoded=00d72b5df8db95dee0a60
@@ -176,24 +146,24 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 #EXTINF:-1,TELEMEDELLIN
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,TV AGRO
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:-1,TELE CARIBE
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
 #EXTINF:-1,CANAL TRO
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,GLOBALTV
+#EXTINF:-1,CANAL CAPITAL BOG
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-rtmp://edge.wms28.lorini.net/globaltv/globaltv
-#EXTINF:-1,ANZOATEGUITV VENEZUELA
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
-#EXTINF:-1,RED+
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1,MUNDO + LA UNION ANTIOQUIA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1,RED+
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
 #EXTINF:-1,P&C TOLIMA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
@@ -203,30 +173,18 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u
 #EXTINF:-1,CNC ANTIOQUIA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
-#EXTINF:-1,CANAL CAPITAL BOG
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1,CITY TV BOG
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://live5.userapi.com/637602/live/4_m40opCfZY/playlist.m3u8
-#EXTINF:-1,TV VENEZUELA
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-https://vivoplay-i.akamaihd.net/hls/live/255338/tvvenezuela/master2500k.m3u8
-#EXTINF:-1,SMOTV COSTA RICA
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1,CANELA
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://servicioamerica.net:1935/8344/8344/playlist.m3u8
-#EXTINF:-1,TVN PANAMA
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_4.m3u8
 #EXTINF:-1,TELEENVIGADO
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 #EXTINF:-1,CALI
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1,TV5MONDE
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:-1,ANTENA 3
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
@@ -250,10 +208,10 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&r
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1,CANAL VASCO
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 #EXTINF:-1,8
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
 #EXTINF:-1,TELEMADRID
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
@@ -272,9 +230,6 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playli
 #EXTINF:-1,1
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TV5MONDE
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:-1,La5
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
@@ -302,6 +257,54 @@ http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
 #EXTINF:-1,Italia 1
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+#EXTINF:-1,RCN Novelas
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://200.78.215.85:8010/play/a0ar
+#EXTINF:-1,telemundo
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,Tlnovelas
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://channels.premiumtutv.com/stream_9_sk_st.m3u8
+#EXTINF:-1,Glitz  
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://38.123.68.120:25461/live/sjir7qaXvc/GcmNQayJHt/86.m3u8
+#EXTINF:-1,Las estrellas
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://channels.premiumtutv.com/stream_7_sk_st.m3u8
+#EXTINF:-1,Azteca 7
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://channels.premiumtutv.com/stream_13_sk_st.m3u8
+#EXTINF:-1,Az Mundo
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://channels.premiumtutv.com/stream_113_sk_st.m3u8
+#EXTINF:-1,Az CorazÃ³n
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://channels.premiumtutv.com/stream_90_sk_st.m3u8
+#EXTINF:-1,Comedy Central
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://channels.premiumtutv.com/stream_59_sk_st.m3u8
+#EXTINF:-1,Azteca 13
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://channels.premiumtutv.com/stream_12_sk_st.m3u8
+#EXTINF:-1,GLOBALTV
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+rtmp://edge.wms28.lorini.net/globaltv/globaltv
+#EXTINF:-1,ANZOATEGUITV VENEZUELA
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
+#EXTINF:-1,TV VENEZUELA
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+https://vivoplay-i.akamaihd.net/hls/live/255338/tvvenezuela/master2500k.m3u8
+#EXTINF:-1,SMOTV COSTA RICA
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1,CANELA
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+http://servicioamerica.net:1935/8344/8344/playlist.m3u8
+#EXTINF:-1,TVN PANAMA
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_4.m3u8
 #EXTINF:-1,2000TV
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
@@ -551,12 +554,6 @@ http://81.228.174.166:8003/obn
 #EXTINF:-1,NAT GEO WILD
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE△ಠ_ಠ▲⎔◆✵✷✸∮⅜μ
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE△ಠ_ಠ▲⎔◆✵✷✸∮⅜μ
-http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
-#EXTINF:-1,ANIMAL PLANET
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE△ಠ_ಠ▲⎔◆✵✷✸∮⅜μ
-http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 #EXTINF:-1, GARAGE
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE△ಠ_ಠ▲⎔◆✵✷✸∮⅜μ
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
@@ -1022,6 +1019,9 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklis
 #EXTINF:-1,PORTAL FOX MIX
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1,P MUSIC
+#EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
+http://176.107.213.20:9000/play/a001
 #EXTINF:-1,MTV CHINA
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://203.170.145.201:9981/stream/channelid/1646557078
@@ -1049,9 +1049,6 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklis
 #EXTINF:-1,Hit List
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-#EXTINF:-1,Virgin Radio TV
-#EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
-http://tv.105.net:1935/live/virgin1/index.m3u8
 #EXTINF:-1,JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
@@ -1647,7 +1644,24 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Wall%20E%20%282008%29%20Dual/
 #EXTINF:-1 tvg-logo="https://goo.gl/C4QtNj", THE ANGRY BIRDS MOVIE DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Angry%20Birds%20Movie%20%282016%29%20Dual/The%20Angry%20Birds%20Movie%20%282016%29Dual%20%281%29.mkv
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/cc/d9/53ccd93e95970764af54f9062939f57b.jpg",DANIEL EL TIGRE
+#EXTGRP:SERIES NIÑOS KIDS
+https://proxy-05.nyc.dailymotion.com/sec(x67b44158ca91af3dc80463e5a57a620)/video/822/424/351424228_mp4_h264_aac_hd_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/cc/d9/53ccd93e95970764af54f9062939f57b.jpg",DANIEL EL TIGRE 2
+#EXTGRP:SERIES NIÑOS KIDS
+https://proxy-02.nyc.dailymotion.com/sec(x122977e5d475e92cfd7f0325a57a620)/video/922/424/351424229_mp4_h264_aac_hd_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/cc/d9/53ccd93e95970764af54f9062939f57b.jpg",DANIEL EL TIGRE 3
+#EXTGRP:SERIES NIÑOS KIDS
+https://proxy-19.nyc.dailymotion.com/sec(x40a75151e6ce5f5dbdbc6955a57a620)/video/032/424/351424230_mp4_h264_aac_hd_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/cc/d9/53ccd93e95970764af54f9062939f57b.jpg",DANIEL EL TIGRE 4
+#EXTGRP:SERIES NIÑOS KIDS
+https://proxy-22.nyc.dailymotion.com/sec(xf0a8a6bb70d5b5dfcc5af8b5a57a620)/video/256/581/352185652_mp4_h264_aac_hd_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/cc/d9/53ccd93e95970764af54f9062939f57b.jpg",DANIEL EL TIGRE 5
+#EXTGRP:SERIES NIÑOS KIDS
+https://proxy-10.nyc.dailymotion.com/sec(xbab39f6c7790d15072e60f15a57a620)/video/456/581/352185654_mp4_h264_aac_hd_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/cc/d9/53ccd93e95970764af54f9062939f57b.jpg",DANIEL EL TIGRE 6
+#EXTGRP:SERIES NIÑOS KIDS
+https://proxy-09.nyc.dailymotion.com/sec(x32a8ccf9228bc2afe3260235a57a620)/video/356/581/352185653_mp4_h264_aac_hd_2.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wYJMqN",Popeye
 #EXTGRP:SERIES NIÑOS KIDS
 https://archive.org/download/AMiteOfTrouble1961/A%20Mite%20of%20Trouble%201961.mp4
@@ -2752,6 +2766,9 @@ http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
 #EXTINF:-1,impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+#EXTINF:-1,tvg-logo="https://pp.userapi.com/c840236/v840236550/37e1a/cvFEyJUJFWk.jpg",Paul van Dyk™  Best Of Electronic Radio live VONIK
+#EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
+http://78.129.189.182:22447/stream
 #EXTINF:-1,LA FM
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live3.rcnmundo.com/lafmmedellin.mp3
@@ -2951,9 +2968,6 @@ http://149.56.147.197:9638/lacaquetena
 #EXTINF:-1,METRO ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
-
-
-
 
 
 
