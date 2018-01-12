@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 11-01-18 GRACIAS! Donaciones paypal.me/Andres632 Loading… ████████████████ 100%
-#EXTGRP:ADMIN By_Andres ∞ Loading… 100%
+#EXTINF:-1  12-01-18 GRACIAS! Donaciones paypal.me/Andres632 Loading… ███████████..... 80%
+#EXTGRP:ADMIN By_Andres ∞ Loading… 80%
 http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Mama
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
@@ -107,12 +107,24 @@ http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/24caf850946da882c75cca7eadb4f24e.png",Señal Colombia
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/24caf850946da882c75cca7eadb4f24e.png",Kids & Teens Family
+#EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_lcreme_dreams 
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/24caf850946da882c75cca7eadb4f24e.png",Series TV Animacion
+#EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_cremecartoon 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png",El Chavo Animado  
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://3.sendvid.com/y00xutjl.mp4
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/5caf1a2c96ae8d2770427f4f1310434a.png",Animax
+#EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_latinokidstv
 #EXTINF:-1 tvg-logo="http://wowhair.co.uk/wp-content/uploads/2017/07/wow-logo.png",WOW
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animatedmusclewomen/images/3/38/The-simpsons-505768514da23.png",Simpson mania
+#EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_simpson_maniahd55
 #EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png",Los Simpsons Niu
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ 🏎 🚂 🎠(✿•‿•)🐥🦁🐰🐶
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
@@ -401,7 +413,7 @@ http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8208f2c65c5274267893acbb9b90f5ce.png",Canal 11
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/13max_logo_nuevo.JPG",13 Max Digital
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/13max_logo_nuevo.jpg",13 Max Digital
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://coninfo.net:1935/13max/live/chunklist_w1212589458.m3u8
 #EXTINF:-1 tvg-logo="http://www.ntrguadalajara.com/evidimg/2016-03-15_08-03-48___2668.jpg",44 Guadalajar
@@ -420,6 +432,7 @@ http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w2032844291.m3u8
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/dfe5de137080b6340d68c03ce35e5ae7.png",Canal 26 
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/fde8d2a12ba2090966763948a1cad719.png",World Fashion
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
@@ -431,6 +444,7 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://persik.by/stream/176/296165/10317.m3u8
 #EXTINF:-1 tvg-logo="https://mlid.fr/shop/141/kartina-tv-monthly-subscription.jpg",Kartina Tv
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZCeSPw-ye8WuqGgWX0uL8TsELJg8RvzSbL6WoUsRh5RnXQPGz14mK9kdbE0KLhTxxYrd=w300",15 tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
@@ -456,13 +470,13 @@ http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/cc0cc7b6352e7429d68e55dcc8cdd75d.png",Telemax  
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,Toreon
+#EXTINF:-1 Toreon
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/2ff2a8351f3cb2d59330c43215cf2e10.png",Tele Mar
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-#EXTINF:-1,LINA
+#EXTINF:-1 LINA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://178.33.229.111:1935/live/Videolina/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/tvtonight.com.au/wp-content/uploads/TEN-logo.jpg",TEN
@@ -498,7 +512,7 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.gudhjem.nu/wp-content/uploads/2015/05/420x240_tv2-bornholm.jpg",TV2 Bornholm
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://strm.unicanal.com.py/live/unicanal_src.m3u8
-#EXTINF:-1,TRA
+#EXTINF:-1 TRA
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal.png",Unicanal
@@ -564,7 +578,7 @@ http://185.231.160.35/151/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/4290eb11541c5255501857dc9c6f01d9.png",National Geographic Channe
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE△ಠ_ಠ▲⎔◆✵✷✸∮⅜μ
 http://185.231.160.35/161/1/index.m3u8
-#EXTINF:-1,National Geographic 
+#EXTINF:-1 National Geographic 
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE△ಠ_ಠ▲⎔◆✵✷✸∮⅜μ
 http://185.231.160.35/162/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/50d4859f871c253cdd38796675a47bb3.png",History HD
@@ -648,6 +662,18 @@ https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1 tvg-logo="http://cabassiturismo.tur.ar/sites/default/files/alogo4.png",24 PERU
 #EXTGRP:NOTICIAS NEWS 🌎🌍🌏🛰📡
 http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ada4a4dd69e269e03c703175416db7c7.png",Creme Estrenos 
+#EXTGRP:SERIES & MOVIES 📺📽
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_lcremeplushd 
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a2e2b2394eb85a76267559009b4fab96.png",Creme Horror 
+#EXTGRP:SERIES & MOVIES 📺📽
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_lcreme_horror
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/45fc6220c62755e7e1b18cebf28b14b0.png",Creme Sci Fi Accion
+#EXTGRP:SERIES & MOVIES 📺📽
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_lcreme_staff
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/2ffe4e77325d9a7152f7086ea7aa5114.png",Creme Romance Comedia Drama
+#EXTGRP:SERIES & MOVIES 📺📽
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_lcrememax
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/08f16e3306ee4e49c2afd5542f9f132c.png",Hollywood
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/610/1/index.m3u8
@@ -675,15 +701,18 @@ http://200.78.215.85:8010/play/a09l
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/347d16d6a02cf1c529c2b5d47bf9adb8.png",Eurochannel
 #EXTGRP:SERIES & MOVIES 📺📽
 http://200.78.215.85:8010/play/a0as
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/20590cac6bdbb1d87c1d1587da998b23.png",HBO
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/572d2adfbdcf89dec8f29e0916f50e85.png",Cine Star
 #EXTGRP:SERIES & MOVIES 📺📽
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_cine_star
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/20590cac6bdbb1d87c1d1587da998b23.png",HBO
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/120/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/20590cac6bdbb1d87c1d1587da998b23.png",HBO
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/121/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b2f74898008715a9ceca6e54af1449a4.png",CINEMALATIN
+#EXTGRP:SERIES & MOVIES 📺📽
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_beto_7
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/372549a4e56ced1891d8b3829f884267.png",HBO2
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/595/1/index.m3u8
@@ -693,7 +722,7 @@ http://185.231.160.35/597/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/76f46f7ee4cc52558d3a702ff068ad4d.png",AXN
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/612/1/index.m3u8
-#EXTINF:-1,1KD
+#EXTINF:-1 1KD
 #EXTGRP:SERIES & MOVIES 📺📽
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/d4aabf238fce7adef80eab09652dd0bc.png",Orbi
@@ -705,16 +734,25 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/14db5ba93460bc2fed9a10f4df7eacf2.png",La1
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/119/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/29b9e602efbdf1ba0a8e5666cef85721.png",Rustv
+#EXTGRP:SERIES & MOVIES 📺📽
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_01rustv
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/0da939107cbf0dc6807c8b226441deb1.png",Amedia
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/122/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/c773fdef3889bdadbe809f1e8aaeea46.png",Golden
 #EXTGRP:SERIES & MOVIES 📺📽
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/c773fdef3889bdadbe809f1e8aaeea46.png",CINECALIDAD
+#EXTGRP:SERIES & MOVIES 📺📽
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_cine_calidad
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",TNT
 #EXTGRP:SERIES & MOVIES 📺📽
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1,TELE UNO
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",Zona De Terror
+#EXTGRP:SERIES & MOVIES 📺📽
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_zonafilmsterror
+#EXTINF:-1 TELE UNO
 #EXTGRP:SERIES & MOVIES 📺📽
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ff7f181e26d0f5ea0142575f0a3d49b3.png",LIFE
@@ -744,7 +782,7 @@ http://channels.premiumtutv.com/stream_114_sk_st.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b8d0c45c2dfbcabc6805bf6a0cdb959a.png",Cinemax
 #EXTGRP:SERIES & MOVIES 📺📽
 http://channels.premiumtutv.com/stream_115_sk_st.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1 AMC
 #EXTGRP:SERIES & MOVIES 📺📽
 http://channels.premiumtutv.com/stream_96_sk_st.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/4f2e427c6abfb05b27a05f1a660b7f41.png",TruTV
@@ -774,13 +812,13 @@ http://channels.premiumtutv.com/stream_27_sk_st.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",TNT
 #EXTGRP:SERIES & MOVIES 📺📽
 http://channels.premiumtutv.com/stream_15_sk_st.m3u8
-#EXTINF:-1,Fox
+#EXTINF:-1 Fox
 #EXTGRP:SERIES & MOVIES 📺📽
 http://channels.premiumtutv.com/stream_8_sk_st.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 FX
 #EXTGRP:SERIES & MOVIES 📺📽
 http://channels.premiumtutv.com/stream_29_sk_st.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 Universal
 #EXTGRP:SERIES & MOVIES 📺📽
 http://channels.premiumtutv.com/stream_78_sk_st.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f7b3716c3ba698f1f081b29f11711c02.png",FX MOVIES
@@ -837,7 +875,7 @@ http://185.231.160.35/387/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/94a9a5dcad692a3f4ca1d6b18bb33fd4.png",Divinity
 #EXTGRP:SERIES & MOVIES 📺📽
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1,Energi
+#EXTINF:-1 Energi
 #EXTGRP:SERIES & MOVIES 📺📽
 https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/9b483584a8f77ed3094a2b82b11d35e2.png",CINEMAX
@@ -846,13 +884,13 @@ http://185.231.160.35/401/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eb34fdb59b2b8869d04d03e300288fd1.png",CINEMAX
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/402/1/index.m3u8
-#EXTINF:-1,FX 
+#EXTINF:-1 FX 
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/464/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/96e373dfea5a31c52c7294fb1b40783e.png",ZEEONE
 #EXTGRP:SERIES & MOVIES 📺📽
 http://185.231.160.35/472/1/index.m3u8
-#EXTINF:-1,TDF
+#EXTINF:-1 TDF
 #EXTGRP:SERIES & MOVIES 📺📽
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/d85b935659a8c83f940c7745d5c99f80.png",Extremo
@@ -876,7 +914,7 @@ http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/1611.ts
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/4632ff64d7130edd42f1a284cf679e69.png", Херсон+
 #EXTGRP:SERIES & MOVIES 📺📽
 http://193.107.128.8:8552/play/a016
-#EXTINF:-1,CLASICOS ACS
+#EXTINF:-1 CLASICOS ACS
 #EXTGRP:SERIES & MOVIES 📺📽
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/c6aa94b42c721892565ec59d2b19bfad.png",SUPER INDIAN
@@ -915,6 +953,9 @@ http://109.236.85.100:8081/sipTV/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a23ae2ccf60244393ea1726141685b58.png",Bridge Classic
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://37.9.150.230:4022/udp/232.0.1.27:1234
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/5201aa51ed2a664eb4626a2c161b1061.png",VH1 Classic
+#EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
+http://178.57.227.213:4022/udp/234.5.2.33:1234 
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/db28bedcc57901380bd6858c1d362f6d.png",SUPER RETRO
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
@@ -924,10 +965,13 @@ http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1ab40d18f97f430e1962969b5ecd5023.png",TVPop
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
-#EXTINF:-1,90s
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/4b3dc00a2c05674072bcab7b27a50939.png",Eska Best Music tv
+#EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
+http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
+#EXTINF:-1 90s
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1,Rock
+#EXTINF:-1 Rock
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1929d8b0b8db0b5dec10a19b9a884bdf.png ",Heavy Metal TV
@@ -936,10 +980,10 @@ http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/edd602c4c98a34f409fb35930773c691.png",MY MUSIC
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://46.99.163.177:8098/play/a00a
-#EXTINF:-1,ROCK
+#EXTINF:-1 ROCK
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:-1,Metal
+#EXTINF:-1 Metal
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.music-bazaar.com/album-images/vol1004/670/670326/2518993-big/Pack-Rock-Latino-4-cover.jpg",ROCK LATINO
@@ -948,13 +992,13 @@ https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpZgI8I.png",QMUSICA
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 mms://streamqm.uigc.net/qmusica
-#EXTINF:-1,Rocks
+#EXTINF:-1 Rocks
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://persik.by/stream/6431/299492/10227.m3u8
 #EXTINF:-1 tvg-logo="https://willmckinley.files.wordpress.com/2014/05/logo.png",retrotv
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1058653171_b750000.m3u8
-#EXTINF:-1,Alternative
+#EXTINF:-1 Alternative
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/86a80853772abe5a8b4921c5c5eb8a09.png",Vin
@@ -975,13 +1019,13 @@ http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ranchenatotv.co/wp-content/uploads/2017/11/LOGO.png",Ranchenato TV
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://181.51.57.21:1935/live/ranchenatotv/chunklist_w341880605.m3u8
-#EXTINF:-1,Pop Latino
+#EXTINF:-1 Pop Latino
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ee45380827a21adcaba956b31f8f2b92.png",TOP LATINO
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-#EXTINF:-1,Tropicales
+#EXTINF:-1 Tropicales
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b6d1bf6418e8a4bff1291991c86628dc.png",1MUSIC
@@ -993,10 +1037,10 @@ http://91.190.183.116:81/udp/239.195.5.21:1234
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/2523361604f5bf7d758eea454db3f39f.png",Krone HIT
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
-#EXTINF:-1,CANAL U
+#EXTINF:-1 CANAL U
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
-#EXTINF:-1,PLAYKIDS
+#EXTINF:-1 PLAYKIDS
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/27f08504c8e23c89383aa5ad890892e9.png",CAPITAL
@@ -1008,609 +1052,631 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f956a193d4657bdb8820529f27a2a995.png",МУЗ ТВ
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://195.88.52.102:8000/play/a04m
-#EXTINF:-1,MUSICA CANTABRIA
+#EXTINF:-1 MUSICA CANTABRIA
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b72bb7ba156cc6d58dd8a070855e572d.png",Planeta
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:-1,BERLIN MUSIC
+#EXTINF:-1 BERLIN MUSIC
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/96a78406800cee1d00a70f33abd9a6c7.png",tv6
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://94.240.45.55:10002/bysid/25
-#EXTINF:-1,COLOSOAL
+#EXTINF:-1 COLOSOAL
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w747068544.m3u8
-#EXTINF:-1,Pop Hits
+#EXTINF:-1 Pop Hits
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/430fc5665548e7d9cd68397d64b10aa8.png",HIT TV
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1,TOP MUSIC
+#EXTINF:-1 TOP MUSIC
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/428.ts
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb0e3944a3f42ecacbe255fcdea4b50.png",ENLACE JUVENIL
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://acaooyalahd2-lh.akamaihd.net:80/i/TBN08_delivery@186246/index_1728_av-p.m3u8
-#EXTINF:-1,Dance/EDM
+#EXTINF:-1 Dance/EDM
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png",Portal Fox mix
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/07f9f2395d12868d1efbd90d41f76899.png",ESKA PARTY TV
+#EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
+http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/818af1cf729c058b9b9fdb1c52d7c6ee.png",P MUSIC
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://176.107.213.20:9000/play/a001
-#EXTINF:-1,MTV
+#EXTINF:-1 MTV
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://203.170.145.201:9981/stream/channelid/1646557078
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/0846e57113413eaf14711b55b70bac94.png",Telehit
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://channels.premiumtutv.com/stream_100_sk_st.m3u8
-#EXTINF:-1,VH1
+#EXTINF:-1 VH1
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://channels.premiumtutv.com/stream_91_sk_st.m3u8
-#EXTINF:-1,VH1 Classic
+#EXTINF:-1 VH1 Classic
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://channels.premiumtutv.com/stream_92_sk_st.m3u8
-#EXTINF:-1,MTV Hits
+#EXTINF:-1 MTV Hits
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://channels.premiumtutv.com/stream_93_sk_st.m3u8
-#EXTINF:-1,MTV Live
+#EXTINF:-1 MTV Live
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://channels.premiumtutv.com/stream_94_sk_st.m3u8
-#EXTINF:-1,R&B Soul
+#EXTINF:-1 R&B Soul
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1,Hip-Hop And R&B
+#EXTINF:-1 Hip-Hop And R&B
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-#EXTINF:-1,Hit List
+#EXTINF:-1 Hit List
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",JUEGOS OLIMPICOS HD
+#EXTINF:-1 JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Fox Sport MX
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://200.78.215.85:8010/play/a09g
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Fox Sport 2 MX
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://200.78.215.85:8010/play/a0ay
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Fox Sport 3 MX
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://200.78.215.85:8010/play/a08m
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Fox Sports  HD
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://200.78.215.85:8010/play/a09z
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",ESPN+
+#EXTINF:-1 ESPN+
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://200.78.215.85:8010/play/a08z 
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", WINSPORTS
+#EXTINF:-1  WINSPORTS
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",DEPORTE
+#EXTINF:-1 DEPORTE
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",MOTO GP HD
+#EXTINF:-1 MOTO GP HD
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35:5000//652/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",FORMULA 1
+#EXTINF:-1 FORMULA 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35:5000//651/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Матч! Футбол 1
+#EXTINF:-1 Матч! Футбол 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35:5000//29/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Матч! Футбол 2
+#EXTINF:-1 Матч! Футбол 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35:5000//23/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Матч! Футбол 3
+#EXTINF:-1 Матч! Футбол 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35:5000//24/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Матч_ТВ_Липецк
+#EXTINF:-1 Матч_ТВ_Липецк
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://217.107.196.88:9994/play/Матч_ТВ_Липецк
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Спорт 1 Ukraina
+#EXTINF:-1 Спорт 1 Ukraina
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://178.172.245.155:8121/sport1
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Футбол
+#EXTINF:-1 Футбол
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://195.88.52.102:8000/play/a05u
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Футбол
+#EXTINF:-1 Футбол
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35/1033/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Футбол
+#EXTINF:-1 Футбол
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://91.232.157.222:1235/udp/239.0.0.249:4000
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Футбол 2
+#EXTINF:-1 Футбол 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://62.16.23.8:34040/udp/239.2.66.77:1234
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Футбол 2
+#EXTINF:-1 Футбол 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35/1034/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",COMBATE
+#EXTINF:-1 COMBATE
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://158.58.172.5:8081/looktvs/combate9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SPORT: Fox Sports  2
+#EXTINF:-1 Fox Sport MX
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://200.78.215.85:8010/play/a09g
+#EXTINF:-1 Fox Sport 2 MX
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://200.78.215.85:8010/play/a0ay
+#EXTINF:-1 Fox Sport 3 MX
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://200.78.215.85:8010/play/a08m
+#EXTINF:-1 Fox Sports  HD
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://200.78.215.85:8010/play/a09z
+#EXTINF:-1 SPORT: Fox Sports  2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/7738.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Fox Sports 2
+#EXTINF:-1 Fox Sports 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5539.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Fox Sports 3
+#EXTINF:-1 Fox Sports 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5540.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Fox Sports 4
+#EXTINF:-1 Fox Sports 4
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5541.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Fox Sports 5
+#EXTINF:-1 Fox Sports 5
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5542.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Fox Sports 3
+#EXTINF:-1 Fox Sports 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5546.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Mix
+#EXTINF:-1 Sky Sports Mix
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12779.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports News
+#EXTINF:-1 Sky Sports News
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/586.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports News
+#EXTINF:-1 Sky Sports News
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12147.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports News
+#EXTINF:-1 Sky Sports News
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/44101.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports News
+#EXTINF:-1 Sky Sports News
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/44102.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Main Events
+#EXTINF:-1 Sky Sports Main Events
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/579.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Cricket
+#EXTINF:-1 Sky Sports Cricket
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/584.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Cricket
+#EXTINF:-1 Sky Sports Cricket
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/578.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Action
+#EXTINF:-1 Sky Sports Action
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/583.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Action
+#EXTINF:-1 Sky Sports Action
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/577.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Golf
+#EXTINF:-1 Sky Sports Golf
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/582.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Golf
+#EXTINF:-1 Sky Sports Golf
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/576.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Premier League
+#EXTINF:-1 Sky Sports Premier League
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/581.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Arena
+#EXTINF:-1 Sky Sports Arena
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32740.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Arena
+#EXTINF:-1 Sky Sports Arena
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32739.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Arena
+#EXTINF:-1 Sky Sports Arena
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32738.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Football
+#EXTINF:-1 Sky Sports Football
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32743.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Football
+#EXTINF:-1 Sky Sports Football
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32742.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports Football
+#EXTINF:-1 Sky Sports Football
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32741.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports F1
+#EXTINF:-1 Sky Sports F1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/580.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Sports F1
+#EXTINF:-1 Sky Sports F1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/574.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sports 1
+#EXTINF:-1 BT Sports 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11375.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sports 1
+#EXTINF:-1 BT Sports 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11787.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sports 2
+#EXTINF:-1 BT Sports 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11374.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sports 3
+#EXTINF:-1 BT Sports 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11373.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sports 3
+#EXTINF:-1 BT Sports 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11785.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sports ESPN
+#EXTINF:-1 BT Sports ESPN
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12123.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sports ESPN
+#EXTINF:-1 BT Sports ESPN
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11784.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sport Extra 3
+#EXTINF:-1 BT Sport Extra 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12414.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sport Extra 4
+#EXTINF:-1 BT Sport Extra 4
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12413.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BT Sport Extra 5
+#EXTINF:-1 BT Sport Extra 5
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12412.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",British Eurosport
+#EXTINF:-1 British Eurosport
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11002.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",British Eurosport 2
+#EXTINF:-1 British Eurosport 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11003.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",EIR Sports 2
+#EXTINF:-1 EIR Sports 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11536.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Premier Sports
+#EXTINF:-1 Premier Sports
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/568.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Boxnation
+#EXTINF:-1 Boxnation
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/17752.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",At The Races
+#EXTINF:-1 At The Races
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/150.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",MUTV
+#EXTINF:-1 MUTV
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12398.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 1
+#EXTINF:-1 beIN Sports 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1035.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 2
+#EXTINF:-1 beIN Sports 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1036.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 3
+#EXTINF:-1 beIN Sports 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1037.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 4
+#EXTINF:-1 beIN Sports 4
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1038.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 5
+#EXTINF:-1 beIN Sports 5
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1039.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 6
+#EXTINF:-1 beIN Sports 6
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1040.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 7
+#EXTINF:-1 beIN Sports 7
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1041.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 8
+#EXTINF:-1 beIN Sports 8
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1042.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 9
+#EXTINF:-1 beIN Sports 9
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1043.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 10
+#EXTINF:-1 beIN Sports 10
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1044.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 11
+#EXTINF:-1 beIN Sports 11
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1045.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN Sports 12
+#EXTINF:-1 beIN Sports 12
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1046.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN MAX 5
+#EXTINF:-1 beIN MAX 5
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29543.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN MAX 6
+#EXTINF:-1 beIN MAX 6
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29542.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN MAX 7
+#EXTINF:-1 beIN MAX 7
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29541.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN MAX 8
+#EXTINF:-1 beIN MAX 8
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29540.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN MAX 9
+#EXTINF:-1 beIN MAX 9
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29539.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",beIN MAX 10
+#EXTINF:-1 beIN MAX 10
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29538.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sport.TV2
+#EXTINF:-1 Sport.TV2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12368.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sport.TV3
+#EXTINF:-1 Sport.TV3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12367.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sport.TV4
+#EXTINF:-1 Sport.TV4
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12366.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sport.TV5
+#EXTINF:-1 Sport.TV5
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12365.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SporTV 1
+#EXTINF:-1 SporTV 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12025.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sport Klub 2
+#EXTINF:-1 Sport Klub 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11080.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sport Klub 3
+#EXTINF:-1 Sport Klub 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11079.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sport Klub 4
+#EXTINF:-1 Sport Klub 4
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11078.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sport Klub 5
+#EXTINF:-1 Sport Klub 5
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Futbol 1
+#EXTINF:-1 Futbol 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Futbol 2
+#EXTINF:-1 Futbol 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20949.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Eleven Sports
+#EXTINF:-1 Eleven Sports
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12020.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Ziggo Sport Voetbal
+#EXTINF:-1 Ziggo Sport Voetbal
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/13216.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",DEPORTESXPORE
+#EXTINF:-1 DEPORTESXPORE
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",TVP SPORT HD
+#EXTINF:-1 TVP SPORT HD
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35:5000//588/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SKY SPORT 1 HD LIVE
+#EXTINF:-1 SKY SPORT 1 HD LIVE
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35:5000//786/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SkySport Bundesliga
+#EXTINF:-1 SkySport Bundesliga
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35:5000//773/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",WWE HD
+#EXTINF:-1 WWE HD
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.186.244.80:8080/live/www.janberyan.com-/iptv44/1134.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",EUROSPORT 1
+#EXTINF:-1 EUROSPORT 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://81.228.174.166:8003/eurosport1
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",EUROSPORT 1
+#EXTINF:-1 EUROSPORT 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35/77/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",EUROSPORT 1
+#EXTINF:-1 EUROSPORT 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35/159/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SPORT 1
+#EXTINF:-1 SPORT 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35/25/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",EUROSPORT 2 HD
+#EXTINF:-1 EUROSPORT 2 HD
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://185.231.160.35:5000//77/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",ESPN
+#EXTINF:-1 ESPN
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",ESPN2
+#EXTINF:-1 ESPN2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",ESPN3
+#EXTINF:-1 ESPN3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",NBA
+#EXTINF:-1 NBA
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",RAI SPORTS HD
+#EXTINF:-1 RAI SPORTS HD
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://originstream12.rai.it/italy/raisport1_1800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Eurosport 1
+#EXTINF:-1 Eurosport 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",MLB
+#EXTINF:-1 MLB
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Pac-12 Arizona
+#EXTINF:-1 Pac-12 Arizona
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Pac-12 Bay Area
+#EXTINF:-1 Pac-12 Bay Area
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Pac-12 Los Angeles
+#EXTINF:-1 Pac-12 Los Angeles
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Pac-12 Mountain
+#EXTINF:-1 Pac-12 Mountain
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Pac-12 Oregon
+#EXTINF:-1 Pac-12 Oregon
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Pac-12 Washington
+#EXTINF:-1 Pac-12 Washington
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Rugby TV
+#EXTINF:-1 Rugby TV
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",WAPA 2
+#EXTINF:-1 WAPA 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 https://dcunilive14-lh.akamaihd.net/i/dclive_1@176092/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",NBC Golf
+#EXTINF:-1 NBC Golf
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SOBRE RUEDAS
+#EXTINF:-1 SOBRE RUEDAS
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",F1 HD
+#EXTINF:-1 F1 HD
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/Stream(06)/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",CLARO_SPORTS
+#EXTINF:-1 CLARO_SPORTS
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",REAL MADRID
+#EXTINF:-1 REAL MADRID
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",CHELSEA
+#EXTINF:-1 CHELSEA
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Liverpool
+#EXTINF:-1 Liverpool
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12120.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",CHELSEA
+#EXTINF:-1 CHELSEA
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SEVILLA FC
+#EXTINF:-1 SEVILLA FC
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",REDBULL
+#EXTINF:-1 REDBULL
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",PX SPORTS
+#EXTINF:-1 PX SPORTS
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8  
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SkySport 1
+#EXTINF:-1 TringSport 4
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/11.ts
+#EXTINF:-1 TringSport 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/51.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SkySport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/10.ts
+#EXTINF:-1 TringSport 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/52.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Bundersliga 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/9.ts
+#EXTINF:-1 TringSport 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/56.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Sky Bundersliga 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/8.ts
+#EXTINF:-1 SuperSport Kosova 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/55.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",KujtesaSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/7.ts
+#EXTINF:-1 SuperSport Kosova 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/35.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",KujtesaSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/6.ts
+#EXTINF:-1 SuperSport 4
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/36.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BeinSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/5.ts
+#EXTINF:-1 SuperSport 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/38.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BeinSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/4.ts
+#EXTINF:-1 SuperSport 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/39.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BeinSport 3
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/3.ts
+#EXTINF:-1 SuperSport 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/40.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BeinSport 4
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/2.ts
+#EXTINF:-1 SkySport 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/41.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",BeinSport 5
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/17.ts
+#EXTINF:-1 SkySport 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/42.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",ArenaSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/16.ts
+#EXTINF:-1 Sky Bundersliga 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/53.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",ArenaSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/19.ts
+#EXTINF:-1 Sky Bundersliga 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/54.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",TringSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/18.ts
+#EXTINF:-1 KujtesaSport 4
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/3.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",TringSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/15.ts
+#EXTINF:-1 KujtesaSport 3
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/4.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SuperSport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/14.ts
+#EXTINF:-1 KujtesaSport 2
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/8.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",SuperSport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/13.ts
+#EXTINF:-1 KujtesaSport 1
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://163.172.210.207:8000/live/freeworldwideiptv.com/IptvSportsFree/9.ts
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Andr
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/12.ts
+#EXTINF:-1 BeinSport 5
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-http://185.186.244.80:8080/movie/www.janberyan.com-/jano/1138.mp4
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",ABUDHABI SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/26.ts
+#EXTINF:-1 BeinSport 4
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/25.ts
+#EXTINF:-1 BeinSport 3
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/24.ts
+#EXTINF:-1 BeinSport 2
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/23.ts
+#EXTINF:-1 BeinSport 1
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/22.ts
+#EXTINF:-1 ArenaSport 2
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/21.ts
+#EXTINF:-1 ArenaSport 1
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/20.ts
+#EXTINF:-1 ABUDHABI SPORTS
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",ABUDHABI 2 SPORTS
+#EXTINF:-1 ABUDHABI 2 SPORTS
 #EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 1 CAP 1
+#EXTINF:-1 Star Trek Discovery TEMP 1 CAP 1
 #EXTGRP:SERIES
 https://proxy-18.nyc.dailymotion.com/sec(xa456b2f905f77fdf18fd00f5a56fd60)/video/288/817/367718882_mp4_h264_aac_hd_2.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 1 CAP 2
+##EXTINF:-1 Star Trek Discovery TEMP 1 CAP 2
 #EXTGRP:SERIES
 https://proxy-22.nyc.dailymotion.com/sec(xafe45634236aa268bf2d4e35a56fd60)/video/644/817/367718446_mp4_h264_aac_hq_2.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 1 CAP 3
+##EXTINF:-1 Star Trek Discovery TEMP 1 CAP 3
 #EXTGRP:SERIES
 https://proxy-03.nyc.dailymotion.com/sec(x7fa157c5eeb7cb9bbc5a38c5a56fd60)/video/690/157/371751096_mp4_h264_aac_hd_2.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 1 CAP 4
+##EXTINF:-1 Star Trek Discovery TEMP 1 CAP 4
 #EXTGRP:SERIES
 https://proxy-04.nyc.dailymotion.com/sec(x7d63688e166d78a3d0317e65a56fd60)/video/488/657/371756884_mp4_h264_aac_hd_2.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 1 CAP 5
+##EXTINF:-1 Star Trek Discovery TEMP 1 CAP 5
 #EXTGRP:SERIES
 https://proxy-18.nyc.dailymotion.com/sec(x5f1d0e48a526be707dadbaa5a56fd60)/video/080/857/371758080_mp4_h264_aac_hd_2.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 1 CAP 6
+##EXTINF:-1 Star Trek Discovery TEMP 1 CAP 6
 #EXTGRP:SERIES
 https://proxy-18.nyc.dailymotion.com/sec(xafd334a8bf0069031b836255a56fd60)/video/792/351/374153297_mp4_h264_aac_hd_2.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 1 CAP 7
+##EXTINF:-1 Star Trek Discovery TEMP 1 CAP 7
 #EXTGRP:SERIES
 https://proxy-10.nyc.dailymotion.com/sec(xc4230995514d9c59b0df3985a56fd60)/video/758/515/375515857_mp4_h264_aac_hd_2.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 1 CAP 8
+##EXTINF:-1 Star Trek Discovery TEMP 1 CAP 8
 #EXTGRP:SERIES
 https://proxy-18.nyc.dailymotion.com/sec(x0d6fea3ab304f72dbee468a5a56fd60)/video/439/090/381090934_mp4_h264_aac_hd_2.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 1 CAP 9
+##EXTINF:-1 Star Trek Discovery TEMP 1 CAP 9
 #EXTGRP:SERIES
 https://proxy-06.nyc.dailymotion.com/sec(xeefdd01d6940a25b5bd49ee5a56fd60)/video/639/090/381090936_mp4_h264_aac_hd_2.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Star Trek Discovery TEMP 2 CAP 1
+##EXTINF:-1 Star Trek Discovery TEMP 2 CAP 1
 #EXTGRP:SERIES
 https://1fhjljy.oloadcdn.net/dl/l/dWLWxPenCd7j3BBD/u3VHVl-Khjk/Star.Trek.Discovery.1x10.HD720p.Latino.mp4?mime=true
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",DEEP, EL PULPO DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 DEEP, EL PULPO DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 https://v.d0stream.com/api/link/hls/5a454fb0d7088d25b2463eb9/0/v.m3u8?k=b96d20b9e73aa5d0751533d0d243b848&ext=.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", KONFU PANDA 1 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1  KONFU PANDA 1 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%20%282008%29%20Dual/Kung%20Fu%20Panda%20%282008%29%20M-720p%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", KONFU PANDA 2 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1  KONFU PANDA 2 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%202%20%282011%29%20Dual/Kung%20Fu%20Panda%202%20%282011%29%20M-720p%20Dual-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", KONFU PANDA 3 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1  KONFU PANDA 3 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%203%20%282016%29%20Dual/Kung%20Fu%20Panda%203%20%282016%29%201080p%20Bdrip%20Dual%20Audio%20Latino-ingl%C3%A9s-1%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", KONFU PANDA 4 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1  KONFU PANDA 4 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28K%29/Kung%20Fu%20Panda%20Holiday%20Special%20%282010%29/Kung%20Fu%20Panda%20Holiday%20Special%20%282010%29%20720p%20Dual%20Latino-ingl%C3%A9s%20%5Bsubt.%20Esp-ing%5D-3%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", YOUR NAME DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1  YOUR NAME DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 https://1fiagek.oloadcdn.net/dl/l/CYWIzb0F1nafkBd2/hyXUU6ZdAvM/Kimi.no.na.wa.2016.1080p.1080p-dual-lat.mp4
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", La Era De Hielo I
+#EXTINF:-1  La Era De Hielo I
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/MkZTcH
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", DUMBO DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1  DUMBO DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28D%29/Dumbo%20%281941%29/Dumbo%20%281941%29.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",E.T., el extraterrestre DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 E.T., el extraterrestre DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/E.T.%20-%20The%20Extra-Terrestrial%20%281982%29/E.t.%20-%20The%20Extra-terrestrial%20%281982%29.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", DON GATO & SU PANDILLA DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1  DON GATO & SU PANDILLA DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28D%29/Don%20Gato%20y%20su%20Pandilla%20%282011%29latino/Don%20Gato%20y%20su%20Pandilla%20%282011%29latino%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",FROZEN ADVENTURE ICE DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 FROZEN ADVENTURE ICE DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Frozen%20%282013%29/Frozen%20%282013%29%20%281%29.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Frozen Adventure DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 Frozen Adventure DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",GOL DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 GOL DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Goal%20%282005%29/Goal%20%282005%29.mkv
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", La Era De Hielo III : El Origen De Los Dinosaurios
+#EXTINF:-1  La Era De Hielo III : El Origen De Los Dinosaurios
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/3heZnV
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", La Era De Hielo V : Choque De Mundos
+#EXTINF:-1  La Era De Hielo V : Choque De Mundos
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/XvjtB6
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png", George De La Selva
+#EXTINF:-1  George De La Selva
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/GiHBk5
 #EXTINF:-1 tvg-logo="https://goo.gl/sQ2V7G", lego liga de la justicia DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/lego%20liga%20de%20la%20justicia%202015/Lego%20Liga%20De%20La%20Justicia%202015-1%20%281%29.mkv
-#EXTINF:-1,La Bella Y La Bestia  DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 La Bella Y La Bestia  DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://cecegeek@goo.gl/65yzGX
 #EXTINF:-1 tvg-logo="https://goo.gl/DCQbfj",RIO DUAL AUDIO ESPAÑOL & INGLES
@@ -1652,7 +1718,7 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/Lego%20DC%20Comics%20Super%20
 #EXTINF:-1 tvg-logo="https://goo.gl/XdbXxM",ZOOTOPIA DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 http://axstvdoble.mine.nu/peliculas%20agui/%28Z%29/Zootopia%20%282016%29%20Dual/Zootopia%20%282016%29%20Dual%20%281%29.mkv
-#EXTINF:-1,VALERIAN FULL HD
+#EXTINF:-1 VALERIAN FULL HD
 #EXTGRP:MOVIES KIDS NIÑOS PELICULAS
 https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://goo.gl/w9wzWA",ZAMBEZIA DUAL AUDIO ESPAÑOL & INGLES
@@ -1685,139 +1751,139 @@ https://proxy-10.nyc.dailymotion.com/sec(xbab39f6c7790d15072e60f15a57a620)/video
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/cc/d9/53ccd93e95970764af54f9062939f57b.jpg",DANIEL EL TIGRE 6
 #EXTGRP:SERIES NIÑOS KIDS
 https://proxy-09.nyc.dailymotion.com/sec(x32a8ccf9228bc2afe3260235a57a620)/video/356/581/352185653_mp4_h264_aac_hd_2.m3u8
-#EXTINF:-1,UNA HISTORIA DE STAR WARS
+#EXTINF:-1 UNA HISTORIA DE STAR WARS
 #EXTGRP:PELICULAS MOVIES
 https://www1179.playercdn.net/88/1/yCJd6YHhxOTGKwfu2YP2lA/1515728032/171231/854FN0KAA9M7EVNPN8NNE.mp4
-#EXTINF:-1,X-WEN 1 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 X-WEN 1 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-WEN%20%282000%29%20DUAL/X-WEN%20%282000%29%20DUAL%20%281%29.mkv
-#EXTINF:-1,X-WEN 2 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 X-WEN 2 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-WEN%202%20%282003%29%20DUAL/X-WEN%202%20%282003%29%20DUAL%20%281%29.mkv
-#EXTINF:-1,X-WEN 3 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 X-WEN 3 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-WEN%203%20%282006%29%20DUAL/X-WEN%203%20%282006%29%20DUAL%20%281%29.mkv
-#EXTINF:-1,X-WEN 4 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 X-WEN 4 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-Men%20Origins%20Wolverine%20%282009%29%20Dual/X-Men%20Origins%20Wolverine%20%282009%29%20Dual%20%281%29.mkv
-#EXTINF:-1,X-WEN 5 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 X-WEN 5 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X%20MEN%20FIRST%20CLASS%20%282011%29%20DUAL/X%20MEN%20FIRST%20CLASS%20%282011%29.mkv
-#EXTINF:-1,X-WEN 6 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 X-WEN 6 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-Men%20Days%20of%20Future%20Past%20THE%20ROGUE%20CUT%20%282014%29%20Dual/X-Men%20Days%20of%20Future%20Past%20THE%20ROGUE%20CUT%20%282014%29%20Dual%20%281%29.mkv
-#EXTINF:-1,X-WEN 7 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 X-WEN 7 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-Men%20Apocalypse%20%282016%29%20Dual/X-Men%20Apocalypse%20%282016%29%20Dual%20%281%29.mkv
-#EXTINF:-1,CABALLO DE GUERRA WAR HORSE DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 CABALLO DE GUERRA WAR HORSE DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/War%20Horse%20%282011%29%20Dual/War%20Horse%20%282011%29%20Dual%20%281%29.mkv
-#EXTINF:-1,WARCRAFT DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 WARCRAFT DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Warcraft%20%282016%29%20Dual/Warcraft%20%282016%29%20Dual%20%281%29.mkv
-#EXTINF:-1,WATCHMEN LOS VIGILANTES DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 WATCHMEN LOS VIGILANTES DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Watchmen%20%282009%29%20Dual/Watchmen%20%282009%29%20Dual%20%281%29.mkv
-#EXTINF:-1,WORLD WAR Z DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 WORLD WAR Z DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/World%20War%20Z%20%282013%29%20Dual/World%20War%20Z%20%282013%29%20Dual%20%281%29.mkv
-#EXTINF:-1,VALKYRIE DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 VALKYRIE DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28V%29/Valkyrie%20%282008%29%20Dual/Valkyrie%20%282008%29%20Dual%20%281%29.mkv
-#EXTINF:-1,V FOR VENDETTA V DE VENGANZA DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 V FOR VENDETTA V DE VENGANZA DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28V%29/V%20for%20Vendetta%20%282006%29%20Dual/V%20for%20Vendetta%20%282006%29%20Dual.mkv
-#EXTINF:-1,MI NOVIO ES UN ZOMBIE DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 MI NOVIO ES UN ZOMBIE DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Warm%20Bodies%20%282013%29%20Dual/Warm%20Bodies%20%282013%29%20Dual%20%281%29.mkv
-#EXTINF:-1,LA ÚLTIMA PELEA WARRIOR DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 LA ÚLTIMA PELEA WARRIOR DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Warrior%20%282011%29%20Dual/Warrior%20%282011%29%20Dual%20%281%29.mkv
-#EXTINF:-1,LA GUERRA DE LOS MUNDOS
+#EXTINF:-1 LA GUERRA DE LOS MUNDOS
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/War%20of%20the%20worlds%20%282005%29%20Dual/War%20of%20the%20worlds%20%282005%29%20Dual%20%281%29.mkv
-#EXTINF:-1,THE BUTTERFLY EFFECT 1 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 THE BUTTERFLY EFFECT 1 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Butterfly%20Effect%20%282004%29%20Theatrical%20Dual/The%20Butterfly%20Effect%20%282004%29%20Theatrical%20Dual%20%281%29.mkv
-#EXTINF:-1,THE BUTTERFLY EFFECT 2 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 THE BUTTERFLY EFFECT 2 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Butterfly%20Effect%202%20%282006%29%20Dual/The%20Butterfly%20Effect%202%20%282006%29%20Dual%20%281%29.mkv
-#EXTINF:-1,RIDDICK
+#EXTINF:-1 RIDDICK
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Riddick%20%282013%29%20%20Dual/Riddick%20%282013%29%20Dual-1%20%281%29.mkv
-#EXTINF:-1,RAMBO I
+#EXTINF:-1 RAMBO I
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Rambo%20First%20Blood%20%281982%29%20Dual/Rambo%20First%20Blood%20%281982%29%20Dual%281%29.mkv
-#EXTINF:-1,RAMBO II
+#EXTINF:-1 RAMBO II
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Rambo%20First%20Blood%20Part%20II%20%281985%29%20%20Dual/Rambo%20First%20Blood%20Part%20II%20%281985%29%20%20Dual%20%281%29.mkv
-#EXTINF:-1,RAMBO III
+#EXTINF:-1 RAMBO III
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Rambo%20First%20Blood%20Part%20III%20%281988%29%20%20Dual/Rambo%20First%20Blood%20Part%20III%20%281988%29%20%20Dual%20%281%29.mkv
-#EXTINF:-1,RESIDENT EVIL
+#EXTINF:-1 RESIDENT EVIL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%201%20Dual/Resident%20Evil%201%20Dual.mkv
-#EXTINF:-1,RESIDENT EVIL II
+#EXTINF:-1 RESIDENT EVIL II
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%202%20%20Apocalipsis%20Dual/Resident%20Evil%202%20%20Apocalipsis%20Dual.mkv
-#EXTINF:-1,RESIDENT EVIL III
+#EXTINF:-1 RESIDENT EVIL III
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%203%20Extinction%20Dual/Resident%20Evil%203%20Extinction%20Dual.mkv
-#EXTINF:-1,RESIDENT EVIL IV
+#EXTINF:-1 RESIDENT EVIL IV
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%204%20After%20life%20Dual/Resident%20Evil%204%20After%20Life%20Dual-2.mkv
-#EXTINF:-1,RESIDENT EVIL V
+#EXTINF:-1 RESIDENT EVIL V
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%20Degeneration%20%282008%29%20Dual/Resident%20Evil%20Degeneration%20%282008%29%20Dual-1%20%281%29.mkv
-#EXTINF:-1,RESIDENT EVIL VI
+#EXTINF:-1 RESIDENT EVIL VI
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%20Damnation%20%282012%29%20%20Dual/Resident%20Evil%20Damnation%20%282012%29%20Dual-1%20%281%29.mkv
-#EXTINF:-1,RESIDENT EVIL VII
+#EXTINF:-1 RESIDENT EVIL VII
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%20Retribution%20%282012%29%20%20Dual/Resident%20Evil%20Retribution%20%282012%29%20Dual-2%20%281%29.mkv
-#EXTINF:-1,GHOST IN THE SHELL
+#EXTINF:-1 GHOST IN THE SHELL
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/04052017AQCGH04052017298746/04052017AQCGH.mp4
-#EXTINF:-1,THE AVENGERS
+#EXTINF:-1 THE AVENGERS
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/The%20Avengers%20%282012%29%20Dual/The%20Avengers%20%282012%29%20Dual-1%20%281%29.mkv
-#EXTINF:-1,THE AVENGERS AGE OF ULTRON
+#EXTINF:-1 THE AVENGERS AGE OF ULTRON
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/the%20Avengers%20Age%20of%20Ultron%20%282015%29%20Dual/the%20Avengers%20Age%20of%20Ultron%20%282015%29%20Dual%20%281%29.mkv
-#EXTINF:-1,DIA DE LA INDEPENDENCIA 2 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 DIA DE LA INDEPENDENCIA 2 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Independence%20Day%20Resurgence%20%282016%29%20dual/Independence%20Day%20Resurgence%202016%20dual.mkv
-#EXTINF:-1,DIA DE LA INDEPENDENCIA 1 DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 DIA DE LA INDEPENDENCIA 1 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Independence%20Day%20%5BExtended%5D%20%281996%29%20Dual/Independence%20Day%20%5Bextended%5D%20%281996%29%20Dual%20ripeada%20%281%29.mkv
-#EXTINF:-1,GRAVEDAD DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 GRAVEDAD DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Gravity%20%282013%29/Gravity%20%282013%29.mkv
-#EXTINF:-1,INDIANA DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 INDIANA DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20-%20Raiders%20of%20the%20Lost%20Ark%20%281981%29Dual/Indiana%20Jones%20And%20The%20Raiders%20Of%20The%20Lost%20Ark%20%281981%29%20Bdrip%201080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1,INDIANA II DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 INDIANA II DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Kingdom%20of%20the%20Crystal%20Skull%20%282008%29Dual/Indiana%20Jones%20And%20The%20Kingdom%20Of%20The%20Crystal%20Skull%20%282008%29%201080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1,INDIANA III DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 INDIANA III DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Last%20Crusade%20%281989%29%20Dual/Indiana%20Jones%20And%20The%20Last%20Crusade%20%281989%29%201080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1,INDIANA IIII DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 INDIANA IIII DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%20%281984%29Dual/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom%20%281984%29%201080p%20Dual-1%20%281%29.mkv
-#EXTINF:-1,EL MARIACHI
+#EXTINF:-1 EL MARIACHI
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20Mariachi%20%281992%29Audio%20Latino/El%20Mariachi%20%281992%29%20720p%20Bdrip%20Audio%20Latino.mkv
-#EXTINF:-1,DRACULA DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 DRACULA DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28D%29/Dracula%20Untold%20%282014%29/Dracula%20Untold%20%282014%29-1%20%281%29.mkv
-#EXTINF:-1,FHY DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 FHY DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%281985%29/Back%20To%20The%20Future%20%281985%29.mkv
-#EXTINF:-1,EL GLADIADOR  DUAL AUDIO ESPAÑOL & INGLES
+#EXTINF:-1 EL GLADIADOR  DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Gladiator%20%282000%29/Gladiator%20%282000%29.mkv
-#EXTINF:-1,Regreso al futuro II
+#EXTINF:-1 Regreso al futuro II
 #EXTGRP:PELICULAS MOVIES
 https://ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
 #EXTINF:-1 tvg-logo="https://goo.gl/s5SRDt",Looper
@@ -1835,520 +1901,517 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%20Beyond%20Thunderd
 #EXTINF:-1 tvg-logo="https://goo.gl/PY6VxK",MAD MAX 4 DUAL AUDIO ESPAÑOL & INGLES
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mad%20Max%20Fury%20Road%282015%29/Mad.max.fury.road.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20ripeada%20%281%29.mkv
-#EXTINF:-1,Volver al futuro III
+#EXTINF:-1 Volver al futuro III
 #EXTGRP:PELICULAS MOVIES
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-#EXTINF:-1,Volver al futuro
+#EXTINF:-1 Volver al futuro
 #EXTGRP:PELICULAS MOVIES
 https://ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
-#EXTINF:-1,LA MUJER MARAVILA
+#EXTINF:-1 LA MUJER MARAVILA
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/MARAVILA_201708/MARAVILA.flv
-#EXTINF:-1,Death race 2050
+#EXTINF:-1 Death race 2050
 #EXTGRP:PELICULAS MOVIES
 https://ia801508.us.archive.org/17/items/D347HR4C3REGIO/D347H__R4C3REGIO.mp4
-#EXTINF:-1,A golpe de monedas
+#EXTINF:-1 A golpe de monedas
 #EXTGRP:PELICULAS MOVIES
 https://ia801508.us.archive.org/17/items/SrRegio_20170109_2343/A.golpe.de.monedas.720p.Latino.PY.mp4
-#EXTINF:-1,Comancheria
+#EXTINF:-1 Comancheria
 #EXTGRP:PELICULAS MOVIES
 https://ia801508.us.archive.org/17/items/SRREGIO41542878/c0m4nch3r14.mp4
-#EXTINF:-1,Bad Santa 2: Recargado
+#EXTINF:-1 Bad Santa 2: Recargado
 #EXTGRP:PELICULAS MOVIES
 https://ia801508.us.archive.org/17/items/srregio1425368/84d54n74.mp4
-#EXTINF:-1,[Rec] I
+#EXTINF:-1 [Rec] I
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28ZIMBOLOS%29/%5bRec%5d%20%282007%29%20Espa%c3%b1ol/%5bRec%5d%20%282007%29%20Espa%c3%b1ol%20%281%29.mkv
-#EXTINF:-1,[Rec] II
+#EXTINF:-1 [Rec] II
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28ZIMBOLOS%29/%5bRec%5d%202%20%282009%29%20Espa%c3%b1ol/%5bRec%5d%202%20%282009%29%20Espa%c3%b1ol%20%281%29.mkv
-#EXTINF:-1,[Rec] III
+#EXTINF:-1 [Rec] III
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28ZIMBOLOS%29/%5bRec%5d%203%20Genesis%20%282012%29%20Espa%c3%b1ol/%5bRec%5d%203%20Genesis%20%282012%29%20Espa%c3%b1ol%20%281%29.mkv
-#EXTINF:-1, La Cabaña
+#EXTINF:-1  La Cabaña
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/LCabaSRREGIO/LCabaSRREGIO.mkv
-#EXTINF:-1, Rapido y Furioso 8
+#EXTINF:-1  Rapido y Furioso 8
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/RapYFurOchSRREGIO/RapYFurOchSRREGIO.mkv
-#EXTINF:-1, Proof Of The Devil 2005
+#EXTINF:-1  Proof Of The Devil 2005
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/ProfOfThDeSRREGIO/ProfOfThDeSRREGIO.mkv
-#EXTINF:-1, Guardianes
+#EXTINF:-1  Guardianes
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/LoGuarSRREGIO/LoGuarSRREGIO.mkv
-#EXTINF:-1, Familia Monster
+#EXTINF:-1  Familia Monster
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/HaFaSRREGIO/HaFaSRREGIO.mkv
-#EXTINF:-1, Trolls Holiday
+#EXTINF:-1  Trolls Holiday
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/TroHoliSRREGIO/TroHoliSRREGIO.mkv
-#EXTINF:-1, Amor A Primera Vista
+#EXTINF:-1  Amor A Primera Vista
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/AaPVSRREGIO/AaPVSRREGIO.mkv
-#EXTINF:-1, Dos Bribones Tras La Esmeralda
+#EXTINF:-1  Dos Bribones Tras La Esmeralda
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/tr4s.3l.c0r4z0n..SRREGIO/tr4s.3l.c0r4z0n..SRREGIO.mkv
-#EXTINF:-1, Campeon de Campeones
+#EXTINF:-1  Campeon de Campeones
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/Cam.d.camp.1989SRREGIO/Cam.d.camp.1989SRREGIO.mkv
-#EXTINF:-1, Fragiles
+#EXTINF:-1  Fragiles
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
-#EXTINF:-1, Es Por Tu Bien
+#EXTINF:-1  Es Por Tu Bien
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/Esbien.SRREGIO/Esbien.SRREGIO.mkv
-#EXTINF:-1, Atomica
+#EXTINF:-1  Atomica
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
-#EXTINF:-1, Zombiology
+#EXTINF:-1  Zombiology
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
-#EXTINF:-1, Pokemon YO TE ELIGO Cam 2017
+#EXTINF:-1  Pokemon YO TE ELIGO Cam 2017
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/PoLaPeSRREGIO/PoLaPeSRREGIO.mkv
-#EXTINF:-1, La Noche de la Bruja
+#EXTINF:-1  La Noche de la Bruja
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
-#EXTINF:-1, Pandemic
+#EXTINF:-1  Pandemic
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/p4n.SRREGIO/p4n.SRREGIO.mkv
-#EXTINF:-1, Phineas y Ferb Mision Marvel
+#EXTINF:-1  Phineas y Ferb Mision Marvel
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/Phi.Fe.Mi.MarSRREGIO/Phi.Fe.Mi.MarSRREGIO.mkv
-#EXTINF:-1, VALERIAM y la ciudad de los mil planetas
+#EXTINF:-1  VALERIAM y la ciudad de los mil planetas
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
-#EXTINF:-1, El Rostro De Un Angel
+#EXTINF:-1  El Rostro De Un Angel
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
-#EXTINF:-1, 1992
+#EXTINF:-1  1992
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/1992.SRREGIO/1992.SRREGIO.mkv
-#EXTINF:-1, La Morgue
+#EXTINF:-1  La Morgue
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/85312467985216SRREGIO/85312467985216.mkv
-#EXTINF:-1, Marjorie Prime
+#EXTINF:-1  Marjorie Prime
 #EXTGRP:PELICULAS MOVIES
 https://ia801507.us.archive.org/22/items/major_201710/major.mp4
-#EXTINF:-1, Amytiville El Despertar
+#EXTINF:-1  Amytiville El Despertar
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
-#EXTINF:-1, L.O.R.D The Legend Of Ravaging Dynasties
+#EXTINF:-1  L.O.R.D The Legend Of Ravaging Dynasties
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
-#EXTINF:-1, Aftermath
+#EXTINF:-1  Aftermath
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/407300470.SRREGIO/407300470.SRREGIO.mkv
-#EXTINF:-1, Duelo de Titanes
+#EXTINF:-1  Duelo de Titanes
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
-#EXTINF:-1, Batman vs Dos Caras
+#EXTINF:-1  Batman vs Dos Caras
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/baVStwoFa3.SRREGIO/baVStwoFa3.SRREGIO.mkv
-#EXTINF:-1, Shopkins World Vacation
+#EXTINF:-1  Shopkins World Vacation
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/SHOPKINSSRREGIODOCUMENTAL/SHOPKINS.WORLD.VACATION.mkv
-#EXTINF:-1, Cult Of Chucky
+#EXTINF:-1  Cult Of Chucky
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mkv
-#EXTINF:-1,EL MENSAJERO DE LA OSCURIDAD
+#EXTINF:-1 EL MENSAJERO DE LA OSCURIDAD
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
-#EXTINF:-1,30 DIAS DE NOCHE
+#EXTINF:-1 30 DIAS DE NOCHE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/30%20Days%20of%20Night%20%282007%29/30%20Days%20Of%20Night%20%282007%29%20%281%29.mkv
-#EXTINF:-1,ASESINO DE LA CARRETERA
+#EXTINF:-1 ASESINO DE LA CARRETERA
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,EL ORFANATO
+#EXTINF:-1 EL ORFANATO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20720p%20Audio%20Espa%C3%B1ol/El%20Orfanato%20%282007%29%20720p%20Audio%20Espa%C3%B1ol.mkv
-#EXTINF:-1,13 PECADOS
+#EXTINF:-1 13 PECADOS
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%C3%A9s/13%20Sins%20%282014%29%20Ingl%C3%A9s%20%281%29.mkv
-#EXTINF:-1,EL LABERINTO DEL FAUNO
+#EXTINF:-1 EL LABERINTO DEL FAUNO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20laberinto%20del%20fauno%20%282006%29Espa%C3%B1ol/El%20Laberinto%20Del%20Fauno%20%282006%29espa%C3%B1ol.mkv
-#EXTINF:-1,OUIJA (2014)
+#EXTINF:-1 OUIJA (2014)
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014%20Dual%20%281%29.mkv
-#EXTINF:-1,CHRISTMAS HORROR STORY
+#EXTINF:-1 CHRISTMAS HORROR STORY
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,31
+#EXTINF:-1 31
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%c3%a9s/31%20%282016%29%20Ingl%c3%a9s.mkv
-#EXTINF:-1,AVENIDA 10 CLOVERFIELD
+#EXTINF:-1 AVENIDA 10 CLOVERFIELD
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/10%20Cloverfield%20Lane%20%282016%29.mkv
-#EXTINF:-1,EL ATICO (2016)
+#EXTINF:-1 EL ATICO (2016)
 #EXTGRP:PELICULAS MOVIES
 https://1.bp.blogspot.com/yvhBrv7rf8oKgc7StNTMpvpkPdz02ZEm8goIGcdj1UgZkRui6ouhlm1wnxi_DCFsRHUG0qj10n5JoylqeENIDFXVUlmGP3e1R_c8daAwXIBuH-AbTGjv3sRMkqG_W02v56zyHQ=m22
-#EXTINF:-1,28 DIAS DESPUES: EXTERMINIO
+#EXTINF:-1 28 DIAS DESPUES: EXTERMINIO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/28%20Days%20Later%20%282002%29%20%281%29.mkv
-#EXTINF:-1,28 SEMANAS DESPUES: EXTERMINIO 2
+#EXTINF:-1 28 SEMANAS DESPUES: EXTERMINIO 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/28%20Weeks%20Later%20%282007%29%20%281%29.mkv
-#EXTINF:-1,ANNABELLE
+#EXTINF:-1 ANNABELLE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
-#EXTINF:-1,CARRIE
+#EXTINF:-1 CARRIE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
-#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO
+#EXTINF:-1 CHUCKY EL MUÑECO DIABOLICO
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
-#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 2
+#EXTINF:-1 CHUCKY EL MUÑECO DIABOLICO 2
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
-#EXTINF:-1,CHUCKY EL MUÑECO DIABOLICO 3
+#EXTINF:-1 CHUCKY EL MUÑECO DIABOLICO 3
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
-#EXTINF:-1,LA NOVIA DE CHUCKY
+#EXTINF:-1 LA NOVIA DE CHUCKY
 #EXTGRP:PELICULAS MOVIES
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
-#EXTINF:-1,EL HIJO DE CHUCKY
+#EXTINF:-1 EL HIJO DE CHUCKY
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Seed%20of%20Chucky%20%282004%29%20Dual/Seed%20of%20Chucky%20%282004%29%20Dual%20%281%29.mkv
-#EXTINF:-1,LA MALDICION DE CHUCKY
+#EXTINF:-1 LA MALDICION DE CHUCKY
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/Curse%20Of%20Chucky%20%282013%29%20Unrated%20%281%29.mkv
-#EXTINF:-1,DESTINO FINAL
+#EXTINF:-1 DESTINO FINAL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
-#EXTINF:-1,DESTINO FINAL 2
+#EXTINF:-1 DESTINO FINAL 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
-#EXTINF:-1,DESTINO FINAL 3
+#EXTINF:-1 DESTINO FINAL 3
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/Final%20Destination%203%20%282006%29.mkv
-#EXTINF:-1,DESTINO FINAL 4
+#EXTINF:-1 DESTINO FINAL 4
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/Final%20Destination%204%20%282009%29.mkv
-#EXTINF:-1,DESTINO FINAL 5
+#EXTINF:-1 DESTINO FINAL 5
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/Final%20Destination%205%20%282011%29.mkv
-#EXTINF:-1,DULCE VENGANZA
+#EXTINF:-1 DULCE VENGANZA
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%20%282010%29%20Dual/I%20Spit%20On%20Your%20Grave%20%282010%29Dual%20ripeada.mkv
-#EXTINF:-1,DULCE VENGANZA 2
+#EXTINF:-1 DULCE VENGANZA 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20%20Ingl%c3%a9s/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20Unrated%20Ingl%c3%a9s%20ripeada%20%281%29.mkv
-#EXTINF:-1,HOSTAL
+#EXTINF:-1 HOSTAL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel%20%282005%29/Hostel%20%282005%29%20Dual.mkv
-#EXTINF:-1,HOSTAL PARTE 2
+#EXTINF:-1 HOSTAL PARTE 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29/Hostel-part%20II%20%282007%29%20Dual.mkv
-#EXTINF:-1,HOSTAL PARTE 3
+#EXTINF:-1 HOSTAL PARTE 3
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20III%20%282011%29/Hostel-part%20III%282011%29dual.mkv
-#EXTINF:-1,IT ESO
+#EXTINF:-1 IT ESO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/It%20%5beso%5d%20%281990%29%20%20Dual.mkv
-#EXTINF:-1,LA NOCHE DEL DEMONIO
+#EXTINF:-1 LA NOCHE DEL DEMONIO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual/Insidious%20%282010%29%20720p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1,LA NOCHE DEL DEMONIO: CAPITULO 2
+#EXTINF:-1 LA NOCHE DEL DEMONIO: CAPITULO 2
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
-#EXTINF:-1,LA NOCHE DEL DEMONIO: CAPITULO 3
+#EXTINF:-1 LA NOCHE DEL DEMONIO: CAPITULO 3
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LA VENGANZA DE FREDDY
+#EXTINF:-1 PESADILLA EN LA CALLE DEL INFIERNO: LA VENGANZA DE FREDDY
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29/A%20Nightmare%20On%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LOS GUERREROS DEL SUEÑO
+#EXTINF:-1 PESADILLA EN LA CALLE DEL INFIERNO: LOS GUERREROS DEL SUEÑO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29/A%20Nightmare%20On%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL AMO DE LOS SUEÑOS
+#EXTINF:-1 PESADILLA EN LA CALLE DEL INFIERNO: EL AMO DE LOS SUEÑOS
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29/A%20Nightmare%20On%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL NIÑO DE LOS SUEÑOS
+#EXTINF:-1 PESADILLA EN LA CALLE DEL INFIERNO: EL NIÑO DE LOS SUEÑOS
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29/A%20Nightmare%20On%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29.mkv
-#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO
+#EXTINF:-1 PESADILLA EN LA CALLE DEL INFIERNO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%282010%29/A%20Nightmare%20On%20Elm%20Street%20%282010%29.mkv
-#EXTINF:-1,SAW: JUEGO MACABRO
+#EXTINF:-1 SAW: JUEGO MACABRO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20%282004%29%20Ingles/Saw%20%282004%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW II
+#EXTINF:-1 SAW II
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20II%20%282005%29%20Ingles/Saw%20II%20%282005%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW III
+#EXTINF:-1 SAW III
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20III%20%282006%29%20Ingles/Saw%20III%20%282006%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW IV
+#EXTINF:-1 SAW IV
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20IV%20%282007%29%20Ingles/Saw%20IV%20%282007%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW V
+#EXTINF:-1 SAW V
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20V%20%282008%29%20Ingles/Saw%20V%20%282008%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW VI
+#EXTINF:-1 SAW VI
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VI%20%282009%29%20Ingles/Saw%20VI%20%282009%29%20Ingles%20%281%29.mkv
-#EXTINF:-1,SAW VII
+#EXTINF:-1 SAW VII
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VII%20%282010%29%20m720p%20Ingles/Saw%20Vii%20%282010%29%20M720p%20Ingles-3%20%281%29.mkv
-#EXTINF:-1,SCREAM: VIGILA QUIEN LLAMA
+#EXTINF:-1 SCREAM: VIGILA QUIEN LLAMA
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%20%281996%29%20Ingl%c3%a9s/Scream%20%281996%29%20Ingl%c3%a9s%20%281%29.mkv
-#EXTINF:-1,SCREAM: GRITA Y VUELVE A GRITAR
+#EXTINF:-1 SCREAM: GRITA Y VUELVE A GRITAR
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%202%20%281997%29%20Dual/Scream%202%20%281997%29%20Dual%20%281%29.mkv
-#EXTINF:-1,SCREAM: LA MASCARA DE LA MUERTE
+#EXTINF:-1 SCREAM: LA MASCARA DE LA MUERTE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%203%20%282000%29%20Dual/Scream%203%20%282000%29%20Dual%20%281%29.mkv
-#EXTINF:-1,SCREAM: VUELVE A GRITAR
+#EXTINF:-1 SCREAM: VUELVE A GRITAR
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%204%20%282011%29%20Dual/Scream%204%20%282011%29%20Dual%20%281%29.mkv
-#EXTINF:-1,SILENT HILL
+#EXTINF:-1 SILENT HILL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20%282006%29%20Dual/Silent%20Hill%20%282006%29%20Dual%20%281%29.mkv
-#EXTINF:-1,SILENT HILT: REVELACION
+#EXTINF:-1 SILENT HILT: REVELACION
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20Revelation%20%282012%29%20Dual/Silent%20Hill%20Revelation%20%282012%29%20Dual%20%281%29.mkv
-#EXTINF:-1,VIERNES 13
+#EXTINF:-1 VIERNES 13
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20%281980%29/Friday%20The%2013th%20%281980%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 PARTE II
+#EXTINF:-1 VIERNES 13 PARTE II
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%202%20%281981%29/Friday%20The%2013th%20Part%202%20%281981%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 PARTE III
+#EXTINF:-1 VIERNES 13 PARTE III
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%203%20%281982%29/Friday%20the%2013th%20Part%203%20%281982%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13: EL CAPITULO FINAL
+#EXTINF:-1 VIERNES 13: EL CAPITULO FINAL
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20-%20The%20Final%20Chapter%20%281984%29/Friday%20The%2013th%20-%20The%20Final%20Chapter%20%281984%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 PARTE V UN NUEVO COMIENZO
+#EXTINF:-1 VIERNES 13 PARTE V UN NUEVO COMIENZO
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 CAPITULO VI JASON VIVE
+#EXTINF:-1 VIERNES 13 CAPITULO VI JASON VIVE
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VI%20-%20Jason%20Lives%20%281986%29/Friday%20The%2013th%20Part%20Vi%20-%20Jason%20Lives%20%281986%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 PARTE VII LA SANGRE NUEVA
+#EXTINF:-1 VIERNES 13 PARTE VII LA SANGRE NUEVA
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VII%20-%20The%20New%20Blood%20%281988%29/Friday%20The%2013th%20Part%20Vii%20-%20The%20New%20Blood%20%281988%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13 PARTE VIII JASON TOMA MANHATTAN
+#EXTINF:-1 VIERNES 13 PARTE VIII JASON TOMA MANHATTAN
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VIII%20-%20Jason%20Takes%20Manhattan%20%281989%29/Friday%20The%2013th%20Part%20Viii%20-%20Jason%20Takes%20Manhattan%20%281989%29%20%281%29.mkv
-#EXTINF:-1,VIERNES 13
+#EXTINF:-1 VIERNES 13
 #EXTGRP:PELICULAS MOVIES
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20%282009%29%20Extended/Friday%20The%2013th%20%282009%29%20Extended%20%281%29.mkv
-#EXTINF:-1,Volver Al Futuro
+#EXTINF:-1 Volver Al Futuro
 #EXTGRP:PELICULAS MOVIES
 https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4
-#EXTINF:-1,Volver al Futuro III
+#EXTINF:-1 Volver al Futuro III
 #EXTGRP:PELICULAS MOVIES
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1,Niña Mala
+#EXTINF:-1 Niña Mala
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4
-#EXTINF:-1,EL Matador
+#EXTINF:-1 EL Matador
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/d0/drpyk_480p_1mbps.mp4
-#EXTINF:-1,Triste San Valentin
+#EXTINF:-1 Triste San Valentin
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4
-#EXTINF:-1, Striptease
+#EXTINF:-1  Striptease
 #EXTGRP:PELICULAS MOVIES
 http://ow.ly/R9AG30eXNAI
-#EXTINF:-1,Harry Potter Y La Piedra Filosofal
+#EXTINF:-1 Harry Potter Y La Piedra Filosofal
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/UWWRe5
-#EXTINF:-1,Harry Potter Y El Prisionero De Azkaban
+#EXTINF:-1 Harry Potter Y El Prisionero De Azkaban
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/NKgGxD
-#EXTINF:-1,Chucky El Muñeco Diabolico
+#EXTINF:-1 Chucky El Muñeco Diabolico
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/YowBkJ
-#EXTINF:-1,Chucky El Muñeco Diabolico II
+#EXTINF:-1 Chucky El Muñeco Diabolico II
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/xnNiv2
-#EXTINF:-1,Luna De Miel En Familia
+#EXTINF:-1 Luna De Miel En Familia
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/zWzJ9v
-#EXTINF:-1, Striptease
+#EXTINF:-1  Striptease
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/XcmKwC
-#EXTINF:-1, Diario De Una Pasion
+#EXTINF:-1  Diario De Una Pasion
 #EXTGRP:PELICULAS MOVIES
 http://cecegeek@goo.gl/NmTmoq
-#EXTINF:-1,Los Hermanos Grimm
+#EXTINF:-1 Los Hermanos Grimm
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
-#EXTINF:-1,Alexander Y Un Dia Terrible, Horrible, Malo...
+#EXTINF:-1 Alexander Y Un Dia Terrible, Horrible, Malo...
 #EXTGRP:PELICULAS MOVIES
 https://ia600508.us.archive.org/16/items/ALEXANDERYSUDIAMALOMUYMALO...HORRIBLE/ALEXANDER%20Y%20SU%20DIA%20MALO%2C%20MUY%20MALO...%20HORRIBLE.mp4
-#EXTINF:-1,Triste San Valentin
+#EXTINF:-1 Triste San Valentin
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,Desnudo
+#EXTINF:-1 Desnudo
 #EXTGRP:PELICULAS MOVIES
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:306-Desnudo.mp4/playlist.m3u8
-#EXTINF:-1,American Made
+#EXTINF:-1 American Made
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/MSRREGIO/MSRREGIO.mkv
-#EXTINF:-1,Salvajes
+#EXTINF:-1 Salvajes
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/SalSRREGIO/SalSRREGIO.mkv
-#EXTINF:-1,Hermanos Guardianes
+#EXTINF:-1 Hermanos Guardianes
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/HeGuSRREGIO/HeGuSRREGIO.mkv
-#EXTINF:-1,Eso 2017
+#EXTINF:-1 Eso 2017
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/e27tSRREGIO/e27tSRREGIO.mkv
-#EXTINF:-1,60 Minutos Para Morir
+#EXTINF:-1 60 Minutos Para Morir
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/60mipamoSRREGIO/60mipamoSRREGIO.mkv
-#EXTINF:-1,Dunkerke
+#EXTINF:-1 Dunkerke
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/DunSRREGIO/DunSRREGIO.mkv
-#EXTINF:-1, Pequeño Vampiro
+#EXTINF:-1  Pequeño Vampiro
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/PeVaSRREGIO/PeVaSRREGIO.mkv
-#EXTINF:-1, Kingsman El Circulo Dorado
+#EXTINF:-1  Kingsman El Circulo Dorado
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/KimaCirDoSRREGIO/KimaCirDoSRREGIO.mkv
-#EXTINF:-1, Buenos Vecinos 2
+#EXTINF:-1  Buenos Vecinos 2
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/Nei2SRREGIO/Nei2SRREGIO.mkv
-#EXTINF:-1, La Cabaña
+#EXTINF:-1  La Cabaña
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/LCabaSRREGIO/LCabaSRREGIO.mkv
-#EXTINF:-1, La Barberia 3
+#EXTINF:-1  La Barberia 3
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/LaBarTresSRREGIO/LaBarTresSRREGIO.mkv
-#EXTINF:-1, Eterno Resplandor
+#EXTINF:-1  Eterno Resplandor
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/EteRespSRREGIO/EteRespSRREGIO.mkv
-#EXTINF:-1, Rapido y Furioso 8
+#EXTINF:-1  Rapido y Furioso 8
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/RapYFurOchSRREGIO/RapYFurOchSRREGIO.mkv
-#EXTINF:-1, Trolls Holiday
+#EXTINF:-1  Trolls Holiday
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/TroHoliSRREGIO/TroHoliSRREGIO.mkv
-#EXTINF:-1, Amor A Primera Vista
+#EXTINF:-1  Amor A Primera Vista
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/AaPVSRREGIO/AaPVSRREGIO.mkv
-#EXTINF:-1, Notorious Big
+#EXTINF:-1  Notorious Big
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/NotoBigSRREGIO/NotoBigSRREGIO.mkv
-#EXTINF:-1, Apocalypto
+#EXTINF:-1  Apocalypto
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/4900471970SRREGIO/4900471970-SRREGIO.mkv
-#EXTINF:-1, Dos Bribones Tras La Esmeralda
+#EXTINF:-1  Dos Bribones Tras La Esmeralda
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/tr4s.3l.c0r4z0n..SRREGIO/tr4s.3l.c0r4z0n..SRREGIO.mkv
-#EXTINF:-1, Conrabando
+#EXTINF:-1  Conrabando
 #EXTGRP:PELICULAS MOVIES
 https://archive.org/download/ContrabaSRREGIO/ContrabaSRREGIO.mp4
-#EXTINF:-1,triste san valentin
+#EXTINF:-1 triste san valentin
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,hallowen
+#EXTINF:-1 hallowen
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,Asesino de La Carretera
+#EXTINF:-1 Asesino de La Carretera
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,un vuelo de locura
+#EXTINF:-1 un vuelo de locura
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4?disco
-#EXTINF:-1,volver al futuro 1
+#EXTINF:-1 volver al futuro 1
 #EXTGRP:PELICULAS MOVIES
 https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
-#EXTINF:-1,volver al futuro 3
+#EXTINF:-1 volver al futuro 3
 #EXTGRP:PELICULAS MOVIES
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-#EXTINF:-1,el matador
+#EXTINF:-1 el matador
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/d0/drpyk_480p_1mbps.mp4?disco
-#EXTINF:-1,Nina mala
+#EXTINF:-1 Nina mala
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4?disco
-#EXTINF:-1,horas-de-oscuridad
+#EXTINF:-1 horas-de-oscuridad
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4?disco
-#EXTINF:-1,fiesta-de-bodas
+#EXTINF:-1 fiesta-de-bodas
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
-#EXTINF:-1,esquizofrenia
+#EXTINF:-1 esquizofrenia
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/8/r0/zmoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,el-mensajero-de-la-oscuridad
+#EXTINF:-1 el-mensajero-de-la-oscuridad
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?disco
-#EXTINF:-1,hermanos grimm
+#EXTINF:-1 hermanos grimm
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?disco
-#EXTINF:-1,ilusionista
+#EXTINF:-1 ilusionista
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?disco
-#EXTINF:-1,peligro en bangkok
+#EXTINF:-1 peligro en bangkok
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/o/n0/cdoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,perfume
+#EXTINF:-1 perfume
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/0/n0/seoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,La vida perfecta
+#EXTINF:-1 La vida perfecta
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/q/v0/apoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,espia Por accidente
+#EXTINF:-1 espia Por accidente
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?disco
-#EXTINF:-1,red line
+#EXTINF:-1 red line
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/l/h0/jlmyk_480p_1mbps.mp4?disco
-#EXTINF:-1,sacrificio
+#EXTINF:-1 sacrificio
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?disco
-#EXTINF:-1,robocop defensor del futuro
+#EXTINF:-1 robocop defensor del futuro
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
-#EXTINF:-1,la pantera rosa
+#EXTINF:-1 la pantera rosa
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?disco
-#EXTINF:-1,alto impacto
+#EXTINF:-1 alto impacto
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4?disco
-#EXTINF:-1,el gran robo
+#EXTINF:-1 el gran robo
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
-#EXTINF:-1,el senor de la guerra
+#EXTINF:-1 el senor de la guerra
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4?disco
-#EXTINF:-1,un perdedor sin suerte
+#EXTINF:-1 un perdedor sin suerte
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
-#EXTINF:-1,zona de miedo
+#EXTINF:-1 zona de miedo
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?disco
-#EXTINF:-1,la marca de la bestia
+#EXTINF:-1 la marca de la bestia
 #EXTGRP:PELICULAS MOVIES
 http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,el dia del apocalipsis
+#EXTINF:-1 el dia del apocalipsis
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
-#EXTINF:-1,premoniciones
+#EXTINF:-1 premoniciones
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
-#EXTINF:-1,impacto mortal
+#EXTINF:-1 impacto mortal
 #EXTGRP:PELICULAS MOVIES
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
-#EXTINF:-1,tvg-logo="https://pp.userapi.com/c840236/v840236550/37e1a/cvFEyJUJFWk.jpg",Paul van Dyk™  Best Of Electronic Radio live VONIK
-#EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
-http://78.129.189.182:22447/stream
-#EXTINF:-1,LA FM
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/la-94-9-fm.png",LA FM 
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live3.rcnmundo.com/lafmmedellin.mp3
 #EXTINF:-1,Radio
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://80.211.226.233:8100/live.mp3
-#EXTINF:-1,MERIDIANO LLANOS
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s108319q.png",MERIDIANO LLANOS
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://72.29.70.22:8136/stream/1/
 #EXTINF:-1,ONDA ST
@@ -2358,85 +2421,88 @@ http://192.99.153.170:10010/stream/1/
 #EXTINF:-1,Radio
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://80.211.226.233:8100/live2.mp3
-#EXTINF:-1,Q-DANCE CHILE
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s127422q.png",Q-DANCE CHILE
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://18403.live.streamtheworld.com/Q_DANCEAAC.aac
-#EXTINF:-1,SONIC.FM ARGENTINA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s54907q.png",SONIC.FM ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://streamer01.sonic.server54.net:8000/live128
-#EXTINF:-1,LA MEGA ELECTRONICA COL
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/la-mega-90-9-fm.png",LA MEGA ELECTRONICA COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live1.rcnmundo.com/lamegaelectro.mp3
-#EXTINF:-1,ZULDEMAIDA RADIO ARMENIA
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/radio-zuldemayda-106-9-fm-armenia.png",ZULDEMAIDA RADIO ARMENIA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://server2.ejeserver.com:8144/live
-#EXTINF:-1,LA MEGA ARMENIA
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/la-mega-90-9-fm.png",LA MEGA ARMENIA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live1.rcnmundo.com/lamegaarmenia.mp3
 #EXTINF:-1,LA PODEROSA COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://ample-zeno-05.radiojar.com/sczs61304f5tv?rj-ttl=5&rj-token=AAABYMzK3OiozGrMa6WC22ezkvc7-pO4JAeq1X5kaJPg1BkjYwPMwg
-#EXTINF:-1,RADIO AMOR 104.4 FM BOG
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/amor-stereo-104-4-fm.png",RADIO AMOR 104.4 FM BOG
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live3.rcnmundo.com/amor.aac
-#EXTINF:-1,RADIO DISNEY ARGENTINA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s257685q.png",RADIO DISNEY ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 https://streaming.shoutcast.com/RadioDisneyARG
-#EXTINF:-1,OLIMPICA ST
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s99016q.png",OLIMPICA ST
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://i50.letio.com/9132.aac
-#EXTINF:-1,LA KALLE LA MANDA + COL
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-yw1KPtX7uF4/AAAAAAAAAAI/AAAAAAAAAAA/NAs-g0jkm8E/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",LA KALLE LA MANDA + COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://17973.live.streamtheworld.com/LA_KALLE.mp3?
-#EXTINF:-1,BLURADIO COL
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s179482q.png",BLURADIO COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://14993.live.streamtheworld.com/BLURADIO.mp3
-#EXTINF:-1,PRISMA ARMENIA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s276457q.png",PRISMA ARMENIA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://192.99.150.42:9838/;
-#EXTINF:-1,CLASSICA ARGENTINA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s3030q.png",CLASSICA ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37
-#EXTINF:-1,BELGRANO ARGENTINA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s120239q.png",BELGRANO ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://streamlky.alsolnet.com:443/radio9
-#EXTINF:-1,TOLIMA STEREO
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/430801944169291776/E6xaZo31_400x400.jpeg",TOLIMA STEREO
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://i50.letio.com/5016.aac
-#EXTINF:-1,BESAME COL
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/besame-94-9-fm.png",BESAME COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://14933.live.streamtheworld.com/BESAME_NACIONAL_SC
-#EXTINF:-1,BESAME MEDELLIN
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/besame-94-9-fm.png",BESAME MEDELLIN
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://18433.live.streamtheworld.com/BESAME_NACIONAL_SC
-#EXTINF:-1,MANIZALEZ TROPICANA COL
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/tropicana-105-7-manizales.png",MANIZALEZ TROPICANA COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://14073.live.streamtheworld.com/TR_MANIZALES_SC
-#EXTINF:-1,MELODIA STEREO COL
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/melodia-estereo-730-am.png",MELODIA STEREO COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://i50.letio.com/7000.aac
-#EXTINF:-1,GENERACION
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139202q.png",GENERACION
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://server2.ejeserver.com:8012/stream
-#EXTINF:-1,TANGO ARMGENITA
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s191782/images/logoq.png?t=1",TANGO ARMGENITA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://radios.argentina.fm:9270/stream
-#EXTINF:-1,LA EJE CAFETERO
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/la-eje-com-colombia.png",LA EJE CAFETERO
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://stream.laeje.com:10860/live
-#EXTINF:-1,SUPER STACION
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/la-superestacion-98-3-fm-villavicencio.png",SUPER STACION
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://138.128.189.154:9922/;stream.mp3
-#EXTINF:-1,QUIMBAYA ST
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/4eee60c6f14eb1c18aaa2a02ba91991a.png",QUIMBAYA ST
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://195.154.133.107:8396/;
-#EXTINF:-1,ALTERNATIVA RADIO ARGENTINA
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/4eee60c6f14eb1c18aaa2a02ba91991a.png",ALTERNATIVA RADIO ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://195.154.182.222:25084/live
-#EXTINF:-1,RADIO ACTIVA COL
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/radio-acktiva-97-9-fm.png",RADIO ACTIVA COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://18683.live.streamtheworld.com/RADIO_ACTIVA_SC
-#EXTINF:-1,90.3 FM ARGENTINA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s113801q.png",Radio Bolero
+#EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
+http://46.105.124.120:8232/; 
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s237612q.png",90.3 FM ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://turadioenvivo.com:11019/stream
 #EXTINF:-1,FM GENESIS ARGENTINA
@@ -2445,79 +2511,79 @@ http://streamall.alsolnet.com:443/fmgenesis
 #EXTINF:-1,RADIO_HJCK COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://18703.live.streamtheworld.com/RADIO_HJCK_SC
-#EXTINF:-1,LA MEGA BOG
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/la-mega-90-9-fm.png",LA MEGA BOG
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live4.rcnmundo.com/lamega.mp3
-#EXTINF:-1,106 RADIO ARGENTINA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s205730q.png",106 RADIO ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://192.99.46.56:9982/;
-#EXTINF:-1,ANTENA 2 B0G
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/antena-2-650-am.png",ANTENA 2 B0G
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live1.rcnmundo.com/antena2.mp3
-#EXTINF:-1,ESPN ARG
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/p437503q.png",ESPN ARG
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://edge.espn.cdn.abacast.net/espn-deportesmp3-48
-#EXTINF:-1,RCN MUNDO B0G
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s185620q.png",RCN MUNDO B0G
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live4.rcnmundo.com/lafm.mp3
 #EXTINF:-1,LA VOZ DE LA COSTA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CqIDRFtCzQqJ7i3bNwXanHlMLx3Q3VPzSjMw4IMGw90dYe6XsJvTGA3FAc3j7EZoKC2VicVosDYeiLwZ7mkZquHk2-kt1olzLiG8ITIWQppG8r2uEqnMol95yr6tjsRMh0mdCbS_8QJY965KotR_JpieD4-LQKGo75OXyGg4QuCPFFqvaHdx7PZbfnodCVlWmyJdSvpN7DmklhZc4vys4Ry4V4p6kjr_u5WUOK3TeL4ypgh6zfsUvfi6E-vYPLySG24ljJDs2vKOs_8Lx3dclJJKFwd87S0iTSLw1DxL14ykNLMIiAByOWOzD8dW4Z4T4IChQy49tcHvENnT42RVMp4jv9Tp2R2hkU0XCarUi9gl7w_hPmeS9U0ojfZOjo_Vm_08c0xMC3GMDW1bC5qTflGU7fekz_-VApWtjS3LnamKiuSRsZ5gyifmMP19xpL3f28wsFbRw4lL2TGE88Myw1cEr4in7PpW10iZBrr8R1acaFV7PhsbtEeG5cM-djKEDOZdpdcKOxp1KAxcQUCyNBSsSpUi-YEBzhBpeACptnAIAgp7wxIQhpW-dQ39NkOagh1jbVvl7RoM81TZCy1UhvmqIUjI.m3u8
-#EXTINF:-1,RUMBA ST B0G
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/rumba-97-5-fm-cali.png",RUMBA ST B0G
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live4.rcnmundo.com/rumba.mp3
-#EXTINF:-1,CARACOL RADIO IPIALES
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s181657q.png",CARACOL RADIO IPIALES
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://radiolatina.info:9456/;
-#EXTINF:-1,RADIO UNO BOG
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s141518q.png",RADIO UNO BOG
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live1.rcnmundo.com/radiouno.mp3
-#EXTINF:-1,BEER BOG
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/p1042278/images/logoq.png?t=636438",BEER BOG
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://smoke.wavestreamer.com:8502/stream/1/
-#EXTINF:-1,W RADIO COL
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/4eee60c6f14eb1c18aaa2a02ba91991a.png",W RADIO COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://18913.live.streamtheworld.com/WRADIO_SC
-#EXTINF:-1,TROPICANA BOG
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s190815q.png",TROPICANA BOG
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://19253.live.streamtheworld.com/TROPICANA_SC
-#EXTINF:-1,LOS40 COL
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/los-40-principales-colombia.png",LOS40 COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://18433.live.streamtheworld.com/LOS40_COLUMBIA_SC
-#EXTINF:-1,LOS40 ARGENTINA
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/los-40-principales-colombia.png",LOS40 ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://17983.live.streamtheworld.com/LOS40_ARGENTINA_SC
-#EXTINF:-1,CANDELA STEREO COL
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/candela-estereo-101-9-fm.png",CANDELA STEREO COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://14103.live.streamtheworld.com/CANDELAESTEREO_SC
-#EXTINF:-1,VIBRA BOG
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/vibra-fm-104-9.png",VIBRA BOG
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://18433.live.streamtheworld.com/VIBRA_SC
-#EXTINF:-1,OXIGENO COL
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s134026q.png",OXIGENO COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://14613.live.streamtheworld.com/OXIGENO_SC
-#EXTINF:-1,RADIO FANTASTICA MEDELLIN
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/radio-fantastica-fm-104-4-bogota.png",RADIO FANTASTICA MEDELLIN
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live4.rcnmundo.com/fantasticamedellin.mp3
-#EXTINF:-1,LA EXTRELLA MEDELLIN
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/estrella-internacional.png",LA EXTRELLA MEDELLIN
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://audio.estrellacolombia.com:8006/stream/1/
 #EXTINF:-1,LATINA STEREO COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://real1.streaming-co.com:8050/live
-#EXTINF:-1,LA CARIÑOSA MEDELLIN
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/la-carinosa-610-am.png",LA CARIÑOSA MEDELLIN
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live1.rcnmundo.com/lacarinosa.mp3
-#EXTINF:-1,RADIO TIEMPO MEDELLIN
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/radio-tiempo-colombia.png",RADIO TIEMPO MEDELLIN
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://i50.letio.com/9100.aac
-#EXTINF:-1,PEDAZO DE ACORDEON MEDELLIN
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s283343q.png",PEDAZO DE ACORDEON MEDELLIN
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://62.210.38.137:8446/stream/1/
-#EXTINF:-1,123 VALLENATO MEDELLIN
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/123-vallenato.png",123 VALLENATO MEDELLIN
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://radiolatina.info:7087/;
-#EXTINF:-1,EL SOL MEDELLIN
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/radio-el-sol-1550-am-barranquilla.png",EL SOL MEDELLIN
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://live1.rcnmundo.com/elsolmedellin.mp3
 #EXTINF:-1,PURA SALSA MEDELLIN
@@ -2526,19 +2592,18 @@ http://192.111.140.6:8105/stream/2/
 #EXTINF:-1,FUNDIQUE LA COSTA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://emisora.fundingue.com:8072/;
-#EXTINF:-1,LA REINA LA COSTA
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-co/la-reina-colombia.png",LA REINA LA COSTA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://i30.letio.com/9106.aac
-#EXTINF:-1,LA CALIENTE LA COSTA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s33509q.png",LA CALIENTE LA COSTA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://i50.letio.com/5000.aac
 #EXTINF:-1,LA PANCHANGERA COL
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://radiolatina.info:8772/;
-#EXTINF:-1,LA CAQUETEÑA CAQUETA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s142453q.png",LA CAQUETEÑA CAQUETA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://149.56.147.197:9638/lacaquetena
-#EXTINF:-1,METRO ARGENTINA
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s85077q.png",METRO ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
-
