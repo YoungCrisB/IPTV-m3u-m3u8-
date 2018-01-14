@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,  14-01-18 GRACIAS! QUE DISFRUTEN Donaciones paypal.me/Andres632 Loading… ███████████..... 80% ATENCION canal que se encuentren con error pasar de canal y luego volver se quitara el error
+#EXTINF:-1,  14-01-18 GRACIAS! QUE DISFRUTEN Donaciones paypal.me/Andres632 Loading… ███████████..... 80% ATENCION 
+ canal que se encuentren con error pasar de canal y luego volver se quitara el error y RECUERDEN que sirve para 
+ TELEVISORES SMART TV CON LA APLICACIÓN OTTPLAYER tambien SS-IPTV y para celulares igual 
 #EXTGRP:ADMIN By_Andres ∞ Loading… 80%
 http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Mama
@@ -110,9 +112,9 @@ https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_variedtv
 #EXTINF:-1,Мультимания
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ🐥🐰🎠(✿•‿•)🦁🐶🏎🚂
 http://91.185.55.30:7777/udp/238.0.2.20:1234
-#EXTINF:-1  tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/mega_animes_320.jpg",Lo mejor de dragon ball Z
+#EXTINF:-1  tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/mega_animes_320.jpg",dragon ball Z
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ🐥🐰🎠(✿•‿•)🦁🐶🏎🚂
-https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_mega_animes
+https://clutch.vaughnsoft.net/ord/vl/goku_tv.m3u8
 #EXTINF:-1,Animax
 #EXTGRP:NIÑOS KIDS ʕ•ᴥ•ʔ🐥🐰🎠(✿•‿•)🦁🐶🏎🚂
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_latinokidstv
@@ -149,15 +151,10 @@ http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol 2 Tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://live6.userapi.com/637606/live/ty1shthCfcQ/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol 3 Tv
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-http://live.abcast.net:8081/edge/ver995e64d5209e712f096290ab9b81151f/chunks.m3u8?nimblesessionid=317608&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDI6MDA6MzIgQU0maGFzaF92YWx1ZT11ZGlhdkFpVVpCR3FpNFYvTlNrQXRRPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol 4 Tv
-#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
-https://live5.userapi.com/637606/live/ty1shthCfcQ/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",RCN
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2BKlWFgzSIWab%2B423rTrlX9K3trfHChQWMZLyofwUkEWQDjA8HywwsBpm1s%2Bvizt05pG9aGPpAZHQ%3D%3D
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",A+
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://www.iptvmexico.xyz/ch/2020.m3u8
@@ -218,6 +215,9 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-p.m3u8?sd=10&re
 #EXTINF:-1  tvg-logo="http://superdogs.com/wp-content/uploads/2016/07/city-tv-logo-canada-300x169.jpg",City tv
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 https://live5.userapi.com/637602/live/4_m40opCfZY/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://superdogs.com/wp-content/uploads/2016/07/city-tv-logo-canada-300x169.jpg",El Trece Arg
+#EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
+https://youtu.be/9h6Vz6ylIdE 
 #EXTINF:-1  tvg-logo="http://teleenvigado.com.co/wp-content/uploads/2017/07/LOGO-TELEENVIGADO-HORIZONTAL.png",Teleenvigado
 #EXTGRP:VARIEDAD VARIETY ♀ ♂(^o^) (^_^.)
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
@@ -1021,445 +1021,478 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklis
 #EXTGRP:MUSICA ▶ ▁▂▃▅▆ ♪♫♪ 🎧 🎹 🥁 🎷 🎺
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
 #EXTINF:-1, JUEGOS OLIMPICOS HD
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 #EXTINF:-1, FIGHT BOX
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 https://namericalatam-lh.akamaihd.net/i/fightbox_1@150666/master.m3u8
-#EXTINF:-1, ESPN ORIGINAL LATINOS
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
-https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_000deportesplus
+#EXTINF:-1, TNT SPORTS
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://138.197.164.230/loadbalance/15369414613953747646/chunks.m3u8?pxAuth=YlFE1e1n9X6MSbeqN0Sdp4LtGrvJLbH2
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/bcdd343c1cddaeccccc67ae00609f9b1.png",DIRECTV SPORTS 
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://138.197.164.230/loadbalance/63169458939461572747/chunks.m3u8?pxAuth=aDHlMlmsGWevcI91ecoHNvghYKzBIkMz
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e748f3c03f7c4088e90a0ccb2588e0ed.png",DIRECTV2 SPORTS 
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://tier4.pokercoalition.pw/o6/15358.m3u8?sf=NThlMTY2MTRlZDNiNA==&token=QPmWLCe6g0kkK2yA1jHNVA&expires=1515899922
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e748f3c03f7c4088e90a0ccb2588e0ed.png",DIRECTV3 SPORTS
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://tier1.pokercoalition.pw/o3/22730.m3u8?sf=NWE1OWYyOTk2YTg4Ng==&token=Rk2b6ta7WOyhXraJ1XHkRQ&expires=1515899982
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e748f3c03f7c4088e90a0ccb2588e0ed.png",DIRECTV+ SPORTS
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://tier1.pokercoalition.pw/o3/22730.m3u8?sf=NWE1OWYyOTk2YTg4Ng==&token=TKtfXNDiqNON7kIPL8QNgw&expires=1515900665
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e748f3c03f7c4088e90a0ccb2588e0ed.png",ESPN 
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://159.89.178.214/loadbalance/53433346234219824379/chunks.m3u8?pxAuth=v8PHRdjRSa3giw3ER17lfPhXeCagBZ3e
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/fbb8ad7bac46086e598bf01e5bc9f098.png",ESPN2
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://174.138.62.201/loadbalance/81615581284965264973/chunks.m3u8?pxAuth=XD3FHUgethtINXoT35vzLuFhcd2Hd9pa
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/71d9d9bbf8919e640d3ba86472e39ed9.png",ESPN3
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://188.166.53.135/loadbalance/81615581284965264973/chunks.m3u8?pxAuth=Vx9cZJq9gH6uO3kYRd2CddOtFgSuuyaT
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/32f3121bc314ba06628573737f575b3e.png",FOX SPORTS 
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://138.197.172.38/loadbalance/85576818975311249237/chunks.m3u8?pxAuth=cKGg9oZS5LooJ3MIInie8oi0fRuJGC57
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/bbd7a98d0fb72b180f5206cee952c4fd.png",FOX SPORTS2 
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://188.166.56.39/loadbalance/18494687488364213732/chunks.m3u8?pxAuth=BdhIauINxyzT4uNuk3QiplN3igKOoYh7
+#EXTINF:-1,TDN
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/Stream(05)/index.m3u8
+#EXTINF:-1,GOL PERU
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
+http://188.166.51.72/loadbalance/56786588184867734489/chunks.m3u8?pxAuth=zIBHHpRURYcXPA6sbAikhA2JGiOXGWzE
 #EXTINF:-1, ESPN+
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️ 
 http://200.78.215.85:8010/play/a08z
-#EXTINF:-1,  WINSPORTS
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/caaba3362608ac504d23dfef6da35ad1.png",WINSPORTS
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
-#EXTINF:-1,  WINSPORTS
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/caaba3362608ac504d23dfef6da35ad1.png",WINSPORTS
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 https://goo.gl/d4ovHY
 #EXTINF:-1, DEPORTE
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
 #EXTINF:-1, Матч_ТВ_Липецк
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://217.107.196.88:9994/play/Матч_ТВ_Липецк
 #EXTINF:-1, Спорт 1 Ukraina
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://178.172.245.155:8121/sport1
 #EXTINF:-1, Футбол
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://195.88.52.102:8000/play/a05u
 #EXTINF:-1, Футбол
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://91.232.157.222:1235/udp/239.0.0.249:4000
 #EXTINF:-1, Футбол 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://62.16.23.8:34040/udp/239.2.66.77:1234
 #EXTINF:-1, COMBATE
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://158.58.172.5:8081/looktvs/combate9/playlist.m3u8
 #EXTINF:-1, Fox Sport MX
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://200.78.215.85:8010/play/a09g
 #EXTINF:-1, Fox Sport 2 MX
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://200.78.215.85:8010/play/a0ay
 #EXTINF:-1, Fox Sport 3 MX
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://200.78.215.85:8010/play/a08m
 #EXTINF:-1, Fox Sports  HD
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://200.78.215.85:8010/play/a09z
 #EXTINF:-1, SPORT: Fox Sports  2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/7738.m3u8
 #EXTINF:-1, Fox Sports 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5539.m3u8
 #EXTINF:-1, Fox Sports 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5540.m3u8
 #EXTINF:-1, Fox Sports 4
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5541.m3u8
 #EXTINF:-1, Fox Sports 5
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5542.m3u8
 #EXTINF:-1, Fox Sports 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5546.m3u8
 #EXTINF:-1, Sky Sports Mix
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12779.m3u8
 #EXTINF:-1, Sky Sports News
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/586.m3u8
 #EXTINF:-1, Sky Sports News
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12147.m3u8
 #EXTINF:-1, Sky Sports News
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/44101.m3u8
 #EXTINF:-1, Sky Sports News
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/44102.m3u8
 #EXTINF:-1, Sky Sports Main Events
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/579.m3u8
 #EXTINF:-1, Sky Sports Cricket
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/584.m3u8
 #EXTINF:-1, Sky Sports Cricket
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/578.m3u8
 #EXTINF:-1, Sky Sports Action
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/583.m3u8
 #EXTINF:-1, Sky Sports Action
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/577.m3u8
 #EXTINF:-1, Sky Sports Golf
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/582.m3u8
 #EXTINF:-1, Sky Sports Golf
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/576.m3u8
 #EXTINF:-1, Sky Sports Premier League
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/581.m3u8
 #EXTINF:-1, Sky Sports Arena
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32740.m3u8
 #EXTINF:-1, Sky Sports Arena
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32739.m3u8
 #EXTINF:-1, Sky Sports Arena
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32738.m3u8
 #EXTINF:-1, Sky Sports Football
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32743.m3u8
 #EXTINF:-1, Sky Sports Football
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32742.m3u8
 #EXTINF:-1, Sky Sports Football
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/32741.m3u8
 #EXTINF:-1, Sky Sports F1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/580.m3u8
 #EXTINF:-1, Sky Sports F1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/574.m3u8
 #EXTINF:-1, BT Sports 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11375.m3u8
 #EXTINF:-1, BT Sports 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11787.m3u8
 #EXTINF:-1, BT Sports 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11374.m3u8
 #EXTINF:-1, BT Sports 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11373.m3u8
 #EXTINF:-1, BT Sports 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11785.m3u8
 #EXTINF:-1, BT Sports ESPN
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12123.m3u8
 #EXTINF:-1, BT Sports ESPN
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11784.m3u8
 #EXTINF:-1, BT Sport Extra 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12414.m3u8
 #EXTINF:-1, BT Sport Extra 4
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12413.m3u8
 #EXTINF:-1, BT Sport Extra 5
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12412.m3u8
 #EXTINF:-1, British Eurosport
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11002.m3u8
 #EXTINF:-1, British Eurosport 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11003.m3u8
 #EXTINF:-1, EIR Sports 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11536.m3u8
 #EXTINF:-1, Premier Sports
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/568.m3u8
 #EXTINF:-1, Boxnation
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/17752.m3u8
 #EXTINF:-1, At The Races
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/150.m3u8
 #EXTINF:-1, MUTV
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12398.m3u8
 #EXTINF:-1, beIN Sports 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1035.m3u8
 #EXTINF:-1, beIN Sports 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1036.m3u8
 #EXTINF:-1, beIN Sports 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1037.m3u8
 #EXTINF:-1, beIN Sports 4
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1038.m3u8
 #EXTINF:-1, beIN Sports 5
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1039.m3u8
 #EXTINF:-1, beIN Sports 6
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1040.m3u8
 #EXTINF:-1, beIN Sports 7
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1041.m3u8
 #EXTINF:-1, beIN Sports 8
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1042.m3u8
 #EXTINF:-1, beIN Sports 9
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1043.m3u8
 #EXTINF:-1, beIN Sports 10
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1044.m3u8
 #EXTINF:-1, beIN Sports 11
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1045.m3u8
 #EXTINF:-1, beIN Sports 12
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/1046.m3u8
 #EXTINF:-1, beIN MAX 5
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29543.m3u8
 #EXTINF:-1, beIN MAX 6
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29542.m3u8
 #EXTINF:-1, beIN MAX 7
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29541.m3u8
 #EXTINF:-1, beIN MAX 8
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29540.m3u8
 #EXTINF:-1, beIN MAX 9
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29539.m3u8
 #EXTINF:-1, beIN MAX 10
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/29538.m3u8
 #EXTINF:-1, Sport.TV2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12368.m3u8
 #EXTINF:-1, Sport.TV3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12367.m3u8
 #EXTINF:-1, Sport.TV4
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12366.m3u8
 #EXTINF:-1, Sport.TV5
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12365.m3u8
 #EXTINF:-1, SporTV 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12025.m3u8
 #EXTINF:-1, Sport Klub 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11080.m3u8
 #EXTINF:-1, Sport Klub 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11079.m3u8
 #EXTINF:-1, Sport Klub 4
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11078.m3u8
 #EXTINF:-1, Sport Klub 5
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
 #EXTINF:-1, Futbol 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
 #EXTINF:-1, Futbol 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20949.m3u8
 #EXTINF:-1, Eleven Sports
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12020.m3u8
 #EXTINF:-1, Ziggo Sport Voetbal
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/13216.m3u8
 #EXTINF:-1, DEPORTESXPORE
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
 #EXTINF:-1, EUROSPORT 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://81.228.174.166:8003/eurosport1
 #EXTINF:-1, ESPN
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 #EXTINF:-1, ESPN2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 #EXTINF:-1, ESPN3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 #EXTINF:-1, NBA
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1, RAI SPORTS HD
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://originstream12.rai.it/italy/raisport1_1800/chunklist.m3u8
 #EXTINF:-1, Eurosport 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1, MLB
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1, Pac-12 Arizona
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 #EXTINF:-1, Pac-12 Bay Area
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 #EXTINF:-1, Pac-12 Los Angeles
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:-1, Pac-12 Mountain
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 #EXTINF:-1, Pac-12 Oregon
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:-1, Pac-12 Washington
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1, Rugby TV
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
 #EXTINF:-1, WAPA 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 https://dcunilive14-lh.akamaihd.net/i/dclive_1@176092/master.m3u8
 #EXTINF:-1, NBC Golf
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1, SOBRE RUEDAS
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
 #EXTINF:-1, F1 HD
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/Stream(06)/index.m3u8
 #EXTINF:-1, CLARO_SPORTS
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
 #EXTINF:-1, REAL MADRID
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1, CHELSEA
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 #EXTINF:-1, Liverpool
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/12120.m3u8
 #EXTINF:-1, CHELSEA
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1, SEVILLA FC
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1, REDBULL
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1, PX SPORTS
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8  
 #EXTINF:-1, TringSport 4
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/11.ts
 #EXTINF:-1, TringSport 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/10.ts
 #EXTINF:-1, TringSport 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/9.ts
 #EXTINF:-1, TringSport 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/8.ts
 #EXTINF:-1, SuperSport Kosova 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/7.ts
 #EXTINF:-1, SuperSport Kosova 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/6.ts
 #EXTINF:-1, SuperSport 4
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/5.ts
 #EXTINF:-1, SuperSport 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/4.ts
 #EXTINF:-1, SuperSport 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/3.ts
 #EXTINF:-1, SuperSport 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/2.ts
 #EXTINF:-1, SkySport 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/17.ts
 #EXTINF:-1, SkySport 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/16.ts
 #EXTINF:-1, Sky Bundersliga 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/19.ts
 #EXTINF:-1, Sky Bundersliga 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/18.ts
 #EXTINF:-1, KujtesaSport 4
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/15.ts
 #EXTINF:-1, KujtesaSport 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/14.ts
 #EXTINF:-1, KujtesaSport 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/13.ts
 #EXTINF:-1, KujtesaSport 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/12.ts
 #EXTINF:-1, BeinSport 5
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/26.ts
 #EXTINF:-1, BeinSport 4
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/25.ts
 #EXTINF:-1, BeinSport 3
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/24.ts
 #EXTINF:-1, BeinSport 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/23.ts
 #EXTINF:-1, BeinSport 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/22.ts
 #EXTINF:-1, ArenaSport 2
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/21.ts
 #EXTINF:-1, ArenaSport 1
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports/20.ts
 #EXTINF:-1, ABUDHABI SPORTS
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1, ABUDHABI 2 SPORTS
-#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍♀️🚴‍♂️
+#EXTGRP:DEPORTES SPORTS ⚽🏀🏈⚾🎾🏐🏉🏓🏸🏒⛳🏏🏑🏹🥊🚴‍♀️🏊‍🚴‍♂️
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1, Star Trek Discovery TEMP 1 CAP 1
 #EXTGRP:SERIES
