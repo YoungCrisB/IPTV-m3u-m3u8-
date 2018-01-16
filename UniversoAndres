@@ -14,7 +14,7 @@ http://tv.makeevka.com/channel/395/index.m3u8
 #EXTGRP:NIÑOS KIDS
 http://185.231.160.42:5000//60/2/index.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/94e3b2d8c1bdeaef6e5337eec429f6ef.png",Malysh
-#EXTGRP:NIÑOS KIDS 
+#EXTGRP:NIÑOS KIDS
 http://178.78.63.98:2000/udp/238.1.2.97:1234
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Nick Jr
 #EXTGRP:NIÑOS KIDS
@@ -43,7 +43,7 @@ http://195.88.52.102:8000/play/a04a
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/c5c7892b25ae4ef18b795a1aa9601d89.png",TIJI
 #EXTGRP:NIÑOS KIDS
 http://tv.makeevka.com/channel/128/index.m3u8
-#EXTINF:-1  tvg-logo="hthttps://iptv.zone/en/images/logo/channel/crops/29d1e2357d7c14db51e885053a58ec67.png",baby tv
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/29d1e2357d7c14db51e885053a58ec67.png",baby tv
 #EXTGRP:NIÑOS KIDS
 http://195.88.52.102:8000/play/a05f
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7b94ee8b0b34a64ae6947d5fbaba07a5.png",CLAN
@@ -58,7 +58,7 @@ http://90.229.173.167:8000/play/a022/index.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f19b88e6cb8cb067565bb3880b2fb3e1.png",NICKELODEON
 #EXTGRP:NIÑOS KIDS
 http://90.229.173.167:8000/play/a02b/index.m3u8 
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/45914664eafc286fb139a5036f142106.png",baby tv
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/45914664eafc286fb139a5036f142106.png",BABY
 #EXTGRP:NIÑOS KIDS
 http://90.229.173.167:8000/play/a021/index.m3u8 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/CanalSurHD.png",Canal Sur
@@ -1187,7 +1187,7 @@ http://185.231.160.42:5000//4/2/index.m3u8
 #EXTGRP:DEPORTES SPORTS
 http://185.231.160.42:5000//2/2/index.m3u8
 #EXTINF:0,Матч!
-#EXTGRP:DEPORTES SPORTS 
+#EXTGRP:DEPORTES SPORTS
 http://185.231.160.42:5000//113/1/index.m3u8
 #EXTINF:-1,TDN
 #EXTGRP:DEPORTES SPORTS
