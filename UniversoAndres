@@ -1,18 +1,15 @@
 #EXTM3U
-#EXTINF:-1,  16-01-18 GRACIAS! QUE DISFRUTEN Donaciones paypal.me/Andres632 Loading… ███████████..... 80% ATENCION 
- canal que se encuentren con error cambiar el canal y volver al mismo canal se arrelgara el arror RECUERDEN que sirve para 
- TELEVISORES SMART TV CON LA APLICACIÓN OTTPLAYER tambien SS-IPTV y para celulares igual 
+#EXTINF:-1,  17-01-18 GRACIAS! QUE DISFRUTEN Donaciones paypal.me/Andres632 Loading… ███████████..... 80% ATENCION
+ canal que se encuentren con error cambiar el canal y volver al mismo canal se arrelgara el arror RECUERDEN que sirve para
+ TELEVISORES SMART TV CON LA APLICACIÓN OTTPLAYER tambien SS-IPTV y para celulares igual
 #EXTGRP:ADMIN By_Andres ∞ Loading… 80%
 http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Мама
 #EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a05k
+https://youtu.be/nVQmKuAF0DE
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Мама
 #EXTGRP:NIÑOS KIDS
-http://tv.makeevka.com/channel/395/index.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Мама
-#EXTGRP:NIÑOS KIDS
-http://185.231.160.42:5000//60/2/index.m3u8
+https://youtu.be/diG2zqlK_PI
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/94e3b2d8c1bdeaef6e5337eec429f6ef.png",Malysh
 #EXTGRP:NIÑOS KIDS
 http://178.78.63.98:2000/udp/238.1.2.97:1234
@@ -127,6 +124,9 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/195d6ee16ac3301851a1a59d9978cc54.png",Multimania 
 #EXTGRP:NIÑOS KIDS
 http://62.122.88.85:81/udp/238.1.2.59:1234 
+#EXTINF:-1,UNIVERSAL MOVIES
+#EXTGRP:NIÑOS KIDS
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_universal_movies
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Tacho_Pistacho.png",Tacho Pistacho
 #EXTGRP:NIÑOS KIDS
 http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
@@ -679,12 +679,18 @@ http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7a6535c52e66091bc0bd66e2ddb600f8.png",Panico
 #EXTGRP:SERIES & MOVIES
 https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7a6535c52e66091bc0bd66e2ddb600f8.png",CINE PREMIER
+#EXTGRP:SERIES & MOVIES
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_umbrella_corps
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/19ad8cfebfc73379c8817c162763f874.png",Multipremier
 #EXTGRP:SERIES & MOVIES
 https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/katyhd_320.jpg",KATI CINEMA
 #EXTGRP:SERIES & MOVIES
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_katyhd
+#EXTINF:-1  tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/katyhd_320.jpg",vitatotv
+#EXTGRP:SERIES & MOVIES
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_vitatotv
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/2b33086f15f9698024e52648e61242e6.png",Mis peliculas
 #EXTGRP:SERIES & MOVIES
 https://latamonly-lh.akamaihd.net/i/mispeliculas_1@321856/master.m3u8
@@ -700,12 +706,30 @@ https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_macserieshq2
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",Zona De Terror
 #EXTGRP:SERIES & MOVIES
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_zonafilmsterror
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",Zona de cine
+#EXTGRP:SERIES & MOVIES
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_pikarus
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",Cine Salon
+#EXTGRP:SERIES & MOVIES
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_cine_salom
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",Dr House 
+#EXTGRP:SERIES & MOVIES
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_dr_daniel_jackson
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",La casa del cine
+#EXTGRP:SERIES & MOVIES
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_juancine_tv
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",copla latino
+#EXTGRP:SERIES & MOVIES
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_mikyiptvhb
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/c5a60ee682eb971b0f4a24c1e696758d.png", M. XTRA
 #EXTGRP:SERIES & MOVIES
 http://90.229.173.167:8000/play/a02q/index.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/13a224ef920af18191b809f1a9d48c19.png", HOLLYWOOD
 #EXTGRP:SERIES & MOVIES
 http://90.229.173.167:8000/play/a02n/index.m3u8 
+#EXTINF:-1,UNIVERSAL MOVIES
+#EXTGRP:SERIES & MOVIES
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_universal_movies
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/c773fdef3889bdadbe809f1e8aaeea46.png",CINE CALIDAD
 #EXTGRP:SERIES & MOVIES
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_cine_calidad
@@ -724,6 +748,9 @@ https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_beto_7
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a2e2b2394eb85a76267559009b4fab96.png",Creme Horror
 #EXTGRP:SERIES & MOVIES
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_lcreme_horror
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a2e2b2394eb85a76267559009b4fab96.png",Horror ING
+#EXTGRP:SERIES & MOVIES
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live__horror_
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/45fc6220c62755e7e1b18cebf28b14b0.png",Creme Sci Fi Accion
 #EXTGRP:SERIES & MOVIES
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_lcreme_staff
@@ -871,6 +898,9 @@ http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/523a4c70df03da681065ba98a06e1c31.png",Campus Classica
 #EXTGRP:MUSICA
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/523a4c70df03da681065ba98a06e1c31.png",CLASSIC MUSIC
+#EXTGRP:MUSICA
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_classical_music
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/68ba1bbe27e5f0e5c91174811bed66db.png",Campus Classica1
 #EXTGRP:MUSICA
 http://hearme.fm:8570/stream
@@ -889,9 +919,9 @@ http://hearme.fm:8021/stream
 #EXTINF:-1  tvg-logo="https://divan.tv/img/global_img/channel_website/ua_1093.png",Silence
 #EXTGRP:MUSICA
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/620dc68bbfc5d7654e44817a8d3b2cdf.png",RTI
+#EXTINF:-1,Q-DANCE ELECTRONICA MINIMAL HAUSE
 #EXTGRP:MUSICA
-http://81.163.112.17:8842/42
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_dj_danny001
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a23ae2ccf60244393ea1726141685b58.png",Bridge Classic
 #EXTGRP:MUSICA
 http://37.9.150.230:4022/udp/232.0.1.27:1234
@@ -928,6 +958,12 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklis
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1929d8b0b8db0b5dec10a19b9a884bdf.png ",Heavy Metal TV
 #EXTGRP:MUSICA
 http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1929d8b0b8db0b5dec10a19b9a884bdf.png ",AGATA ROCK
+#EXTGRP:MUSICA
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_agatarock
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1929d8b0b8db0b5dec10a19b9a884bdf.png ",AGATA DANCE
+#EXTGRP:MUSICA
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_agatadance
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/edd602c4c98a34f409fb35930773c691.png",MY MUSIC
 #EXTGRP:MUSICA
 http://46.99.163.177:8098/play/a00a
@@ -940,6 +976,9 @@ https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?
 #EXTINF:-1  tvg-logo="https://i.imgur.com/EpZgI8I.png",Musica arabe
 #EXTGRP:MUSICA
 http://5.255.90.209:5001/play/a00q/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EpZgI8I.png",MUSICA JAPONES & CHINA
+#EXTGRP:MUSICA
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_125369877
 #EXTINF:-1  tvg-logo="https://i.imgur.com/EpZgI8I.png",Dreamtv
 #EXTGRP:MUSICA
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
@@ -1084,9 +1123,15 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklis
 #EXTINF:-1, JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1, UFC
+#EXTGRP:DEPORTES SPORTS
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_sufizzle
 #EXTINF:-1, FIGHT BOX
 #EXTGRP:DEPORTES SPORTS
 https://namericalatam-lh.akamaihd.net/i/fightbox_1@150666/master.m3u8
+#EXTINF:-1, WWE
+#EXTGRP:DEPORTES SPORTS
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_613flemsey
 #EXTINF:-1,RussianExtremeTVHD
 #EXTGRP:DEPORTES SPORTS
 http://195.88.52.102:8000/play/a06v
@@ -1217,6 +1262,7 @@ http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/7.ts
 #EXTGRP:DEPORTES SPORTS
 http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/6.ts
 #EXTINF:-1,SuperSport 4
+#EXTGRP:DEPORTES SPORTS
 http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/5.ts
 #EXTINF:-1,SuperSport 3
 #EXTGRP:DEPORTES SPORTS
@@ -1258,6 +1304,7 @@ http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/26.ts
 #EXTGRP:DEPORTES SPORTS
 http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/25.ts
 #EXTINF:-1,BeinSport 3
+#EXTGRP:DEPORTES SPORTS
 http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/24.ts
 #EXTINF:-1,BeinSport 2
 #EXTGRP:DEPORTES SPORTS
