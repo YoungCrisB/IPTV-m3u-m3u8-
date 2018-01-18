@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,BY_ANDRES GRACIAS! FIN 18-01-18 ULTIMA ACTUALIZACIÓN  THE END 
-http://persik.by/stream/176/296165/10292.m3u8
+#EXTGRP:ADMIN BY_ANDRES
+https://youtu.be/uzpxrx7NZBA
+#EXTINF:-1  tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/Gametoon.png",Gamer
+#EXTGRP:NIÑOS KIDS
+http://182.224.99.198:9981/stream/channelid/1140329560
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Мама
 #EXTGRP:NIÑOS KIDS
 https://youtu.be/nVQmKuAF0DE
@@ -163,9 +167,6 @@ http://tecnotv.xyz/futurama1.php
 #EXTINF:-1  tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png",Los Simpsons Niu
 #EXTGRP:NIÑOS KIDS
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/Gametoon.png",Gamer
-#EXTGRP:NIÑOS KIDS
-http://182.224.99.198:9981/stream/channelid/1140329560
 #EXTINF:-1  tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/Gametoon.png",Gamer Toons
 #EXTGRP:NIÑOS KIDS
 https://namericalatam-lh.akamaihd.net/i/gametoon_1@150663/master.m3u8
@@ -190,6 +191,18 @@ http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",RCN 1 pronto rcn 2 copa postobon y deportes 
 #EXTGRP:VARIEDAD VARIETY
 https://live6.userapi.com/639913/live/y5XU-plCfYU7-NAB/playlist.m3u8
+#EXTINF:-1,Italia 1
+#EXTGRP:VARIEDAD VARIETY
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Italia 1 HD
+#EXTGRP:VARIEDAD VARIETY
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+#EXTINF:-1,2 Italia
+#EXTGRP:VARIEDAD VARIETY
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(03)/index.m3u8
+#EXTINF:-1,2 Italia HD
+#EXTGRP:VARIEDAD VARIETY
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",A+
 #EXTGRP:VARIEDAD VARIETY
 http://www.iptvmexico.xyz/ch/2020.m3u8
@@ -949,13 +962,13 @@ http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
 #EXTINF:-1, 90s
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1,MBC MUSIC
+#EXTINF:-1,MBC MUSIC JAPONES 
 #EXTGRP:MUSICA
 http://182.224.99.198:9981/stream/channelid/1832100207
-#EXTINF:-1,SBS MTV
+#EXTINF:-1,SBS MTV MUSIC JAPONES 
 #EXTGRP:MUSICA
 http://182.224.99.198:9981/stream/channelid/644950090
-#EXTINF:-1,GMTV
+#EXTINF:-1,GMTV MUSIC JAPONES 
 #EXTGRP:MUSICA
 http://182.224.99.198:9981/stream/channelid/278059926
 #EXTINF:-1, Rock
@@ -1126,6 +1139,39 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklis
 #EXTINF:-1, Hit List
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1,SPOTV+
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/1184303916
+#EXTINF:-1,SPOTV2
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/2056179818
+#EXTINF:-1,SPOTV
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/2110769702
+#EXTINF:-1,SkySports
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/541467864
+#EXTINF:-1,SBS Sports
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/970481316
+#EXTINF:-1,KBS N Sports
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/1801725039
+#EXTINF:-1,MBC SPORTS+
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/1788043432
+#EXTINF:-1,EBS2
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/2044090728
+#EXTINF:-1,MBC SPORTS+2
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/1178039094
+#EXTINF:-1,IB SPORTS
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/237051656
+#EXTINF:-1,Sport Klub 3
+#EXTGRP:DEPORTES SPORTS
+http://212.200.112.94:8000/play/a01w
 #EXTINF:-1, JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
@@ -1231,39 +1277,6 @@ http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/9.ts
 #EXTINF:-1,TringSport 1
 #EXTGRP:DEPORTES SPORTS
 http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/8.ts
-#EXTINF:-1,SPOTV+
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/1184303916
-#EXTINF:-1,SPOTV2
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/2056179818
-#EXTINF:-1,SPOTV
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/2110769702
-#EXTINF:-1,SkySports
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/541467864
-#EXTINF:-1,SBS Sports
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/970481316
-#EXTINF:-1,KBS N Sports
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/1801725039
-#EXTINF:-1,MBC SPORTS+
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/1788043432
-#EXTINF:-1,EBS2
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/2044090728
-#EXTINF:-1,MBC SPORTS+2
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/1178039094
-#EXTINF:-1,IB SPORTS
-#EXTGRP:DEPORTES SPORTS
-http://182.224.99.198:9981/stream/channelid/237051656
-#EXTINF:-1,Sport Klub 3
-#EXTGRP:DEPORTES SPORTS
-http://212.200.112.94:8000/play/a01w
 #EXTINF:-1, UFC
 #EXTGRP:DEPORTES SPORTS
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_sufizzle
