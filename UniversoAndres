@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1,  17-01-18 GRACIAS! QUE DISFRUTEN Donaciones paypal.me/Andres632 Loading… ███████████..... 80% ATENCION
- canal que se encuentren con error cambiar el canal y volver al mismo canal se arrelgara el arror RECUERDEN que sirve para
- TELEVISORES SMART TV CON LA APLICACIÓN OTTPLAYER tambien SS-IPTV y para celulares igual
-#EXTGRP:ADMIN By_Andres ∞ Loading… 80%
+#EXTINF:-1,BY_ANDRES GRACIAS! FIN 18-01-18 ULTIMA ACTUALIZACIÓN  THE END 
 http://persik.by/stream/176/296165/10292.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Мама
 #EXTGRP:NIÑOS KIDS
@@ -10,9 +7,6 @@ https://youtu.be/nVQmKuAF0DE
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Мама
 #EXTGRP:NIÑOS KIDS
 https://youtu.be/diG2zqlK_PI
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/94e3b2d8c1bdeaef6e5337eec429f6ef.png",Malysh
-#EXTGRP:NIÑOS KIDS
-http://178.78.63.98:2000/udp/238.1.2.97:1234
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Nick Jr
 #EXTGRP:NIÑOS KIDS
 http://200.78.215.85:8010/play/a08b
@@ -25,9 +19,6 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/0f9f2d92c2583ef952556e1f382d0974.png",Mult
 #EXTGRP:NIÑOS KIDS
 http://195.88.52.102:8000/play/a05j
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b7536aa73dc4991c4f528954ff37b452.png",TLUM
-#EXTGRP:NIÑOS KIDS
-http://tv.makeevka.com/channel/390/index.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b7536aa73dc4991c4f528954ff37b452.png",TLUM
 #EXTGRP:NIÑOS KIDS
 http://195.88.52.102:8000/play/a06n
@@ -172,6 +163,9 @@ http://tecnotv.xyz/futurama1.php
 #EXTINF:-1  tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png",Los Simpsons Niu
 #EXTGRP:NIÑOS KIDS
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/Gametoon.png",Gamer
+#EXTGRP:NIÑOS KIDS
+http://182.224.99.198:9981/stream/channelid/1140329560
 #EXTINF:-1  tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/Gametoon.png",Gamer Toons
 #EXTGRP:NIÑOS KIDS
 https://namericalatam-lh.akamaihd.net/i/gametoon_1@150663/master.m3u8
@@ -895,6 +889,9 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/3ac8ef1f6b800ff7efdbeb4a4273b430.png",SPACE
 #EXTGRP:SERIES & MOVIES
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1,CLASSICA
+#EXTGRP:MUSICA
+http://182.224.99.198:9981/stream/channelid/1552182717
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/523a4c70df03da681065ba98a06e1c31.png",Campus Classica
 #EXTGRP:MUSICA
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
@@ -952,6 +949,15 @@ http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
 #EXTINF:-1, 90s
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:-1,MBC MUSIC
+#EXTGRP:MUSICA
+http://182.224.99.198:9981/stream/channelid/1832100207
+#EXTINF:-1,SBS MTV
+#EXTGRP:MUSICA
+http://182.224.99.198:9981/stream/channelid/644950090
+#EXTINF:-1,GMTV
+#EXTGRP:MUSICA
+http://182.224.99.198:9981/stream/channelid/278059926
 #EXTINF:-1, Rock
 #EXTGRP:MUSICA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
@@ -1123,6 +1129,141 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklis
 #EXTINF:-1, JUEGOS OLIMPICOS HD
 #EXTGRP:DEPORTES SPORTS
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Gamer
+#EXTGRP:NIÑOS KIDS
+http://182.224.99.198:9981/stream/channelid/1140329560
+#EXTINF:0, Arena Sport 1 
+#EXTGRP:DEPORTES SPORTS
+http://212.200.112.94:8000/play/a00l 
+#EXTINF:0, Arena Sport 2 
+#EXTGRP:DEPORTES SPORTS
+http://212.200.112.94:8000/play/a00m 
+#EXTINF:0, Arena Sport 3 
+#EXTGRP:DEPORTES SPORTS
+http://212.200.112.94:8000/play/a00n 
+#EXTINF:0, Arena Sport 4 
+#EXTGRP:DEPORTES SPORTS
+http://212.200.112.94:8000/play/a00o 
+#EXTINF:0, Arena Sport 5 
+#EXTGRP:DEPORTES SPORTS
+http://212.200.112.94:8000/play/a00y
+#EXTINF:0,ESPN USA
+#EXTGRP:DEPORTES SPORTS
+http://163.172.156.235:9981/stream/channelid/832035378
+#EXTINF:-1,LES 1
+#EXTGRP:DEPORTES SPORTS
+http://163.172.156.235:9981/stream/channelid/732831406
+#EXTINF:-1,LES 2
+#EXTGRP:DEPORTES SPORTS
+http://163.172.156.235:9981/stream/channelid/1087610479
+#EXTINF:-1,SuperSport Kosova 2
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/7.ts
+#EXTINF:-1,SuperSport Kosova 1
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/6.ts
+#EXTINF:-1,SuperSport 4
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/5.ts
+#EXTINF:-1,SuperSport 3
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/4.ts
+#EXTINF:-1,SuperSport 2
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/3.ts
+#EXTINF:-1,SuperSport 1
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/2.ts
+#EXTINF:-1,SkySport 2
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/17.ts
+#EXTINF:-1,SkySport 1
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/16.ts
+#EXTINF:-1,Sky Bundersliga 2
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/19.ts
+#EXTINF:-1,Sky Bundersliga 1
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/18.ts
+#EXTINF:-1,KujtesaSport 4
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/15.ts
+#EXTINF:-1,KujtesaSport 3
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/14.ts
+#EXTINF:-1,KujtesaSport 2
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/13.ts
+#EXTINF:-1,KujtesaSport 1
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/12.ts
+#EXTINF:-1,BeinSport 5
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/26.ts
+#EXTINF:-1,BeinSport 4
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/25.ts
+#EXTINF:-1,BeinSport 3
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/24.ts
+#EXTINF:-1,BeinSport 2
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/23.ts
+#EXTINF:-1,BeinSport 1
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/22.ts
+#EXTINF:-1,ArenaSport 2
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/21.ts
+#EXTINF:-1,ArenaSport 1
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/20.ts
+#EXTINF:-1,TringSport 4
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/11.ts
+#EXTINF:-1,TringSport 3
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/10.ts
+#EXTINF:-1,TringSport 2
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/9.ts
+#EXTINF:-1,TringSport 1
+#EXTGRP:DEPORTES SPORTS
+http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/8.ts
+#EXTINF:-1,SPOTV+
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/1184303916
+#EXTINF:-1,SPOTV2
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/2056179818
+#EXTINF:-1,SPOTV
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/2110769702
+#EXTINF:-1,SkySports
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/541467864
+#EXTINF:-1,SBS Sports
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/970481316
+#EXTINF:-1,KBS N Sports
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/1801725039
+#EXTINF:-1,MBC SPORTS+
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/1788043432
+#EXTINF:-1,EBS2
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/2044090728
+#EXTINF:-1,MBC SPORTS+2
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/1178039094
+#EXTINF:-1,IB SPORTS
+#EXTGRP:DEPORTES SPORTS
+http://182.224.99.198:9981/stream/channelid/237051656
+#EXTINF:-1,Sport Klub 3
+#EXTGRP:DEPORTES SPORTS
+http://212.200.112.94:8000/play/a01w
 #EXTINF:-1, UFC
 #EXTGRP:DEPORTES SPORTS
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_sufizzle
@@ -1243,81 +1384,6 @@ http://90.229.173.167:8000/play/a026/index.m3u8
 #EXTINF:-1,FORMULA 1
 #EXTGRP:DEPORTES SPORTS
 http://90.229.173.167:8000/play/a027/index.m3u8 
-#EXTINF:-1,TringSport 4
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/11.ts
-#EXTINF:-1,TringSport 3
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/10.ts
-#EXTINF:-1,TringSport 2
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/9.ts
-#EXTINF:-1,TringSport 1
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/8.ts
-#EXTINF:-1,SuperSport Kosova 2
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/7.ts
-#EXTINF:-1,SuperSport Kosova 1
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/6.ts
-#EXTINF:-1,SuperSport 4
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/5.ts
-#EXTINF:-1,SuperSport 3
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/4.ts
-#EXTINF:-1,SuperSport 2
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/3.ts
-#EXTINF:-1,SuperSport 1
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/2.ts
-#EXTINF:-1,SkySport 2
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/17.ts
-#EXTINF:-1,SkySport 1
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/16.ts
-#EXTINF:-1,Sky Bundersliga 2
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/19.ts
-#EXTINF:-1,Sky Bundersliga 1
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/18.ts
-#EXTINF:-1,KujtesaSport 4
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/15.ts
-#EXTINF:-1,KujtesaSport 3
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/14.ts
-#EXTINF:-1,KujtesaSport 2
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/13.ts
-#EXTINF:-1,KujtesaSport 1
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/12.ts
-#EXTINF:-1,BeinSport 5
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/26.ts
-#EXTINF:-1,BeinSport 4
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/25.ts
-#EXTINF:-1,BeinSport 3
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/24.ts
-#EXTINF:-1,BeinSport 2
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/23.ts
-#EXTINF:-1,BeinSport 1
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/22.ts
-#EXTINF:-1,ArenaSport 2
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/21.ts
-#EXTINF:-1,ArenaSport 1
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100c/20.ts
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/caaba3362608ac504d23dfef6da35ad1.png",WINSPORTS
 #EXTGRP:DEPORTES SPORTS
 http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
@@ -2766,5 +2832,3 @@ http://149.56.147.197:9638/lacaquetena
 #EXTINF:-1  tvg-logo="https://cdn-radiotime-logos.tunein.com/s85077q.png",METRO ARGENTINA
 #EXTGRP:RADIO ♪♫*•♪ ♪♫*•♪
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
-
-
