@@ -7,118 +7,52 @@ https://youtu.be/uzpxrx7NZBA
 http://182.224.99.198:9981/stream/channelid/1140329560
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Мама
 #EXTGRP:NIÑOS KIDS
-https://youtu.be/nVQmKuAF0DE
+https://youtu.be/diG2zqlK_PI
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eeafbf4d9b3957b139da7b7f2e7f2d4a.png",Мама
 #EXTGRP:NIÑOS KIDS
-https://youtu.be/diG2zqlK_PI
+https://youtu.be/nVQmKuAF0DE
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png",Nick Jr
 #EXTGRP:NIÑOS KIDS
 http://200.78.215.85:8010/play/a08b
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/45914664eafc286fb139a5036f142106.png",Baby Tv
-#EXTGRP:NIÑOS KIDS
-http://str01.ddns.net/002/myStream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/70c13eb3b1542b3862a5e68e2cb856d3.png",Rai YoYo
 #EXTGRP:NIÑOS KIDS
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/0f9f2d92c2583ef952556e1f382d0974.png",Mult
-#EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a05j
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b7536aa73dc4991c4f528954ff37b452.png",TLUM
-#EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a06n
 #EXTINF:-1  tvg-logo="https://mjrcg.com/assets/images/work/foxy/foxy-logo@2x.png",,FIX FOXI
 #EXTGRP:NIÑOS KIDS
 https://latamonly-lh.akamaihd.net/i/fixfoxi_1@576421/master.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ffeaeca58381b1a28a43d14c07655ab8.png",Karusel
-#EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a04a
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/c5c7892b25ae4ef18b795a1aa9601d89.png",TIJI
-#EXTGRP:NIÑOS KIDS
-http://tv.makeevka.com/channel/128/index.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/29d1e2357d7c14db51e885053a58ec67.png",baby tv
-#EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a05f
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7b94ee8b0b34a64ae6947d5fbaba07a5.png",CLAN
-#EXTGRP:NIÑOS KIDS
-http://90.229.173.167:8000/play/a02k/index.m3u8 
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6bee7677af2813c27e06499b0ac63cce.png",M. DISNEY
-#EXTGRP:NIÑOS KIDS
-http://90.229.173.167:8000/play/a02y/index.m3u8 
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/051bcf39646baa8c329ceeb3db09f32d.png",BOING
-#EXTGRP:NIÑOS KIDS
-http://90.229.173.167:8000/play/a022/index.m3u8 
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f19b88e6cb8cb067565bb3880b2fb3e1.png",NICKELODEON
-#EXTGRP:NIÑOS KIDS
-http://90.229.173.167:8000/play/a02b/index.m3u8 
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/45914664eafc286fb139a5036f142106.png",BABY
-#EXTGRP:NIÑOS KIDS
-http://90.229.173.167:8000/play/a021/index.m3u8 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/CanalSurHD.png",Canal Sur
 #EXTGRP:NIÑOS KIDS
 http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/bc7d82f427c44a9d2699a0f31e6b411d.png",МультМузыка
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/bc7d82f427c44a9d2699a0f31e6b411d.png",Мульт Музыка
 #EXTGRP:NIÑOS KIDS
 http://185.231.160.42:5000//315/2/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EpZgI8I.png",ANIMAX
+#EXTGRP:NIÑOS KIDS
+https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_125369877
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Xhgc_canal_5_logo_1995_by_ncontreras207-d7meoru.png",XHGC Canal 5  
 #EXTGRP:NIÑOS KIDS
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c5a9a9b092e065b4df87d3943593685.png",Nick Toons
 #EXTGRP:NIÑOS KIDS
 http://www.iptvmexico.xyz/ch/310.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6bee7677af2813c27e06499b0ac63cce.png", Disney Channel
-#EXTGRP:NIÑOS KIDS
-http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/e0bc11321c7dcc5971907dfdab23b1f4.png",Gulli Girl
-#EXTGRP:NIÑOS KIDS
-http://shoutcast2.radioanimati.it/raplayer
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/9c929844021f4a5b28ab7003c5eb10a5.png",О!
-#EXTGRP:NIÑOS KIDS
-http://195.88.52.102:8000/play/a06l
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/051bcf39646baa8c329ceeb3db09f32d.png", BOING
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/887f2f0d3db09ced4dadec55810e1028.png",Bang Bang
 #EXTGRP:NIÑOS KIDS
 http://46.99.163.177:8098/play/a002
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f91022004ce9aab1397c498ec1ee684b.png",Boomerang
 #EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f91022004ce9aab1397c498ec1ee684b.png",Boomerang
-#EXTGRP:NIÑOS KIDS
 http://www.iptvmexico.xyz/ch/224.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6bee7677af2813c27e06499b0ac63cce.png", Disney Channel
-#EXTGRP:NIÑOS KIDS
-http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6bee7677af2813c27e06499b0ac63cce.png", Детский
-#EXTGRP:NIÑOS KIDS
-http://91.185.55.30:7777/udp/238.0.2.23:1234
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/55b308e7e869042fcc87b987b16c3c5d.png",Disney Channel
-#EXTGRP:NIÑOS KIDS
-http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a1bcfb810cee704aa1a79058b194303d.png",Disney Junior
-#EXTGRP:NIÑOS KIDS
-http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/3124455a4ad66c5eced0caf07cad0bf5.png",NickToons
 #EXTGRP:NIÑOS KIDS
 http://81.228.174.166:8005/nicktoons
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Walt_Disney_Pictures.png",Disney+
-#EXTGRP:NIÑOS KIDS
-http://str03.ddns.net/076/myStream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.mexicoescultura.com/galerias/actividades/principal/sammy.jpg",Las aventuras de Sammy
 #EXTGRP:NIÑOS KIDS
 https://www.youtube.com/watch?v=Dx7QS74am-g
-#EXTINF:-1  tvg-logo="http://dmtinc.cl/imagenes/xHpPw.png",Las aventuras de Sammy 2
-#EXTGRP:NIÑOS KIDS
-https://www1033.playercdn.net/87/3/qUXYYEgIHh6ZXJUHI5rJRQ/1515795105/170804/007FI7BP8G1LENVXYUKHB.mp4
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/31c01e25f4db50d00a47a379d3d64c98.png",JimJam
 #EXTGRP:NIÑOS KIDS
 http://109.248.64.128:3371/udp/239.195.1.8:1234
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f2eee600b1475ce2d79483dd7e67e5ce.png",Rai Gulp  
 #EXTGRP:NIÑOS KIDS
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/195d6ee16ac3301851a1a59d9978cc54.png",Multimania 
-#EXTGRP:NIÑOS KIDS
-http://62.122.88.85:81/udp/238.1.2.59:1234 
 #EXTINF:-1,UNIVERSAL MOVIES
 #EXTGRP:NIÑOS KIDS
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_universal_movies
@@ -143,9 +77,6 @@ https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_300_vecinos
 #EXTINF:-1,Caballeros del zodiaco Saint Seiya
 #EXTGRP:NIÑOS KIDS
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_variedtv
-#EXTINF:-1,Мультимания
-#EXTGRP:NIÑOS KIDS
-http://91.185.55.30:7777/udp/238.0.2.20:1234
 #EXTINF:-1  tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/mega_animes_320.jpg",dragon ball Z
 #EXTGRP:NIÑOS KIDS
 https://clutch.vaughnsoft.net/ord/vl/goku_tv.m3u8
@@ -179,18 +110,21 @@ http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ed9373aa122e86fe4105f17c2f6327ef.png",Star Tv
 #EXTGRP:VARIEDAD VARIETY
 https://latamonly-lh.akamaihd.net/i/startvehd_1@578071/master.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol 1 Tv pronto caracol 2 partidos europeos y deportes 
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol 
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol 2 Tv pronto caracol 2 partidos europeos y deportes 
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/7c140915b0e2b2371cd693051fef767a.png",Caracol PAR2
 #EXTGRP:VARIEDAD VARIETY
 https://live6.userapi.com/637606/live/ty1shthCfcQ/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",RCN  2 pronto rcn 2 copa postobon y deportes 
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",RCN  
 #EXTGRP:VARIEDAD VARIETY
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",RCN 1 pronto rcn 2 copa postobon y deportes 
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6a9484676338ce3648445793a1097fc8.png",RCN PAR2
 #EXTGRP:VARIEDAD VARIETY
 https://live6.userapi.com/639913/live/y5XU-plCfYU7-NAB/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/818af1cf729c058b9b9fdb1c52d7c6ee.png",P MUSIC
+#EXTGRP:VARIEDAD VARIETY
+http://176.107.213.20:9000/play/a001
 #EXTINF:-1,Italia 1
 #EXTGRP:VARIEDAD VARIETY
 http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
@@ -221,12 +155,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/6d516ca82497d11a7e58ec00e19d71df.png",Telemedellin
 #EXTGRP:VARIEDAD VARIETY
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/14db5ba93460bc2fed9a10f4df7eacf2.png",LA 1
-#EXTGRP:VARIEDAD VARIETY
-http://90.229.173.167:8000/play/a02m/index.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/12c97692d21da7a1843275600c71ed39.png",LA 2
-#EXTGRP:VARIEDAD VARIETY
-http://90.229.173.167:8000/play/a02o/index.m3u8 
 #EXTINF:-1  tvg-logo="https://www.tvguia.co/wp-content/uploads/2015/08/pasiones-nuevo-logo-2015.jpg",PASIONES HD
 #EXTGRP:VARIEDAD VARIETY
 https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
@@ -416,7 +344,7 @@ http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b038d249e1ecf429c2cf5910e8467cbb.png",LA ABANA
 #EXTGRP:VARIEDAD VARIETY
 https://r2---sn-ja5gvjv-hqxe.googlevideo.com/videoplayback?ratebypass=yes&signature=92022B67526D3D677B83FF68E60BA30AE38FD278.375654656170D32C4CA5CC8BA631D754489014F2&pcm2cms=yes&itag=22&key=yt6&lmt=1504067615170631&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&source=youtube&dur=644.934&ei=k3JLWovzF4jj-wXTtpOwBA&initcwndbps=422500&expire=1514915571&id=o-AChQGqLwV-NQQakW5Qwf5fCLDqwuGR-5DGR_zGpZICT8&mime=video%2Fmp4&pl=22&mm=31&mn=sn-ja5gvjv-hqxe&ipbits=0&ip=181.58.199.55&requiressl=yes&ms=au&mt=1514893895&mv=m
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1a459909a39ec97a6ffff474e89a89c6.png",HAPPY❤
+#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1a459909a39ec97a6ffff474e89a89c6.png",HAPP❤
 #EXTGRP:VARIEDAD VARIETY
 http://86.106.82.154:8089
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ae0d1072028aa223e9f8dafb39d91e3b.png",KANA
@@ -602,9 +530,6 @@ http://www.iptvmexico.xyz/ch/226.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/cc5a6224736580f81db138bd0333079b.png",Nat Geo Wild
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://81.228.174.166:8001/natgeowild
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/37288e62601868f21fc4f7a49f23e4e5.png",ZOO
-#EXTGRP:CIENCIA MUNDO WORD SCIENCE
-http://91.185.55.30:7777/udp/238.0.4.1:1234
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/96900f34eed2b37816b4d2f695825703.png",Discovery Civilization
 #EXTGRP:CIENCIA MUNDO WORD SCIENCE
 http://www.iptvmexico.xyz/ch/287.m3u8
@@ -728,12 +653,6 @@ https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_juancine_tv
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",copla latino
 #EXTGRP:SERIES & MOVIES
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_mikyiptvhb
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/c5a60ee682eb971b0f4a24c1e696758d.png", M. XTRA
-#EXTGRP:SERIES & MOVIES
-http://90.229.173.167:8000/play/a02q/index.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/13a224ef920af18191b809f1a9d48c19.png", HOLLYWOOD
-#EXTGRP:SERIES & MOVIES
-http://90.229.173.167:8000/play/a02n/index.m3u8 
 #EXTINF:-1,UNIVERSAL MOVIES
 #EXTGRP:SERIES & MOVIES
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_universal_movies
@@ -830,9 +749,6 @@ http://www.iptvmexico.xyz/ch/179.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",TNT
 #EXTGRP:SERIES & MOVIES
 http://www.iptvmexico.xyz/ch/302.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png",TNT
-#EXTGRP:SERIES & MOVIES
-http://90.229.173.167:8000/play/a02s/index.m3u8
 #EXTINF:-1, FX
 #EXTGRP:SERIES & MOVIES
 http://www.iptvmexico.xyz/ch/230.m3u8
@@ -929,15 +845,6 @@ http://hearme.fm:8021/stream
 #EXTINF:-1  tvg-logo="https://divan.tv/img/global_img/channel_website/ua_1093.png",Silence
 #EXTGRP:MUSICA
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
-#EXTINF:-1,Q-DANCE ELECTRONICA MINIMAL HAUSE
-#EXTGRP:MUSICA
-https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_dj_danny001
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/a23ae2ccf60244393ea1726141685b58.png",Bridge Classic
-#EXTGRP:MUSICA
-http://37.9.150.230:4022/udp/232.0.1.27:1234
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/5201aa51ed2a664eb4626a2c161b1061.png",VH1 Classic
-#EXTGRP:MUSICA
-http://178.57.227.213:4022/udp/234.5.2.33:1234
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/5201aa51ed2a664eb4626a2c161b1061.png",Nebiset
 #EXTGRP:MUSICA
 http://hls.nebiset.tv/nebiset.m3u8
@@ -977,12 +884,6 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklis
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1929d8b0b8db0b5dec10a19b9a884bdf.png ",Heavy Metal TV
 #EXTGRP:MUSICA
 http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1929d8b0b8db0b5dec10a19b9a884bdf.png ",AGATA ROCK
-#EXTGRP:MUSICA
-https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_agatarock
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/1929d8b0b8db0b5dec10a19b9a884bdf.png ",AGATA DANCE
-#EXTGRP:MUSICA
-https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_agatadance
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/edd602c4c98a34f409fb35930773c691.png",MY MUSIC
 #EXTGRP:MUSICA
 http://46.99.163.177:8098/play/a00a
@@ -992,12 +893,6 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklis
 #EXTINF:-1  tvg-logo="https://www.music-bazaar.com/album-images/vol1004/670/670326/2518993-big/Pack-Rock-Latino-4-cover.jpg",ROCK LATINO
 #EXTGRP:MUSICA
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
-#EXTINF:-1  tvg-logo="https://i.imgur.com/EpZgI8I.png",Musica arabe
-#EXTGRP:MUSICA
-http://5.255.90.209:5001/play/a00q/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/EpZgI8I.png",MUSICA JAPONES & CHINA
-#EXTGRP:MUSICA
-https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_125369877
 #EXTINF:-1  tvg-logo="https://i.imgur.com/EpZgI8I.png",Dreamtv
 #EXTGRP:MUSICA
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
@@ -1037,7 +932,7 @@ http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b87dbedcb87ce75e8a5e6d0096f17a7f.png",Virgin Tv
 #EXTGRP:MUSICA
 http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1  tvg-logo="http://ranchenatotv.co/wp-content/uploads/2017/11/LOGO.png",Ranchenato TV
+#EXTINF:-1  tvg-logo="http://ranchenatotv.co/wp-content/uploads/2017/11/LOGO.png",RANCHENATO TV
 #EXTGRP:MUSICA
 http://181.51.57.21:1935/live/ranchenatotv/chunklist_w341880605.m3u8
 #EXTINF:-1  tvg-logo="http://ranchenatotv.co/wp-content/uploads/2017/11/LOGO.png",VIDEO ROLA
@@ -1055,21 +950,9 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklis
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b6d1bf6418e8a4bff1291991c86628dc.png",1MUSIC
 #EXTGRP:MUSICA
 http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/b6d1bf6418e8a4bff1291991c86628dc.png",Gemini
-#EXTGRP:MUSICA
-http://thoptv.stream/jiotv/live/play?Gemini_Music_HD/Gemini_Music_HD_1200.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/36cadef5a03b283551daf14d26dece17.png",1HD
 #EXTGRP:MUSICA
 http://91.190.183.116:81/udp/239.195.5.21:1234
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/36cadef5a03b283551daf14d26dece17.png",Gemini Music
-#EXTGRP:MUSICA
-http://thoptv.stream/jiotv/live/play?Gemini_Music/Gemini_Music_800.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/36cadef5a03b283551daf14d26dece17.png",Musica india
-#EXTGRP:MUSICA
-http://thoptv.stream/jiotv/live/play?Music_India/Music_India_800.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/36cadef5a03b283551daf14d26dece17.png",mh1 Music
-#EXTGRP:MUSICA
-http://thoptv.stream/jiotv/live/play?mh1_Music/mh1_Music_800.m3u8
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/2523361604f5bf7d758eea454db3f39f.png",Krone HIT
 #EXTGRP:MUSICA
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
@@ -1085,9 +968,6 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/maste
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/eb890467103c274aaeba454a9d151d8e.png",RADIO ITALIA
 #EXTGRP:MUSICA
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/f956a193d4657bdb8820529f27a2a995.png",МУЗ ТВ
-#EXTGRP:MUSICA
-http://195.88.52.102:8000/play/a04m
 #EXTINF:-1, MUSICA CANTABRIA
 #EXTGRP:MUSICA
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
@@ -1097,9 +977,6 @@ http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:-1, BERLIN MUSIC
 #EXTGRP:MUSICA
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/96a78406800cee1d00a70f33abd9a6c7.png",tv6
-#EXTGRP:MUSICA
-http://94.240.45.55:10002/bysid/25
 #EXTINF:-1, COLOSOAL
 #EXTGRP:MUSICA
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w747068544.m3u8
@@ -1124,9 +1001,6 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/07f9f2395d12868d1efbd90d41f76899.png",ESKA PARTY TV
 #EXTGRP:MUSICA
 http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/818af1cf729c058b9b9fdb1c52d7c6ee.png",P MUSIC
-#EXTGRP:MUSICA
-http://176.107.213.20:9000/play/a001
 #EXTINF:-1, MTV
 #EXTGRP:MUSICA
 http://203.170.145.201:9981/stream/channelid/1646557078
@@ -1204,79 +1078,67 @@ http://163.172.156.235:9981/stream/channelid/732831406
 http://163.172.156.235:9981/stream/channelid/1087610479
 #EXTINF:-1,SuperSport Kosova 2
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/7.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/7.ts
 #EXTINF:-1,SuperSport Kosova 1
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/6.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/6.ts
 #EXTINF:-1,SuperSport 4
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/5.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/5.ts
 #EXTINF:-1,SuperSport 3
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/4.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/4.ts
 #EXTINF:-1,SuperSport 2
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/3.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/3.ts
 #EXTINF:-1,SuperSport 1
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/2.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/2.ts
 #EXTINF:-1,SkySport 2
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/17.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/17.ts
 #EXTINF:-1,SkySport 1
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/16.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/16.ts
 #EXTINF:-1,Sky Bundersliga 2
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/19.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/19.ts
 #EXTINF:-1,Sky Bundersliga 1
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/18.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/18.ts
 #EXTINF:-1,KujtesaSport 4
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/15.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/15.ts
 #EXTINF:-1,KujtesaSport 3
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/14.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/14.ts
 #EXTINF:-1,KujtesaSport 2
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/13.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/13.ts
 #EXTINF:-1,KujtesaSport 1
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/12.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/12.ts
 #EXTINF:-1,BeinSport 5
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/26.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/26.ts
 #EXTINF:-1,BeinSport 4
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/25.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/25.ts
 #EXTINF:-1,BeinSport 3
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/24.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/24.ts
 #EXTINF:-1,BeinSport 2
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/23.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/23.ts
 #EXTINF:-1,BeinSport 1
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/22.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/22.ts
 #EXTINF:-1,ArenaSport 2
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/21.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/21.ts
 #EXTINF:-1,ArenaSport 1
 #EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/20.ts
-#EXTINF:-1,TringSport 4
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/11.ts
-#EXTINF:-1,TringSport 3
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/10.ts
-#EXTINF:-1,TringSport 2
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/9.ts
-#EXTINF:-1,TringSport 1
-#EXTGRP:DEPORTES SPORTS
-http://78.31.67.188:8000/live/freeworldwideiptv.com/PremiumSports22/8.ts
+http://78.31.67.188:8000/live/freeworldwideiptv.com./sports100cfree/20.ts
 #EXTINF:-1, UFC
 #EXTGRP:DEPORTES SPORTS
 https://mp4.vaughnsoft.net/live?port=2935&app=live&stream=live_sufizzle
@@ -1391,12 +1253,6 @@ http://185.231.160.42:5000//113/1/index.m3u8
 #EXTINF:-1,TDN
 #EXTGRP:DEPORTES SPORTS
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/Stream(05)/index.m3u8
-#EXTINF:-1,GOL
-#EXTGRP:DEPORTES SPORTS
-http://90.229.173.167:8000/play/a026/index.m3u8 
-#EXTINF:-1,FORMULA 1
-#EXTGRP:DEPORTES SPORTS
-http://90.229.173.167:8000/play/a027/index.m3u8 
 #EXTINF:-1  tvg-logo="https://iptv.zone/en/images/logo/channel/crops/caaba3362608ac504d23dfef6da35ad1.png",WINSPORTS
 #EXTGRP:DEPORTES SPORTS
 http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
@@ -1448,87 +1304,128 @@ http://200.78.215.85:8010/play/a08m
 #EXTINF:-1, Fox Sports  HD
 #EXTGRP:DEPORTES SPORTS
 http://200.78.215.85:8010/play/a09z
-#EXTINF:-1 tvg-id="SkySp Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action" tvg-logo="" group-title="Sly Sports",Sly Sports Action - Sly Sports Action
+#EXTINF:-1,Sly Sports Action
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=119&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action HD" tvg-logo="" group-title="Sly Sports",Sly Sports Action HD - Sly Sports Action HD
+#EXTINF:-1,Sly Sports Action HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=120&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena" tvg-logo="" group-title="Sly Sports",Sly Sports Arena - Sly Sports Arena
+#EXTINF:-1,Sly Sports Arena
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=121&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena HD" tvg-logo="" group-title="Sly Sports",Sly Sports Arena HD - Sly Sports Arena HD
+#EXTINF:-1,Sly Sports Arena HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=122&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySpCricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket - Sly Sports Cricket
+#EXTINF:-1,Sly Sports Cricket
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=123&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySpCricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket HD" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket HD - Sly Sports Cricket HD
+#EXTINF:-1,Sly Sports Cricket HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=124&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp Fball" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football" tvg-logo="" group-title="Sly Sports",Sly Sports Football - Sly Sports Football
+#EXTINF:-1,Sly Sports Football
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=125&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp Fball" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football HD" tvg-logo="" group-title="Sly Sports",Sly Sports Football HD - Sly Sports Football HD
+#EXTINF:-1,Sly Sports Football HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=126&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf" tvg-logo="" group-title="Sly Sports",Sly Sports Golf - Sly Sports Golf
+#EXTINF:-1,Sly Sports Golf
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=127&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf HD" tvg-logo="" group-title="Sly Sports",Sly Sports Golf HD - Sly Sports Golf HD
+#EXTINF:-1,Sly Sports Golf HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=128&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySpMainEv" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main" tvg-logo="" group-title="Sly Sports",Sly Sports Main - Sly Sports Main
+#EXTINF:-1,Sly Sports Main
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=129&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySpMainEv" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main HD" tvg-logo="" group-title="Sly Sports",Sly Sports Main HD - Sly Sports Main HD
+#EXTINF:-1,Sly Sports Main HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=130&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix" tvg-logo="" group-title="Sly Sports",Sly Sports Mix - Sly Sports Mix
+#EXTINF:-1,Sly Sports Mix
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=131&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix HD" tvg-logo="" group-title="Sly Sports",Sly Sports Mix HD - Sly Sports Mix HD
+#EXTINF:-1,Sly Sports Mix HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=132&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp PL" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL" tvg-logo="" group-title="Sly Sports",Sly Sports PL - Sly Sports PL
+#EXTINF:-1,Sly Sports PL
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=133&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp PL" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL HD" tvg-logo="" group-title="Sly Sports",Sly Sports PL HD - Sly Sports PL HD
+#EXTINF:-1,Sly Sports PL HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=134&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports F1" tvg-logo="" group-title="Sly Sports",Sly Sports F1 - Sly Sports F1
+#EXTINF:-1,Sly Sports F1
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=135&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Spts F1 HD" tvg-logo="" group-title="Sly Sports",Sly Spts F1 HD - Sly Spts F1 HD
+#EXTINF:-1,Sly Spts F1 HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=136&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News" tvg-logo="" group-title="Sly Sports",Sly Sports News - Sly Sports News
+#EXTINF:-1,Sly Sports News
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=137&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News HD" tvg-logo="" group-title="Sly Sports",Sly Sports News HD - Sly Sports News HD
+#EXTINF:-1,Sly Sports News HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=138&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="SkySpBoxOff" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Box Office" tvg-logo="" group-title="Sly Sports",Sly Sports Box Office - Sly Sports Box Office
+#EXTINF:-1,Sly Sports Box Office
+#EXTGRP:DEPORTES SPORTS
 http://62.210.99.158:80/live?channelId=139&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1" tvg-logo="" group-title="BT Sports",BT Sport 1 - BT Sport 1
+#EXTINF:-1,BT Sport 1
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=140&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="BT Sports",BT Sport 1 HD - BT Sport 1 HD
+#EXTINF:-1,BT Sport 1 HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=141&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2" tvg-logo="" group-title="BT Sports",BT Sport 2 - BT Sport 2
+#EXTINF:-1,BT Sport 2
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=142&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="BT Sports",BT Sport 2 HD - BT Sport 2 HD
+#EXTINF:-1,BT Sport 2 HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=143&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3" tvg-logo="" group-title="BT Sports",BT Sport 3 - BT Sport 3
+#EXTINF:-1,BT Sport 3
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=144&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="BT Sports",BT Sport 3 HD - BT Sport 3 HD
+#EXTINF:-1,BT Sport 3 HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=145&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BTSpt//ESPNHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN" tvg-logo="" group-title="BT Sports",BT Sport ESPN - BT Sport ESPN
+#EXTINF:-1,BT Sport ESPN
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=146&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BTSpt//ESPNHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="BT Sports",BT Sport ESPN HD - BT Sport ESPN HD
+#EXTINF:-1,BT Sport ESPN HD
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=147&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport X1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 1" tvg-logo="" group-title="BT Sports",BT Sport Extra 1 - BT Sport Extra 1
+#EXTINF:-1,BT Sport Extra 1
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=148&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport X2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 2" tvg-logo="" group-title="BT Sports",BT Sport Extra 2 - BT Sport Extra 2
+#EXTINF:-1,BT Sport Extra 2
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=149&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport X3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 3" tvg-logo="" group-title="BT Sports",BT Sport Extra 3 - BT Sport Extra 3
+#EXTINF:-1,BT Sport Extra 3
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=150&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport X4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 4" tvg-logo="" group-title="BT Sports",BT Sport Extra 4 - BT Sport Extra 4
+#EXTINF:-1,BT Sport Extra 4
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=151&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport X5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 5" tvg-logo="" group-title="BT Sports",BT Sport Extra 5 - BT Sport Extra 5
+#EXTINF:-1,BT Sport Extra 5
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=152&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="BT Sport X6" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 6" tvg-logo="" group-title="BT Sports",BT Sport Extra 6 - BT Sport Extra 6
+#EXTINF:-1,BT Sport Extra 6
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=153&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="eir Sport 1" tvg-link="" tvg-name="eir Sport 1" tvg-logo="" group-title="UK Sports",eir Sport 1 - eir Sport 1
+#EXTINF:-1,eir Sport 1
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=154&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="eir Sport 2" tvg-link="" tvg-name="eir Sport 2" tvg-logo="" group-title="UK Sports",eir Sport 2 - eir Sport 2
+#EXTINF:-1,eir Sport 2
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=155&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-link="" tvg-name="Eurosport 1" tvg-logo="" group-title="UK Sports",Eurosport 1 - Eurosport 1
+#EXTINF:-1,Eurosport 1
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=156&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-link="" tvg-name="Eurosport 2" tvg-logo="" group-title="UK Sports",Eurosport 2 - Eurosport 2
+#EXTINF:-1,Eurosport 2
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=157&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="FreeSports" tvg-link="" tvg-name="FreeSports" tvg-logo="" group-title="UK Sports",FreeSports - FreeSports
+#EXTINF:-1,FreeSports
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=158&uid=68&deviceUser=17623&devicePass=110817
-#EXTINF:-1 tvg-id="FrontRunner" tvg-link="" tvg-name="FrontRunner" tvg-logo="" group-title="UK Sports",FrontRunner - FrontRunner
+#EXTINF:-1,FrontRunner
+#EXTGRP:DEPORTES SPORTS
 http://62.210.214.28:80/live?channelId=159&uid=68&deviceUser=17623&devicePass=110817
 #EXTINF:-1, DEPORTESXPORE
 #EXTGRP:DEPORTES SPORTS
@@ -1599,9 +1496,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1, CHELSEA
 #EXTGRP:DEPORTES SPORTS
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:-1, Liverpool
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12120.m3u8
 #EXTINF:-1, CHELSEA
 #EXTGRP:DEPORTES SPORTS
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
@@ -1619,232 +1513,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1, ABUDHABI 2 SPORTS
 #EXTGRP:DEPORTES SPORTS
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1, SPORT: Fox Sports  2
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/7738.m3u8
-#EXTINF:-1, Fox Sports 2
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5539.m3u8
-#EXTINF:-1, Fox Sports 3
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5540.m3u8
-#EXTINF:-1, Fox Sports 4
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5541.m3u8
-#EXTINF:-1, Fox Sports 5
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5542.m3u8
-#EXTINF:-1, Fox Sports 3
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5546.m3u8
-#EXTINF:-1, Sky Sports Mix
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12779.m3u8
-#EXTINF:-1, Sky Sports News
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/586.m3u8
-#EXTINF:-1, Sky Sports News
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12147.m3u8
-#EXTINF:-1, Sky Sports News
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/44101.m3u8
-#EXTINF:-1, Sky Sports News
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/44102.m3u8
-#EXTINF:-1, Sky Sports Main Events
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/579.m3u8
-#EXTINF:-1, Sky Sports Cricket
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/584.m3u8
-#EXTINF:-1, Sky Sports Cricket
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/578.m3u8
-#EXTINF:-1, Sky Sports Action
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/583.m3u8
-#EXTINF:-1, Sky Sports Action
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/577.m3u8
-#EXTINF:-1, Sky Sports Golf
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/582.m3u8
-#EXTINF:-1, Sky Sports Golf
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/576.m3u8
-#EXTINF:-1, Sky Sports Premier League
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/581.m3u8
-#EXTINF:-1, Sky Sports Arena
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32740.m3u8
-#EXTINF:-1, Sky Sports Arena
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32739.m3u8
-#EXTINF:-1, Sky Sports Arena
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32738.m3u8
-#EXTINF:-1, Sky Sports Football
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32743.m3u8
-#EXTINF:-1, Sky Sports Football
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32742.m3u8
-#EXTINF:-1, Sky Sports Football
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/32741.m3u8
-#EXTINF:-1, Sky Sports F1
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/580.m3u8
-#EXTINF:-1, Sky Sports F1
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/574.m3u8
-#EXTINF:-1, BT Sports 1
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11375.m3u8
-#EXTINF:-1, BT Sports 1
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11787.m3u8
-#EXTINF:-1, BT Sports 2
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11374.m3u8
-#EXTINF:-1, BT Sports 3
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11373.m3u8
-#EXTINF:-1, BT Sports 3
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11785.m3u8
-#EXTINF:-1, BT Sports ESPN
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12123.m3u8
-#EXTINF:-1, BT Sports ESPN
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11784.m3u8
-#EXTINF:-1, BT Sport Extra 3
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12414.m3u8
-#EXTINF:-1, BT Sport Extra 4
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12413.m3u8
-#EXTINF:-1, BT Sport Extra 5
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12412.m3u8
-#EXTINF:-1, British Eurosport
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11002.m3u8
-#EXTINF:-1, British Eurosport 2
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11003.m3u8
-#EXTINF:-1, EIR Sports 2
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11536.m3u8
-#EXTINF:-1, Premier Sports
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/568.m3u8
-#EXTINF:-1, Boxnation
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/17752.m3u8
-#EXTINF:-1, At The Races
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/150.m3u8
-#EXTINF:-1, MUTV
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12398.m3u8
-#EXTINF:-1, beIN Sports 1
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1035.m3u8
-#EXTINF:-1, beIN Sports 2
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1036.m3u8
-#EXTINF:-1, beIN Sports 3
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1037.m3u8
-#EXTINF:-1, beIN Sports 4
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1038.m3u8
-#EXTINF:-1, beIN Sports 5
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1039.m3u8
-#EXTINF:-1, beIN Sports 6
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1040.m3u8
-#EXTINF:-1, beIN Sports 7
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1041.m3u8
-#EXTINF:-1, beIN Sports 8
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1042.m3u8
-#EXTINF:-1, beIN Sports 9
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1043.m3u8
-#EXTINF:-1, beIN Sports 10
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1044.m3u8
-#EXTINF:-1, beIN Sports 11
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1045.m3u8
-#EXTINF:-1, beIN Sports 12
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/1046.m3u8
-#EXTINF:-1, beIN MAX 5
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29543.m3u8
-#EXTINF:-1, beIN MAX 6
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29542.m3u8
-#EXTINF:-1, beIN MAX 7
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29541.m3u8
-#EXTINF:-1, beIN MAX 8
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29540.m3u8
-#EXTINF:-1, beIN MAX 9
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29539.m3u8
-#EXTINF:-1, beIN MAX 10
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/29538.m3u8
-#EXTINF:-1, Sport.TV2
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12368.m3u8
-#EXTINF:-1, Sport.TV3
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12367.m3u8
-#EXTINF:-1, Sport.TV4
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12366.m3u8
-#EXTINF:-1, Sport.TV5
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12365.m3u8
-#EXTINF:-1, SporTV 1
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12025.m3u8
-#EXTINF:-1, Sport Klub 2
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11080.m3u8
-#EXTINF:-1, Sport Klub 3
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11079.m3u8
-#EXTINF:-1, Sport Klub 4
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11078.m3u8
-#EXTINF:-1, Sport Klub 5
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
-#EXTINF:-1, Futbol 1
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
-#EXTINF:-1, Futbol 2
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/20949.m3u8
-#EXTINF:-1, Eleven Sports
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/12020.m3u8
-#EXTINF:-1, Ziggo Sport Voetbal
-#EXTGRP:DEPORTES SPORTS
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/13216.m3u8
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8Sly Sports Main HD
 #EXTINF:-1  tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/13114224/p13114224_b_v8_aa.jpg",Star Trek Discovery TEMP 1 CAP 1
 #EXTGRP:SERIES
 https://proxy-18.nyc.dailymotion.com/sec(xa456b2f905f77fdf18fd00f5a56fd60)/video/288/817/367718882_mp4_h264_aac_hd_2.m3u8
